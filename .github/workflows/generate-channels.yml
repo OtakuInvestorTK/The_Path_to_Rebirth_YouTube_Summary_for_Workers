@@ -1,0 +1,38 @@
+name: Generate Channels JSON
+
+on:
+  schedule:
+    - cron: "0 15 * * *"  # 00:00 JST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch channels snapshot from Worker
+        env:
+          WORKER_ENDPOINT: ${{ secrets.WORKER_ENDPOINT }}
+        run: |
+          if [ -z "$WORKER_ENDPOINT" ]; then
+            echo "WORKER_ENDPOINT secret is not configured"
+            exit 1
+          fi
+          mkdir -p docs
+          curl -fsSL "$WORKER_ENDPOINT" > docs/channels.json
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet docs/channels.json; then
+            echo "No changes detected"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/channels.json
+          git commit -m "chore: update channels snapshot"
+          git push

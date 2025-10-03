@@ -1,0 +1,15 @@
+{
+  "name": "path_to_rebirth_for_workers",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "worker:dev": "wrangler dev",
+    "worker:deploy": "wrangler deploy",
+    "worker:types": "wrangler types"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241022.0",
+    "typescript": "^5",
+    "wrangler": "4"
+  }
+}
