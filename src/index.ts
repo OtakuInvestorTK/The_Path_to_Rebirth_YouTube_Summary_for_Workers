@@ -11,6 +11,10 @@ export interface Env {
   YOUTUBE_CHANNEL_IDS_2?: string;
   YOUTUBE_CHANNEL_IDS_3?: string;
   YOUTUBE_CHANNEL_IDS_4?: string;
+  YOUTUBE_CHANNEL_IDS_5?: string;
+  YOUTUBE_CHANNEL_IDS_6?: string;
+  YOUTUBE_CHANNEL_IDS_7?: string;
+  YOUTUBE_CHANNEL_IDS_8?: string;
 }
 
 const CORS_HEADERS = {
@@ -142,6 +146,14 @@ function pickGroupChannelIds(env: Env, group: string): string | undefined {
       return env.YOUTUBE_CHANNEL_IDS_3;
     case "4":
       return env.YOUTUBE_CHANNEL_IDS_4;
+    case "5":
+      return env.YOUTUBE_CHANNEL_IDS_5;
+    case "6":
+      return env.YOUTUBE_CHANNEL_IDS_6;
+    case "7":
+      return env.YOUTUBE_CHANNEL_IDS_7;
+    case "8":
+      return env.YOUTUBE_CHANNEL_IDS_8;
     default:
       return undefined;
   }
