@@ -32,36 +32,43 @@ jobs:
         run: |
           set -euo pipefail
           curl -fsSL "$WORKER_ENDPOINT?group=1" > docs/channels1.json
+          sleep 5
 
       - name: Fetch channels snapshot from Worker group 1
         run: |
           set -euo pipefail
           curl -fsSL "$WORKER_ENDPOINT?group=2" > docs/channels2.json
+          sleep 5
 
       - name: Fetch channels snapshot from Worker group 3
         run: |
           set -euo pipefail
           curl -fsSL "$WORKER_ENDPOINT?group=3" > docs/channels3.json
+          sleep 5
 
       - name: Fetch channels snapshot from Worker group 4
         run: |
           set -euo pipefail
           curl -fsSL "$WORKER_ENDPOINT?group=4" > docs/channels4.json
+          sleep 5
 
       - name: Fetch channels snapshot from Worker group 5
         run: |
           set -euo pipefail
           curl -fsSL "$WORKER_ENDPOINT?group=5" > docs/channels5.json
+          sleep 5
 
       - name: Fetch channels snapshot from Worker group 6
         run: |
           set -euo pipefail
           curl -fsSL "$WORKER_ENDPOINT?group=6" > docs/channels6.json
+          sleep 5
 
       - name: Fetch channels snapshot from Worker group 7
         run: |
           set -euo pipefail
           curl -fsSL "$WORKER_ENDPOINT?group=7" > docs/channels7.json
+          sleep 5
 
       - name: Fetch channels snapshot from Worker group 8
         run: |
