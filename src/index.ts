@@ -7,9 +7,10 @@ import {
 
 export interface Env {
   YOUTUBE_API_KEY: string;
-  YOUTUBE_CHANNEL_IDS?: string;
   YOUTUBE_CHANNEL_IDS_1?: string;
   YOUTUBE_CHANNEL_IDS_2?: string;
+  YOUTUBE_CHANNEL_IDS_3?: string;
+  YOUTUBE_CHANNEL_IDS_4?: string;
 }
 
 const CORS_HEADERS = {
@@ -46,8 +47,7 @@ export default {
 
       if (url.pathname === "/") {
         return createJsonResponse({
-          message:
-            "Use GET /channels?group=1 or ?group=2 to fetch channel data.",
+          message: "Use GET /channels?group=N to fetch channel data.",
         });
       }
 
@@ -138,6 +138,10 @@ function pickGroupChannelIds(env: Env, group: string): string | undefined {
       return env.YOUTUBE_CHANNEL_IDS_1;
     case "2":
       return env.YOUTUBE_CHANNEL_IDS_2;
+    case "3":
+      return env.YOUTUBE_CHANNEL_IDS_3;
+    case "4":
+      return env.YOUTUBE_CHANNEL_IDS_4;
     default:
       return undefined;
   }

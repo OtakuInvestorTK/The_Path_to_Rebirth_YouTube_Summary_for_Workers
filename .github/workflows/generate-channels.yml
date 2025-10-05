@@ -24,26 +24,25 @@ jobs:
           fi
           mkdir -p docs
           set -euo pipefail
-          curl -sSLv "$WORKER_ENDPOINT?group=1" > docs/channels1.json
-          curl -sSLv "$WORKER_ENDPOINT?group=2" > docs/channels2.json
-          cat docs/channels1.json
-          cat docs/channels2.json
+          curl -fsSL "$WORKER_ENDPOINT?group=1" > docs/channels1.json
+          curl -fsSL "$WORKER_ENDPOINT?group=2" > docs/channels2.json
+          curl -fsSL "$WORKER_ENDPOINT?group=3" > docs/channels3.json
+          curl -fsSL "$WORKER_ENDPOINT?group=4" > docs/channels4.json
           jq -s '
             {
               requestedAt: (first(.[] | .requestedAt) // (now | strftime("%Y-%m-%dT%H:%M:%SZ"))),
               channels: ([ .[].channels[] ])
             }
-          ' docs/channels1.json docs/channels2.json > docs/channels.json
-          cat docs/channels.json
+          ' docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json > docs/channels.json
 
-      # - name: Commit and push if changed
-      #   run: |
-      #     if git diff --quiet docs/channels.json docs/channels1.json docs/channels2.json; then
-      #       echo "No changes detected"
-      #       exit 0
-      #     fi
-      #     git config user.name "github-actions[bot]"
-      #     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      #     git add docs/channels.json docs/channels1.json docs/channels2.json
-      #     git commit -m "chore: update channels snapshots"
-      #     git push
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet docs/channels.json docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json; then
+            echo "No changes detected"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/channels.json docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json
+          git commit -m "chore: update channels snapshots"
+          git push
