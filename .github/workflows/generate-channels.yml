@@ -23,7 +23,7 @@ jobs:
             exit 1
           fi
           mkdir -p docs
-          curl -fsSL "$WORKER_ENDPOINT" > docs/channels.json
+          curl -sSL "$WORKER_ENDPOINT" > docs/channels.json
 
       - name: Commit and push if changed
         run: |
