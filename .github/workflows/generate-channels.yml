@@ -28,7 +28,6 @@ jobs:
           curl -fsSL "$WORKER_ENDPOINT?group=2" > docs/channels2.json
           curl -fsSL "$WORKER_ENDPOINT?group=3" > docs/channels3.json
           curl -fsSL "$WORKER_ENDPOINT?group=4" > docs/channels4.json
-          cat docs/channels1.json
 
       - name: Merge JSON files
         run: |
@@ -50,3 +49,11 @@ jobs:
           git add docs/channels.json docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json
           git commit -m "chore: update channels snapshots"
           git push
+      
+      - name: If failure
+        if: failure()
+        run: |
+          cat docs/channels1.json
+          cat docs/channels2.json
+          cat docs/channels3.json
+          cat docs/channels4.json
