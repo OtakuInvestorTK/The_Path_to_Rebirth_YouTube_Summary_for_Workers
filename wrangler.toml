@@ -2,3 +2,7 @@ name = "path-to-rebirth-workers"
 main = "src/index.ts"
 compatibility_date = "2024-01-01"
 # Remember to set your API key with `wrangler secret put YOUTUBE_API_KEY`
+# Remember to set your API key with `wrangler secret put YOUTUBE_CHANNEL_IDS`
+
+[observability]
+enabled = true
