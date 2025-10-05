@@ -67,13 +67,13 @@ jobs:
       - name: Fetch channels snapshot from Worker group 7
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=7" > docs/channels7.json
+          curl -sSLv "$WORKER_ENDPOINT?group=7" > docs/channels7.json
           sleep 5
 
       - name: Fetch channels snapshot from Worker group 8
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=8" > docs/channels8.json
+          curl -sSLv "$WORKER_ENDPOINT?group=8" > docs/channels8.json
 
       - name: Merge JSON files
         run: |
@@ -96,22 +96,10 @@ jobs:
           git commit -m "chore: update channels snapshots"
           git push
       
-      # - name: If failure
-      #   if: failure()
-      #   run: |
-      #     echo "docs/channels1.json"
-      #     cat docs/channels1.json
-      #     echo "docs/channels2.json"
-      #     cat docs/channels2.json
-      #     echo "docs/channels3.json"
-      #     cat docs/channels3.json
-      #     echo "docs/channels4.json"
-      #     cat docs/channels4.json
-      #     echo "docs/channels5.json"
-      #     cat docs/channels5.json
-      #     echo "docs/channels6.json"
-      #     cat docs/channels6.json
-      #     echo "docs/channels7.json"
-      #     cat docs/channels7.json
-      #     echo "docs/channels8.json"
-      #     cat docs/channels8.json
+      - name: If failure
+        if: failure()
+        run: |
+          echo "docs/channels7.json"
+          cat docs/channels7.json
+          echo "docs/channels8.json"
+          cat docs/channels8.json
