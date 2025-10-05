@@ -24,6 +24,7 @@ jobs:
           fi
           mkdir -p docs
           curl -Lv "$WORKER_ENDPOINT" > docs/channels.json
+          cat docs/channels.json
 
 #      - name: Commit and push if changed
 #       run: |
