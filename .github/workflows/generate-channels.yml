@@ -28,6 +28,10 @@ jobs:
           curl -fsSL "$WORKER_ENDPOINT?group=2" > docs/channels2.json
           curl -fsSL "$WORKER_ENDPOINT?group=3" > docs/channels3.json
           curl -fsSL "$WORKER_ENDPOINT?group=4" > docs/channels4.json
+          cat docks/channels1.json
+
+      - name: Merge JSON files
+        run: |
           jq -s '
             {
               requestedAt: (first(.[] | .requestedAt) // (now | strftime("%Y-%m-%dT%H:%M:%SZ"))),
