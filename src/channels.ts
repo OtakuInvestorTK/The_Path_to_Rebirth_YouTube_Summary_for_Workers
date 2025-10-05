@@ -80,9 +80,11 @@ export async function fetchChannelsPayload(
     }
   }
 
+  const uploadsMap = await fetchUploadsPlaylistMap(resolved.map((item) => item.channelId), apiKey);
+
   const results: ChannelResult[] = await Promise.all(
     resolved.map(async ({ input, channelId, channelTitle, channelThumbnails }) => {
-      const videos = await fetchChannelData(channelId, apiKey);
+      const videos = await fetchChannelData(channelId, uploadsMap.get(channelId), apiKey);
       return { input, channelTitle, channelThumbnails, ...videos };
     }),
   );
@@ -221,21 +223,20 @@ function toResolvedChannelInfo(item?: YouTubeChannelItem): ResolvedChannelInfo |
 }
 
 // 指定チャンネルのライブ動画と直近 1 週間の動画一覧を取得
-async function fetchChannelData(channelId: string, apiKey: string): Promise<ChannelVideos> {
+async function fetchChannelData(
+  channelId: string,
+  uploadsPlaylistId: string | undefined,
+  apiKey: string,
+): Promise<ChannelVideos> {
   const publishedAfter = new Date(Date.now() - ONE_WEEK_MS).toISOString();
 
   const [liveVideos, recentVideos] = await Promise.all([
     fetchLiveVideos({ channelId, apiKey }),
-    searchYouTube({
+    fetchUploadsPlaylistVideos({
       apiKey,
-      params: {
-        part: "snippet",
-        channelId,
-        type: "video",
-        order: "date",
-        maxResults: "10",
-        publishedAfter,
-      },
+      playlistId: uploadsPlaylistId,
+      publishedAfter,
+      maxResults: 20,
     }),
   ]);
 
@@ -302,18 +303,67 @@ async function fetchLiveVideos({
 }
 
 // Search API で通常動画を取得し整形
-async function searchYouTube({
+async function fetchUploadsPlaylistVideos({
   apiKey,
-  params,
+  playlistId,
+  publishedAfter,
+  maxResults,
 }: {
   apiKey: string;
-  params: Record<string, string>;
+  playlistId?: string;
+  publishedAfter: string;
+  maxResults: number;
 }): Promise<VideoSummary[]> {
-  const data = await youtubeApiFetch<YouTubeSearchResponse>("search", apiKey, params);
+  if (!playlistId) {
+    return [];
+  }
 
-  return (data.items ?? [])
-    .map((item) => toVideoSummary(item))
-    .filter((video): video is VideoSummary => Boolean(video));
+  const data = await youtubeApiFetch<YouTubePlaylistItemsResponse>(
+    "playlistItems",
+    apiKey,
+    {
+      part: "snippet",
+      playlistId,
+      maxResults: String(maxResults),
+    },
+  );
+
+  const items = data.items ?? [];
+  const publishedAfterTime = new Date(publishedAfter).getTime();
+
+  const recent = items
+    .map((item) => toPlaylistVideoSummary(item))
+    .filter((video): video is VideoSummary => Boolean(video))
+    .filter((video) => new Date(video.publishedAt).getTime() >= publishedAfterTime);
+
+  return recent;
+}
+
+async function fetchUploadsPlaylistMap(channelIds: string[], apiKey: string): Promise<Map<string, string>> {
+  if (channelIds.length === 0) {
+    return new Map();
+  }
+
+  const response = await youtubeApiFetch<YouTubeChannelsResponse>(
+    "channels",
+    apiKey,
+    {
+      part: "contentDetails",
+      id: channelIds.join(","),
+      maxResults: String(channelIds.length),
+    },
+  );
+
+  const map = new Map<string, string>();
+
+  for (const item of response.items ?? []) {
+    const uploadsId = item.contentDetails?.relatedPlaylists?.uploads;
+    if (item.id && uploadsId) {
+      map.set(item.id, uploadsId);
+    }
+  }
+
+  return map;
 }
 
 // YouTube Data API への共通 GET リクエスト
@@ -400,6 +450,22 @@ function toVideoSummary(item: YouTubeSearchItem): VideoSummary | undefined {
   return buildVideoSummary(videoId, snippet);
 }
 
+function toPlaylistVideoSummary(item: YouTubePlaylistItem): VideoSummary | undefined {
+  const snippet = item.snippet;
+  const videoId = snippet?.resourceId?.videoId;
+  if (!videoId || !snippet) {
+    return undefined;
+  }
+
+  return buildVideoSummary(videoId, {
+    title: snippet.title,
+    description: snippet.description ?? "",
+    publishedAt: snippet.publishedAt ?? new Date().toISOString(),
+    channelTitle: snippet.channelTitle ?? "",
+    thumbnails: snippet.thumbnails,
+  });
+}
+
 // 文字列が UC 形式のチャンネル ID か判定
 function isChannelId(identifier: string): boolean {
   return /^UC[a-zA-Z0-9_-]{21}[AQgw]?$/u.test(identifier);
@@ -418,6 +484,11 @@ interface YouTubeChannelItem {
   snippet?: {
     title?: string;
     thumbnails?: ThumbnailMap;
+  };
+  contentDetails?: {
+    relatedPlaylists?: {
+      uploads?: string;
+    };
   };
 }
 
@@ -464,4 +535,21 @@ interface YouTubeLiveStreamingDetails {
   scheduledEndTime?: string;
   actualEndTime?: string;
   concurrentViewers?: string;
+}
+
+interface YouTubePlaylistItemsResponse {
+  items?: YouTubePlaylistItem[];
+}
+
+interface YouTubePlaylistItem {
+  snippet?: {
+    title: string;
+    description?: string;
+    publishedAt?: string;
+    channelTitle?: string;
+    thumbnails?: ThumbnailMap;
+    resourceId?: {
+      videoId?: string;
+    };
+  };
 }

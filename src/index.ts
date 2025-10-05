@@ -8,6 +8,8 @@ import {
 export interface Env {
   YOUTUBE_API_KEY: string;
   YOUTUBE_CHANNEL_IDS?: string;
+  YOUTUBE_CHANNEL_IDS_1?: string;
+  YOUTUBE_CHANNEL_IDS_2?: string;
 }
 
 const CORS_HEADERS = {
@@ -44,7 +46,8 @@ export default {
 
       if (url.pathname === "/") {
         return createJsonResponse({
-          message: "Use GET /channels?ids=CHANNEL_ID[,CHANNEL_ID...] to fetch live and recent videos.",
+          message:
+            "Use GET /channels?group=1 or ?group=2 to fetch channel data.",
         });
       }
 
@@ -63,20 +66,24 @@ export default {
 async function handleChannelsRequest(url: URL, env: Env): Promise<Response> {
   const apiKey = env.YOUTUBE_API_KEY;
   if (!apiKey) {
-    return createJsonResponse({ error: "Missing YOUTUBE_API_KEY binding" }, { status: 500 });
+    return createJsonResponse(
+      { error: "Missing YOUTUBE_API_KEY binding" },
+      { status: 500 }
+    );
   }
 
-  const idsParam = url.searchParams.get("ids") ?? env.YOUTUBE_CHANNEL_IDS;
-  if (!idsParam) {
-    return createJsonResponse({
-      error: "No channel IDs provided. Pass ?ids=ID1,ID2 or set YOUTUBE_CHANNEL_IDS.",
-    }, { status: 400 });
+  const idsResolution = resolveChannelIds(url, env);
+  if (idsResolution.error) {
+    return idsResolution.error;
   }
 
-  const identifiers = parseIdentifiers(idsParam);
+  const identifiers = parseIdentifiers(idsResolution.ids);
 
   if (identifiers.length === 0) {
-    return createJsonResponse({ error: "Parsed channel ID list is empty." }, { status: 400 });
+    return createJsonResponse(
+      { error: "Channel ID list for this group is empty." },
+      { status: 400 }
+    );
   }
 
   try {
@@ -94,4 +101,44 @@ async function handleChannelsRequest(url: URL, env: Env): Promise<Response> {
 // 例外を安全に文字列へ変換
 function toMessage(error: unknown): string {
   return error instanceof Error ? error.message : String(error);
+}
+
+function resolveChannelIds(
+  url: URL,
+  env: Env
+): { ids?: string; error?: Response } {
+  const group = url.searchParams.get("group");
+  if (!group) {
+    return {
+      error: createJsonResponse(
+        {
+          error: "Missing required group parameter. Use ?group=1 or ?group=2.",
+        },
+        { status: 400 }
+      ),
+    };
+  }
+
+  const byGroup = pickGroupChannelIds(env, group);
+  if (!byGroup) {
+    return {
+      error: createJsonResponse(
+        { error: `No channel IDs configured for group "${group}".` },
+        { status: 400 }
+      ),
+    };
+  }
+
+  return { ids: byGroup };
+}
+
+function pickGroupChannelIds(env: Env, group: string): string | undefined {
+  switch (group) {
+    case "1":
+      return env.YOUTUBE_CHANNEL_IDS_1;
+    case "2":
+      return env.YOUTUBE_CHANNEL_IDS_2;
+    default:
+      return undefined;
+  }
 }

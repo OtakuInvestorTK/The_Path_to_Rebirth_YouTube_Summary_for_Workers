@@ -23,17 +23,25 @@ jobs:
             exit 1
           fi
           mkdir -p docs
-          curl -Lv "$WORKER_ENDPOINT" > docs/channels.json
+          set -euo pipefail
+          curl -fsSL "$WORKER_ENDPOINT?group=1" > docs/channels1.json
+          curl -fsSL "$WORKER_ENDPOINT?group=2" > docs/channels2.json
+          jq -s '
+            {
+              requestedAt: (first(.[] | .requestedAt) // (now | strftime("%Y-%m-%dT%H:%M:%SZ"))),
+              channels: ([ .[].channels[] ])
+            }
+          ' docs/channels1.json docs/channels2.json > docs/channels.json
           cat docs/channels.json
 
-#      - name: Commit and push if changed
-#       run: |
-#          if git diff --quiet docs/channels.json; then
-#            echo "No changes detected"
-#            exit 0
-#          fi
-#          git config user.name "github-actions[bot]"
-#          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-#          git add docs/channels.json
-#          git commit -m "chore: update channels snapshot"
-#          git push
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet docs/channels.json docs/channels1.json docs/channels2.json; then
+            echo "No changes detected"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/channels.json docs/channels1.json docs/channels2.json
+          git commit -m "chore: update channels snapshots"
+          git push

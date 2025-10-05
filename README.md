@@ -13,9 +13,12 @@
    npx wrangler login
    npx wrangler secret put YOUTUBE_API_KEY
    ```
-3. 必要であればデフォルトのチャンネル ID を環境変数に設定します (カンマ区切り)。
+3. 監視対象チャンネルの ID をシークレットに設定します (カンマ区切り)。
    ```bash
-   npx wrangler secret put YOUTUBE_CHANNEL_IDS
+   # 第1グループ (必須)
+   npx wrangler secret put YOUTUBE_CHANNEL_IDS_1
+   # 第2グループ (必要に応じて)
+   npx wrangler secret put YOUTUBE_CHANNEL_IDS_2
    ```
 
 ## 開発
@@ -29,11 +32,10 @@ npm run worker:dev
 ## エンドポイント
 
 - `GET /` … 簡単な使い方のメッセージを返します。
-- `GET /channels?ids=UCxxxx,@handle,custom-name` … 指定したチャンネル ID / ハンドル / カスタム URL 名からライブ配信と 1 週間以内に公開された動画をまとめて返します。
-  - `ids` クエリを省略した場合は `YOUTUBE_CHANNEL_IDS` シークレットの値が使われます。
-  - ハンドルやユーザー名を渡した場合でも Worker 側でチャンネル ID に解決します。
-  - レスポンスにはチャンネル名とチャンネルアイコンのサムネイル URL も含まれます。
-  - liveVideos には配信ステータスや予定時刻を含む liveStreaming フィールドが含まれます。
+- `GET /channels?group=1` / `?group=2` … シークレットで設定したチャンネルグループを指定して、ライブ配信と 1 週間以内に公開された動画を返します。
+  - `group` パラメーターは必須です。`1` / `2` 以外を指定すると 400 が返ります。
+  - ハンドルやユーザー名を `YOUTUBE_CHANNEL_IDS_*` に登録しておけば Worker 側でチャンネル ID に解決します。
+  - レスポンスにはチャンネル名・サムネイル・ライブ配信のメタ情報を含む video summary が返ります。
 
 レスポンス例:
 
@@ -133,14 +135,14 @@ npm run worker:dev
 
 ## 自動スナップショット出力
 
-GitHub Actions で 60 分ごとに Worker の `/channels` エンドポイントへリクエストし、レスポンスを `docs/channels.json` に保存して GitHub Pages から配信できます。
+GitHub Actions で 60 分ごとに Worker の `/channels` エンドポイントへリクエストし、レスポンスを `docs/channels1.json` / `docs/channels2.json` に保存したうえでマージ済みの `docs/channels.json` を生成し、GitHub Pages から配信できます。
 
-1. Cloudflare 側で Worker をデプロイし、`YOUTUBE_API_KEY` や `YOUTUBE_CHANNEL_IDS` など必要なバインディングを設定しておきます。
-2. GitHub リポジトリの Secrets に `WORKER_ENDPOINT`（例: `https://worker.example.workers.dev/channels`）を登録します。`ids` をクエリで渡したい場合はエンドポイント URL に含めてください。
+1. Cloudflare 側で Worker をデプロイし、`YOUTUBE_API_KEY` や `YOUTUBE_CHANNEL_IDS_1` / `_2` など必要なバインディングを設定しておきます。
+2. GitHub リポジトリの Secrets に `WORKER_ENDPOINT`（例: `https://worker.example.workers.dev/channels`）を登録します。ワークフロー側で `?group=1` / `?group=2` を自動付与します。
 3. Pages のビルドソースを `docs/` ディレクトリに設定します。
-4. 用意したワークフロー（`.github/workflows/generate-channels.yml`）を有効化すると、スケジュールと手動実行で JSON が更新されます。
+4. 用意したワークフロー（`.github/workflows/generate-channels.yml`）を有効化すると、スケジュールと手動実行で 2 つの JSON とマージ済みの `channels.json` が更新されます。
 
-生成された JSON は `https://<ユーザー名>.github.io/<リポジトリ名>/channels.json` から参照できます。YouTube Data API のクォータ消費は Worker が呼び出されるたびに発生するため、実行頻度には注意してください。
+生成された JSON は `https://<ユーザー名>.github.io/<リポジトリ名>/channels.json` のほか、分割された `channels1.json` / `channels2.json` から参照できます。YouTube Data API のクォータ消費は Worker が呼び出されるたびに発生するため、実行頻度には注意してください。
 
 ## デプロイ
 
