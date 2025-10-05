@@ -24,8 +24,8 @@ jobs:
           fi
           mkdir -p docs
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=1" > docs/channels1.json
-          curl -fsSL "$WORKER_ENDPOINT?group=2" > docs/channels2.json
+          curl -sSLv "$WORKER_ENDPOINT?group=1" > docs/channels1.json
+          curl -sSLv "$WORKER_ENDPOINT?group=2" > docs/channels2.json
           cat docs/channels1.json
           cat docs/channels2.json
           jq -s '
