@@ -31,42 +31,42 @@ jobs:
       - name: Fetch channels snapshot from Worker group 1
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=1" > docs/channels1.json
+          curl -sSLv "$WORKER_ENDPOINT?group=1" > docs/channels1.json
 
       - name: Fetch channels snapshot from Worker group 1
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=2" > docs/channels2.json
+          curl -sSLv "$WORKER_ENDPOINT?group=2" > docs/channels2.json
 
       - name: Fetch channels snapshot from Worker group 3
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=3" > docs/channels3.json
+          curl -sSLv "$WORKER_ENDPOINT?group=3" > docs/channels3.json
 
       - name: Fetch channels snapshot from Worker group 4
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=4" > docs/channels4.json
+          curl -sSLv "$WORKER_ENDPOINT?group=4" > docs/channels4.json
 
       - name: Fetch channels snapshot from Worker group 5
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=5" > docs/channels5.json
+          curl -sSLv "$WORKER_ENDPOINT?group=5" > docs/channels5.json
 
       - name: Fetch channels snapshot from Worker group 6
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=6" > docs/channels6.json
+          curl -sSLv "$WORKER_ENDPOINT?group=6" > docs/channels6.json
 
       - name: Fetch channels snapshot from Worker group 7
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=7" > docs/channels7.json
+          curl -sSLv "$WORKER_ENDPOINT?group=7" > docs/channels7.json
 
       - name: Fetch channels snapshot from Worker group 8
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=8" > docs/channels8.json
+          curl -sSLv "$WORKER_ENDPOINT?group=8" > docs/channels8.json
 
       - name: Merge JSON files
         run: |
@@ -77,34 +77,34 @@ jobs:
             }
           ' docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json docs/channels5.json docs/channels6.json docs/channels7.json docs/channels8.json > docs/channels.json
 
-      - name: Commit and push if changed
-        run: |
-          if git diff --quiet docs/channels.json docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json docs/channels5.json docs/channels6.json docs/channels7.json docs/channels8.json; then
-            echo "No changes detected"
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/channels.json docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json docs/channels5.json docs/channels6.json docs/channels7.json docs/channels8.json
-          git commit -m "chore: update channels snapshots"
-          git push
+      # - name: Commit and push if changed
+      #   run: |
+      #     if git diff --quiet docs/channels.json docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json docs/channels5.json docs/channels6.json docs/channels7.json docs/channels8.json; then
+      #       echo "No changes detected"
+      #       exit 0
+      #     fi
+      #     git config user.name "github-actions[bot]"
+      #     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      #     git add docs/channels.json docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json docs/channels5.json docs/channels6.json docs/channels7.json docs/channels8.json
+      #     git commit -m "chore: update channels snapshots"
+      #     git push
       
-      - name: If failure
-        if: failure()
-        run: |
-          echo "docs/channels1.json"
-          cat docs/channels1.json
-          echo "docs/channels2.json"
-          cat docs/channels2.json
-          echo "docs/channels3.json"
-          cat docs/channels3.json
-          echo "docs/channels4.json"
-          cat docs/channels4.json
-          echo "docs/channels5.json"
-          cat docs/channels5.json
-          echo "docs/channels6.json"
-          cat docs/channels6.json
-          echo "docs/channels7.json"
-          cat docs/channels7.json
-          echo "docs/channels8.json"
-          cat docs/channels8.json
+      # - name: If failure
+      #   if: failure()
+      #   run: |
+      #     echo "docs/channels1.json"
+      #     cat docs/channels1.json
+      #     echo "docs/channels2.json"
+      #     cat docs/channels2.json
+      #     echo "docs/channels3.json"
+      #     cat docs/channels3.json
+      #     echo "docs/channels4.json"
+      #     cat docs/channels4.json
+      #     echo "docs/channels5.json"
+      #     cat docs/channels5.json
+      #     echo "docs/channels6.json"
+      #     cat docs/channels6.json
+      #     echo "docs/channels7.json"
+      #     cat docs/channels7.json
+      #     echo "docs/channels8.json"
+      #     cat docs/channels8.json
