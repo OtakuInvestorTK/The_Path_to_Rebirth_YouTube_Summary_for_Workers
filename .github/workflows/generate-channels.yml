@@ -89,22 +89,26 @@ jobs:
       #     git commit -m "chore: update channels snapshots"
       #     git push
       
-      # - name: If failure
-      #   if: failure()
-      #   run: |
-      #     echo "docs/channels1.json"
+      - name: If failure
+        if: failure()
+        run: |
+          echo -e "docs/channels7.json\n"
+          cat docs/channels7.json
+          echo -e "docs/channels8.json\n"
+          cat docs/channels8.json
+      #     echo -e "docs/channels1.json\n"
       #     cat docs/channels1.json
-      #     echo "docs/channels2.json"
+      #     echo -e "docs/channels2.json\n"
       #     cat docs/channels2.json
-      #     echo "docs/channels3.json"
+      #     echo -e "docs/channels3.json\n"
       #     cat docs/channels3.json
-      #     echo "docs/channels4.json"
+      #     echo -e "docs/channels4.json\n"
       #     cat docs/channels4.json
-      #     echo "docs/channels5.json"
+      #     echo -e "docs/channels5.json\n"
       #     cat docs/channels5.json
-      #     echo "docs/channels6.json"
+      #     echo -e "docs/channels6.json\n"
       #     cat docs/channels6.json
-      #     echo "docs/channels7.json"
+      #     echo -e "docs/channels7.json\n"
       #     cat docs/channels7.json
-      #     echo "docs/channels8.json"
+      #     echo -e "docs/channels8.json\n"
       #     cat docs/channels8.json
