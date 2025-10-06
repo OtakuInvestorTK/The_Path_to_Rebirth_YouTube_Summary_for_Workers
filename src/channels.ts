@@ -1,4 +1,7 @@
-export type ThumbnailMap = Record<string, { url: string; width?: number; height?: number }>;
+export type ThumbnailMap = Record<
+  string,
+  { url: string; width?: number; height?: number }
+>;
 
 export type LiveStreamingInfo = {
   status: "live" | "upcoming" | "completed";
@@ -61,7 +64,7 @@ export function parseIdentifiers(raw?: string): string[] {
 // 指定されたチャンネル群のライブ/動画情報をまとめたペイロードを取得
 export async function fetchChannelsPayload(
   identifiers: string[],
-  apiKey: string,
+  apiKey: string
 ): Promise<ChannelsApiResponse> {
   if (identifiers.length === 0) {
     throw new ChannelResolutionError("No channel identifiers provided");
@@ -75,18 +78,27 @@ export async function fetchChannelsPayload(
       resolved.push({ input: identifier, ...info });
     } catch (error) {
       throw new ChannelResolutionError(
-        `Failed to resolve channel "${identifier}": ${toMessage(error)}`,
+        `Failed to resolve channel "${identifier}": ${toMessage(error)}`
       );
     }
   }
 
-  const uploadsMap = await fetchUploadsPlaylistMap(resolved.map((item) => item.channelId), apiKey);
+  const uploadsMap = await fetchUploadsPlaylistMap(
+    resolved.map((item) => item.channelId),
+    apiKey
+  );
 
   const results: ChannelResult[] = await Promise.all(
-    resolved.map(async ({ input, channelId, channelTitle, channelThumbnails }) => {
-      const videos = await fetchChannelData(channelId, uploadsMap.get(channelId), apiKey);
-      return { input, channelTitle, channelThumbnails, ...videos };
-    }),
+    resolved.map(
+      async ({ input, channelId, channelTitle, channelThumbnails }) => {
+        const videos = await fetchChannelData(
+          channelId,
+          uploadsMap.get(channelId),
+          apiKey
+        );
+        return { input, channelTitle, channelThumbnails, ...videos };
+      }
+    )
   );
 
   return {
@@ -106,7 +118,10 @@ type ResolvedChannelInfo = {
 };
 
 // 入力文字列からチャンネル ID を解決
-async function resolveChannel(identifier: string, apiKey: string): Promise<ResolvedChannelInfo> {
+async function resolveChannel(
+  identifier: string,
+  apiKey: string
+): Promise<ResolvedChannelInfo> {
   if (isChannelId(identifier)) {
     const byId = await fetchChannelById(identifier, apiKey);
     if (byId) {
@@ -115,14 +130,19 @@ async function resolveChannel(identifier: string, apiKey: string): Promise<Resol
     throw new Error("Channel ID not found");
   }
 
-  const handleCandidate = identifier.startsWith("@") ? identifier : `@${identifier}`;
+  const handleCandidate = identifier.startsWith("@")
+    ? identifier
+    : `@${identifier}`;
   const handleResolution = await fetchChannelByHandle(handleCandidate, apiKey);
   if (handleResolution) {
     return handleResolution;
   }
 
   const usernameCandidate = identifier.replace(/^@+/, "");
-  const usernameResolution = await fetchChannelByUsername(usernameCandidate, apiKey);
+  const usernameResolution = await fetchChannelByUsername(
+    usernameCandidate,
+    apiKey
+  );
   if (usernameResolution) {
     return usernameResolution;
   }
@@ -136,7 +156,10 @@ async function resolveChannel(identifier: string, apiKey: string): Promise<Resol
 }
 
 // チャンネルハンドルでチャンネル情報を取得
-async function fetchChannelByHandle(handle: string, apiKey: string): Promise<ResolvedChannelInfo | undefined> {
+async function fetchChannelByHandle(
+  handle: string,
+  apiKey: string
+): Promise<ResolvedChannelInfo | undefined> {
   const response = await youtubeApiFetch<YouTubeChannelsResponse>(
     "channels",
     apiKey,
@@ -144,14 +167,17 @@ async function fetchChannelByHandle(handle: string, apiKey: string): Promise<Res
       part: "id,snippet",
       forHandle: handle,
       maxResults: "1",
-    },
+    }
   );
 
   return toResolvedChannelInfo(response.items?.[0]);
 }
 
 // カスタム URL (ユーザー名) でチャンネル情報を取得
-async function fetchChannelByUsername(username: string, apiKey: string): Promise<ResolvedChannelInfo | undefined> {
+async function fetchChannelByUsername(
+  username: string,
+  apiKey: string
+): Promise<ResolvedChannelInfo | undefined> {
   if (!username) {
     return undefined;
   }
@@ -163,14 +189,17 @@ async function fetchChannelByUsername(username: string, apiKey: string): Promise
       part: "id,snippet",
       forUsername: username,
       maxResults: "1",
-    },
+    }
   );
 
   return toResolvedChannelInfo(response.items?.[0]);
 }
 
 // キーワード検索で最適なチャンネルを探索
-async function fetchChannelBySearch(query: string, apiKey: string): Promise<ResolvedChannelInfo | undefined> {
+async function fetchChannelBySearch(
+  query: string,
+  apiKey: string
+): Promise<ResolvedChannelInfo | undefined> {
   const response = await youtubeApiFetch<YouTubeSearchResponse>(
     "search",
     apiKey,
@@ -179,7 +208,7 @@ async function fetchChannelBySearch(query: string, apiKey: string): Promise<Reso
       q: query,
       type: "channel",
       maxResults: "1",
-    },
+    }
   );
 
   const item = response.items?.[0];
@@ -195,7 +224,10 @@ async function fetchChannelBySearch(query: string, apiKey: string): Promise<Reso
 }
 
 // チャンネル ID からチャンネル情報を取得
-async function fetchChannelById(channelId: string, apiKey: string): Promise<ResolvedChannelInfo | undefined> {
+async function fetchChannelById(
+  channelId: string,
+  apiKey: string
+): Promise<ResolvedChannelInfo | undefined> {
   const response = await youtubeApiFetch<YouTubeChannelsResponse>(
     "channels",
     apiKey,
@@ -203,14 +235,16 @@ async function fetchChannelById(channelId: string, apiKey: string): Promise<Reso
       part: "id,snippet",
       id: channelId,
       maxResults: "1",
-    },
+    }
   );
 
   return toResolvedChannelInfo(response.items?.[0]);
 }
 
 // YouTube API のチャンネルレスポンスを内部表現へ変換
-function toResolvedChannelInfo(item?: YouTubeChannelItem): ResolvedChannelInfo | undefined {
+function toResolvedChannelInfo(
+  item?: YouTubeChannelItem
+): ResolvedChannelInfo | undefined {
   if (!item?.id) {
     return undefined;
   }
@@ -222,23 +256,29 @@ function toResolvedChannelInfo(item?: YouTubeChannelItem): ResolvedChannelInfo |
   };
 }
 
-// 指定チャンネルのライブ動画と直近 1 週間の動画一覧を取得
+// 指定チャンネルの動画一覧を uploads プレイリスト経由で取得し、live情報で仕分け
 async function fetchChannelData(
   channelId: string,
   uploadsPlaylistId: string | undefined,
-  apiKey: string,
+  apiKey: string
 ): Promise<ChannelVideos> {
   const publishedAfter = new Date(Date.now() - ONE_WEEK_MS).toISOString();
 
-  const [liveVideos, recentVideos] = await Promise.all([
-    fetchLiveVideos({ channelId, apiKey }),
-    fetchUploadsPlaylistVideos({
-      apiKey,
-      playlistId: uploadsPlaylistId,
-      publishedAfter,
-      maxResults: 20,
-    }),
-  ]);
+  // search.list は使わず、uploads プレイリスト + videos.list で live 状態を付与
+  const summaries = await fetchUploadsPlaylistVideos({
+    apiKey,
+    playlistId: uploadsPlaylistId,
+    publishedAfter,
+    maxResults: 20,
+  });
+
+  const isLiveOrUpcoming = (v: VideoSummary) =>
+    v.liveStreaming?.status === "live" ||
+    v.liveStreaming?.status === "upcoming";
+
+  const liveVideos = summaries.filter(isLiveOrUpcoming);
+  // completed（配信終了）や live 情報なし（通常動画）は recentVideos にまとめる
+  const recentVideos = summaries.filter((v) => !isLiveOrUpcoming(v));
 
   return {
     channelId,
@@ -247,62 +287,7 @@ async function fetchChannelData(
   };
 }
 
-// ライブ配信中または予定中の動画一覧を取得
-async function fetchLiveVideos({
-  channelId,
-  apiKey,
-}: {
-  channelId: string;
-  apiKey: string;
-}): Promise<VideoSummary[]> {
-  const searchData = await youtubeApiFetch<YouTubeSearchResponse>(
-    "search",
-    apiKey,
-    {
-      part: "snippet",
-      channelId,
-      eventType: "live",
-      type: "video",
-      order: "date",
-      maxResults: "10",
-    },
-  );
-
-  const searchItems = searchData.items ?? [];
-  const videoIds = searchItems
-    .map((item) => item.id?.videoId)
-    .filter((id): id is string => Boolean(id));
-
-  if (videoIds.length === 0) {
-    return [];
-  }
-
-  const videosData = await youtubeApiFetch<YouTubeVideosResponse>(
-    "videos",
-    apiKey,
-    {
-      part: "snippet,liveStreamingDetails",
-      id: videoIds.join(","),
-    },
-  );
-
-  const detailMap = new Map<string, YouTubeVideoItem>();
-  for (const item of videosData.items ?? []) {
-    if (item.id) {
-      detailMap.set(item.id, item);
-    }
-  }
-
-  return videoIds
-    .map((videoId) => {
-      const detail = detailMap.get(videoId);
-      const snippet = detail?.snippet ?? searchItems.find((s) => s.id?.videoId === videoId)?.snippet;
-      return buildVideoSummary(videoId, snippet, detail?.liveStreamingDetails);
-    })
-    .filter((video): video is VideoSummary => Boolean(video));
-}
-
-// Search API で通常動画を取得し整形
+// アップロード（playlistItems.list）でID収集 → videos.list(snippet,liveStreamingDetails)でlive状態付与
 async function fetchUploadsPlaylistVideos({
   apiKey,
   playlistId,
@@ -318,6 +303,7 @@ async function fetchUploadsPlaylistVideos({
     return [];
   }
 
+  // 1) uploadsプレイリストから直近の動画候補を取得
   const data = await youtubeApiFetch<YouTubePlaylistItemsResponse>(
     "playlistItems",
     apiKey,
@@ -325,21 +311,98 @@ async function fetchUploadsPlaylistVideos({
       part: "snippet",
       playlistId,
       maxResults: String(maxResults),
-    },
+    }
   );
 
   const items = data.items ?? [];
   const publishedAfterTime = new Date(publishedAfter).getTime();
 
-  const recent = items
-    .map((item) => toPlaylistVideoSummary(item))
-    .filter((video): video is VideoSummary => Boolean(video))
-    .filter((video) => new Date(video.publishedAt).getTime() >= publishedAfterTime);
+  // playlistItems から videoId と暫定 snippet を抽出
+  const prelim = items
+    .map((item) => {
+      const s = item.snippet;
+      const videoId = s?.resourceId?.videoId;
+      if (!videoId || !s) return undefined;
+      return {
+        videoId,
+        snippet: {
+          title: s.title,
+          description: s.description ?? "",
+          publishedAt: s.publishedAt ?? new Date().toISOString(),
+          channelTitle: s.channelTitle ?? "",
+          thumbnails: s.thumbnails,
+        },
+      };
+    })
+    .filter(
+      (
+        v
+      ): v is {
+        videoId: string;
+        snippet: {
+          title: string;
+          description: string;
+          publishedAt: string;
+          channelTitle: string;
+          thumbnails: ThumbnailMap | undefined;
+        };
+      } => Boolean(v)
+    );
 
-  return recent;
+  // 2) publishedAfter で絞り込み
+  const recent = prelim.filter(
+    (v) => new Date(v.snippet.publishedAt).getTime() >= publishedAfterTime
+  );
+  if (recent.length === 0) {
+    return [];
+  }
+
+  // 3) videos.list で liveStreamingDetails/snippet を取得して live or upcoming を判定
+  const ids = recent.map((v) => v.videoId);
+  const videosData = await youtubeApiFetch<YouTubeVideosResponse>(
+    "videos",
+    apiKey,
+    {
+      part: "snippet,liveStreamingDetails",
+      id: ids.join(","),
+    }
+  );
+
+  const detailMap = new Map<string, YouTubeVideoItem>();
+  for (const item of videosData.items ?? []) {
+    if (item.id) {
+      detailMap.set(item.id, item);
+    }
+  }
+
+  // 4) buildVideoSummary で liveStreaming を付与した形に正規化
+  const summaries = ids
+    .map((id) => {
+      const detail = detailMap.get(id);
+      const snippet =
+        detail?.snippet ?? recent.find((r) => r.videoId === id)?.snippet;
+      return buildVideoSummary(
+        id,
+        snippet as {
+          title: string;
+          description: string;
+          publishedAt: string;
+          channelTitle: string;
+          thumbnails: ThumbnailMap | undefined;
+          liveBroadcastContent?: string;
+        },
+        detail?.liveStreamingDetails
+      );
+    })
+    .filter((v): v is VideoSummary => Boolean(v));
+
+  return summaries;
 }
 
-async function fetchUploadsPlaylistMap(channelIds: string[], apiKey: string): Promise<Map<string, string>> {
+async function fetchUploadsPlaylistMap(
+  channelIds: string[],
+  apiKey: string
+): Promise<Map<string, string>> {
   if (channelIds.length === 0) {
     return new Map();
   }
@@ -351,7 +414,7 @@ async function fetchUploadsPlaylistMap(channelIds: string[], apiKey: string): Pr
       part: "contentDetails",
       id: channelIds.join(","),
       maxResults: String(channelIds.length),
-    },
+    }
   );
 
   const map = new Map<string, string>();
@@ -370,7 +433,7 @@ async function fetchUploadsPlaylistMap(channelIds: string[], apiKey: string): Pr
 async function youtubeApiFetch<T>(
   path: string,
   apiKey: string,
-  params: Record<string, string>,
+  params: Record<string, string>
 ): Promise<T> {
   const url = new URL(path, API_BASE);
 
@@ -384,7 +447,9 @@ async function youtubeApiFetch<T>(
   });
 
   if (!response.ok) {
-    throw new Error(`YouTube API error (${response.status}): ${await response.text()}`);
+    throw new Error(
+      `YouTube API error (${response.status}): ${await response.text()}`
+    );
   }
 
   return (await response.json()) as T;
@@ -401,7 +466,7 @@ function buildVideoSummary(
     thumbnails?: ThumbnailMap;
     liveBroadcastContent?: string;
   },
-  liveDetails?: YouTubeLiveStreamingDetails,
+  liveDetails?: YouTubeLiveStreamingDetails
 ): VideoSummary | undefined {
   if (!snippet) {
     return undefined;
@@ -450,7 +515,9 @@ function toVideoSummary(item: YouTubeSearchItem): VideoSummary | undefined {
   return buildVideoSummary(videoId, snippet);
 }
 
-function toPlaylistVideoSummary(item: YouTubePlaylistItem): VideoSummary | undefined {
+function toPlaylistVideoSummary(
+  item: YouTubePlaylistItem
+): VideoSummary | undefined {
   const snippet = item.snippet;
   const videoId = snippet?.resourceId?.videoId;
   if (!videoId || !snippet) {
