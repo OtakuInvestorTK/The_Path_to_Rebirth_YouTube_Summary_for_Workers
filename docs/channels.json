@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-06T08:46:26.517Z",
+  "requestedAt": "2025-10-06T18:54:30.266Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -232,7 +232,46 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "yeZXtbjj0f8",
+          "title": "[ 朗読 ]  竹取物語（かぐや姫）　和田萬吉　（毎週水曜日新作追加）",
+          "description": "朗読 第１７段（毎週水曜日新作追加）　　\nかぐや姫　花婿オーディション　富士山の由来\n\nこの朗読動画は、和田萬吉作の『竹取物語』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n原作：和田萬吉\n底本：「竹取物語」（青空文庫） \nURL: https://www.aozora.gr.jp/cards/001072/files/48310_42692.html\nサムネイルイラスト：Google Gemini\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
+          "publishedAt": "2025-10-06T05:56:53Z",
+          "channelTitle": "水野 純也 @再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-08T09:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "L3M445TSKI4",
@@ -1014,6 +1053,40 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "QJQpCCB7qi8",
+          "title": "再生の道　ニューヨーク編　小泉進次朗さんの出身のコロンビア大学の大学院生に教育に関するインタビューをしてみました（山下こういち）",
+          "description": "今年の8月のニューヨーク出張の際に、コロンビア大学を訪問し、大学院生に教育に関するインタビューを行いました。アメリカの経済発展と教育の関係性について、なるほどと思える面白い見解が聞けました。\n\nちなみに私の英語はブロークンですが、今後、インタビューがあっても、英語で答えます(笑)\n\n#再生の道 \n#ニューヨーク \n#コロンビア大学\n#小泉進次朗\n#教育\n#経済発展\n\n本動画の翻訳にご協力頂きましたボランティアの皆さん\n　前半：tiny mouseさん\n　後半：ライオン丸さん\nありがとうございました！",
+          "publishedAt": "2025-10-06T11:33:57Z",
+          "channelTitle": "山下こういち　再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        {
           "videoId": "0rOC5s3luZo",
           "title": "再生の道　山下こういち　インドネシア滞在中のモーニングルーティン　朝の散歩道（完全ノンポリ）",
           "description": "私の妻と息子はインドネシアに住んでおり、私の経営するコンサルティングファームもインドネシアの会社です。そのため、インドネシアに滞在することが多く、滞在中は、ほぼ毎朝、自宅のアパート近くを散歩しており、その際に撮影しました。（撮影時期：8月後半）\n\n今回は全く政治とは関わりの無いノンポリ動画です。どうぞ、肩の力を抜いてお気軽にご覧ください！！\n\n#再生の道 \n#インドネシア \n#散歩",
@@ -1197,40 +1270,6 @@
               "height": 720
             }
           }
-        },
-        {
-          "videoId": "_NAh23LR0IQ",
-          "title": "いわさん苺苗🍓植えにチャレンジ #農業 #再生の道 #白いちご",
-          "description": "",
-          "publishedAt": "2025-09-29T11:02:11Z",
-          "channelTitle": "チャレンジャーいわさんチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_NAh23LR0IQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_NAh23LR0IQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_NAh23LR0IQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/_NAh23LR0IQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/_NAh23LR0IQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
         }
       ]
     },
@@ -1255,8 +1294,7 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [],
-      "recentVideos": [
+      "liveVideos": [
         {
           "videoId": "nQhJVcFiaUQ",
           "title": "【10月7日（火）12:00配信】天野こころのこころトーク#10",
@@ -1289,8 +1327,14 @@
               "width": 1280,
               "height": 720
             }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-07T03:00:00Z"
           }
-        },
+        }
+      ],
+      "recentVideos": [
         {
           "videoId": "s8m4eay1jyg",
           "title": "【9月30日（火）12:00配信】天野こころのこころトーク#9",
@@ -1531,6 +1575,65 @@
       "recentVideos": []
     },
     {
+      "input": "UCbnf2Gl6Pra9DPDeMBV2a3w",
+      "channelTitle": "南貴大 再生の道 チャンネル",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/LQoghKMjTvDW79bfGxKaFy7iJvSmIJgSvtq3yZmBQOl93x-hwcfrS6648t_t4-wLI17FlFKg7qA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/LQoghKMjTvDW79bfGxKaFy7iJvSmIJgSvtq3yZmBQOl93x-hwcfrS6648t_t4-wLI17FlFKg7qA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/LQoghKMjTvDW79bfGxKaFy7iJvSmIJgSvtq3yZmBQOl93x-hwcfrS6648t_t4-wLI17FlFKg7qA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "channelId": "UCbnf2Gl6Pra9DPDeMBV2a3w",
+      "liveVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "99KNIJrcgEU",
+          "title": "政治推し活ボランティアへインタビュー　前半",
+          "description": "「推し活」がきっかけで政治の現場へ！？\nボランティアとして都議選に関わった大西さんに聞く、選挙の裏側と本音トーク。\n思わず共感＆笑ってしまう“推し×政治”のリアル、前編！\n\n#再生の道 \n#推し活",
+          "publishedAt": "2025-10-06T12:10:02Z",
+          "channelTitle": "南貴大 再生の道 チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        }
+      ]
+    },
+    {
       "input": "UCa-yZ1rf7qRVcCNrxrcGXwQ",
       "channelTitle": "すなみ薫",
       "channelThumbnails": {
@@ -1627,6 +1730,30 @@
       "recentVideos": []
     },
     {
+      "input": "UCKuAzBy5XBJU7KV7H9hUyPA",
+      "channelTitle": "奥本かずき@中野区・再生の道・1期生",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/VIHVguahMkrl9LOMo65wzThlu8vwY8EUE_XqTbc5iqZpUs2vCY70ErnqC8BK1E60gmtKMSXbXw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/VIHVguahMkrl9LOMo65wzThlu8vwY8EUE_XqTbc5iqZpUs2vCY70ErnqC8BK1E60gmtKMSXbXw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/VIHVguahMkrl9LOMo65wzThlu8vwY8EUE_XqTbc5iqZpUs2vCY70ErnqC8BK1E60gmtKMSXbXw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "channelId": "UCKuAzBy5XBJU7KV7H9hUyPA",
+      "liveVideos": [],
+      "recentVideos": []
+    },
+    {
       "input": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "channelTitle": "増田よしひこ@再生の道",
       "channelThumbnails": {
@@ -1647,8 +1774,7 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
-      "recentVideos": [
+      "liveVideos": [
         {
           "videoId": "doTeyE-EZVw",
           "title": "ヨシヒコ・ライブSP with 青柳みつやさん",
@@ -1681,8 +1807,14 @@
               "width": 1280,
               "height": 720
             }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-08T03:00:00Z"
           }
-        },
+        }
+      ],
+      "recentVideos": [
         {
           "videoId": "v7XxrBzzPAo",
           "title": "ヨシヒコ・ライブSP with  尾花山和哉さん",
