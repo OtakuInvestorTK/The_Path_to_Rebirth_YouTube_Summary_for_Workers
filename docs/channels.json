@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-07T13:36:22.454Z",
+  "requestedAt": "2025-10-07T14:41:30.889Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -768,31 +768,31 @@
           "videoId": "fyER33wZPXQ",
           "title": "ライブ配信 2025/10/7",
           "description": "公認会計士・税理士の横山はるきです！\n\n\n\nX\nhttps://x.com/yokoyama_assoc\n横山はるき｜公認会計士・税理士\nInstagram\nhttps://www.instagram.com/yokoyama_associates\n横山はるき｜公認会計士・税理士\nTikTok\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n横山はるき｜公認会計士・税理士\n\n取材・コラボ・お仕事関係の連絡はこちらから\nhttps://form.run/@haruki-yokoyama\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n \n#公認会計士 #税理士 #横山はるき",
-          "publishedAt": "2025-10-07T10:05:53Z",
+          "publishedAt": "2025-10-07T13:55:17Z",
           "channelTitle": "横山はるき / 公認会計士・税理士",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fyER33wZPXQ/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -1228,7 +1228,7 @@
             "status": "live",
             "scheduledStartTime": "2025-10-07T13:30:00Z",
             "actualStartTime": "2025-10-07T13:34:27Z",
-            "concurrentViewers": 120
+            "concurrentViewers": 280
           }
         }
       ],
