@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-07T10:39:51.209Z",
+  "requestedAt": "2025-10-07T11:25:50.260Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -46,49 +46,42 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Ys8P3COm464",
           "title": "奥村こうき | 再生の道 がライブ配信中！",
           "description": "・新党「東京の島」政策ページ\nhttps://www.notion.so/okumurakouki/1bc1776b84e9808bab8cc41c57fa0bc9\n\n・新党「東京の島」寄付ページ\nhttps://www.notion.so/okumurakouki/1d21776b84e980ca9fd9c6b6f549bf74\n\n・奥村光貴SNSアカウント\n【X】https://x.com/okumura_islands?s=21\n\n#再生の道 #東京の島 #八丈島 #奥村光貴",
-          "publishedAt": "2025-10-07T03:14:44Z",
+          "publishedAt": "2025-10-07T11:19:19Z",
           "channelTitle": "奥村こうき | 再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/Ys8P3COm464/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ys8P3COm464/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/Ys8P3COm464/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ys8P3COm464/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/Ys8P3COm464/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ys8P3COm464/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/Ys8P3COm464/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ys8P3COm464/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/Ys8P3COm464/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ys8P3COm464/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
-          },
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-07T03:14:44Z",
-            "actualStartTime": "2025-10-07T09:42:07Z",
-            "concurrentViewers": 1066
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "utOzGqJEuQk",
           "title": "Sora2で八丈島の案内をしてみた🍄✨",
