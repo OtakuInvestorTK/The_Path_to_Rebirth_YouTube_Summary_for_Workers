@@ -2,7 +2,7 @@ name: Generate Channels JSON
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # 17:00 JST
+    - cron: "0 * * * *"   # 8→17:00 JST
   workflow_dispatch:
 
 env:
