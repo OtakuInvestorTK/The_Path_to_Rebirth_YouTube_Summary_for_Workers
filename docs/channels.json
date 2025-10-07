@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-07T08:44:27.540Z",
+  "requestedAt": "2025-10-07T09:33:35.725Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1015,7 +1015,8 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Rjc0p1zbFsE",
           "title": "【再生の道】淳さんぽ【中央区勝どき】",
@@ -1043,16 +1044,8 @@
               "width": 640,
               "height": 480
             }
-          },
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-07T08:00:00Z",
-            "actualStartTime": "2025-10-07T08:00:02Z",
-            "concurrentViewers": 100
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "CxNl0-6Aurs",
           "title": "府中市白糸台小学校通学路除草 #インフラ管理ボランティア",
