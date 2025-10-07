@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-07T07:47:16.304Z",
+  "requestedAt": "2025-10-07T08:44:27.540Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -409,34 +409,34 @@
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
       "liveVideos": [
         {
-          "videoId": "yeZXtbjj0f8",
-          "title": "00[ 朗読 ]  竹取物語（かぐや姫）　和田萬吉　（毎週水曜日新作追加）",
+          "videoId": "noqrv6113wE",
+          "title": "[ 朗読 ]  竹取物語（かぐや姫）　和田萬吉　（毎週水曜日新作追加）",
           "description": "朗読 第１７段（毎週水曜日新作追加）　　\nかぐや姫　花婿オーディション　富士山の由来\n\nこの朗読動画は、和田萬吉作の『竹取物語』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n原作：和田萬吉\n底本：「竹取物語」（青空文庫） \nURL: https://www.aozora.gr.jp/cards/001072/files/48310_42692.html\nサムネイルイラスト：Google Gemini\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-10-06T05:56:53Z",
+          "publishedAt": "2025-10-07T07:19:30Z",
           "channelTitle": "水野 純也 @再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/default.jpg",
+              "url": "https://i.ytimg.com/vi/noqrv6113wE/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/noqrv6113wE/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/noqrv6113wE/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/noqrv6113wE/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/yeZXtbjj0f8/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/noqrv6113wE/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -1045,8 +1045,10 @@
             }
           },
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-07T08:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-07T08:00:00Z",
+            "actualStartTime": "2025-10-07T08:00:02Z",
+            "concurrentViewers": 100
           }
         }
       ],
