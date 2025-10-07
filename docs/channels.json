@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-07T20:33:49.799Z",
+  "requestedAt": "2025-10-07T21:27:02.746Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1050,26 +1050,26 @@
           "videoId": "Rjc0p1zbFsE",
           "title": "【再生の道】淳さんぽ【中央区勝どき】",
           "description": "仕事で訪れている中央区勝どきの様子をお届けします",
-          "publishedAt": "2025-09-30T10:42:36Z",
+          "publishedAt": "2025-10-07T21:14:31Z",
           "channelTitle": "村越淳太(府中)",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/sddefault.jpg",
               "width": 640,
               "height": 480
             }
