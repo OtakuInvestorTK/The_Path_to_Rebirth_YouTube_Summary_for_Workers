@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-08T08:47:15.314Z",
+  "requestedAt": "2025-10-08T09:34:59.256Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -368,12 +368,13 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "noqrv6113wE",
           "title": "[ 朗読 ]  竹取物語（かぐや姫）　和田萬吉　（毎週水曜日新作追加）",
           "description": "朗読 第１７段（毎週水曜日新作追加）　　\nかぐや姫　花婿オーディション　富士山の由来\n\nこの朗読動画は、和田萬吉作の『竹取物語』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n原作：和田萬吉\n底本：「竹取物語」（青空文庫） \nURL: https://www.aozora.gr.jp/cards/001072/files/48310_42692.html\nサムネイルイラスト：Google Gemini\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-10-07T07:19:30Z",
+          "publishedAt": "2025-10-08T09:00:06Z",
           "channelTitle": "水野 純也 @再生の道",
           "thumbnails": {
             "default": {
@@ -398,46 +399,6 @@
             },
             "maxres": {
               "url": "https://i.ytimg.com/vi/noqrv6113wE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-08T09:00:00Z"
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "L3M445TSKI4",
-          "title": "[ 朗読 ]  走れメロス　太宰治作　後半動きます　（毎週水曜日新作追加）",
-          "description": "朗読 第１６段（毎週水曜日新作追加）　　もし起きていられれば、後半イラストが動き出します。\n\nこの朗読動画は、太宰治作の『注走れメロス』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n原作：太宰治\n底本：「走れメロス」（青空文庫） \nURL: https://www.aozora.gr.jp/cards/000035/files/1567_14913.html\nサムネイルイラスト：Google Gemini\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-10-01T09:00:06Z",
-          "channelTitle": "水野 純也 @再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/L3M445TSKI4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/L3M445TSKI4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/L3M445TSKI4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/L3M445TSKI4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/L3M445TSKI4/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
