@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-08T05:34:56.823Z",
+  "requestedAt": "2025-10-08T06:50:08.166Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -213,40 +213,6 @@
             },
             "maxres": {
               "url": "https://i.ytimg.com/vi/fi8bbUFoPzI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
-        },
-        {
-          "videoId": "hI0EhLEC8-Q",
-          "title": "リハック対談ご覧いただきありがとうございました！",
-          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2025-10-01T06:19:43Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/hI0EhLEC8-Q/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/hI0EhLEC8-Q/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/hI0EhLEC8-Q/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/hI0EhLEC8-Q/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/hI0EhLEC8-Q/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
