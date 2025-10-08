@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-07T23:26:46.771Z",
+  "requestedAt": "2025-10-08T03:06:17.511Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -550,6 +550,40 @@
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "JDyFrkSn5dg",
+          "title": "自民党の歴代総裁",
+          "description": "高市早苗さんが自民党初の女性総裁に選出されましたが、ここで自民党の歴代総裁を外観してみました。連立の行方についても、少し話しています。 #木島 #江戸川区 #自民党総裁 #高市早苗 #連立政権",
+          "publishedAt": "2025-10-08T00:28:45Z",
+          "channelTitle": "再生の道　木島やすお　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JDyFrkSn5dg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JDyFrkSn5dg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JDyFrkSn5dg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JDyFrkSn5dg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JDyFrkSn5dg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
         {
           "videoId": "aQlfB7yeHTg",
           "title": "東京検察庁に来ました。 #木島 #東京地方検察庁 #検察庁",
@@ -2003,8 +2037,10 @@
             }
           },
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-08T03:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-08T03:00:00Z",
+            "actualStartTime": "2025-10-08T02:59:34Z",
+            "concurrentViewers": 431
           }
         }
       ],
