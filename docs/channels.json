@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-08T10:40:01.226Z",
+  "requestedAt": "2025-10-08T11:25:40.847Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1069,40 +1069,6 @@
               "height": 720
             }
           }
-        },
-        {
-          "videoId": "jcZI52fGtAw",
-          "title": "【府中市】淳さんぽライブ【通学路除草】",
-          "description": "府中市の小学校通学路を除草しながら雑談する配信です",
-          "publishedAt": "2025-10-01T11:08:33Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jcZI52fGtAw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jcZI52fGtAw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jcZI52fGtAw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/jcZI52fGtAw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/jcZI52fGtAw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
         }
       ]
     },
@@ -1703,8 +1669,10 @@
             }
           },
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-08T11:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-08T11:00:00Z",
+            "actualStartTime": "2025-10-08T11:00:28Z",
+            "concurrentViewers": 317
           }
         }
       ],
