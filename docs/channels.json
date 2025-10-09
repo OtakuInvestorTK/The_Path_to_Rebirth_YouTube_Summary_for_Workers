@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-08T23:27:17.746Z",
+  "requestedAt": "2025-10-09T03:10:18.988Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -540,40 +540,6 @@
             },
             "maxres": {
               "url": "https://i.ytimg.com/vi/aQlfB7yeHTg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
-        },
-        {
-          "videoId": "X0vmMjBnq24",
-          "title": "運命で総理になった兄弟",
-          "description": "岸信介と佐藤栄作は兄弟揃って総理大臣になれましてが、似たような運命で総理になっています。 #木島 #江戸川区 #自民党総裁選 #岸信介 #佐藤栄作",
-          "publishedAt": "2025-10-02T00:43:43Z",
-          "channelTitle": "再生の道　木島やすお　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/X0vmMjBnq24/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/X0vmMjBnq24/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/X0vmMjBnq24/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/X0vmMjBnq24/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/X0vmMjBnq24/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
