@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-09T07:30:04.148Z",
+  "requestedAt": "2025-10-09T08:47:04.405Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1440,7 +1440,41 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "Z5hCgk-Xg8I",
+          "title": "第17回ミートアップオンライン",
+          "description": "10月11日（土）朝8:00～8:30にて開催予定です。\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n※当日内容が変わることがあります\n・「（仮）西東京市クリーン作戦！」：第1回開催のご報告\n・「ワークライフバランス」について私が思うこと\n・New! 今週の気になる学校：大阪市立大空小学校\n・今日のカタコトロシア語：「Вкусно！」（おいしい！）",
+          "publishedAt": "2025-10-09T08:35:33Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-10T23:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "Ixt12IvCKuk",
