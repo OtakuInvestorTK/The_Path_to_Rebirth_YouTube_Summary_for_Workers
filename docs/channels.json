@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-09T08:47:04.405Z",
+  "requestedAt": "2025-10-09T09:33:48.803Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1000,7 +1000,46 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "RWHmkKTW3l4",
+          "title": "【再生の道】淳さんぽ出張編【Zipper試乗会】",
+          "description": "福島県南相馬市で行われる自走式次世代ロープウェイZipper試乗会に参加してきます。\n私有地と試乗会自体の配信はできないと思いますので、実験線のある場所を散歩しながら雑談する配信となります。",
+          "publishedAt": "2025-10-07T07:59:27Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-16T04:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "Rjc0p1zbFsE",
