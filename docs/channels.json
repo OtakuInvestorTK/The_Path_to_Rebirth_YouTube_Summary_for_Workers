@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-09T20:34:54.181Z",
+  "requestedAt": "2025-10-09T21:28:20.439Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -803,6 +803,40 @@
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "mzMLYI2u3SE",
+          "title": "【再生の道ぎぼはるき】いよいよタクシードライバーへの道最終関門！",
+          "description": "",
+          "publishedAt": "2025-10-09T20:52:06Z",
+          "channelTitle": "やる気・元気・はるきチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mzMLYI2u3SE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mzMLYI2u3SE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mzMLYI2u3SE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mzMLYI2u3SE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mzMLYI2u3SE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
         {
           "videoId": "JF_lwLcb7Rs",
           "title": "【再生の道ぎぼはるき】Meetup28",
@@ -1649,7 +1683,36 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "oXEvP-6PSGQ",
+          "title": "【再生の道】ミートアップ vol.8",
+          "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
+          "publishedAt": "2025-10-09T21:02:34Z",
+          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oXEvP-6PSGQ/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oXEvP-6PSGQ/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oXEvP-6PSGQ/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-10T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "-y0ZSCUPJz0",
