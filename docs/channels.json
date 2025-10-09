@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-09T05:34:59.936Z",
+  "requestedAt": "2025-10-09T06:52:08.578Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -616,7 +616,36 @@
         }
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "ZqGQKd1daIY",
+          "title": "meetup 20251012",
+          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
+          "publishedAt": "2025-10-09T06:09:06Z",
+          "channelTitle": "弘田としやすCh",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZqGQKd1daIY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZqGQKd1daIY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZqGQKd1daIY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-12T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "12pOiViZMic",
