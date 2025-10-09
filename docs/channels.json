@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-09T09:33:48.803Z",
+  "requestedAt": "2025-10-09T10:41:01.437Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1151,7 +1151,46 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "3664t6ZuPHg",
+          "title": "出張先から雑談配信in高岡_2025年10月09日",
+          "description": "遅い時間ですいません…前回やるとお伝えしていたのでここでやりますmm",
+          "publishedAt": "2025-10-07T04:14:48Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-09T14:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "c_muaAm-aQE",
