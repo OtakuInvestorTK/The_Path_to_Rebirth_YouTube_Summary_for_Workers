@@ -46,6 +46,7 @@ npm run worker:dev
     {
       "input": "@sample",
       "channelId": "UCxxxx",
+      "name": "Sample Channel,サンプルチャンネル",
       "channelTitle": "Sample Channel",
       "channelThumbnails": {
         "default": { "url": "https://example.com/default.jpg" },
@@ -147,6 +148,7 @@ npm run worker:dev
 | channels                         | ChannelResult[]                   | 取得対象チャンネルごとの情報リスト。                            |
 | channels[].input                 | string                            | リクエストで与えたチャンネル識別子 (ハンドル・ID・ユーザー名)。 |
 | channels[].channelId             | string                            | 正規化されたチャンネル ID (例: `UC...`)。                       |
+| channels[].name                  | string?                           | `candidates-mapping.json` 由来の名前・エイリアス一覧 (カンマ区切り)。 |
 | channels[].channelTitle          | string                            | チャンネルの表示名。                                            |
 | channels[].channelThumbnails     | object                            | 解像度ごとのサムネイル URL と幅/高さ。                          |
 | channels[].liveVideos            | VideoSummary[]                    | 現在配信中または配信予定の動画一覧。                            |
