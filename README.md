@@ -167,14 +167,16 @@ npm run worker:dev
 
 ## 自動スナップショット出力
 
-GitHub Actions で 60 分ごとに Worker の `/channels` エンドポイントへリクエストし、レスポンスを `docs/channels1.json` 〜 `docs/channels8.json` に保存したうえでマージ済みの `docs/channels.json` を生成し、GitHub Pages から配信できます。
+GitHub Actions で 60 分ごとに Worker の `/channels` エンドポイントへリクエストし、レスポンスを `docs/channels1.json` 〜 `docs/channels8.json` に保存したうえで、全チャンネル分をまとめた `docs/merge.json` を作成し、さらに `docs/candidates-mapping.json` と統合して `docs/channels.json` を生成し GitHub Pages から配信できます。
 
 1. Cloudflare 側で Worker をデプロイし、`YOUTUBE_API_KEY` や `YOUTUBE_CHANNEL_IDS_1` / `_2` など必要なバインディングを設定しておきます。
 2. GitHub リポジトリの Secrets に `WORKER_ENDPOINT`（例: `https://worker.example.workers.dev/channels`）を登録します。ワークフロー側で `?group=1` / `?group=2` /… /`?group=8` を自動付与します。※注意：該当チャンネルに一切動画がアップロードされていないと処理中にエラーになります。
 3. Pages のビルドソースを `docs/` ディレクトリに設定します。
-4. 用意したワークフロー（`.github/workflows/generate-channels.yml`）を有効化すると、スケジュールと手動実行で 2 つの JSON とマージ済みの `channels.json` が更新されます。
+4. 用意したワークフロー（`.github/workflows/generate-channels.yml`）を有効化すると、スケジュールと手動実行で分割出力（`channels1.json` 〜 `channels8.json`）、マージ済みの `merge.json`、そして `candidates-mapping.json` を元にした最終出力 `channels.json` が更新されます。
 
-生成された JSON は `https://<ユーザー名>.github.io/<リポジトリ名>/channels.json` のほか、分割された `channels1.json` / `channels2.json` から参照できます。YouTube Data API のクォータ消費は Worker が呼び出されるたびに発生するため、実行頻度には注意してください。
+`docs/candidates-mapping.json` の `channels[].channelId` と `merge.json` の `channelId` を突き合わせ、名前やエイリアスなどのメタデータを付加したうえで `channels.json` を生成します。新しいチャンネルを追加する場合は、Worker のシークレット設定に加えてこのマッピングファイルにもエントリを追加してください。
+
+生成された JSON は `https://<ユーザー名>.github.io/<リポジトリ名>/channels.json`（マッピング適用済み）・分割された `channels1.json` 〜 `channels8.json` から確認できます。YouTube Data API のクォータ消費は Worker が呼び出されるたびに発生するため、実行頻度には注意してください。
 
 ## デプロイ
 

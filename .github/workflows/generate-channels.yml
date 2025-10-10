@@ -78,8 +78,8 @@ jobs:
           ' docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json docs/channels5.json docs/channels6.json docs/channels7.json docs/channels8.json > docs/merge.json
 
           jq --slurp '
-            (.[0].channels | map({(.input): .name}) | add) as $nameMap
-            | .[1] | .channels |= map(. + {name: $nameMap[.input]})
+            (.[0].channels | map({(.channelId): .name}) | add) as $nameMap
+            | .[1] | .channels |= map(. + {name: $nameMap[.channelId]})
           ' docs/candidates-mapping.json docs/merge.json > docs/channels.json
 
       - name: Commit and push if changed
