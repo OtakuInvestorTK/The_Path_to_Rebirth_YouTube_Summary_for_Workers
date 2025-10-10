@@ -34,7 +34,7 @@ npm run worker:dev
 - `GET /` … 簡単な使い方のメッセージを返します。
 - `GET /channels?group=1` / `?group=2` … シークレットで設定したチャンネルグループを指定して、ライブ配信と 1 週間以内に公開された動画を返します。
   - `group` パラメーターは必須です。`1` / `2` /… / `8` 以外を指定すると 400 が返ります。
-  - ハンドルやユーザー名を `YOUTUBE_CHANNEL_IDS_*` に登録しておけば Worker 側でチャンネル ID に解決します。
+  - ハンドルやユーザー名を `YOUTUBE_CHANNEL_IDS_N` に登録しておけば Worker 側でチャンネル ID に解決します。
   - レスポンスにはチャンネル名・サムネイル・ライブ配信のメタ情報を含む video summary が返ります。
 
 レスポンス例:
@@ -167,7 +167,7 @@ npm run worker:dev
 
 ## 自動スナップショット出力
 
-GitHub Actions で 60 分ごとに Worker の `/channels` エンドポイントへリクエストし、レスポンスを `docs/channels1.json` / `docs/channels2.json` に保存したうえでマージ済みの `docs/channels.json` を生成し、GitHub Pages から配信できます。
+GitHub Actions で 60 分ごとに Worker の `/channels` エンドポイントへリクエストし、レスポンスを `docs/channels1.json` 〜 `docs/channels8.json` に保存したうえでマージ済みの `docs/channels.json` を生成し、GitHub Pages から配信できます。
 
 1. Cloudflare 側で Worker をデプロイし、`YOUTUBE_API_KEY` や `YOUTUBE_CHANNEL_IDS_1` / `_2` など必要なバインディングを設定しておきます。
 2. GitHub リポジトリの Secrets に `WORKER_ENDPOINT`（例: `https://worker.example.workers.dev/channels`）を登録します。ワークフロー側で `?group=1` / `?group=2` /… /`?group=8` を自動付与します。※注意：該当チャンネルに一切動画がアップロードされていないと処理中にエラーになります。
