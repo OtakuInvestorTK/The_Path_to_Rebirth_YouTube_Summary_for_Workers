@@ -75,7 +75,12 @@ jobs:
               requestedAt: (first(.[] | .requestedAt) // (now | strftime("%Y-%m-%dT%H:%M:%SZ"))),
               channels: ([ .[].channels[] ])
             }
-          ' docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json docs/channels5.json docs/channels6.json docs/channels7.json docs/channels8.json > docs/channels.json
+          ' docs/channels1.json docs/channels2.json docs/channels3.json docs/channels4.json docs/channels5.json docs/channels6.json docs/channels7.json docs/channels8.json > docs/merge.json
+
+          jq --slurp '
+            (.[0].channels | map({(.input): .name}) | add) as $nameMap
+            | .[1] | .channels |= map(. + {name: $nameMap[.input]})
+          ' docs/candidates-mapping.json docs/merge.json > docs/channels.json
 
       - name: Commit and push if changed
         run: |
