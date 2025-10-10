@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-10T13:22:53.278Z",
+  "requestedAt": "2025-10-10T14:44:24.219Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1336,40 +1336,6 @@
               "height": 720
             }
           }
-        },
-        {
-          "videoId": "0rOC5s3luZo",
-          "title": "再生の道　山下こういち　インドネシア滞在中のモーニングルーティン　朝の散歩道（完全ノンポリ）",
-          "description": "私の妻と息子はインドネシアに住んでおり、私の経営するコンサルティングファームもインドネシアの会社です。そのため、インドネシアに滞在することが多く、滞在中は、ほぼ毎朝、自宅のアパート近くを散歩しており、その際に撮影しました。（撮影時期：8月後半）\n\n今回は全く政治とは関わりの無いノンポリ動画です。どうぞ、肩の力を抜いてお気軽にご覧ください！！\n\n#再生の道 \n#インドネシア \n#散歩",
-          "publishedAt": "2025-10-03T13:37:41Z",
-          "channelTitle": "山下こういち　再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/0rOC5s3luZo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/0rOC5s3luZo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/0rOC5s3luZo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/0rOC5s3luZo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/0rOC5s3luZo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1702,7 +1668,7 @@
             "status": "live",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
             "actualStartTime": "2025-10-10T12:50:44Z",
-            "concurrentViewers": 278
+            "concurrentViewers": 245
           }
         }
       ],
