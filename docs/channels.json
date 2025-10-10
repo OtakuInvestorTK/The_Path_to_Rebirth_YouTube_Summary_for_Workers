@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-10T22:32:20.404Z",
+  "requestedAt": "2025-10-10T23:26:38.090Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -785,31 +785,31 @@
           "videoId": "TKWUymEwkEo",
           "title": "【再生の道ぎぼはるき】Meetup29",
           "description": "タクシードライバーへの道最終関門の学科試験の結果は？",
-          "publishedAt": "2025-10-10T10:02:30Z",
+          "publishedAt": "2025-10-10T23:00:47Z",
           "channelTitle": "やる気・元気・はるきチャンネル",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TKWUymEwkEo/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -907,40 +907,6 @@
             },
             "maxres": {
               "url": "https://i.ytimg.com/vi/sYZwLrI45Uc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
-        },
-        {
-          "videoId": "_ibHYHwYuPk",
-          "title": "【再生の道ぎぼはるき】引き寄せの法則活用中！",
-          "description": "",
-          "publishedAt": "2025-10-03T22:42:19Z",
-          "channelTitle": "やる気・元気・はるきチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_ibHYHwYuPk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_ibHYHwYuPk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_ibHYHwYuPk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/_ibHYHwYuPk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/_ibHYHwYuPk/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -1498,11 +1464,18 @@
               "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/sddefault_live.jpg",
               "width": 640,
               "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-10T23:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-10T23:00:00Z",
+            "actualStartTime": "2025-10-10T22:57:46Z",
+            "concurrentViewers": 1082
           }
         }
       ],
