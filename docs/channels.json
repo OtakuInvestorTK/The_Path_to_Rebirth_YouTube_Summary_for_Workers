@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-10T23:26:38.090Z",
+  "requestedAt": "2025-10-11T03:01:59.231Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -274,40 +274,6 @@
             },
             "maxres": {
               "url": "https://i.ytimg.com/vi/Mh-hk_02z84/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
-        },
-        {
-          "videoId": "GaBPTrf3nDE",
-          "title": "【子育て×政治参加の難しさ】再生の道 坪田こうすけ×再生の道 青柳みつや 対談",
-          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
-          "publishedAt": "2025-10-03T23:41:24Z",
-          "channelTitle": "青柳みつや - 再生の道への挑戦",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/GaBPTrf3nDE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/GaBPTrf3nDE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/GaBPTrf3nDE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/GaBPTrf3nDE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/GaBPTrf3nDE/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -1437,78 +1403,37 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Z5hCgk-Xg8I",
           "title": "第17回ミートアップオンライン",
           "description": "10月11日（土）朝8:00～8:30にて開催予定です。\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n※当日内容が変わることがあります\n・「（仮）西東京市クリーン作戦！」：第1回開催のご報告\n・「ワークライフバランス」について私が思うこと\n・New! 今週の気になる学校：大阪市立大空小学校\n・今日のカタコトロシア語：「Вкусно！」（おいしい！）",
-          "publishedAt": "2025-10-09T08:35:33Z",
+          "publishedAt": "2025-10-10T23:47:46Z",
           "channelTitle": "【再生の道】吉田あや　公式チャンネル",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-10T23:00:00Z",
-            "actualStartTime": "2025-10-10T22:57:46Z",
-            "concurrentViewers": 1082
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "Ixt12IvCKuk",
-          "title": "第16回ミートアップオンライン",
-          "description": "10月4日（土）朝8:00～8:30にて開催予定です。\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n※当日内容が変わることがあります\n・「（仮）西東京市クリーン作戦！」前日告知\n・今後の予定（YouTube動画・note等）\n・教室見守りボランティアのその後\n・今週の気になる学校\n・今日のカタコトロシア語、等",
-          "publishedAt": "2025-10-03T23:43:25Z",
-          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Ixt12IvCKuk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Ixt12IvCKuk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Ixt12IvCKuk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Ixt12IvCKuk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Ixt12IvCKuk/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/Z5hCgk-Xg8I/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
