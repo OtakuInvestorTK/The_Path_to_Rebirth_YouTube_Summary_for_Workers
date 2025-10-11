@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-11T05:32:06.868Z",
+  "requestedAt": "2025-10-11T06:42:31.323Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1019,40 +1019,6 @@
               "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/sddefault.jpg",
               "width": 640,
               "height": 480
-            }
-          }
-        },
-        {
-          "videoId": "CxNl0-6Aurs",
-          "title": "府中市白糸台小学校通学路除草 #インフラ管理ボランティア",
-          "description": "",
-          "publishedAt": "2025-10-04T06:07:20Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/CxNl0-6Aurs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/CxNl0-6Aurs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/CxNl0-6Aurs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/CxNl0-6Aurs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/CxNl0-6Aurs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
             }
           }
         }
