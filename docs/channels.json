@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-11T10:33:35.899Z",
+  "requestedAt": "2025-10-11T11:21:54.498Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1813,7 +1813,46 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "pSJy5SdJhpc",
+          "title": "ヨシヒコ・ライブSP with 河添ひろしさん",
+          "description": "再生の道のメンバーで、元ドルヲタ、ゲーム大好きなアラフィフのおじさん（自称）河添ひろしさんをお迎えして、\n日曜日の中途半端な時間を楽しく彩りたいと思います。\n\nおもしろ話から真面目な話まで幅広くお話しします。\nお時間あえば、ぜひ遊びにいらしてください。\n\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→",
+          "publishedAt": "2025-10-11T10:47:32Z",
+          "channelTitle": "増田よしひこ@再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-12T08:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "doTeyE-EZVw",
