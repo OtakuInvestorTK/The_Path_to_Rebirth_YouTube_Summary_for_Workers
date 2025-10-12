@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-12T07:25:47.385Z",
+  "requestedAt": "2025-10-12T08:38:23.895Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1973,8 +1973,10 @@
             }
           },
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-12T08:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-12T08:00:00Z",
+            "actualStartTime": "2025-10-12T07:59:28Z",
+            "concurrentViewers": 480
           }
         }
       ],
