@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-12T13:02:28.037Z",
+  "requestedAt": "2025-10-12T14:35:21.056Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -616,8 +616,10 @@
             }
           },
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-12T13:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-12T13:00:00Z",
+            "actualStartTime": "2025-10-12T13:02:45Z",
+            "concurrentViewers": 197
           }
         }
       ],
@@ -641,30 +643,6 @@
             },
             "high": {
               "url": "https://i.ytimg.com/vi/12pOiViZMic/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          }
-        },
-        {
-          "videoId": "kyyx2s9kCVQ",
-          "title": "meetup 20251005",
-          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
-          "publishedAt": "2025-10-05T14:09:03Z",
-          "channelTitle": "弘田としやすCh",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/kyyx2s9kCVQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/kyyx2s9kCVQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/kyyx2s9kCVQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             }
@@ -1573,56 +1551,27 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
-        {
-          "videoId": "8zfGJ9honlM",
-          "title": "【再生の道 くれよしつぐ】ミートアップオンライン  vol.9",
-          "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
-          "publishedAt": "2025-10-11T20:52:30Z",
-          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/8zfGJ9honlM/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/8zfGJ9honlM/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/8zfGJ9honlM/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-12T13:00:00Z"
-          }
-        }
-      ],
+      "liveVideos": [],
       "recentVideos": [
         {
           "videoId": "h5ZhEaKFNeY",
           "title": "【再生の道 くれよしつぐ】ミートアップオンライン vol.9",
           "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
-          "publishedAt": "2025-10-12T04:24:50Z",
+          "publishedAt": "2025-10-12T13:10:48Z",
           "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/hqdefault.jpg",
               "width": 480,
               "height": 360
             }
@@ -2097,39 +2046,33 @@
         }
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "5ifqs-57phA",
           "title": "加藤てつお【再生の道】ご無沙汰ライブ 25/10/12",
           "description": "",
-          "publishedAt": "2025-10-12T04:55:52Z",
+          "publishedAt": "2025-10-12T14:06:19Z",
           "channelTitle": "加藤てつお【再生の道】1st Gen.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/5ifqs-57phA/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/5ifqs-57phA/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/5ifqs-57phA/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/5ifqs-57phA/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/5ifqs-57phA/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/5ifqs-57phA/hqdefault.jpg",
               "width": 480,
               "height": 360
             }
-          },
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-12T13:00:00Z",
-            "actualStartTime": "2025-10-12T12:59:44Z",
-            "concurrentViewers": 149
           }
         }
       ],
-      "recentVideos": [],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
