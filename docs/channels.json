@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-12T08:38:23.895Z",
+  "requestedAt": "2025-10-12T09:27:48.162Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1938,49 +1938,42 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "pSJy5SdJhpc",
           "title": "ヨシヒコ・ライブSP with 河添ひろしさん",
           "description": "再生の道のメンバーで、元ドルヲタ、ゲーム大好きなアラフィフのおじさん（自称）河添ひろしさんをお迎えして、\n日曜日の中途半端な時間を楽しく彩りたいと思います。\n\nおもしろ話から真面目な話まで幅広くお話しします。\nお時間あえば、ぜひ遊びにいらしてください。\n\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→",
-          "publishedAt": "2025-10-11T10:47:32Z",
+          "publishedAt": "2025-10-12T09:11:28Z",
           "channelTitle": "増田よしひこ@再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/pSJy5SdJhpc/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
-          },
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-12T08:00:00Z",
-            "actualStartTime": "2025-10-12T07:59:28Z",
-            "concurrentViewers": 480
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "4fDypH1AEz8",
           "title": "【三人衆解散の危機!?】再生の道/杉並三人衆が熱く語り合う!!(後編)",
