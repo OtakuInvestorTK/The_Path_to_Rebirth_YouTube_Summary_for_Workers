@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-12T21:25:23.082Z",
+  "requestedAt": "2025-10-12T22:31:20.608Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -822,35 +822,6 @@
               "url": "https://i.ytimg.com/vi/mzMLYI2u3SE/maxresdefault.jpg",
               "width": 1280,
               "height": 720
-            }
-          }
-        },
-        {
-          "videoId": "JF_lwLcb7Rs",
-          "title": "【再生の道ぎぼはるき】Meetup28",
-          "description": "3女と孫たちと西武園ゆうえんちに行って来ました。",
-          "publishedAt": "2025-10-05T21:54:20Z",
-          "channelTitle": "やる気・元気・はるきチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JF_lwLcb7Rs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JF_lwLcb7Rs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JF_lwLcb7Rs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/JF_lwLcb7Rs/sddefault.jpg",
-              "width": 640,
-              "height": 480
             }
           }
         }
