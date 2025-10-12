@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-12T15:32:11.368Z",
+  "requestedAt": "2025-10-12T16:43:30.911Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -973,31 +973,31 @@
           "videoId": "37Uh-SxOG6Q",
           "title": "【府中市】淳さんぽライブ【武蔵野の森公園〜多磨駅周辺】",
           "description": "府中市の都立武蔵野の森公園から多磨駅周辺を散策する様子をお届けします",
-          "publishedAt": "2025-10-12T01:41:06Z",
+          "publishedAt": "2025-10-12T16:37:32Z",
           "channelTitle": "村越淳太(府中)",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/37Uh-SxOG6Q/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
