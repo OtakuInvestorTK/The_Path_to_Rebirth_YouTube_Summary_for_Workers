@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-12T11:22:02.570Z",
+  "requestedAt": "2025-10-12T13:02:28.037Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1319,7 +1319,42 @@
       },
       "channelId": "UCk6haDaZ2Bpa3e6SMrHyCVg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "e3sSrJfFr3Y",
+          "title": "いわさん、再生の道の横山さんと博多で本音トーク",
+          "description": "---\nサブチャンネルをはじめました\nhttps://youtube.com/@challenger-iwasan?si=WA-V75GxDCz2Xiq7\n\n「チャレンジャーいわさんチャンネル」の名前で、71歳のいわさんが様々なアクティビティにチャレンジ中！\nチャンネル登録して新たな動画をお楽しみに！\n\n◆プロフィール\n大阪生まれ。\n1978年リクルート入社(26年間住まい情報事業)。49歳でリクルート退職後3社で勤務。\n2020年65歳で仕事を辞め、新設大学墨田区の「iU」に1期生として入学。3年生で退学。\n2025年「再生の道」1期生でエントリーし台東区で選出。東京都議会議員選挙に立候補したが当選ならず。\n2025年夏　次のチャレンジを模索中！",
+          "publishedAt": "2025-10-12T11:30:25Z",
+          "channelTitle": "いわさんチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e3sSrJfFr3Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e3sSrJfFr3Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e3sSrJfFr3Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e3sSrJfFr3Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e3sSrJfFr3Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        }
+      ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
     },
     {
@@ -1540,34 +1575,6 @@
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
       "liveVideos": [
         {
-          "videoId": "h5ZhEaKFNeY",
-          "title": "【再生の道 くれよしつぐ】ミートアップオンライン vol.9",
-          "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
-          "publishedAt": "2025-10-12T04:24:50Z",
-          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-12T12:00:00Z"
-          }
-        },
-        {
           "videoId": "8zfGJ9honlM",
           "title": "【再生の道 くれよしつぐ】ミートアップオンライン  vol.9",
           "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
@@ -1597,6 +1604,30 @@
         }
       ],
       "recentVideos": [
+        {
+          "videoId": "h5ZhEaKFNeY",
+          "title": "【再生の道 くれよしつぐ】ミートアップオンライン vol.9",
+          "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
+          "publishedAt": "2025-10-12T04:24:50Z",
+          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h5ZhEaKFNeY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          }
+        },
         {
           "videoId": "oXEvP-6PSGQ",
           "title": "【再生の道】ミートアップ vol.8",
@@ -2091,8 +2122,10 @@
             }
           },
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-12T13:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-12T13:00:00Z",
+            "actualStartTime": "2025-10-12T12:59:44Z",
+            "concurrentViewers": 149
           }
         }
       ],
