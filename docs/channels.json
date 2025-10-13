@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-12T23:26:03.613Z",
+  "requestedAt": "2025-10-13T03:32:06.131Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -478,40 +478,6 @@
             },
             "maxres": {
               "url": "https://i.ytimg.com/vi/JDyFrkSn5dg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
-        },
-        {
-          "videoId": "aQlfB7yeHTg",
-          "title": "東京検察庁に来ました。 #木島 #東京地方検察庁 #検察庁",
-          "description": "",
-          "publishedAt": "2025-10-06T00:23:55Z",
-          "channelTitle": "木島やすお　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/aQlfB7yeHTg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/aQlfB7yeHTg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/aQlfB7yeHTg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/aQlfB7yeHTg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/aQlfB7yeHTg/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
