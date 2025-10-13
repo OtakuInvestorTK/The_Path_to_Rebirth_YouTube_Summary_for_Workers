@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-13T14:45:15.250Z",
+  "requestedAt": "2025-10-13T15:38:22.024Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1583,7 +1583,8 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "i8q7PSVsVDw",
           "title": "【再生の旅】ブレインストーミング",
@@ -1616,16 +1617,8 @@
               "width": 1280,
               "height": 720
             }
-          },
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-13T13:10:37Z",
-            "actualStartTime": "2025-10-13T13:11:59Z",
-            "concurrentViewers": 54
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "h5ZhEaKFNeY",
           "title": "【再生の道 くれよしつぐ】ミートアップオンライン vol.9",
