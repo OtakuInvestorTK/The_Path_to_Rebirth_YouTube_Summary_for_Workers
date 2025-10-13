@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-13T11:27:28.437Z",
+  "requestedAt": "2025-10-13T13:42:33.110Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -243,7 +243,46 @@
         }
       },
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "FgkeljZEbb8",
+          "title": "再生の道1期生 - 青柳みつやのYouTube Live!! #14 （202501014）",
+          "description": "石丸伸二氏が代表を務める政治団体\"再生の道\"、元公認候補者。2025/7の東京都議会議員選挙（杉並区選挙区）に出馬、落選。現在はいち国民・有権者として、政治のエンタメ化・政治的関心の向上に貢献すべくYouTube/Xを中心に発信活動中。\nそんな青柳みつやが、直近1週間の政治に関連する話題やトピックを、自身の発信を中心に皆さんと振り返りながら解説・交流していく場として、本ライブを実施します。みなさんぜひお気軽にお楽しみください!!（毎週火曜日21:00予定）",
+          "publishedAt": "2025-10-13T11:42:56Z",
+          "channelTitle": "青柳みつや - 再生の道への挑戦",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FgkeljZEbb8/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FgkeljZEbb8/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FgkeljZEbb8/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FgkeljZEbb8/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FgkeljZEbb8/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-14T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "EGhPXa7q7Ws",
@@ -705,39 +744,32 @@
         }
       },
       "channelId": "UCr_5vp4MHVuUz5c6ELUKjuA",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "wYKvtgiB4No",
           "title": "公認会計士 横山はるきのLIVE配信!!  毎週月曜日 2025/10/13",
           "description": "公認会計士・税理士の横山はるきです！\n\n気になるトピックや質問にお答えしていきます！\n\nX\nhttps://x.com/yokoyama_assoc\n横山はるき｜公認会計士・税理士\nInstagram\nhttps://www.instagram.com/yokoyama_associates\n横山はるき｜公認会計士・税理士\nTikTok\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n横山はるき｜公認会計士・税理士\n\n取材・コラボ・お仕事関係の連絡はこちらから\nhttps://form.run/@haruki-yokoyama\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n \n#公認会計士 #税理士 #横山はるき",
-          "publishedAt": "2025-10-13T09:22:17Z",
+          "publishedAt": "2025-10-13T12:10:27Z",
           "channelTitle": "横山はるき / 公認会計士・税理士",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/hqdefault.jpg",
               "width": 480,
               "height": 360
             }
-          },
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-13T11:00:00Z",
-            "actualStartTime": "2025-10-13T11:01:57Z",
-            "concurrentViewers": 397
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "fyER33wZPXQ",
           "title": "ライブ配信 2025/10/7",
@@ -1247,42 +1279,7 @@
       },
       "channelId": "UCYAn26BfbB_Db-oju8SfbHQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "QJQpCCB7qi8",
-          "title": "再生の道　ニューヨーク編　小泉進次朗さんの出身のコロンビア大学の大学院生に教育に関するインタビューをしてみました（山下こういち）",
-          "description": "今年の8月のニューヨーク出張の際に、コロンビア大学を訪問し、大学院生に教育に関するインタビューを行いました。アメリカの経済発展と教育の関係性について、なるほどと思える面白い見解が聞けました。\n\nちなみに私の英語はブロークンですが、今後、インタビューがあっても、英語で答えます(笑)\n\n#再生の道 \n#ニューヨーク \n#コロンビア大学\n#小泉進次朗\n#教育\n#経済発展\n\n本動画の翻訳にご協力頂きましたボランティアの皆さん\n　前半：tiny mouseさん\n　後半：ライオン丸さん\nありがとうございました！",
-          "publishedAt": "2025-10-06T11:33:57Z",
-          "channelTitle": "山下こういち　再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/QJQpCCB7qi8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
     },
     {
@@ -1586,7 +1583,48 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "i8q7PSVsVDw",
+          "title": "【再生の旅】ブレインストーミング",
+          "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
+          "publishedAt": "2025-10-13T13:10:37Z",
+          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-10-13T13:10:37Z",
+            "actualStartTime": "2025-10-13T13:11:59Z",
+            "concurrentViewers": 158
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "h5ZhEaKFNeY",
@@ -1765,40 +1803,6 @@
             },
             "maxres": {
               "url": "https://i.ytimg.com/vi/wmC6UtkWYj8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          }
-        },
-        {
-          "videoId": "99KNIJrcgEU",
-          "title": "政治推し活ボランティアへインタビュー　前半",
-          "description": "「推し活」がきっかけで政治の現場へ！？\nボランティアとして都議選に関わった大西さんに聞く、選挙の裏側と本音トーク。\n思わず共感＆笑ってしまう“推し×政治”のリアル、前編！\n\n#再生の道 \n#推し活",
-          "publishedAt": "2025-10-06T12:10:02Z",
-          "channelTitle": "南貴大 再生の道 チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/99KNIJrcgEU/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
