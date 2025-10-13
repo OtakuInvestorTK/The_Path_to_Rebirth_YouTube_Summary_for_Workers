@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-13T04:40:25.265Z",
+  "requestedAt": "2025-10-13T05:37:52.494Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -398,7 +398,42 @@
       },
       "channelId": "UC06DwrQiecM4t3UegP39Jzg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "6RMVazPppTA",
+          "title": "短編物語「AIデモクラシー」",
+          "description": "この物語は、AIが浸透した未来はどうなるのか、AIが個人の選択から社会の運営までを担うようになった近未来を描きました。\n\n\nユウト（22歳）: 主人公。パーソナルAIと共に成長したデジタルネイティブ世代。\nノア: ユウトのパーソナルAI。\n\nパーソナルAIに判断を委ねる青年ユウト。彼がAIの勧めで投票した議員が「AI議員」となり、社会は急速にAIによる運営へと傾いていく。\n\nこの物語はフィクションです。実在の人物や団体などとは関係ありません。\n\n声：音読さん（https://ondoku3.com/）",
+          "publishedAt": "2025-10-13T05:16:29Z",
+          "channelTitle": "はぎわらたかし 再生の道@渋谷",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6RMVazPppTA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6RMVazPppTA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6RMVazPppTA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6RMVazPppTA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6RMVazPppTA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        }
+      ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
     },
     {
