@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-13T13:42:33.110Z",
+  "requestedAt": "2025-10-13T14:45:15.250Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -1621,7 +1621,7 @@
             "status": "live",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
             "actualStartTime": "2025-10-13T13:11:59Z",
-            "concurrentViewers": 158
+            "concurrentViewers": 54
           }
         }
       ],
