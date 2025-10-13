@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-13T08:51:11.410Z",
+  "requestedAt": "2025-10-13T09:40:25.614Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -671,7 +671,36 @@
         }
       },
       "channelId": "UCr_5vp4MHVuUz5c6ELUKjuA",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "wYKvtgiB4No",
+          "title": "公認会計士 横山はるきのLIVE配信!!  毎週月曜日 2025/10/13",
+          "description": "公認会計士・税理士の横山はるきです！\n\n気になるトピックや質問にお答えしていきます！\n\nX\nhttps://x.com/yokoyama_assoc\n横山はるき｜公認会計士・税理士\nInstagram\nhttps://www.instagram.com/yokoyama_associates\n横山はるき｜公認会計士・税理士\nTikTok\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n横山はるき｜公認会計士・税理士\n\n取材・コラボ・お仕事関係の連絡はこちらから\nhttps://form.run/@haruki-yokoyama\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n \n#公認会計士 #税理士 #横山はるき",
+          "publishedAt": "2025-10-13T09:22:17Z",
+          "channelTitle": "横山はるき / 公認会計士・税理士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wYKvtgiB4No/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-13T11:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "fyER33wZPXQ",
