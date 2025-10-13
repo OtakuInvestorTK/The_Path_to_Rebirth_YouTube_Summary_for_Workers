@@ -97,10 +97,6 @@ jobs:
       - name: If failure
         if: failure()
         run: |
-          echo -e "docs/channels7.json\n"
-          cat docs/channels7.json
-          echo -e "docs/channels8.json\n"
-          cat docs/channels8.json
           echo -e "docs/channels1.json\n"
           cat docs/channels1.json
           echo -e "docs/channels2.json\n"

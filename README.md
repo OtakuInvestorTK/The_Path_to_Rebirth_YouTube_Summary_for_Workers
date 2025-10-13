@@ -132,6 +132,12 @@ npm run worker:dev
               "width": 480,
               "height": 360
             }
+          },
+          "viewCount": 12345,
+          "liveStreaming": {
+            "status": "completed",
+            "actualStartTime": "2023-12-30T08:55:00Z",
+            "actualEndTime": "2023-12-30T10:05:00Z"
           }
         }
       ]
@@ -159,7 +165,8 @@ npm run worker:dev
 | VideoSummary.publishedAt         | string (ISO 8601)                 | 動画の公開日時。                                                |
 | VideoSummary.channelTitle        | string                            | 動画に紐づくチャンネル名。                                      |
 | VideoSummary.thumbnails          | object                            | サムネイル解像度ごとの URL とサイズ。                           |
-| VideoSummary.liveStreaming       | object?                           | ライブ配信のメタ情報。通常動画の場合は含まれない。              |
+| VideoSummary.viewCount           | number?                           | 視聴回数。YouTube が統計情報を返した場合のみ含まれる。          |
+| VideoSummary.liveStreaming       | object?                           | ライブ配信のメタ情報。通常動画でも過去のライブ配信なら含まれる。 |
 | liveStreaming.status             | `live` / `upcoming` / `completed` | 配信の状態。                                                    |
 | liveStreaming.scheduledStartTime | string?                           | 配信予定開始時刻。`upcoming` または `live` の場合に返る。       |
 | liveStreaming.actualStartTime    | string?                           | 実際の配信開始時刻。`live` の場合に返る。                       |

@@ -40,6 +40,7 @@ export type VideoSummary = {
   channelTitle: string;
   thumbnails: ThumbnailMap;
   liveStreaming?: LiveStreamingInfo;
+  viewCount?: number;
 };
 
 export class ChannelResolutionError extends Error {
@@ -363,7 +364,7 @@ async function fetchUploadsPlaylistVideos({
     "videos",
     apiKey,
     {
-      part: "snippet,liveStreamingDetails",
+      part: "snippet,liveStreamingDetails,statistics",
       id: ids.join(","),
     }
   );
@@ -391,7 +392,8 @@ async function fetchUploadsPlaylistVideos({
           thumbnails: ThumbnailMap | undefined;
           liveBroadcastContent?: string;
         },
-        detail?.liveStreamingDetails
+        detail?.liveStreamingDetails,
+        detail?.statistics
       );
     })
     .filter((v): v is VideoSummary => Boolean(v));
@@ -466,7 +468,8 @@ function buildVideoSummary(
     thumbnails?: ThumbnailMap;
     liveBroadcastContent?: string;
   },
-  liveDetails?: YouTubeLiveStreamingDetails
+  liveDetails?: YouTubeLiveStreamingDetails,
+  statistics?: YouTubeVideoStatistics
 ): VideoSummary | undefined {
   if (!snippet) {
     return undefined;
@@ -481,10 +484,17 @@ function buildVideoSummary(
     thumbnails: snippet.thumbnails ?? {},
   };
 
-  const status = snippet.liveBroadcastContent;
-  if (status && status !== "none") {
+  if (statistics?.viewCount) {
+    const parsed = Number(statistics.viewCount);
+    if (Number.isFinite(parsed)) {
+      summary.viewCount = parsed;
+    }
+  }
+
+  const status = determineLiveStatus(snippet.liveBroadcastContent, liveDetails);
+  if (status) {
     const liveStreaming: LiveStreamingInfo = {
-      status: status === "live" || status === "upcoming" ? status : "completed",
+      status,
       scheduledStartTime: liveDetails?.scheduledStartTime,
       actualStartTime: liveDetails?.actualStartTime,
       scheduledEndTime: liveDetails?.scheduledEndTime,
@@ -492,9 +502,9 @@ function buildVideoSummary(
     };
 
     if (liveDetails?.concurrentViewers) {
-      const parsed = Number(liveDetails.concurrentViewers);
-      if (Number.isFinite(parsed)) {
-        liveStreaming.concurrentViewers = parsed;
+      const parsedConcurrent = Number(liveDetails.concurrentViewers);
+      if (Number.isFinite(parsedConcurrent)) {
+        liveStreaming.concurrentViewers = parsedConcurrent;
       }
     }
 
@@ -502,6 +512,31 @@ function buildVideoSummary(
   }
 
   return summary;
+}
+
+function determineLiveStatus(
+  broadcastContent: string | undefined,
+  liveDetails?: YouTubeLiveStreamingDetails
+): LiveStreamingInfo["status"] | undefined {
+  if (broadcastContent === "live" || broadcastContent === "upcoming") {
+    return broadcastContent;
+  }
+
+  if (broadcastContent === "completed") {
+    return "completed";
+  }
+
+  if (liveDetails) {
+    const hasLiveTiming =
+      Boolean(liveDetails.actualStartTime) ||
+      Boolean(liveDetails.actualEndTime) ||
+      Boolean(liveDetails.scheduledStartTime);
+    if (hasLiveTiming) {
+      return "completed";
+    }
+  }
+
+  return undefined;
 }
 
 // Search API の item から VideoSummary を生成
@@ -594,6 +629,11 @@ interface YouTubeVideoItem {
     liveBroadcastContent?: string;
   };
   liveStreamingDetails?: YouTubeLiveStreamingDetails;
+  statistics?: YouTubeVideoStatistics;
+}
+
+interface YouTubeVideoStatistics {
+  viewCount?: string;
 }
 
 interface YouTubeLiveStreamingDetails {
