@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-13T23:27:00.638Z",
+  "requestedAt": "2025-10-14T03:10:59.281Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 19924,
+          "viewCount": 19939,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T03:14:44Z",
@@ -123,7 +123,7 @@
               "height": 720
             }
           },
-          "viewCount": 29912
+          "viewCount": 29996
         },
         {
           "videoId": "b7KDm88L6Dw",
@@ -193,7 +193,7 @@
               "height": 720
             }
           },
-          "viewCount": 3295
+          "viewCount": 3298
         },
         {
           "videoId": "fi8bbUFoPzI",
@@ -228,7 +228,7 @@
               "height": 720
             }
           },
-          "viewCount": 6164
+          "viewCount": 6181
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -329,7 +329,7 @@
               "height": 720
             }
           },
-          "viewCount": 12147
+          "viewCount": 13538
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -364,7 +364,7 @@
               "height": 720
             }
           },
-          "viewCount": 19489
+          "viewCount": 19910
         },
         {
           "videoId": "Mh-hk_02z84",
@@ -399,7 +399,7 @@
               "height": 720
             }
           },
-          "viewCount": 15549,
+          "viewCount": 15553,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T12:00:00Z",
@@ -466,7 +466,7 @@
               "height": 720
             }
           },
-          "viewCount": 1631,
+          "viewCount": 1634,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T09:00:00Z",
@@ -533,7 +533,7 @@
               "height": 720
             }
           },
-          "viewCount": 989
+          "viewCount": 1199
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -594,7 +594,7 @@
               "height": 720
             }
           },
-          "viewCount": 2506
+          "viewCount": 2508
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -725,7 +725,7 @@
               "height": 360
             }
           },
-          "viewCount": 2678,
+          "viewCount": 2716,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
@@ -782,7 +782,7 @@
               "height": 360
             }
           },
-          "viewCount": 3098,
+          "viewCount": 3337,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -915,7 +915,7 @@
               "height": 720
             }
           },
-          "viewCount": 1718,
+          "viewCount": 1720,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T10:02:30Z",
@@ -956,7 +956,7 @@
               "height": 720
             }
           },
-          "viewCount": 649
+          "viewCount": 651
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -1107,7 +1107,7 @@
               "height": 720
             }
           },
-          "viewCount": 1553,
+          "viewCount": 1556,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T03:00:00Z",
@@ -1200,7 +1200,47 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "GcRJg5_-oco",
+          "title": "出張先から雑談配信in碧南_2025年10月15日",
+          "description": "【碧南の見どころ】\n * 醸造文化と食の探訪: 日本三大みりんの一つ「三州三河みりん」や、料亭の味を支える「白しょうゆ」発祥の地。醸造蔵を巡り、その奥深い歴史と味わいに触れることができます。ニンジンやタマネギなどの農業も盛んです。\n * 碧南海浜水族館と臨海公園: 地元の海「三河湾」の生き物を中心に展示する「碧南海浜水族館」は、家族連れに大人気。隣接する公園には展望台や遊具も充実しており、一日中楽しめます。\n * 歴史と信仰の寺社めぐり: 徳川家康ゆかりの寺「妙福寺」や、美しい庭園で知られる「称満寺」など、歴史を感じさせる寺社が点在。静かな時間の中で、その由緒をたどることができます。\n * 四季の花々と水辺の景観: 矢作川の河口に位置し、水辺の自然が豊かです。春には桜、初夏には花しょうぶなど、季節ごとに美しい花々が街を彩り、人々の憩いの場となっています。\n\n【愛知県碧南市とは？】\n愛知県の南部、矢作川の河口に位置する港町です。古くから醸造業が栄え、みりんや白しょうゆといった日本の食文化に欠かせない調味料の生産地として知られています。自動車関連産業をはじめとする工業都市として発展する一方で、豊かな水辺の自然や歴史的な寺社、家族で楽しめる公園などが調和した魅力的な地域です。\n\n碧南市観光協会公式サイト「へきなん観光ナビ」はこちら：https://www.hekinan-kanko.jp/",
+          "publishedAt": "2025-10-09T10:24:55Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GcRJg5_-oco/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GcRJg5_-oco/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GcRJg5_-oco/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GcRJg5_-oco/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GcRJg5_-oco/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-15T10:30:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "mmlGdQjxIVM",
@@ -1235,7 +1275,7 @@
               "height": 720
             }
           },
-          "viewCount": 638
+          "viewCount": 655
         },
         {
           "videoId": "3664t6ZuPHg",
@@ -1270,7 +1310,7 @@
               "height": 720
             }
           },
-          "viewCount": 2736,
+          "viewCount": 2737,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-09T14:00:00Z",
@@ -1311,7 +1351,7 @@
               "height": 720
             }
           },
-          "viewCount": 5063,
+          "viewCount": 5064,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T13:30:00Z",
@@ -1428,7 +1468,7 @@
               "height": 720
             }
           },
-          "viewCount": 6479
+          "viewCount": 6610
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1454,7 +1494,49 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "_btBanFfNZI",
+          "title": "【10月14日（火）12:00配信】あまのこころのこころトーク#11",
+          "description": "",
+          "publishedAt": "2025-10-14T01:15:44Z",
+          "channelTitle": "天野こころ【再生の道】中央区",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 189,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-10-14T03:00:00Z",
+            "actualStartTime": "2025-10-14T03:00:25Z",
+            "concurrentViewers": 162
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "nQhJVcFiaUQ",
@@ -1489,7 +1571,7 @@
               "height": 720
             }
           },
-          "viewCount": 7397,
+          "viewCount": 7411,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T03:00:00Z",
@@ -1556,7 +1638,7 @@
               "height": 720
             }
           },
-          "viewCount": 16097,
+          "viewCount": 16169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T23:00:00Z",
@@ -1669,36 +1751,36 @@
           "videoId": "i8q7PSVsVDw",
           "title": "【再生の旅】ブレインストーミング",
           "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
-          "publishedAt": "2025-10-13T13:10:37Z",
+          "publishedAt": "2025-10-14T02:41:22Z",
           "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/i8q7PSVsVDw/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 2273,
+          "viewCount": 2690,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1729,7 +1811,7 @@
               "height": 360
             }
           },
-          "viewCount": 3274,
+          "viewCount": 3359,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1760,7 +1842,7 @@
               "height": 360
             }
           },
-          "viewCount": 3992,
+          "viewCount": 4002,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1791,7 +1873,7 @@
               "height": 360
             }
           },
-          "viewCount": 4970,
+          "viewCount": 4972,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T11:00:00Z",
@@ -1908,7 +1990,7 @@
               "height": 720
             }
           },
-          "viewCount": 1702
+          "viewCount": 1743
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2094,7 +2176,7 @@
               "height": 720
             }
           },
-          "viewCount": 7957,
+          "viewCount": 8061,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -2135,7 +2217,7 @@
               "height": 720
             }
           },
-          "viewCount": 11817,
+          "viewCount": 12153,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -2176,7 +2258,7 @@
               "height": 720
             }
           },
-          "viewCount": 15204,
+          "viewCount": 15221,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T03:00:00Z",
@@ -2233,7 +2315,7 @@
               "height": 360
             }
           },
-          "viewCount": 6801,
+          "viewCount": 6977,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
