@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-14T20:35:15.623Z",
+  "requestedAt": "2025-10-14T21:27:22.852Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 16687,
+          "viewCount": 16759,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 7031,
+          "viewCount": 7152,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 15789
+          "viewCount": 15811
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -225,7 +225,7 @@
               "height": 720
             }
           },
-          "viewCount": 21088
+          "viewCount": 21101
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -326,7 +326,7 @@
               "height": 720
             }
           },
-          "viewCount": 1672,
+          "viewCount": 1690,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T09:00:00Z",
@@ -393,7 +393,7 @@
               "height": 720
             }
           },
-          "viewCount": 2211
+          "viewCount": 2213
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -642,7 +642,7 @@
               "height": 360
             }
           },
-          "viewCount": 3851,
+          "viewCount": 3853,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -893,42 +893,6 @@
             "actualStartTime": "2025-10-12T03:01:21Z",
             "actualEndTime": "2025-10-12T04:15:19Z"
           }
-        },
-        {
-          "videoId": "Rjc0p1zbFsE",
-          "title": "【再生の道】淳さんぽ【中央区勝どき】",
-          "description": "仕事で訪れている中央区勝どきの様子をお届けします",
-          "publishedAt": "2025-10-07T21:14:31Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Rjc0p1zbFsE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
-          },
-          "viewCount": 1160,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-07T08:00:00Z",
-            "actualStartTime": "2025-10-07T08:00:02Z",
-            "actualEndTime": "2025-10-07T09:06:52Z"
-          }
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1054,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 720
+          "viewCount": 719
         },
         {
           "videoId": "3664t6ZuPHg",
@@ -1206,7 +1170,7 @@
               "height": 720
             }
           },
-          "viewCount": 7008
+          "viewCount": 7009
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1267,7 +1231,7 @@
               "height": 720
             }
           },
-          "viewCount": 2793,
+          "viewCount": 2816,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1334,7 +1298,7 @@
               "height": 720
             }
           },
-          "viewCount": 2604
+          "viewCount": 2681
         },
         {
           "videoId": "Z5hCgk-Xg8I",
@@ -1551,7 +1515,7 @@
               "height": 720
             }
           },
-          "viewCount": 1676,
+          "viewCount": 1721,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T13:56:07Z",
@@ -1592,7 +1556,7 @@
               "height": 720
             }
           },
-          "viewCount": 3414,
+          "viewCount": 3420,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1654,7 +1618,7 @@
               "height": 360
             }
           },
-          "viewCount": 4058,
+          "viewCount": 4061,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1988,7 +1952,7 @@
               "height": 720
             }
           },
-          "viewCount": 8340,
+          "viewCount": 8341,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -2029,7 +1993,7 @@
               "height": 720
             }
           },
-          "viewCount": 13011,
+          "viewCount": 13015,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -2127,7 +2091,7 @@
               "height": 360
             }
           },
-          "viewCount": 7650,
+          "viewCount": 7656,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
