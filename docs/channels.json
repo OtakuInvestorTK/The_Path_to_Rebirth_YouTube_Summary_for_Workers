@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-14T04:39:37.203Z",
+  "requestedAt": "2025-10-14T05:33:25.033Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -47,50 +47,49 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "utERRl89q4s",
           "title": "青柳さんとライブします。",
           "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2025-10-11T02:26:57Z",
+          "publishedAt": "2025-10-14T05:03:53Z",
           "channelTitle": "奥村こうき | 再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 212,
+          "viewCount": 2538,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
             "actualStartTime": "2025-10-14T04:35:16Z",
-            "concurrentViewers": 256
+            "actualEndTime": "2025-10-14T04:57:43Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "Ys8P3COm464",
           "title": "奥村こうき | 再生の道 がライブ配信中！",
@@ -124,7 +123,7 @@
               "height": 720
             }
           },
-          "viewCount": 19958,
+          "viewCount": 19952,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T03:14:44Z",
@@ -231,7 +230,7 @@
               "height": 720
             }
           },
-          "viewCount": 13843
+          "viewCount": 14048
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -266,7 +265,7 @@
               "height": 720
             }
           },
-          "viewCount": 20034
+          "viewCount": 20135
         },
         {
           "videoId": "Mh-hk_02z84",
@@ -368,7 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 1636,
+          "viewCount": 1638,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T09:00:00Z",
@@ -435,7 +434,7 @@
               "height": 720
             }
           },
-          "viewCount": 1311
+          "viewCount": 1386
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -496,7 +495,7 @@
               "height": 720
             }
           },
-          "viewCount": 2508
+          "viewCount": 2510
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -627,7 +626,7 @@
               "height": 360
             }
           },
-          "viewCount": 2724,
+          "viewCount": 2716,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
@@ -684,7 +683,7 @@
               "height": 360
             }
           },
-          "viewCount": 3408,
+          "viewCount": 3452,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -858,7 +857,7 @@
               "height": 720
             }
           },
-          "viewCount": 652
+          "viewCount": 651
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -1177,7 +1176,7 @@
               "height": 720
             }
           },
-          "viewCount": 659
+          "viewCount": 656
         },
         {
           "videoId": "3664t6ZuPHg",
@@ -1253,7 +1252,7 @@
               "height": 720
             }
           },
-          "viewCount": 5065,
+          "viewCount": 5067,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T13:30:00Z",
@@ -1370,7 +1369,7 @@
               "height": 720
             }
           },
-          "viewCount": 6661
+          "viewCount": 6690
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1431,7 +1430,7 @@
               "height": 720
             }
           },
-          "viewCount": 958,
+          "viewCount": 1222,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1498,7 +1497,7 @@
               "height": 720
             }
           },
-          "viewCount": 16193,
+          "viewCount": 16216,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T23:00:00Z",
@@ -1640,7 +1639,7 @@
               "height": 720
             }
           },
-          "viewCount": 2774,
+          "viewCount": 2838,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1671,7 +1670,7 @@
               "height": 360
             }
           },
-          "viewCount": 3378,
+          "viewCount": 3390,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1850,7 +1849,7 @@
               "height": 720
             }
           },
-          "viewCount": 1755
+          "viewCount": 1754
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2077,7 +2076,7 @@
               "height": 720
             }
           },
-          "viewCount": 12237,
+          "viewCount": 12303,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -2118,7 +2117,7 @@
               "height": 720
             }
           },
-          "viewCount": 15227,
+          "viewCount": 15229,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T03:00:00Z",
@@ -2175,7 +2174,7 @@
               "height": 360
             }
           },
-          "viewCount": 7049,
+          "viewCount": 7110,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
