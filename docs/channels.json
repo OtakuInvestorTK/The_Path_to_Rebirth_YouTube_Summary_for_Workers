@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-14T03:10:59.281Z",
+  "requestedAt": "2025-10-14T04:39:37.203Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -47,7 +47,49 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "utERRl89q4s",
+          "title": "青柳さんとライブします。",
+          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2025-10-11T02:26:57Z",
+          "channelTitle": "奥村こうき | 再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/utERRl89q4s/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 212,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-10-11T02:26:56Z",
+            "actualStartTime": "2025-10-14T04:35:16Z",
+            "concurrentViewers": 256
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "Ys8P3COm464",
@@ -82,153 +124,13 @@
               "height": 720
             }
           },
-          "viewCount": 19939,
+          "viewCount": 19958,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T03:14:44Z",
             "actualStartTime": "2025-10-07T09:42:07Z",
             "actualEndTime": "2025-10-07T11:00:13Z"
           }
-        },
-        {
-          "videoId": "utOzGqJEuQk",
-          "title": "Sora2で八丈島の案内をしてみた🍄✨",
-          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2025-10-07T03:20:58Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/utOzGqJEuQk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/utOzGqJEuQk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/utOzGqJEuQk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/utOzGqJEuQk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/utOzGqJEuQk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 29996
-        },
-        {
-          "videoId": "b7KDm88L6Dw",
-          "title": "議員さんとペンギンちゃん、どっちの方が話しやすい？",
-          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2025-10-07T03:20:36Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/b7KDm88L6Dw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/b7KDm88L6Dw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/b7KDm88L6Dw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/b7KDm88L6Dw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/b7KDm88L6Dw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6479
-        },
-        {
-          "videoId": "0Odc6sn7IZI",
-          "title": "八丈島の光るキノコは食べられるの？🍄✨",
-          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2025-10-07T03:19:35Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/0Odc6sn7IZI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/0Odc6sn7IZI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/0Odc6sn7IZI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/0Odc6sn7IZI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/0Odc6sn7IZI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3298
-        },
-        {
-          "videoId": "fi8bbUFoPzI",
-          "title": "ペンギンと話すだけで意見が拾われる政治🐧",
-          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2025-10-07T03:17:21Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fi8bbUFoPzI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fi8bbUFoPzI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fi8bbUFoPzI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/fi8bbUFoPzI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fi8bbUFoPzI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6181
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -329,7 +231,7 @@
               "height": 720
             }
           },
-          "viewCount": 13538
+          "viewCount": 13843
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -364,7 +266,7 @@
               "height": 720
             }
           },
-          "viewCount": 19910
+          "viewCount": 20034
         },
         {
           "videoId": "Mh-hk_02z84",
@@ -399,7 +301,7 @@
               "height": 720
             }
           },
-          "viewCount": 15553,
+          "viewCount": 15561,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T12:00:00Z",
@@ -466,7 +368,7 @@
               "height": 720
             }
           },
-          "viewCount": 1634,
+          "viewCount": 1636,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T09:00:00Z",
@@ -533,7 +435,7 @@
               "height": 720
             }
           },
-          "viewCount": 1199
+          "viewCount": 1311
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -725,7 +627,7 @@
               "height": 360
             }
           },
-          "viewCount": 2716,
+          "viewCount": 2724,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
@@ -782,7 +684,7 @@
               "height": 360
             }
           },
-          "viewCount": 3337,
+          "viewCount": 3408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -915,7 +817,7 @@
               "height": 720
             }
           },
-          "viewCount": 1720,
+          "viewCount": 1721,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T10:02:30Z",
@@ -956,7 +858,7 @@
               "height": 720
             }
           },
-          "viewCount": 651
+          "viewCount": 652
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -1107,7 +1009,7 @@
               "height": 720
             }
           },
-          "viewCount": 1556,
+          "viewCount": 1558,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T03:00:00Z",
@@ -1275,7 +1177,7 @@
               "height": 720
             }
           },
-          "viewCount": 655
+          "viewCount": 659
         },
         {
           "videoId": "3664t6ZuPHg",
@@ -1310,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 2737,
+          "viewCount": 2738,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-09T14:00:00Z",
@@ -1351,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 5064,
+          "viewCount": 5065,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-07T13:30:00Z",
@@ -1468,7 +1370,7 @@
               "height": 720
             }
           },
-          "viewCount": 6610
+          "viewCount": 6661
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1494,89 +1396,47 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "_btBanFfNZI",
           "title": "【10月14日（火）12:00配信】あまのこころのこころトーク#11",
-          "description": "",
-          "publishedAt": "2025-10-14T01:15:44Z",
+          "description": "▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL\n\n▽ホームページ\nhttps://amano-cocoro.com/\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano\n\ninstagram / ID : @cocoro_amano\nhttps://www.instagram.com/cocoro_amano/",
+          "publishedAt": "2025-10-14T04:16:35Z",
           "channelTitle": "天野こころ【再生の道】中央区",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/_btBanFfNZI/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 189,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-14T03:00:00Z",
-            "actualStartTime": "2025-10-14T03:00:25Z",
-            "concurrentViewers": 162
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "nQhJVcFiaUQ",
-          "title": "【10月7日（火）12:00配信】天野こころのこころトーク#10",
-          "description": "小林学さんに色々教えてもらう回。\n\nゲスト：小林学\n@小林学_再生の道 \nhttps://x.com/kobayashi_m_p\n\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL\n\n▽ホームページ\nhttps://amano-cocoro.com/\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano\n\ninstagram / ID : @cocoro_amano\nhttps://www.instagram.com/cocoro_amano/",
-          "publishedAt": "2025-10-07T04:08:53Z",
-          "channelTitle": "天野こころ【再生の道】中央区",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/nQhJVcFiaUQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/nQhJVcFiaUQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/nQhJVcFiaUQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/nQhJVcFiaUQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/nQhJVcFiaUQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7411,
+          "viewCount": 958,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-10-07T03:00:00Z",
-            "actualStartTime": "2025-10-07T03:00:19Z",
-            "actualEndTime": "2025-10-07T04:02:06Z"
+            "scheduledStartTime": "2025-10-14T03:00:00Z",
+            "actualStartTime": "2025-10-14T03:00:25Z",
+            "actualEndTime": "2025-10-14T04:09:46Z"
           }
         }
       ],
@@ -1638,7 +1498,7 @@
               "height": 720
             }
           },
-          "viewCount": 16169,
+          "viewCount": 16193,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T23:00:00Z",
@@ -1780,7 +1640,7 @@
               "height": 720
             }
           },
-          "viewCount": 2690,
+          "viewCount": 2774,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1811,7 +1671,7 @@
               "height": 360
             }
           },
-          "viewCount": 3359,
+          "viewCount": 3378,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1842,7 +1702,7 @@
               "height": 360
             }
           },
-          "viewCount": 4002,
+          "viewCount": 4003,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1873,7 +1733,7 @@
               "height": 360
             }
           },
-          "viewCount": 4972,
+          "viewCount": 4974,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T11:00:00Z",
@@ -1990,7 +1850,7 @@
               "height": 720
             }
           },
-          "viewCount": 1743
+          "viewCount": 1755
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2146,7 +2006,7 @@
         {
           "videoId": "pSJy5SdJhpc",
           "title": "ヨシヒコ・ライブSP with 河添ひろしさん",
-          "description": "再生の道のメンバーで、元ドルヲタ、ゲーム大好きなアラフィフのおじさん（自称）河添ひろしさんをお迎えして、\n日曜日の中途半端な時間を楽しく彩りたいと思います。\n\nおもしろ話から真面目な話まで幅広くお話しします。\nお時間あえば、ぜひ遊びにいらしてください。\n\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→",
+          "description": "再生の道のメンバーで、元ドルヲタ、ゲーム大好きなアラフィフのおじさん（自称）河添ひろしさんをお迎えして、\n日曜日の中途半端な時間を楽しく彩りたいと思います。\n\nおもしろ話から真面目な話まで幅広くお話しします。\nお時間あえば、ぜひ遊びにいらしてください。\n\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→\n\n河添さんを紹介してくれた青柳みつやさんとの対談はこちらから\nhttps://www.youtube.com/live/doTeyE-EZVw?si=mKufb51f_lTUGP17",
           "publishedAt": "2025-10-12T09:11:28Z",
           "channelTitle": "増田よしひこ@再生の道",
           "thumbnails": {
@@ -2176,7 +2036,7 @@
               "height": 720
             }
           },
-          "viewCount": 8061,
+          "viewCount": 8102,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -2217,7 +2077,7 @@
               "height": 720
             }
           },
-          "viewCount": 12153,
+          "viewCount": 12237,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -2258,7 +2118,7 @@
               "height": 720
             }
           },
-          "viewCount": 15221,
+          "viewCount": 15227,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-08T03:00:00Z",
@@ -2315,7 +2175,7 @@
               "height": 360
             }
           },
-          "viewCount": 6977,
+          "viewCount": 7049,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
