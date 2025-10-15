@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-15T09:37:39.413Z",
+  "requestedAt": "2025-10-15T10:43:10.893Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 18324,
+          "viewCount": 18436,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 9383,
+          "viewCount": 9492,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 16433
+          "viewCount": 16520
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -225,7 +225,7 @@
               "height": 720
             }
           },
-          "viewCount": 21487
+          "viewCount": 21534
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -286,7 +286,7 @@
               "height": 720
             }
           },
-          "viewCount": 68,
+          "viewCount": 128,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -353,7 +353,7 @@
               "height": 720
             }
           },
-          "viewCount": 2351
+          "viewCount": 2378
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 620
+          "viewCount": 673
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -545,7 +545,7 @@
               "height": 360
             }
           },
-          "viewCount": 2840,
+          "viewCount": 2849,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
@@ -602,7 +602,7 @@
               "height": 360
             }
           },
-          "viewCount": 3933,
+          "viewCount": 3973,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -694,7 +694,7 @@
               "height": 720
             }
           },
-          "viewCount": 1736,
+          "viewCount": 1737,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T10:02:30Z",
@@ -735,7 +735,7 @@
               "height": 720
             }
           },
-          "viewCount": 670
+          "viewCount": 674
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -905,6 +905,49 @@
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
       "liveVideos": [
         {
+          "videoId": "fxZrRE9AhxQ",
+          "title": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】 がライブ配信中！",
+          "description": "",
+          "publishedAt": "2025-10-14T00:45:58Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fxZrRE9AhxQ/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fxZrRE9AhxQ/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fxZrRE9AhxQ/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fxZrRE9AhxQ/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fxZrRE9AhxQ/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 13,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-10-15T10:45:00Z",
+            "actualStartTime": "2025-10-15T10:41:46Z",
+            "concurrentViewers": 58
+          }
+        }
+      ],
+      "recentVideos": [
+        {
           "videoId": "HrfZr3OxfDA",
           "title": "出張先から雑談配信in碧南_2025年10月15日",
           "description": "【碧南の見どころ】\n* 醸造文化と食の探訪: 日本三大みりんの一つ「三州三河みりん」や、料亭の味を支える「白しょうゆ」発祥の地。醸造蔵を巡り、その奥深い歴史と味わいに触れることができます。ニンジンやタマネギなどの農業も盛んです。\n* 碧南海浜水族館と臨海公園: 地元の海「三河湾」の生き物を中心に展示する「碧南海浜水族館」は、家族連れに大人気。隣接する公園には展望台や遊具も充実しており、一日中楽しめます。\n* 歴史と信仰の寺社めぐり: 徳川家康ゆかりの寺「妙福寺」や、美しい庭園で知られる「称満寺」など、歴史を感じさせる寺社が点在。静かな時間の中で、その由緒をたどることができます。\n* 四季の花々と水辺の景観: 矢作川の河口に位置し、水辺の自然が豊かです。春には桜、初夏には花しょうぶなど、季節ごとに美しい花々が街を彩り、人々の憩いの場となっています。\n\n【愛知県碧南市とは？】\n愛知県の南部、矢作川の河口に位置する港町です。古くから醸造業が栄え、みりんや白しょうゆといった日本の食文化に欠かせない調味料の生産地として知られています。自動車関連産業をはじめとする工業都市として発展する一方で、豊かな水辺の自然や歴史的な寺社、家族で楽しめる公園などが調和した魅力的な地域です。\n\n碧南市観光協会公式サイト「へきなん観光ナビ」はこちら：[https://www.hekinan-kanko.jp/](https://www.hekinan-kanko.jp/)",
@@ -929,12 +972,12 @@
           },
           "viewCount": 0,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-15T10:30:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2025-10-15T10:30:00Z",
+            "actualStartTime": "2025-10-15T10:36:50Z",
+            "actualEndTime": "2025-10-15T10:41:37Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "mmlGdQjxIVM",
           "title": "地方創生と地域活性化の提案#02 地域に深く関わる - 移住・転職という選択肢",
@@ -968,7 +1011,7 @@
               "height": 720
             }
           },
-          "viewCount": 748
+          "viewCount": 753
         },
         {
           "videoId": "3664t6ZuPHg",
@@ -1003,7 +1046,7 @@
               "height": 720
             }
           },
-          "viewCount": 2756,
+          "viewCount": 2755,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-09T14:00:00Z",
@@ -1120,7 +1163,7 @@
               "height": 720
             }
           },
-          "viewCount": 7123
+          "viewCount": 7126
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1181,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 3002,
+          "viewCount": 3034,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1248,7 +1291,7 @@
               "height": 720
             }
           },
-          "viewCount": 4403
+          "viewCount": 4492
         },
         {
           "videoId": "Z5hCgk-Xg8I",
@@ -1283,7 +1326,7 @@
               "height": 720
             }
           },
-          "viewCount": 16579,
+          "viewCount": 16593,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T23:00:00Z",
@@ -1465,7 +1508,7 @@
               "height": 720
             }
           },
-          "viewCount": 3616,
+          "viewCount": 3635,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1496,7 +1539,7 @@
               "height": 360
             }
           },
-          "viewCount": 3568,
+          "viewCount": 3572,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1527,7 +1570,7 @@
               "height": 360
             }
           },
-          "viewCount": 4071,
+          "viewCount": 4076,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1861,7 +1904,7 @@
               "height": 720
             }
           },
-          "viewCount": 8482,
+          "viewCount": 8491,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -1902,7 +1945,7 @@
               "height": 720
             }
           },
-          "viewCount": 13323,
+          "viewCount": 13363,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -1959,7 +2002,7 @@
               "height": 360
             }
           },
-          "viewCount": 7754,
+          "viewCount": 7763,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
