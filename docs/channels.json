@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-15T08:51:14.085Z",
+  "requestedAt": "2025-10-15T09:37:39.413Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 18243,
+          "viewCount": 18324,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 9292,
+          "viewCount": 9383,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 16377
+          "viewCount": 16433
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -225,7 +225,7 @@
               "height": 720
             }
           },
-          "viewCount": 21452
+          "viewCount": 21487
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -251,12 +251,13 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "pv8u2gk3dhY",
           "title": "[ 朗読 ]  鶴の恩返し（鶴女房）　新潟民話　（毎週水曜日新作追加）",
           "description": "朗読 第１８段（毎週水曜日新作追加）　　\n鶴の恩返し（鶴女房）　新潟民話　\n\nこの朗読動画は、新潟民話の『鶴女房』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n底本：「鶴女房」\nサムネイルイラスト：Google Gemini\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-10-14T00:38:26Z",
+          "publishedAt": "2025-10-15T09:00:06Z",
           "channelTitle": "水野 純也 @再生の道",
           "thumbnails": {
             "default": {
@@ -285,53 +286,12 @@
               "height": 720
             }
           },
-          "viewCount": 3,
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-15T09:00:00Z"
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "noqrv6113wE",
-          "title": "[ 朗読 ]  竹取物語（かぐや姫）　和田萬吉　（毎週水曜日新作追加）",
-          "description": "朗読 第１７段（毎週水曜日新作追加）　　\nかぐや姫　花婿オーディション　富士山の由来\n\nこの朗読動画は、和田萬吉作の『竹取物語』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n原作：和田萬吉\n底本：「竹取物語」（青空文庫） \nURL: https://www.aozora.gr.jp/cards/001072/files/48310_42692.html\nサムネイルイラスト：Google Gemini\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-10-08T09:00:06Z",
-          "channelTitle": "水野 純也 @再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/noqrv6113wE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/noqrv6113wE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/noqrv6113wE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/noqrv6113wE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/noqrv6113wE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1703,
+          "viewCount": 68,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-10-08T09:00:00Z",
-            "actualStartTime": "2025-10-08T09:00:06Z",
-            "actualEndTime": "2025-10-08T09:32:38Z"
+            "scheduledStartTime": "2025-10-15T09:00:00Z",
+            "actualStartTime": "2025-10-15T09:00:06Z",
+            "actualEndTime": "2025-10-15T09:29:02Z"
           }
         }
       ],
@@ -393,7 +353,7 @@
               "height": 720
             }
           },
-          "viewCount": 2343
+          "viewCount": 2351
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -454,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 586
+          "viewCount": 620
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -585,7 +545,7 @@
               "height": 360
             }
           },
-          "viewCount": 2845,
+          "viewCount": 2840,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
@@ -642,7 +602,7 @@
               "height": 360
             }
           },
-          "viewCount": 3959,
+          "viewCount": 3933,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -886,7 +846,7 @@
               "height": 720
             }
           },
-          "viewCount": 1580,
+          "viewCount": 1582,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T03:00:00Z",
@@ -1008,7 +968,7 @@
               "height": 720
             }
           },
-          "viewCount": 746
+          "viewCount": 748
         },
         {
           "videoId": "3664t6ZuPHg",
@@ -1043,7 +1003,7 @@
               "height": 720
             }
           },
-          "viewCount": 2755,
+          "viewCount": 2756,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-09T14:00:00Z",
@@ -1160,7 +1120,7 @@
               "height": 720
             }
           },
-          "viewCount": 7113
+          "viewCount": 7123
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1221,7 +1181,7 @@
               "height": 720
             }
           },
-          "viewCount": 2986,
+          "viewCount": 3002,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1288,7 +1248,7 @@
               "height": 720
             }
           },
-          "viewCount": 4324
+          "viewCount": 4403
         },
         {
           "videoId": "Z5hCgk-Xg8I",
@@ -1323,7 +1283,7 @@
               "height": 720
             }
           },
-          "viewCount": 16572,
+          "viewCount": 16579,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T23:00:00Z",
@@ -1505,7 +1465,7 @@
               "height": 720
             }
           },
-          "viewCount": 3600,
+          "viewCount": 3616,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1536,7 +1496,7 @@
               "height": 360
             }
           },
-          "viewCount": 3544,
+          "viewCount": 3568,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1567,7 +1527,7 @@
               "height": 360
             }
           },
-          "viewCount": 4070,
+          "viewCount": 4071,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1715,7 +1675,7 @@
               "height": 720
             }
           },
-          "viewCount": 1883
+          "viewCount": 1885
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1901,7 +1861,7 @@
               "height": 720
             }
           },
-          "viewCount": 8436,
+          "viewCount": 8482,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -1942,7 +1902,7 @@
               "height": 720
             }
           },
-          "viewCount": 13298,
+          "viewCount": 13323,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -1999,7 +1959,7 @@
               "height": 360
             }
           },
-          "viewCount": 7748,
+          "viewCount": 7754,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
