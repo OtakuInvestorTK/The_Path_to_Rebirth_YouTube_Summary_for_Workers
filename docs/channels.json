@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-15T10:43:10.893Z",
+  "requestedAt": "2025-10-15T11:27:06.714Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 18436,
+          "viewCount": 18539,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 9492,
+          "viewCount": 9569,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 16520
+          "viewCount": 16579
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -225,7 +225,7 @@
               "height": 720
             }
           },
-          "viewCount": 21534
+          "viewCount": 21565
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -286,7 +286,7 @@
               "height": 720
             }
           },
-          "viewCount": 128,
+          "viewCount": 170,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -353,7 +353,7 @@
               "height": 720
             }
           },
-          "viewCount": 2378
+          "viewCount": 2391
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 673
+          "viewCount": 715
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -659,8 +659,91 @@
         }
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "oNBsmndUxOI",
+          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
+          "description": "",
+          "publishedAt": "2025-10-15T11:00:25Z",
+          "channelTitle": "やる気・元気・はるきチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 174,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-10-15T11:00:25Z",
+            "actualStartTime": "2025-10-15T11:01:12Z",
+            "concurrentViewers": 85
+          }
+        }
+      ],
       "recentVideos": [
+        {
+          "videoId": "qPK8kCNAHDc",
+          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
+          "description": "",
+          "publishedAt": "2025-10-15T11:02:07Z",
+          "channelTitle": "やる気・元気・はるきチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qPK8kCNAHDc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qPK8kCNAHDc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qPK8kCNAHDc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qPK8kCNAHDc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qPK8kCNAHDc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 39,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-10-15T10:50:04Z",
+            "actualStartTime": "2025-10-15T11:00:01Z",
+            "actualEndTime": "2025-10-15T11:00:06Z"
+          }
+        },
         {
           "videoId": "TKWUymEwkEo",
           "title": "【再生の道ぎぼはるき】Meetup29",
@@ -735,7 +818,7 @@
               "height": 720
             }
           },
-          "viewCount": 674
+          "viewCount": 675
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -937,12 +1020,12 @@
               "height": 720
             }
           },
-          "viewCount": 13,
+          "viewCount": 726,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2025-10-15T10:45:00Z",
             "actualStartTime": "2025-10-15T10:41:46Z",
-            "concurrentViewers": 58
+            "concurrentViewers": 274
           }
         }
       ],
@@ -1046,7 +1129,7 @@
               "height": 720
             }
           },
-          "viewCount": 2755,
+          "viewCount": 2757,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-09T14:00:00Z",
@@ -1163,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 7126
+          "viewCount": 7151
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1224,7 +1307,7 @@
               "height": 720
             }
           },
-          "viewCount": 3034,
+          "viewCount": 3063,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1291,7 +1374,7 @@
               "height": 720
             }
           },
-          "viewCount": 4492
+          "viewCount": 4537
         },
         {
           "videoId": "Z5hCgk-Xg8I",
@@ -1326,7 +1409,7 @@
               "height": 720
             }
           },
-          "viewCount": 16593,
+          "viewCount": 16599,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T23:00:00Z",
@@ -1508,7 +1591,7 @@
               "height": 720
             }
           },
-          "viewCount": 3635,
+          "viewCount": 3646,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1539,7 +1622,7 @@
               "height": 360
             }
           },
-          "viewCount": 3572,
+          "viewCount": 3569,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1570,7 +1653,7 @@
               "height": 360
             }
           },
-          "viewCount": 4076,
+          "viewCount": 4077,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1718,7 +1801,7 @@
               "height": 720
             }
           },
-          "viewCount": 1885
+          "viewCount": 1892
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1904,7 +1987,7 @@
               "height": 720
             }
           },
-          "viewCount": 8491,
+          "viewCount": 8518,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -1945,7 +2028,7 @@
               "height": 720
             }
           },
-          "viewCount": 13363,
+          "viewCount": 13400,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -2002,7 +2085,7 @@
               "height": 360
             }
           },
-          "viewCount": 7763,
+          "viewCount": 7772,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
