@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  WORKER_ENDPOINT: ${{ secrets.WORKER_ENDPOINT }}
+  CHANNELS_ENDPOINT: ${{ secrets.CHANNELS_ENDPOINT }}
 
 jobs:
   update:
@@ -19,8 +19,8 @@ jobs:
 
       - name: Check ENV
         run: |
-          if [ -z "$WORKER_ENDPOINT" ]; then
-            echo "WORKER_ENDPOINT secret is not configured"
+          if [ -z "$CHANNELS_ENDPOINT" ]; then
+            echo "CHANNELS_ENDPOINT secret is not configured"
             exit 1
           fi
 
@@ -31,42 +31,42 @@ jobs:
       - name: Fetch channels snapshot from Worker group 1
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=1" > docs/channels1.json
+          curl -fsSL "$CHANNELS_ENDPOINT?group=1" > docs/channels1.json
 
       - name: Fetch channels snapshot from Worker group 1
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=2" > docs/channels2.json
+          curl -fsSL "$CHANNELS_ENDPOINT?group=2" > docs/channels2.json
 
       - name: Fetch channels snapshot from Worker group 3
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=3" > docs/channels3.json
+          curl -fsSL "$CHANNELS_ENDPOINT?group=3" > docs/channels3.json
 
       - name: Fetch channels snapshot from Worker group 4
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=4" > docs/channels4.json
+          curl -fsSL "$CHANNELS_ENDPOINT?group=4" > docs/channels4.json
 
       - name: Fetch channels snapshot from Worker group 5
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=5" > docs/channels5.json
+          curl -fsSL "$CHANNELS_ENDPOINT?group=5" > docs/channels5.json
 
       - name: Fetch channels snapshot from Worker group 6
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=6" > docs/channels6.json
+          curl -fsSL "$CHANNELS_ENDPOINT?group=6" > docs/channels6.json
 
       - name: Fetch channels snapshot from Worker group 7
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=7" > docs/channels7.json
+          curl -fsSL "$CHANNELS_ENDPOINT?group=7" > docs/channels7.json
 
       - name: Fetch channels snapshot from Worker group 8
         run: |
           set -euo pipefail
-          curl -fsSL "$WORKER_ENDPOINT?group=8" > docs/channels8.json
+          curl -fsSL "$CHANNELS_ENDPOINT?group=8" > docs/channels8.json
 
       - name: Merge JSON files
         run: |

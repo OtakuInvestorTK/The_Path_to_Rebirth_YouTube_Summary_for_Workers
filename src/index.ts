@@ -4,23 +4,13 @@ import {
   fetchChannelsPayload,
   parseIdentifiers,
 } from "./channels";
-
-export interface Env {
-  YOUTUBE_API_KEY: string;
-  YOUTUBE_CHANNEL_IDS_1?: string;
-  YOUTUBE_CHANNEL_IDS_2?: string;
-  YOUTUBE_CHANNEL_IDS_3?: string;
-  YOUTUBE_CHANNEL_IDS_4?: string;
-  YOUTUBE_CHANNEL_IDS_5?: string;
-  YOUTUBE_CHANNEL_IDS_6?: string;
-  YOUTUBE_CHANNEL_IDS_7?: string;
-  YOUTUBE_CHANNEL_IDS_8?: string;
-}
+import { Env } from "./env";
+import { handlePushRequest } from "./push";
 
 const CORS_HEADERS = {
   "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Methods": "GET,OPTIONS",
-  "Access-Control-Allow-Headers": "Content-Type",
+  "Access-Control-Allow-Methods": "GET,POST,OPTIONS",
+  "Access-Control-Allow-Headers": "Content-Type,Authorization,X-Push-Token",
   "Access-Control-Max-Age": "86400",
 };
 
@@ -57,6 +47,15 @@ export default {
 
       if (url.pathname === "/channels") {
         return await handleChannelsRequest(url, env);
+      }
+
+      if (url.pathname === "/push") {
+        return await handlePushRequest({
+          request,
+          url,
+          env,
+          createJsonResponse,
+        });
       }
 
       return createJsonResponse({ error: "Not Found" }, { status: 404 });

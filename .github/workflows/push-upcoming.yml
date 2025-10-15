@@ -1,0 +1,52 @@
+name: Push Upcoming Notifications
+
+on:
+  schedule:
+    - cron: "30 7 * * *" # JST 16:30
+  workflow_dispatch:
+
+env:
+  PUSH_ENDPOINT: ${{ secrets.PUSH_ENDPOINT }}
+  PUSH_DEVICE_TOKEN: ${{ secrets.PUSH_DEVICE_TOKEN }}
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate configuration
+        run: |
+          set -euo pipefail
+          if [ -z "${PUSH_ENDPOINT:-}" ]; then
+            echo "PUSH_ENDPOINT secret is not configured"
+            exit 1
+          fi
+      - name: Trigger upcoming push notifications
+        run: |
+          set -euo pipefail
+
+          if ! command -v jq >/dev/null 2>&1; then
+            echo "jq is required"
+            exit 1
+          fi
+
+          if [ -n "${PUSH_DEVICE_TOKEN:-}" ]; then
+            payload=$(jq -n --arg type "upcoming" --arg token "${PUSH_DEVICE_TOKEN}" '{type: $type, deviceToken: $token}')
+          else
+            payload=$(jq -n --arg type "upcoming" '{type: $type}')
+          fi
+
+          response=$(mktemp)
+          if ! curl -sS -X POST \
+            -H "Content-Type: application/json" \
+            -H "Accept: application/json" \
+            -d "$payload" \
+            -o "$response" \
+            -w "Status: %{http_code}\n" \
+            "${PUSH_ENDPOINT}"; then
+            echo "Push request failed"
+            cat "$response"
+            exit 1
+          fi
+
+          echo "Response body:"
+          cat "$response"
