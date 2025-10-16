@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-16T16:52:09.887Z",
+  "requestedAt": "2025-10-16T17:33:44.560Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -161,7 +161,7 @@
               "height": 720
             }
           },
-          "viewCount": 20359,
+          "viewCount": 20374,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -269,7 +269,7 @@
               "height": 720
             }
           },
-          "viewCount": 18229
+          "viewCount": 18256
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -304,7 +304,7 @@
               "height": 720
             }
           },
-          "viewCount": 22151
+          "viewCount": 22187
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -365,7 +365,7 @@
               "height": 720
             }
           },
-          "viewCount": 816,
+          "viewCount": 824,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -432,7 +432,7 @@
               "height": 720
             }
           },
-          "viewCount": 2485
+          "viewCount": 2488
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -493,7 +493,7 @@
               "height": 720
             }
           },
-          "viewCount": 1176
+          "viewCount": 1197
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -681,7 +681,7 @@
               "height": 360
             }
           },
-          "viewCount": 4061,
+          "viewCount": 4068,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -773,7 +773,7 @@
               "height": 720
             }
           },
-          "viewCount": 3093,
+          "viewCount": 3102,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T11:00:25Z",
@@ -814,7 +814,7 @@
               "height": 720
             }
           },
-          "viewCount": 1767,
+          "viewCount": 1765,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T10:02:30Z",
@@ -855,7 +855,7 @@
               "height": 720
             }
           },
-          "viewCount": 701
+          "viewCount": 700
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -934,6 +934,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "RWHmkKTW3l4",
+          "title": "【再生の道】淳さんぽ出張編【Zipper試乗会】",
+          "description": "福島県南相馬市で行われる自走式次世代ロープウェイZipper試乗会に参加してきます。\n私有地と試乗会自体の配信はできないと思いますので、実験線のある場所を散歩しながら雑談する配信となります。",
+          "publishedAt": "2025-10-16T17:03:00Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 469,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-10-16T04:00:00Z",
+            "actualStartTime": "2025-10-16T04:24:21Z",
+            "actualEndTime": "2025-10-16T04:53:29Z"
+          }
+        },
+        {
           "videoId": "AjqEJlleybM",
           "title": "【相馬市】淳さんぽテスト【相馬中村城跡】",
           "description": "相馬中村城跡からライブ配信テストを行います",
@@ -966,53 +1007,12 @@
               "height": 720
             }
           },
-          "viewCount": 1016,
+          "viewCount": 1047,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T02:04:25Z",
             "actualStartTime": "2025-10-15T22:07:57Z",
             "actualEndTime": "2025-10-15T22:59:06Z"
-          }
-        },
-        {
-          "videoId": "RWHmkKTW3l4",
-          "title": "【再生の道】淳さんぽ出張編【Zipper試乗会】",
-          "description": "福島県南相馬市で行われる自走式次世代ロープウェイZipper試乗会に参加してきます。\n私有地と試乗会自体の配信はできないと思いますので、実験線のある場所を散歩しながら雑談する配信となります。",
-          "publishedAt": "2025-10-07T07:59:27Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/RWHmkKTW3l4/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 455,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-16T04:00:00Z",
-            "actualStartTime": "2025-10-16T04:24:21Z",
-            "actualEndTime": "2025-10-16T04:53:29Z"
           }
         },
         {
@@ -1140,7 +1140,7 @@
               "height": 720
             }
           },
-          "viewCount": 3072,
+          "viewCount": 3081,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T10:45:00Z",
@@ -1267,7 +1267,7 @@
               "height": 720
             }
           },
-          "viewCount": 7557,
+          "viewCount": 7586,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T12:15:41Z",
@@ -1334,7 +1334,7 @@
               "height": 720
             }
           },
-          "viewCount": 7404
+          "viewCount": 7409
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1462,7 +1462,7 @@
               "height": 720
             }
           },
-          "viewCount": 5163
+          "viewCount": 5167
         },
         {
           "videoId": "Z5hCgk-Xg8I",
@@ -1639,7 +1639,7 @@
               "height": 720
             }
           },
-          "viewCount": 2336,
+          "viewCount": 2318,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T13:55:00Z",
@@ -1721,7 +1721,7 @@
               "height": 720
             }
           },
-          "viewCount": 3875,
+          "viewCount": 3895,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1783,7 +1783,7 @@
               "height": 360
             }
           },
-          "viewCount": 4118,
+          "viewCount": 4120,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1900,7 +1900,7 @@
               "height": 720
             }
           },
-          "viewCount": 1944
+          "viewCount": 1945
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2086,7 +2086,7 @@
               "height": 720
             }
           },
-          "viewCount": 8728,
+          "viewCount": 8734,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -2184,7 +2184,7 @@
               "height": 360
             }
           },
-          "viewCount": 7899,
+          "viewCount": 7911,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
