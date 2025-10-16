@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-16T15:38:04.252Z",
+  "requestedAt": "2025-10-16T16:52:09.887Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -161,7 +161,7 @@
               "height": 720
             }
           },
-          "viewCount": 20324,
+          "viewCount": 20359,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -269,7 +269,7 @@
               "height": 720
             }
           },
-          "viewCount": 18122
+          "viewCount": 18229
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -365,7 +365,7 @@
               "height": 720
             }
           },
-          "viewCount": 802,
+          "viewCount": 816,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -432,7 +432,7 @@
               "height": 720
             }
           },
-          "viewCount": 2488
+          "viewCount": 2485
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -493,7 +493,7 @@
               "height": 720
             }
           },
-          "viewCount": 1194
+          "viewCount": 1176
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -773,7 +773,7 @@
               "height": 720
             }
           },
-          "viewCount": 3074,
+          "viewCount": 3093,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T11:00:25Z",
@@ -814,7 +814,7 @@
               "height": 720
             }
           },
-          "viewCount": 1765,
+          "viewCount": 1767,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T10:02:30Z",
@@ -855,7 +855,7 @@
               "height": 720
             }
           },
-          "viewCount": 700
+          "viewCount": 701
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -1007,7 +1007,7 @@
               "height": 720
             }
           },
-          "viewCount": 466,
+          "viewCount": 455,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-16T04:00:00Z",
@@ -1140,7 +1140,7 @@
               "height": 720
             }
           },
-          "viewCount": 3054,
+          "viewCount": 3072,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T10:45:00Z",
@@ -1182,47 +1182,6 @@
             }
           },
           "viewCount": 819
-        },
-        {
-          "videoId": "3664t6ZuPHg",
-          "title": "出張先から雑談配信in高岡_2025年10月09日",
-          "description": "【高岡の見どころ】\n * 国宝瑞龍寺と高岡大仏: 加賀藩ゆかりの国宝「瑞龍寺」と、日本三大大仏に数えられる「高岡大仏」。歴史と信仰が息づく荘厳な空間を体感できます。\n * 鋳物の町並み「金屋町」: 約400年の歴史を持つ高岡鋳物発祥の地。千本格子（さまのこ）の美しい家々が連なる町並みを散策し、ものづくりの心に触れることができます。\n * 雨晴海岸の絶景: 富山湾越しに、標高3,000m級の立山連峰を望むことができる景勝地。四季折々の雄大な景色は、まさに息をのむ美しさです。\n * まんがとグルメを堪能: 藤子・F・不二雄先生の故郷であり、街中を走る「ドラえもんトラム」は人気の的。富山湾の宝石と称されるシロエビや、ブリ、ホタルイカなど、新鮮な海の幸も絶品です。\n\n【富山県高岡市とは？】\n富山県の北西部に位置する高岡市は、加賀前田家二代当主・前田利長によって開かれた城下町です。\n400年以上の歴史を持つ「高岡銅器」などの伝統産業が根付く”ものづくりの町”として知られています。\n国宝・瑞龍寺や歴史的な町並み、そして雨晴海岸の絶景など、歴史・文化・自然が調和した魅力あふれる地域です。\n\n高岡市観光ポータルサイト「たかおか道しるべ」はこちら：https://www.takaoka.or.jp/",
-          "publishedAt": "2025-10-09T16:27:14Z",
-          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/3664t6ZuPHg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2766,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-09T14:00:00Z",
-            "actualStartTime": "2025-10-09T14:02:06Z",
-            "actualEndTime": "2025-10-09T15:07:15Z"
-          }
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1308,7 +1267,7 @@
               "height": 720
             }
           },
-          "viewCount": 7524,
+          "viewCount": 7557,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T12:15:41Z",
@@ -1375,7 +1334,7 @@
               "height": 720
             }
           },
-          "viewCount": 7383
+          "viewCount": 7404
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1436,7 +1395,7 @@
               "height": 720
             }
           },
-          "viewCount": 3282,
+          "viewCount": 3304,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1503,7 +1462,7 @@
               "height": 720
             }
           },
-          "viewCount": 5133
+          "viewCount": 5163
         },
         {
           "videoId": "Z5hCgk-Xg8I",
@@ -1680,7 +1639,7 @@
               "height": 720
             }
           },
-          "viewCount": 2318,
+          "viewCount": 2336,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T13:55:00Z",
@@ -1721,7 +1680,7 @@
               "height": 720
             }
           },
-          "viewCount": 2859,
+          "viewCount": 2870,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T14:17:31Z",
@@ -1762,7 +1721,7 @@
               "height": 720
             }
           },
-          "viewCount": 3879,
+          "viewCount": 3875,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1793,7 +1752,7 @@
               "height": 360
             }
           },
-          "viewCount": 3752,
+          "viewCount": 3754,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1824,7 +1783,7 @@
               "height": 360
             }
           },
-          "viewCount": 4113,
+          "viewCount": 4118,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1941,7 +1900,7 @@
               "height": 720
             }
           },
-          "viewCount": 1945
+          "viewCount": 1944
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2127,7 +2086,7 @@
               "height": 720
             }
           },
-          "viewCount": 8722,
+          "viewCount": 8728,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -2168,7 +2127,7 @@
               "height": 720
             }
           },
-          "viewCount": 14012,
+          "viewCount": 14035,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
