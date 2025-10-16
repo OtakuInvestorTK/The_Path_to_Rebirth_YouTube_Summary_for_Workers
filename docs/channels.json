@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-15T23:27:08.555Z",
+  "requestedAt": "2025-10-16T03:14:27.736Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 19304,
+          "viewCount": 19491,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 10122,
+          "viewCount": 10252,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 17420
+          "viewCount": 17539
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -225,7 +225,7 @@
               "height": 720
             }
           },
-          "viewCount": 21831
+          "viewCount": 21894
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -286,7 +286,7 @@
               "height": 720
             }
           },
-          "viewCount": 582,
+          "viewCount": 631,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -353,7 +353,7 @@
               "height": 720
             }
           },
-          "viewCount": 2441
+          "viewCount": 2447
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 942
+          "viewCount": 957
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -545,7 +545,7 @@
               "height": 360
             }
           },
-          "viewCount": 2864,
+          "viewCount": 2868,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
@@ -602,7 +602,7 @@
               "height": 360
             }
           },
-          "viewCount": 4003,
+          "viewCount": 4017,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -665,36 +665,36 @@
           "videoId": "oNBsmndUxOI",
           "title": "【再生の道ぎぼはるき】Meetup30",
           "description": "再生の道から新たに選挙にチャレンジします！その方は・・・・・",
-          "publishedAt": "2025-10-15T11:00:25Z",
+          "publishedAt": "2025-10-15T23:43:32Z",
           "channelTitle": "やる気・元気・はるきチャンネル",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/oNBsmndUxOI/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 875,
+          "viewCount": 1077,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T11:00:25Z",
@@ -735,7 +735,7 @@
               "height": 720
             }
           },
-          "viewCount": 1744,
+          "viewCount": 1745,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T10:02:30Z",
@@ -776,7 +776,7 @@
               "height": 720
             }
           },
-          "viewCount": 688
+          "viewCount": 690
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -887,7 +887,7 @@
               "height": 720
             }
           },
-          "viewCount": 86,
+          "viewCount": 841,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T02:04:25Z",
@@ -928,7 +928,7 @@
               "height": 720
             }
           },
-          "viewCount": 1588,
+          "viewCount": 1590,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T03:00:00Z",
@@ -1020,7 +1020,7 @@
               "height": 720
             }
           },
-          "viewCount": 2389,
+          "viewCount": 2524,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T10:45:00Z",
@@ -1061,7 +1061,7 @@
               "height": 720
             }
           },
-          "viewCount": 775
+          "viewCount": 777
         },
         {
           "videoId": "3664t6ZuPHg",
@@ -1096,7 +1096,7 @@
               "height": 720
             }
           },
-          "viewCount": 2762,
+          "viewCount": 2763,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-09T14:00:00Z",
@@ -1188,7 +1188,7 @@
               "height": 720
             }
           },
-          "viewCount": 5387,
+          "viewCount": 6165,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T12:15:41Z",
@@ -1255,7 +1255,7 @@
               "height": 720
             }
           },
-          "viewCount": 7223
+          "viewCount": 7261
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1316,7 +1316,7 @@
               "height": 720
             }
           },
-          "viewCount": 3191,
+          "viewCount": 3205,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1383,7 +1383,7 @@
               "height": 720
             }
           },
-          "viewCount": 4873
+          "viewCount": 4942
         },
         {
           "videoId": "Z5hCgk-Xg8I",
@@ -1418,7 +1418,7 @@
               "height": 720
             }
           },
-          "viewCount": 16715,
+          "viewCount": 16752,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T23:00:00Z",
@@ -1528,6 +1528,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "OtLfBbCF13w",
+          "title": "【再生の道】ミートアップオンライン vol.11 ver 2",
+          "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
+          "publishedAt": "2025-10-16T02:18:24Z",
+          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1774,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-10-15T13:55:00Z",
+            "actualStartTime": "2025-10-15T13:55:05Z",
+            "actualEndTime": "2025-10-15T15:30:14Z"
+          }
+        },
+        {
           "videoId": "LLbEo0Xv90g",
           "title": "ミートアップオンライン vol 11（Behind the Scene）",
           "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
@@ -1560,53 +1601,12 @@
               "height": 720
             }
           },
-          "viewCount": 1411,
+          "viewCount": 1703,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T14:17:31Z",
             "actualStartTime": "2025-10-15T14:17:50Z",
             "actualEndTime": "2025-10-15T15:18:20Z"
-          }
-        },
-        {
-          "videoId": "OtLfBbCF13w",
-          "title": "【再生の道】ミートアップオンライン vol.11 ver 2",
-          "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
-          "publishedAt": "2025-10-15T13:54:36Z",
-          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/OtLfBbCF13w/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1459,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-15T13:55:00Z",
-            "actualStartTime": "2025-10-15T13:55:05Z",
-            "actualEndTime": "2025-10-15T15:30:14Z"
           }
         },
         {
@@ -1642,7 +1642,7 @@
               "height": 720
             }
           },
-          "viewCount": 3772,
+          "viewCount": 3779,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1673,7 +1673,7 @@
               "height": 360
             }
           },
-          "viewCount": 3619,
+          "viewCount": 3627,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1704,7 +1704,7 @@
               "height": 360
             }
           },
-          "viewCount": 4095,
+          "viewCount": 4098,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1821,7 +1821,7 @@
               "height": 720
             }
           },
-          "viewCount": 1924
+          "viewCount": 1934
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2007,7 +2007,7 @@
               "height": 720
             }
           },
-          "viewCount": 8614,
+          "viewCount": 8625,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -2048,7 +2048,7 @@
               "height": 720
             }
           },
-          "viewCount": 13665,
+          "viewCount": 13738,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -2105,7 +2105,7 @@
               "height": 360
             }
           },
-          "viewCount": 7834,
+          "viewCount": 7855,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
