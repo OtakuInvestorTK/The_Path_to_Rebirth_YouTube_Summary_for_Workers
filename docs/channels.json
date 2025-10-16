@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-16T10:41:37.138Z",
+  "requestedAt": "2025-10-16T11:27:56.627Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 20065,
+          "viewCount": 20089,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -189,7 +189,7 @@
               "height": 720
             }
           },
-          "viewCount": 10500,
+          "viewCount": 10523,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T12:00:00Z",
@@ -230,7 +230,7 @@
               "height": 720
             }
           },
-          "viewCount": 17911
+          "viewCount": 17945
         },
         {
           "videoId": "4Jp4MTc4Bt4",
@@ -265,7 +265,7 @@
               "height": 720
             }
           },
-          "viewCount": 22079
+          "viewCount": 22102
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -326,7 +326,7 @@
               "height": 720
             }
           },
-          "viewCount": 749,
+          "viewCount": 752,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -393,7 +393,7 @@
               "height": 720
             }
           },
-          "viewCount": 2470
+          "viewCount": 2473
         }
       ],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
@@ -454,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 1097
+          "viewCount": 1102
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -585,7 +585,7 @@
               "height": 360
             }
           },
-          "viewCount": 2889,
+          "viewCount": 2884,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
@@ -642,7 +642,7 @@
               "height": 360
             }
           },
-          "viewCount": 4051,
+          "viewCount": 4050,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -734,7 +734,7 @@
               "height": 720
             }
           },
-          "viewCount": 2474,
+          "viewCount": 2570,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T11:00:25Z",
@@ -775,7 +775,7 @@
               "height": 720
             }
           },
-          "viewCount": 1758,
+          "viewCount": 1761,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T10:02:30Z",
@@ -895,6 +895,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "AjqEJlleybM",
+          "title": "【相馬市】淳さんぽテスト【相馬中村城跡】",
+          "description": "相馬中村城跡からライブ配信テストを行います",
+          "publishedAt": "2025-10-16T11:09:32Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AjqEJlleybM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AjqEJlleybM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AjqEJlleybM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AjqEJlleybM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AjqEJlleybM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 995,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-10-12T02:04:25Z",
+            "actualStartTime": "2025-10-15T22:07:57Z",
+            "actualEndTime": "2025-10-15T22:59:06Z"
+          }
+        },
+        {
           "videoId": "RWHmkKTW3l4",
           "title": "【再生の道】淳さんぽ出張編【Zipper試乗会】",
           "description": "福島県南相馬市で行われる自走式次世代ロープウェイZipper試乗会に参加してきます。\n私有地と試乗会自体の配信はできないと思いますので、実験線のある場所を散歩しながら雑談する配信となります。",
@@ -927,53 +968,12 @@
               "height": 720
             }
           },
-          "viewCount": 382,
+          "viewCount": 402,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-16T04:00:00Z",
             "actualStartTime": "2025-10-16T04:24:21Z",
             "actualEndTime": "2025-10-16T04:53:29Z"
-          }
-        },
-        {
-          "videoId": "AjqEJlleybM",
-          "title": "【相馬市】淳さんぽテスト【相馬中村城跡】",
-          "description": "相馬中村城跡からライブ配信テストを行います",
-          "publishedAt": "2025-10-12T02:04:25Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/AjqEJlleybM/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/AjqEJlleybM/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/AjqEJlleybM/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/AjqEJlleybM/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/AjqEJlleybM/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 987,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-12T02:04:25Z",
-            "actualStartTime": "2025-10-15T22:07:57Z",
-            "actualEndTime": "2025-10-15T22:59:06Z"
           }
         },
         {
@@ -1101,7 +1101,7 @@
               "height": 720
             }
           },
-          "viewCount": 2851,
+          "viewCount": 2880,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T10:45:00Z",
@@ -1142,7 +1142,7 @@
               "height": 720
             }
           },
-          "viewCount": 794
+          "viewCount": 796
         },
         {
           "videoId": "3664t6ZuPHg",
@@ -1177,7 +1177,7 @@
               "height": 720
             }
           },
-          "viewCount": 2763,
+          "viewCount": 2764,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-09T14:00:00Z",
@@ -1269,7 +1269,7 @@
               "height": 720
             }
           },
-          "viewCount": 7188,
+          "viewCount": 7241,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T12:15:41Z",
@@ -1336,7 +1336,7 @@
               "height": 720
             }
           },
-          "viewCount": 7347
+          "viewCount": 7360
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1397,7 +1397,7 @@
               "height": 720
             }
           },
-          "viewCount": 3263,
+          "viewCount": 3261,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1464,7 +1464,7 @@
               "height": 720
             }
           },
-          "viewCount": 5072
+          "viewCount": 5076
         },
         {
           "videoId": "Z5hCgk-Xg8I",
@@ -1499,7 +1499,7 @@
               "height": 720
             }
           },
-          "viewCount": 16832,
+          "viewCount": 16836,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T23:00:00Z",
@@ -1641,7 +1641,7 @@
               "height": 720
             }
           },
-          "viewCount": 2168,
+          "viewCount": 2195,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T13:55:00Z",
@@ -1682,7 +1682,7 @@
               "height": 720
             }
           },
-          "viewCount": 2414,
+          "viewCount": 2469,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T14:17:31Z",
@@ -1754,7 +1754,7 @@
               "height": 360
             }
           },
-          "viewCount": 3689,
+          "viewCount": 3711,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T12:00:00Z",
@@ -1785,7 +1785,7 @@
               "height": 360
             }
           },
-          "viewCount": 4105,
+          "viewCount": 4110,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-10T13:00:00Z",
@@ -1902,7 +1902,7 @@
               "height": 720
             }
           },
-          "viewCount": 1939
+          "viewCount": 1942
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2088,7 +2088,7 @@
               "height": 720
             }
           },
-          "viewCount": 8698,
+          "viewCount": 8704,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -2129,7 +2129,7 @@
               "height": 720
             }
           },
-          "viewCount": 13966,
+          "viewCount": 13979,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -2186,7 +2186,7 @@
               "height": 360
             }
           },
-          "viewCount": 7887,
+          "viewCount": 7886,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
