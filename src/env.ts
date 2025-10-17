@@ -15,4 +15,5 @@ export interface Env {
   PUSH_TOPIC_LIVE?: string;
   PUSH_TOPIC_UPCOMING?: string;
   PUSH_TOPIC_NORMAL?: string;
+  PUSH_HISTORY_KV?: KVNamespace;
 }

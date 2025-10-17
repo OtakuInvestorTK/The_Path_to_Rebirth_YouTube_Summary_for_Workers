@@ -7,3 +7,7 @@ compatibility_date = "2024-01-01"
 
 [observability]
 enabled = true
+
+[[kv_namespaces]]
+binding = "PUSH_HISTORY_KV"
+id = "311b3351c89f405db5e8b4661a4b1b03"

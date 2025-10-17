@@ -1,13 +1,10 @@
-import {
-  ChannelsApiResponse,
-  ChannelResult,
-  VideoSummary,
-} from "./channels";
+import { ChannelsApiResponse, ChannelResult, VideoSummary } from "./channels";
 import { Env } from "./env";
 
 const GOOGLE_OAUTH_TOKEN_ENDPOINT = "https://oauth2.googleapis.com/token";
 const FCM_SCOPE = "https://www.googleapis.com/auth/firebase.messaging";
 const JST_OFFSET_MS = 9 * 60 * 60 * 1000;
+const PUSH_HISTORY_TTL_SECONDS = 12 * 60 * 60;
 
 type CachedAccessToken = {
   token: string;
@@ -141,7 +138,9 @@ async function fetchChannelsSnapshot(
   const response = await fetch(url);
   if (!response.ok) {
     throw new Error(
-      `Failed to fetch channels snapshot (${response.status}): ${await response.text()}`
+      `Failed to fetch channels snapshot (${
+        response.status
+      }): ${await response.text()}`
     );
   }
 
@@ -161,18 +160,54 @@ async function handleLivePush({
   deviceToken,
   defaultTarget,
 }: PushHandlerArgs): Promise<PushResult> {
-  const datasetTimestamp = new Date(snapshot.requestedAt);
-  const candidateVideos = collectVideos(snapshot.channels, "live").filter(
-    (item) => {
-      const status = item.video.liveStreaming?.status;
-      const actualStart = item.video.liveStreaming?.actualStartTime;
-      if (status !== "live" || !actualStart) {
-        return false;
-      }
+  const now = new Date();
+  const historyStore = isKvNamespace(env.PUSH_HISTORY_KV)
+    ? env.PUSH_HISTORY_KV
+    : undefined;
+  const nowMs = now.getTime();
 
-      return new Date(actualStart).getTime() >= datasetTimestamp.getTime();
-    }
+  const candidateVideos: Array<{
+    channel: ChannelResult;
+    video: VideoSummary;
+  }> = [];
+
+  const seenVideoIds = new Set<string>();
+  const combinedVideos = collectVideos(snapshot.channels, "live").concat(
+    collectVideos(snapshot.channels, "upcoming")
   );
+
+  for (const item of combinedVideos) {
+    const videoId = item.video.videoId;
+    if (!videoId) {
+      continue;
+    }
+
+    const scheduledStart = item.video.liveStreaming?.scheduledStartTime;
+    if (!scheduledStart) {
+      continue;
+    }
+
+    const scheduleMs = new Date(scheduledStart).getTime();
+    if (Number.isNaN(scheduleMs) || scheduleMs > nowMs) {
+      continue;
+    }
+
+    const historyKey = `live:${videoId}`;
+
+    if (historyStore) {
+      const alreadySent = await historyStore.get(historyKey);
+      if (alreadySent) {
+        continue;
+      }
+    }
+
+    if (seenVideoIds.has(historyKey)) {
+      continue;
+    }
+
+    seenVideoIds.add(historyKey);
+    candidateVideos.push(item);
+  }
 
   const targetLabel: "device" | "topic" = deviceToken ? "device" : "topic";
   const targetValue = deviceToken ?? (defaultTarget as string);
@@ -193,7 +228,7 @@ async function handleLivePush({
       videoId: video.videoId,
       channelId: channel.channelId,
       channelTitle: channel.channelTitle,
-      actualStartTime: video.liveStreaming?.actualStartTime ?? "",
+      scheduledStartTime: video.liveStreaming?.scheduledStartTime ?? "",
       click_action: videoUrl,
     };
 
@@ -211,6 +246,19 @@ async function handleLivePush({
       });
 
       results.push({ videoId: video.videoId, channelId: channel.channelId });
+
+      if (historyStore) {
+        await historyStore.put(
+          `live:${video.videoId}`,
+          JSON.stringify({
+            requestedAt: snapshot.requestedAt,
+            sentAt: new Date().toISOString(),
+            channelId: channel.channelId,
+            type: "live",
+          }),
+          { expirationTtl: PUSH_HISTORY_TTL_SECONDS }
+        );
+      }
     } catch (error) {
       errors.push({ id: video.videoId, message: toMessage(error) });
     }
@@ -242,7 +290,9 @@ async function handleUpcomingPush({
         return false;
       }
       const scheduleTime = new Date(schedule).getTime();
-      return scheduleTime >= startUtc.getTime() && scheduleTime <= endUtc.getTime();
+      return (
+        scheduleTime >= startUtc.getTime() && scheduleTime <= endUtc.getTime()
+      );
     })
     .sort((a, b) => {
       const timeA = new Date(
@@ -324,7 +374,9 @@ async function handleUpcomingPush({
       channelId: channel.channelId,
       videoId: video.videoId,
     })),
-    ...(remainingCount > 0 ? { skipped: `Truncated ${remainingCount} additional items` } : {}),
+    ...(remainingCount > 0
+      ? { skipped: `Truncated ${remainingCount} additional items` }
+      : {}),
   };
 }
 
@@ -345,7 +397,11 @@ async function handleNormalPush({
       const publishedAt = new Date(video.publishedAt).getTime();
       return publishedAt >= threshold;
     })
-    .sort((a, b) => new Date(b.video.publishedAt).getTime() - new Date(a.video.publishedAt).getTime());
+    .sort(
+      (a, b) =>
+        new Date(b.video.publishedAt).getTime() -
+        new Date(a.video.publishedAt).getTime()
+    );
 
   const uniqueByChannel = pickUniqueByChannel(candidateVideos);
   const topVideos = uniqueByChannel.slice(0, 3);
@@ -416,7 +472,9 @@ async function handleNormalPush({
       channelId: channel.channelId,
       videoId: video.videoId,
     })),
-    ...(remainingCount > 0 ? { skipped: `Truncated ${remainingCount} additional items` } : {}),
+    ...(remainingCount > 0
+      ? { skipped: `Truncated ${remainingCount} additional items` }
+      : {}),
   };
 }
 
@@ -448,6 +506,17 @@ function collectVideos(
   return results;
 }
 
+function isKvNamespace(value: unknown): value is KVNamespace {
+  if (!value || typeof value !== "object") {
+    return false;
+  }
+
+  const candidate = value as KVNamespace;
+  return (
+    typeof candidate.get === "function" && typeof candidate.put === "function"
+  );
+}
+
 function pickUniqueByChannel(
   items: Array<{ channel: ChannelResult; video: VideoSummary }>
 ): Array<{ channel: ChannelResult; video: VideoSummary }> {
@@ -466,7 +535,9 @@ function pickUniqueByChannel(
   return results;
 }
 
-function selectThumbnailUrl(thumbnails: VideoSummary["thumbnails"]): string | undefined {
+function selectThumbnailUrl(
+  thumbnails: VideoSummary["thumbnails"]
+): string | undefined {
   if (!thumbnails) {
     return undefined;
   }
@@ -494,7 +565,10 @@ function formatJstTime(iso: string): string {
   return `${hours}:${minutes}`;
 }
 
-function getJstDayBoundaries(now: Date, endHour: number): {
+function getJstDayBoundaries(
+  now: Date,
+  endHour: number
+): {
   startUtc: Date;
   endUtc: Date;
 } {
@@ -599,15 +673,16 @@ async function getAccessToken(env: Env): Promise<string> {
   const iat = Math.floor(now / 1000);
   const exp = iat + 3600;
 
-  const unsignedToken = `${base64UrlEncodeJson({ alg: "RS256", typ: "JWT" })}.${base64UrlEncodeJson(
-    {
-      iss: clientEmail,
-      scope: FCM_SCOPE,
-      aud: GOOGLE_OAUTH_TOKEN_ENDPOINT,
-      iat,
-      exp,
-    }
-  )}`;
+  const unsignedToken = `${base64UrlEncodeJson({
+    alg: "RS256",
+    typ: "JWT",
+  })}.${base64UrlEncodeJson({
+    iss: clientEmail,
+    scope: FCM_SCOPE,
+    aud: GOOGLE_OAUTH_TOKEN_ENDPOINT,
+    iat,
+    exp,
+  })}`;
 
   const signature = await signJwt(unsignedToken, privateKeyPem);
   const assertion = `${unsignedToken}.${signature}`;
@@ -635,7 +710,9 @@ async function getAccessToken(env: Env): Promise<string> {
   if (!response.ok || !tokenResponse.access_token) {
     const reason = tokenResponse.error_description || tokenResponse.error;
     throw new Error(
-      `Failed to obtain FCM access token (${response.status}): ${reason ?? "unknown error"}`
+      `Failed to obtain FCM access token (${response.status}): ${
+        reason ?? "unknown error"
+      }`
     );
   }
 
@@ -651,11 +728,7 @@ async function getAccessToken(env: Env): Promise<string> {
 async function signJwt(unsignedToken: string, pem: string): Promise<string> {
   const key = await importPrivateKey(pem);
   const data = new TextEncoder().encode(unsignedToken);
-  const signature = await crypto.subtle.sign(
-    "RSASSA-PKCS1-v1_5",
-    key,
-    data
-  );
+  const signature = await crypto.subtle.sign("RSASSA-PKCS1-v1_5", key, data);
   return base64UrlEncode(new Uint8Array(signature));
 }
 

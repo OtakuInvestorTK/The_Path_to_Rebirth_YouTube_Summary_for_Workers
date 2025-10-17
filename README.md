@@ -29,7 +29,9 @@
    npx wrangler secret put FCM_PROJECT_ID      # Firebase プロジェクト ID
    npx wrangler secret put FCM_CLIENT_EMAIL    # サービスアカウントの client_email
    npx wrangler secret put FCM_PRIVATE_KEY     # サービスアカウントの private_key（\n で改行を表現）
-   ```
+   npx wrangler kv:namespace create PUSH_HISTORY_KV # 送信済み動画を記録する KV 名前空間
+  ```
+   - KV 名前空間は `wrangler.toml` に自動で追記されるので、本番環境用 ID も忘れずに設定してください。
 
 ## 開発
 
@@ -206,7 +208,8 @@ curl -X POST \
 
 - **type=live**
 
-  - 30 分間隔で呼び出し、`status=live` かつ `actualStartTime` が `requestedAt` 以降の動画に対し動画ごと 1 通送信。
+  - 15 分間隔で呼び出し、`status` が `live` または `upcoming` で、`scheduledStartTime` が現在時刻以前になっている動画を対象にそれぞれ 1 通送信。
+  - 送信後は Cloudflare KV (`PUSH_HISTORY_KV`) に `videoId` ごとの履歴を 12 時間保存し、同じ動画への重複送信を防ぎます。
   - タイトル: `🔴ライブ配信中：{チャンネル名}`
   - 本文: `{動画タイトル}` + 改行 + `通知を開いて確認する👀`
   - 画像: 対象動画のサムネイル（高解像度優先）。
