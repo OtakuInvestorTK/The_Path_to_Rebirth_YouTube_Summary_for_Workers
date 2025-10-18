@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-18T21:26:34.244Z",
+  "requestedAt": "2025-10-18T22:31:30.976Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15252,
+          "viewCount": 15280,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 48870,
+          "viewCount": 49260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T11:30:00Z",
@@ -369,7 +369,7 @@
               "height": 720
             }
           },
-          "viewCount": 1163,
+          "viewCount": 1162,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -685,7 +685,7 @@
               "height": 360
             }
           },
-          "viewCount": 4132,
+          "viewCount": 4133,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -777,7 +777,7 @@
               "height": 720
             }
           },
-          "viewCount": 3535,
+          "viewCount": 3536,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T11:00:25Z",
@@ -889,7 +889,7 @@
               "height": 480
             }
           },
-          "viewCount": 952,
+          "viewCount": 966,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-16T04:23:29Z",
@@ -930,7 +930,7 @@
               "height": 720
             }
           },
-          "viewCount": 681,
+          "viewCount": 683,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-16T04:00:00Z",
@@ -1072,6 +1072,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "3aSVcEviFlo",
+          "title": "地方創生と地域活性化の提案#03 暮らしの中で応援する - 今すぐできるアクション",
+          "description": "地方創生プロデューサーのやなぎさわ誉之です。\n動画をご視聴いただきありがとうございます。\nこのチャンネルでは、「地方創生と地域活性化の道」をテーマに、私たち一人ひとりができる地域貢献の形についてご紹介しています。\n今回の動画はシリーズ第3弾、「暮らしの中で応援する 今すぐできるアクション」編です。\n移住や転職といった大きな決断をしなくても、今の暮らしの中でできる「地域貢献」の具体的なアクションを4つご紹介します。\n【目次】\n0:00 イントロダクション\n0:55 今回のテーマ：暮らしの中で応援する「今すぐできるアクション」\n1:32 ① ふるさと納税で地域を応援\n2:08 ② クラウドファンディングで地域プロジェクトを支援\n2:44 ③ 地産地消と観光で地域経済を活性化\n3:24 ④ ボランティア活動で地域に関わる\n3:58 次回（第4部）の予告\n「これなら自分にもできそう」\n「こういう関わり方もあるんだ」\nと、地方創生をより身近に感じていただくきっかけになれば幸いです。\n次回（第4部）は、「新しい関わり方と次の一歩」として、多様な働き方から生まれた新たな関わり方や、最初の一歩を踏み出すヒントについてお話しします。\n▼動画を見て「参考になった」「次も見たい」と思っていただけた方は、\nぜひ「いいね」（グッドボタン）と「チャンネル登録」をよろしくお願いいたします！\n皆様からのコメントも（ハイプやご質問など）お待ちしています。\n▼話し手\nやなぎさわ 誉之（たかゆき）\n地方創生プロデューサー\n#地方創生 #地域活性化 #ふるさと納税 #クラウドファンディング #地産地消 #観光 #ボランティア #関係人口 #やなぎさわ誉之",
+          "publishedAt": "2025-10-18T22:00:04Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3aSVcEviFlo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3aSVcEviFlo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3aSVcEviFlo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3aSVcEviFlo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3aSVcEviFlo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 65
+        },
+        {
           "videoId": "fxZrRE9AhxQ",
           "title": "出張先から雑談配信in碧南_2025年10月15日",
           "description": "【碧南の見どころ】\n* 醸造文化と食の探訪: 日本三大みりんの一つ「三州三河みりん」や、料亭の味を支える「白しょうゆ」発祥の地。醸造蔵を巡り、その奥深い歴史と味わいに触れることができます。ニンジンやタマネギなどの農業も盛んです。\n* 碧南海浜水族館と臨海公園: 地元の海「三河湾」の生き物を中心に展示する「碧南海浜水族館」は、家族連れに大人気。隣接する公園には展望台や遊具も充実しており、一日中楽しめます。\n* 歴史と信仰の寺社めぐり: 徳川家康ゆかりの寺「妙福寺」や、美しい庭園で知られる「称満寺」など、歴史を感じさせる寺社が点在。静かな時間の中で、その由緒をたどることができます。\n* 四季の花々と水辺の景観: 矢作川の河口に位置し、水辺の自然が豊かです。春には桜、初夏には花しょうぶなど、季節ごとに美しい花々が街を彩り、人々の憩いの場となっています。\n\n【愛知県碧南市とは？】\n愛知県の南部、矢作川の河口に位置する港町です。古くから醸造業が栄え、みりんや白しょうゆといった日本の食文化に欠かせない調味料の生産地として知られています。自動車関連産業をはじめとする工業都市として発展する一方で、豊かな水辺の自然や歴史的な寺社、家族で楽しめる公園などが調和した魅力的な地域です。\n\n碧南市観光協会公式サイト「へきなん観光ナビ」はこちら：[https://www.hekinan-kanko.jp/](https://www.hekinan-kanko.jp/)",
@@ -1104,48 +1139,13 @@
               "height": 720
             }
           },
-          "viewCount": 3265,
+          "viewCount": 3275,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T10:45:00Z",
             "actualStartTime": "2025-10-15T10:41:46Z",
             "actualEndTime": "2025-10-15T11:49:15Z"
           }
-        },
-        {
-          "videoId": "mmlGdQjxIVM",
-          "title": "地方創生と地域活性化の提案#02 地域に深く関わる - 移住・転職という選択肢",
-          "description": "地方創生プロデューサーのやなぎさわ誉之です。\n動画をご視聴いただきありがとうございます。\nこのチャンネルでは、「地方創生と地域活性化の道」をテーマに、私たち一人ひとりができる地域貢献の形についてご紹介しています。\n今回の動画はシリーズ第2弾、「地域に深く関わる移住・転職という選択肢」編です。\n「もっと本気で地域に関わりたい」「地方に移住してキャリアを築きたい」と考える方に向けて、地域と深くコミットするための具体的な3つの制度・方法を解説します。\n\n【目次】\n0:00 イントロダクション\n0:55 今回のテーマ：地域に深く関わる「移住・転職」\n1:48 ① 地域おこし協力隊\n2:33 ② 地域活性化起業人\n3:17 ③ 地域での起業・事業承継\n3:58 次回（第3部）の予告\n\n「自分のスキルを地方で活かせるかもしれない」\n「こんな働き方・関わり方があるんだ」\nと、新しいキャリアのヒントになれば幸いです。\n次回（第3部）は、「暮らしの中で応援する 今すぐできるアクション」として、移住や転職をしなくても日常の暮らしの中でできる地域貢献についてお話しします。\n\n▼動画を見て「参考になった」「次も見たい」と思っていただけた方は、\nぜひ「いいね」（グッドボタン）と「チャンネル登録」をよろしくお願いいたします！\n皆様からのコメントも（ハイプやご質問など）お待ちしています。\n\n▼話し手\nやなぎさわ 誉之（たかゆき）\n地方創生プロデューサー\n\n#地方創生 #地域活性化 #地域おこし協力隊 #地域活性化起業人 #事業承継 #移住 #デュアルキャリア #関係人口 #やなぎさわ誉之",
-          "publishedAt": "2025-10-11T22:00:50Z",
-          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/mmlGdQjxIVM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/mmlGdQjxIVM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/mmlGdQjxIVM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/mmlGdQjxIVM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/mmlGdQjxIVM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 907
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1231,7 +1231,7 @@
               "height": 720
             }
           },
-          "viewCount": 8006,
+          "viewCount": 8007,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T12:15:41Z",
@@ -1298,7 +1298,7 @@
               "height": 720
             }
           },
-          "viewCount": 7549
+          "viewCount": 7548
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1359,7 +1359,7 @@
               "height": 720
             }
           },
-          "viewCount": 3371,
+          "viewCount": 3372,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1465,7 +1465,7 @@
               "height": 720
             }
           },
-          "viewCount": 17722,
+          "viewCount": 17887,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-18T06:30:00Z",
@@ -1506,7 +1506,7 @@
               "height": 720
             }
           },
-          "viewCount": 7765,
+          "viewCount": 7800,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T23:00:00Z",
@@ -1547,7 +1547,7 @@
               "height": 720
             }
           },
-          "viewCount": 5390
+          "viewCount": 5392
         }
       ],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
@@ -1648,7 +1648,37 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "Gi1ngFD_63E",
+          "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.13",
+          "description": "#再生の道 #くれよしつぐ #久禮義継\n【再生の道 @世田谷区】\n座右の銘は『八転び九起き』。不屈のチャレンジ精神！\n\n【略歴】\nBig4監査法人→日本興業銀行出向→投資銀行（ドイツ証券/JPモルガン証券/みずほ証券）→NEC経営企画（グローバル戦略・中長期戦略）→独立（政策提言活動、事業承継、再生支援等）公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n\n【Youtubeチャンネル】\n@saisei-kure\n\n【SNS等】\nEメール　yoshitsugu.kure@gmail.com\nX（旧Twitter）　x.com/yoshitsugu_kure\nFacebook　facebook.com/yoshitsugu.kure\n公認会計士 久禮義継事務所　https://kure-cpa.com/",
+          "publishedAt": "2025-10-18T22:27:45Z",
+          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Gi1ngFD_63E/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Gi1ngFD_63E/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Gi1ngFD_63E/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-19T03:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "xWWvfeCwUVM",
@@ -1673,7 +1703,7 @@
               "height": 360
             }
           },
-          "viewCount": 3230,
+          "viewCount": 3245,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T03:00:00Z",
@@ -1796,7 +1826,7 @@
               "height": 720
             }
           },
-          "viewCount": 3978,
+          "viewCount": 3984,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1944,7 +1974,7 @@
               "height": 720
             }
           },
-          "viewCount": 1972
+          "viewCount": 1973
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2130,7 +2160,7 @@
               "height": 720
             }
           },
-          "viewCount": 8832,
+          "viewCount": 8835,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T08:00:00Z",
@@ -2171,7 +2201,7 @@
               "height": 720
             }
           },
-          "viewCount": 14233,
+          "viewCount": 14229,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T01:00:00Z",
@@ -2228,7 +2258,7 @@
               "height": 360
             }
           },
-          "viewCount": 7967,
+          "viewCount": 7968,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T13:00:00Z",
