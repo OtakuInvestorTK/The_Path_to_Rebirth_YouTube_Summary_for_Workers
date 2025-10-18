@@ -20,7 +20,7 @@
    # 第2~8グループ (必要に応じて)
    npx wrangler secret put YOUTUBE_CHANNEL_IDS_N
    ```
-4. プッシュ通知を利用する場合は、以下のバインディングを設定します。
+4. プッシュ通知を利用する場合は、以下のバインディングを設定します。端末トークンのトピック登録は Render 側サービス（`path_to_rebirth_for_render`）で行うため、Worker の `/push/register` エンドポイントは提供していません。
    ```bash
    npx wrangler secret put CHANNELS_JSON_URL   # docs/channels.json を公開している URL
    npx wrangler secret put PUSH_TOPIC_LIVE     # LIVE 通知のトピック（例: live-stream）
@@ -30,8 +30,20 @@
    npx wrangler secret put FCM_CLIENT_EMAIL    # サービスアカウントの client_email
    npx wrangler secret put FCM_PRIVATE_KEY     # サービスアカウントの private_key（\n で改行を表現）
    npx wrangler kv:namespace create PUSH_HISTORY_KV # 送信済み動画を記録する KV 名前空間
-  ```
-   - KV 名前空間は `wrangler.toml` に自動で追記されるので、本番環境用 ID も忘れずに設定してください。
+   ```
+
+
+## Render ステータス監視
+
+Render 上のトピック登録サービス（`path_to_rebirth_for_render`）の `/status` エンドポイントを 5 分間隔でヘルスチェックする GitHub Actions（`.github/workflows/ping-render-status.yml`）を用意しています。実行するには、リポジトリのシークレットに以下を登録してください。
+
+- `RENDER_STATUS_ENDPOINT` … 例: `https://your-render-app.onrender.com/status`
+
+シークレット未設定の場合はワークフローが失敗します。`workflow_dispatch` にも対応しているため、必要に応じて手動実行も可能です。
+
+
+````
+ - KV 名前空間は `wrangler.toml` に自動で追記されるので、本番環境用 ID も忘れずに設定してください。
 
 ## 開発
 
@@ -39,7 +51,7 @@
 
 ```bash
 npm run worker:dev
-```
+````
 
 ## エンドポイント
 
@@ -270,7 +282,7 @@ curl -X POST \
 共通で以下のシークレット/環境変数を準備してください。
 
 - `PUSH_ENDPOINT` … Worker の `/push` エンドポイント URL（例: `https://worker.example.workers.dev/push`）。
-- `PUSH_DEVICE_TOKEN_*` … 任意。特定端末のみへ送信したい場合に `PUSH_DEVICE_TOKEN_LIVE` / `_UPCOMING` / `_NORMAL` を設定します。
+- `PUSH_DEVICE_TOKEN` … 任意。特定端末のみへ送信したい場合に `PUSH_DEVICE_TOKEN`を設定します。
 
 各ワークフローは `curl` のレスポンス本文を出力するので、GitHub Actions のログから送信結果を確認できます。
 

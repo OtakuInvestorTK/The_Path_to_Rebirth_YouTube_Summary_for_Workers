@@ -655,7 +655,7 @@ async function sendFcmMessage({
   }
 }
 
-async function getAccessToken(env: Env): Promise<string> {
+export async function getAccessToken(env: Env): Promise<string> {
   const clientEmail = env.FCM_CLIENT_EMAIL;
   const privateKeyPem = env.FCM_PRIVATE_KEY;
 
