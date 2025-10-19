@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-19T14:35:48.898Z",
+  "requestedAt": "2025-10-19T15:33:18.687Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16078,
+          "viewCount": 16123,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 58876,
+          "viewCount": 59218,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T11:30:00Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 20688,
+          "viewCount": 20687,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -232,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 10920,
+          "viewCount": 10919,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T12:00:00Z",
@@ -299,7 +299,47 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "Dg6nMMgkYLc",
+          "title": "ライブ配信　2025.10.20    19:00~  朗読とか、AIペンギン？",
+          "description": "東京都在住、再生の道から国政を目指した63歳、4人家族。\n\nX   https://x.com/HAL_MIZ9\n\n全動画切り抜き自由ですが、悪意のある編集はご遠慮ください。",
+          "publishedAt": "2025-10-19T15:08:57Z",
+          "channelTitle": "水野 純也 @再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-20T10:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "pv8u2gk3dhY",
@@ -334,7 +374,7 @@
               "height": 720
             }
           },
-          "viewCount": 1238,
+          "viewCount": 1241,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -462,7 +502,7 @@
               "height": 720
             }
           },
-          "viewCount": 1784
+          "viewCount": 1834
         },
         {
           "videoId": "GAWrWYvJxw0",
@@ -497,7 +537,7 @@
               "height": 720
             }
           },
-          "viewCount": 1492
+          "viewCount": 1493
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -573,7 +613,8 @@
         }
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "H3_MBae3FNc",
           "title": "meetup 20251019 #2",
@@ -607,16 +648,14 @@
               "height": 720
             }
           },
-          "viewCount": 112,
+          "viewCount": 283,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-10-19T14:25:00Z",
             "actualStartTime": "2025-10-19T14:25:41Z",
-            "concurrentViewers": 83
+            "actualEndTime": "2025-10-19T15:07:56Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "44bM8FGyD58",
           "title": "meetup 20251019",
@@ -640,43 +679,12 @@
               "height": 360
             }
           },
-          "viewCount": 630,
+          "viewCount": 636,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T13:30:00Z",
             "actualStartTime": "2025-10-19T13:22:30Z",
             "actualEndTime": "2025-10-19T14:25:08Z"
-          }
-        },
-        {
-          "videoId": "ZqGQKd1daIY",
-          "title": "meetup 20251012",
-          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
-          "publishedAt": "2025-10-12T14:50:48Z",
-          "channelTitle": "弘田としやすCh",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ZqGQKd1daIY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ZqGQKd1daIY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ZqGQKd1daIY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "viewCount": 2933,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-12T13:00:00Z",
-            "actualStartTime": "2025-10-12T13:02:45Z",
-            "actualEndTime": "2025-10-12T14:36:29Z"
           }
         }
       ],
@@ -820,7 +828,7 @@
               "height": 720
             }
           },
-          "viewCount": 630
+          "viewCount": 650
         },
         {
           "videoId": "oNBsmndUxOI",
@@ -1008,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 693,
+          "viewCount": 692,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-16T04:00:00Z",
@@ -1049,7 +1057,7 @@
               "height": 720
             }
           },
-          "viewCount": 1089,
+          "viewCount": 1090,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T02:04:25Z",
@@ -1182,7 +1190,7 @@
               "height": 720
             }
           },
-          "viewCount": 1366
+          "viewCount": 1390
         },
         {
           "videoId": "fxZrRE9AhxQ",
@@ -1309,7 +1317,7 @@
               "height": 720
             }
           },
-          "viewCount": 8068,
+          "viewCount": 8075,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T12:15:41Z",
@@ -1401,7 +1409,7 @@
               "height": 720
             }
           },
-          "viewCount": 3386,
+          "viewCount": 3389,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1507,7 +1515,7 @@
               "height": 720
             }
           },
-          "viewCount": 21747,
+          "viewCount": 21913,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-18T06:30:00Z",
@@ -1548,7 +1556,7 @@
               "height": 720
             }
           },
-          "viewCount": 8266,
+          "viewCount": 8277,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T23:00:00Z",
@@ -1715,7 +1723,7 @@
               "height": 360
             }
           },
-          "viewCount": 3176,
+          "viewCount": 3214,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T03:00:00Z",
@@ -1746,7 +1754,7 @@
               "height": 360
             }
           },
-          "viewCount": 3397,
+          "viewCount": 3408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T03:00:00Z",
@@ -1787,7 +1795,7 @@
               "height": 720
             }
           },
-          "viewCount": 2459,
+          "viewCount": 2461,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T13:55:00Z",
@@ -1828,7 +1836,7 @@
               "height": 720
             }
           },
-          "viewCount": 3062,
+          "viewCount": 3064,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T14:17:31Z",
@@ -1869,7 +1877,7 @@
               "height": 720
             }
           },
-          "viewCount": 4004,
+          "viewCount": 4005,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T13:10:37Z",
@@ -1936,7 +1944,7 @@
               "height": 720
             }
           },
-          "viewCount": 3339
+          "viewCount": 3455
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2022,7 +2030,7 @@
               "height": 720
             }
           },
-          "viewCount": 2558
+          "viewCount": 2600
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
