@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-20T04:43:01.185Z",
+  "requestedAt": "2025-10-20T05:37:23.230Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16440,
+          "viewCount": 16477,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 61602,
+          "viewCount": 61896,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T11:30:00Z",
@@ -374,7 +374,7 @@
               "height": 720
             }
           },
-          "viewCount": 1278,
+          "viewCount": 1279,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -407,43 +407,7 @@
       },
       "channelId": "UC06DwrQiecM4t3UegP39Jzg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "6RMVazPppTA",
-          "title": "短編物語「AIデモクラシー」",
-          "description": "この物語は、AIが浸透した未来はどうなるのか、AIが個人の選択から社会の運営までを担うようになった近未来を描きました。\n\n\nユウト（22歳）: 主人公。パーソナルAIと共に成長したデジタルネイティブ世代。\nノア: ユウトのパーソナルAI。\n\nパーソナルAIに判断を委ねる青年ユウト。彼がAIの勧めで投票した議員が「AI議員」となり、社会は急速にAIによる運営へと傾いていく。\n\nこの物語はフィクションです。実在の人物や団体などとは関係ありません。\n\n声：音読さん（https://ondoku3.com/）",
-          "publishedAt": "2025-10-13T05:16:29Z",
-          "channelTitle": "はぎわらたかし 再生の道@渋谷",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/6RMVazPppTA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/6RMVazPppTA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/6RMVazPppTA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/6RMVazPppTA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/6RMVazPppTA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2569
-        }
-      ],
+      "recentVideos": [],
       "name": "萩原崇,萩原たかし,はぎわら崇,はぎわらたかし"
     },
     {
@@ -502,7 +466,7 @@
               "height": 720
             }
           },
-          "viewCount": 2110
+          "viewCount": 2129
         },
         {
           "videoId": "GAWrWYvJxw0",
@@ -537,7 +501,7 @@
               "height": 720
             }
           },
-          "viewCount": 1500
+          "viewCount": 1502
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -678,7 +642,7 @@
               "height": 720
             }
           },
-          "viewCount": 986,
+          "viewCount": 1047,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T14:25:00Z",
@@ -709,7 +673,7 @@
               "height": 360
             }
           },
-          "viewCount": 1425,
+          "viewCount": 1450,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T13:30:00Z",
@@ -806,7 +770,7 @@
               "height": 360
             }
           },
-          "viewCount": 4167,
+          "viewCount": 4171,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-13T11:00:00Z",
@@ -1045,7 +1009,7 @@
               "height": 480
             }
           },
-          "viewCount": 1131,
+          "viewCount": 1128,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-16T04:23:29Z",
@@ -1086,7 +1050,7 @@
               "height": 720
             }
           },
-          "viewCount": 697,
+          "viewCount": 698,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-16T04:00:00Z",
@@ -1127,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 1090,
+          "viewCount": 1089,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-12T02:04:25Z",
@@ -1219,7 +1183,7 @@
               "height": 720
             }
           },
-          "viewCount": 1528
+          "viewCount": 1549
         },
         {
           "videoId": "fxZrRE9AhxQ",
@@ -1254,7 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 3433,
+          "viewCount": 3434,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T10:45:00Z",
@@ -1346,7 +1310,7 @@
               "height": 720
             }
           },
-          "viewCount": 8100,
+          "viewCount": 8102,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T12:15:41Z",
@@ -1438,7 +1402,7 @@
               "height": 720
             }
           },
-          "viewCount": 3398,
+          "viewCount": 3400,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T03:00:00Z",
@@ -1544,7 +1508,7 @@
               "height": 720
             }
           },
-          "viewCount": 23035,
+          "viewCount": 23162,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-18T06:30:00Z",
@@ -1626,7 +1590,7 @@
               "height": 720
             }
           },
-          "viewCount": 5453
+          "viewCount": 5457
         }
       ],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
@@ -1752,7 +1716,7 @@
               "height": 360
             }
           },
-          "viewCount": 3510,
+          "viewCount": 3548,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T03:00:00Z",
@@ -1865,7 +1829,7 @@
               "height": 720
             }
           },
-          "viewCount": 3066,
+          "viewCount": 3067,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T14:17:31Z",
@@ -1973,7 +1937,7 @@
               "height": 720
             }
           },
-          "viewCount": 889
+          "viewCount": 1067
         },
         {
           "videoId": "00IX7rsXF2U",
@@ -2008,7 +1972,7 @@
               "height": 720
             }
           },
-          "viewCount": 4084
+          "viewCount": 4148
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2094,7 +2058,7 @@
               "height": 720
             }
           },
-          "viewCount": 2918
+          "viewCount": 2943
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
