@@ -13,7 +13,8 @@ export type LiveStreamingInfo = {
 };
 
 const API_BASE = "https://www.googleapis.com/youtube/v3/";
-const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+const ONE_WEEK_MS = 7 * ONE_DAY_MS;
 
 export type ChannelsApiResponse = {
   requestedAt: string;
@@ -273,13 +274,27 @@ async function fetchChannelData(
     maxResults: 20,
   });
 
+  const now = Date.now();
+  const filteredSummaries = summaries.filter((video) => {
+    if (video.liveStreaming?.status !== "upcoming") {
+      return true;
+    }
+    const reference =
+      video.liveStreaming.scheduledStartTime ?? video.publishedAt;
+    const referenceTime = new Date(reference).getTime();
+    if (Number.isNaN(referenceTime)) {
+      return true;
+    }
+    return now - referenceTime <= ONE_DAY_MS;
+  });
+
   const isLiveOrUpcoming = (v: VideoSummary) =>
     v.liveStreaming?.status === "live" ||
     v.liveStreaming?.status === "upcoming";
 
-  const liveVideos = summaries.filter(isLiveOrUpcoming);
+  const liveVideos = filteredSummaries.filter(isLiveOrUpcoming);
   // completed（配信終了）や live 情報なし（通常動画）は recentVideos にまとめる
-  const recentVideos = summaries.filter((v) => !isLiveOrUpcoming(v));
+  const recentVideos = filteredSummaries.filter((v) => !isLiveOrUpcoming(v));
 
   return {
     channelId,
