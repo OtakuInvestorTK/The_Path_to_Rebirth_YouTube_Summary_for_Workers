@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-21T04:40:16.837Z",
+  "requestedAt": "2025-10-21T05:35:45.892Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16922,
+          "viewCount": 16955,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 64895,
+          "viewCount": 64977,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T11:30:00Z",
@@ -130,7 +130,8 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "lS3o7MX_UJw",
           "title": "くれよしつぐさんとライブします。",
@@ -157,55 +158,19 @@
               "url": "https://i.ytimg.com/vi/lS3o7MX_UJw/sddefault_live.jpg",
               "width": 640,
               "height": 480
-            }
-          },
-          "viewCount": 0,
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-21T04:35:19Z"
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "utERRl89q4s",
-          "title": "青柳さんとライブします。",
-          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2025-10-14T05:03:53Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/sddefault.jpg",
-              "width": 640,
-              "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/utERRl89q4s/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/lS3o7MX_UJw/maxresdefault_live.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 20776,
+          "viewCount": 956,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-10-11T02:26:56Z",
-            "actualStartTime": "2025-10-14T04:35:16Z",
-            "actualEndTime": "2025-10-14T04:57:43Z"
+            "scheduledStartTime": "2025-10-21T04:35:19Z",
+            "actualStartTime": "2025-10-21T04:41:11Z",
+            "actualEndTime": "2025-10-21T04:52:50Z"
           }
         }
       ],
@@ -307,7 +272,7 @@
               "height": 720
             }
           },
-          "viewCount": 4258
+          "viewCount": 4314
         },
         {
           "videoId": "NQhci2rPKqY",
@@ -342,7 +307,7 @@
               "height": 720
             }
           },
-          "viewCount": 3572
+          "viewCount": 3641
         },
         {
           "videoId": "FgkeljZEbb8",
@@ -377,7 +342,7 @@
               "height": 720
             }
           },
-          "viewCount": 11019,
+          "viewCount": 11020,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-14T12:00:00Z",
@@ -484,7 +449,7 @@
               "height": 720
             }
           },
-          "viewCount": 4192,
+          "viewCount": 4233,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-20T10:00:00Z",
@@ -793,7 +758,7 @@
               "height": 720
             }
           },
-          "viewCount": 1440,
+          "viewCount": 1446,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T14:25:00Z",
@@ -824,7 +789,7 @@
               "height": 360
             }
           },
-          "viewCount": 1576,
+          "viewCount": 1573,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T13:30:00Z",
@@ -891,7 +856,7 @@
               "height": 720
             }
           },
-          "viewCount": 3283,
+          "viewCount": 3303,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-20T11:00:00Z",
@@ -983,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 795
+          "viewCount": 800
         },
         {
           "videoId": "oNBsmndUxOI",
@@ -1171,7 +1136,7 @@
               "height": 720
             }
           },
-          "viewCount": 703,
+          "viewCount": 705,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-16T04:00:00Z",
@@ -1304,7 +1269,7 @@
               "height": 720
             }
           },
-          "viewCount": 1746
+          "viewCount": 1760
         },
         {
           "videoId": "fxZrRE9AhxQ",
@@ -1523,7 +1488,7 @@
               "height": 720
             }
           },
-          "viewCount": 638,
+          "viewCount": 898,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T03:00:00Z",
@@ -1590,7 +1555,7 @@
               "height": 720
             }
           },
-          "viewCount": 24417,
+          "viewCount": 24460,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-18T06:30:00Z",
@@ -1776,6 +1741,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "ivaolRao_Pg",
+          "title": "【再生の道】奥村代表とランチミーティング",
+          "description": "【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【ご寄付はこちらからお願い申し上げます】\nhttps://go2senkyo.com/donate/flow/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2025-10-21T04:53:29Z",
+          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ivaolRao_Pg/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ivaolRao_Pg/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ivaolRao_Pg/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ivaolRao_Pg/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ivaolRao_Pg/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 460,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-10-21T04:53:29Z",
+            "actualStartTime": "2025-10-21T04:54:31Z",
+            "actualEndTime": "2025-10-21T05:05:19Z"
+          }
+        },
+        {
           "videoId": "LrG19W2liAE",
           "title": "テスト",
           "description": "【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【ご寄付はこちらからお願い申し上げます】\nhttps://go2senkyo.com/donate/flow/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
@@ -1808,7 +1814,7 @@
               "height": 720
             }
           },
-          "viewCount": 396,
+          "viewCount": 559,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T02:47:58Z",
@@ -1849,7 +1855,7 @@
               "height": 720
             }
           },
-          "viewCount": 4789,
+          "viewCount": 4861,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-20T12:00:00Z",
@@ -1911,7 +1917,7 @@
               "height": 360
             }
           },
-          "viewCount": 3448,
+          "viewCount": 3451,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T03:00:00Z",
@@ -2060,7 +2066,7 @@
               "height": 720
             }
           },
-          "viewCount": 3201
+          "viewCount": 3243
         },
         {
           "videoId": "00IX7rsXF2U",
@@ -2095,7 +2101,7 @@
               "height": 720
             }
           },
-          "viewCount": 4736
+          "viewCount": 4738
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2181,7 +2187,7 @@
               "height": 720
             }
           },
-          "viewCount": 3247
+          "viewCount": 3255
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
