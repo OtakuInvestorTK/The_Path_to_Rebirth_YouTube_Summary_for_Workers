@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-21T03:16:54.548Z",
+  "requestedAt": "2025-10-21T04:40:16.837Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16917,
+          "viewCount": 16922,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 64772,
+          "viewCount": 64895,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T11:30:00Z",
@@ -130,7 +130,42 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "lS3o7MX_UJw",
+          "title": "くれよしつぐさんとライブします。",
+          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2025-10-21T04:35:19Z",
+          "channelTitle": "奥村こうき | 再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lS3o7MX_UJw/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lS3o7MX_UJw/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lS3o7MX_UJw/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lS3o7MX_UJw/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-21T04:35:19Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "utERRl89q4s",
@@ -165,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 20772,
+          "viewCount": 20776,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-11T02:26:56Z",
@@ -272,7 +307,7 @@
               "height": 720
             }
           },
-          "viewCount": 4174
+          "viewCount": 4258
         },
         {
           "videoId": "NQhci2rPKqY",
@@ -307,7 +342,7 @@
               "height": 720
             }
           },
-          "viewCount": 3473
+          "viewCount": 3572
         },
         {
           "videoId": "FgkeljZEbb8",
@@ -449,7 +484,7 @@
               "height": 720
             }
           },
-          "viewCount": 4119,
+          "viewCount": 4192,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-20T10:00:00Z",
@@ -490,7 +525,7 @@
               "height": 720
             }
           },
-          "viewCount": 1343,
+          "viewCount": 1345,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T09:00:00Z",
@@ -582,7 +617,7 @@
               "height": 720
             }
           },
-          "viewCount": 2495
+          "viewCount": 2509
         },
         {
           "videoId": "GAWrWYvJxw0",
@@ -617,7 +652,7 @@
               "height": 720
             }
           },
-          "viewCount": 1510
+          "viewCount": 1511
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -758,7 +793,7 @@
               "height": 720
             }
           },
-          "viewCount": 1437,
+          "viewCount": 1440,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T14:25:00Z",
@@ -789,7 +824,7 @@
               "height": 360
             }
           },
-          "viewCount": 1571,
+          "viewCount": 1576,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T13:30:00Z",
@@ -856,7 +891,7 @@
               "height": 720
             }
           },
-          "viewCount": 3234,
+          "viewCount": 3283,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-20T11:00:00Z",
@@ -1269,7 +1304,7 @@
               "height": 720
             }
           },
-          "viewCount": 1743
+          "viewCount": 1746
         },
         {
           "videoId": "fxZrRE9AhxQ",
@@ -1396,7 +1431,7 @@
               "height": 720
             }
           },
-          "viewCount": 8140,
+          "viewCount": 8143,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-15T12:15:41Z",
@@ -1453,7 +1488,8 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "5dl8b5V0xeA",
           "title": "【10月21日12:00配信】天野こころのこころトーク#12",
@@ -1487,55 +1523,12 @@
               "height": 720
             }
           },
-          "viewCount": 232,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-10-21T03:00:00Z",
-            "actualStartTime": "2025-10-21T02:58:26Z",
-            "concurrentViewers": 169
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "_btBanFfNZI",
-          "title": "【10月14日（火）12:00配信】あまのこころのこころトーク#11",
-          "description": "▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL\n\n▽ホームページ\nhttps://amano-cocoro.com/\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano\n\ninstagram / ID : @cocoro_amano\nhttps://www.instagram.com/cocoro_amano/",
-          "publishedAt": "2025-10-14T04:16:35Z",
-          "channelTitle": "天野こころ【再生の道】中央区",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/_btBanFfNZI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3409,
+          "viewCount": 638,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-10-14T03:00:00Z",
-            "actualStartTime": "2025-10-14T03:00:25Z",
-            "actualEndTime": "2025-10-14T04:09:46Z"
+            "scheduledStartTime": "2025-10-21T03:00:00Z",
+            "actualStartTime": "2025-10-21T02:58:26Z",
+            "actualEndTime": "2025-10-21T03:50:23Z"
           }
         }
       ],
@@ -1597,7 +1590,7 @@
               "height": 720
             }
           },
-          "viewCount": 24365,
+          "viewCount": 24417,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-18T06:30:00Z",
@@ -1638,7 +1631,7 @@
               "height": 720
             }
           },
-          "viewCount": 8513,
+          "viewCount": 8525,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-17T23:00:00Z",
@@ -1679,7 +1672,7 @@
               "height": 720
             }
           },
-          "viewCount": 5473
+          "viewCount": 5475
         }
       ],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
@@ -1815,7 +1808,7 @@
               "height": 720
             }
           },
-          "viewCount": 130,
+          "viewCount": 396,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T02:47:58Z",
@@ -1856,7 +1849,7 @@
               "height": 720
             }
           },
-          "viewCount": 4677,
+          "viewCount": 4789,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-20T12:00:00Z",
@@ -1887,7 +1880,7 @@
               "height": 360
             }
           },
-          "viewCount": 3716,
+          "viewCount": 3723,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-19T03:00:00Z",
@@ -2067,7 +2060,7 @@
               "height": 720
             }
           },
-          "viewCount": 3145
+          "viewCount": 3201
         },
         {
           "videoId": "00IX7rsXF2U",
@@ -2102,7 +2095,7 @@
               "height": 720
             }
           },
-          "viewCount": 4724
+          "viewCount": 4736
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2188,7 +2181,7 @@
               "height": 720
             }
           },
-          "viewCount": 3237
+          "viewCount": 3247
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
