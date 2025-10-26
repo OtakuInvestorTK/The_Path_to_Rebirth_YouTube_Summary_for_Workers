@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-26T05:33:18.819Z",
+  "requestedAt": "2025-10-26T06:47:35.547Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 7460,
+          "viewCount": 7463,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T04:35:19Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 7585,
+          "viewCount": 7605,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T12:00:00Z",
@@ -225,7 +225,7 @@
               "height": 720
             }
           },
-          "viewCount": 5348
+          "viewCount": 5353
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -286,7 +286,7 @@
               "height": 720
             }
           },
-          "viewCount": 1445,
+          "viewCount": 1448,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T09:00:00Z",
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 1749
+          "viewCount": 1773
         },
         {
           "videoId": "o7IjVM3UfNE",
@@ -455,41 +455,6 @@
             }
           },
           "viewCount": 1763
-        },
-        {
-          "videoId": "vrgKy4AH8FE",
-          "title": "最近、西葛西駅北口にオープンした「そらのいろ」。博多とんこつラーメンのお店で、店主は一風堂で修行したとか。",
-          "description": "",
-          "publishedAt": "2025-10-19T05:42:36Z",
-          "channelTitle": "木島やすお　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/vrgKy4AH8FE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/vrgKy4AH8FE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/vrgKy4AH8FE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/vrgKy4AH8FE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/vrgKy4AH8FE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3381
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -820,7 +785,7 @@
               "height": 720
             }
           },
-          "viewCount": 1131
+          "viewCount": 1146
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -897,7 +862,39 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "wGiW6lWBIOk",
+          "title": "【府中市】淳さんぽライド【ちゅうバス】",
+          "description": "本日15時からちゅうバス朝日町ルート(多磨駅東口〜府中駅)に乗って府中市内を移動する様子をお届けします",
+          "publishedAt": "2025-10-18T06:31:23Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wGiW6lWBIOk/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wGiW6lWBIOk/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wGiW6lWBIOk/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 26,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-10-26T06:00:00Z",
+            "actualStartTime": "2025-10-26T05:58:17Z",
+            "actualEndTime": "2025-10-26T06:40:01Z"
+          }
+        }
+      ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -981,7 +978,7 @@
               "height": 720
             }
           },
-          "viewCount": 506
+          "viewCount": 562
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1067,7 +1064,7 @@
               "height": 720
             }
           },
-          "viewCount": 1815,
+          "viewCount": 2251,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-08-27T14:11:27Z",
@@ -1159,7 +1156,7 @@
               "height": 720
             }
           },
-          "viewCount": 3332,
+          "viewCount": 3333,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T03:00:00Z",
@@ -1226,7 +1223,7 @@
               "height": 720
             }
           },
-          "viewCount": 8411,
+          "viewCount": 8482,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T23:00:00Z",
@@ -1318,7 +1315,7 @@
               "height": 720
             }
           },
-          "viewCount": 1342
+          "viewCount": 1362
         }
       ],
       "name": "坪田幸典,坪田こうすけ,つぼた幸典,つぼたこうすけ"
@@ -1394,7 +1391,7 @@
               "height": 360
             }
           },
-          "viewCount": 2595,
+          "viewCount": 2953,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T01:00:00Z",
@@ -1425,7 +1422,7 @@
               "height": 360
             }
           },
-          "viewCount": 4178,
+          "viewCount": 4226,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T13:30:00Z",
@@ -1466,7 +1463,7 @@
               "height": 720
             }
           },
-          "viewCount": 5239,
+          "viewCount": 5243,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T01:02:08Z",
@@ -1507,7 +1504,7 @@
               "height": 720
             }
           },
-          "viewCount": 7291,
+          "viewCount": 7306,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T11:00:00Z",
@@ -1538,7 +1535,7 @@
               "height": 360
             }
           },
-          "viewCount": 4647,
+          "viewCount": 4653,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T03:20:00Z",
@@ -1651,7 +1648,7 @@
               "height": 720
             }
           },
-          "viewCount": 5169,
+          "viewCount": 5168,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T03:16:45Z",
@@ -1723,7 +1720,7 @@
               "height": 720
             }
           },
-          "viewCount": 4010,
+          "viewCount": 4012,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T13:51:11Z",
@@ -1805,7 +1802,7 @@
               "height": 720
             }
           },
-          "viewCount": 1321,
+          "viewCount": 1320,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T02:47:58Z",
@@ -1913,7 +1910,7 @@
               "height": 720
             }
           },
-          "viewCount": 2596
+          "viewCount": 2598
         },
         {
           "videoId": "ASUAVXmfLmw",
@@ -2034,7 +2031,7 @@
               "height": 720
             }
           },
-          "viewCount": 556
+          "viewCount": 686
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
