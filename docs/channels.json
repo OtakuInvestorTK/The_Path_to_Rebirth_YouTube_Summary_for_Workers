@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-27T22:33:25.923Z",
+  "requestedAt": "2025-10-27T23:28:06.669Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 7629,
+          "viewCount": 7635,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T04:35:19Z",
@@ -189,7 +189,7 @@
               "height": 720
             }
           },
-          "viewCount": 7806,
+          "viewCount": 7809,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T12:00:00Z",
@@ -256,53 +256,12 @@
               "height": 720
             }
           },
-          "viewCount": 1618,
+          "viewCount": 1621,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T09:00:00Z",
             "actualStartTime": "2025-10-22T09:00:06Z",
             "actualEndTime": "2025-10-22T09:28:42Z"
-          }
-        },
-        {
-          "videoId": "Dg6nMMgkYLc",
-          "title": "ライブ配信　2025.10.20    19:00~  朗読とか、AIペンギン？",
-          "description": "東京都在住、再生の道から国政を目指した63歳、4人家族。\n\nX   https://x.com/HAL_MIZ9\n\n全動画切り抜き自由ですが、悪意のある編集はご遠慮ください。",
-          "publishedAt": "2025-10-20T23:09:22Z",
-          "channelTitle": "水野 純也 @再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Dg6nMMgkYLc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5080,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-20T10:00:00Z",
-            "actualStartTime": "2025-10-20T09:54:01Z",
-            "actualEndTime": "2025-10-20T10:58:53Z"
           }
         }
       ],
@@ -389,7 +348,7 @@
               "height": 720
             }
           },
-          "viewCount": 1211
+          "viewCount": 1228
         },
         {
           "videoId": "TkAK5_JE8f0",
@@ -424,7 +383,7 @@
               "height": 720
             }
           },
-          "viewCount": 2153
+          "viewCount": 2157
         },
         {
           "videoId": "o7IjVM3UfNE",
@@ -459,7 +418,7 @@
               "height": 720
             }
           },
-          "viewCount": 1966
+          "viewCount": 1968
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -600,7 +559,7 @@
               "height": 720
             }
           },
-          "viewCount": 1155,
+          "viewCount": 1163,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:45:28Z",
@@ -631,7 +590,7 @@
               "height": 360
             }
           },
-          "viewCount": 922,
+          "viewCount": 927,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:30:00Z",
@@ -698,7 +657,7 @@
               "height": 720
             }
           },
-          "viewCount": 2614,
+          "viewCount": 2671,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T11:00:00Z",
@@ -790,7 +749,7 @@
               "height": 720
             }
           },
-          "viewCount": 1339,
+          "viewCount": 1345,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T09:03:23Z",
@@ -831,7 +790,7 @@
               "height": 720
             }
           },
-          "viewCount": 1233
+          "viewCount": 1234
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -1110,7 +1069,7 @@
               "height": 720
             }
           },
-          "viewCount": 5241,
+          "viewCount": 5255,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-08-27T14:11:27Z",
@@ -1202,7 +1161,7 @@
               "height": 720
             }
           },
-          "viewCount": 3374,
+          "viewCount": 3373,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T03:00:00Z",
@@ -1437,7 +1396,7 @@
               "height": 360
             }
           },
-          "viewCount": 5057,
+          "viewCount": 5181,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T12:00:00Z",
@@ -1468,7 +1427,7 @@
               "height": 360
             }
           },
-          "viewCount": 5595,
+          "viewCount": 5607,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T03:00:00Z",
@@ -1509,7 +1468,7 @@
               "height": 720
             }
           },
-          "viewCount": 7075,
+          "viewCount": 7091,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T14:00:00Z",
@@ -1540,7 +1499,7 @@
               "height": 360
             }
           },
-          "viewCount": 5321,
+          "viewCount": 5337,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T01:00:00Z",
@@ -1571,7 +1530,7 @@
               "height": 360
             }
           },
-          "viewCount": 4558,
+          "viewCount": 4559,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T13:30:00Z",
@@ -1612,7 +1571,7 @@
               "height": 720
             }
           },
-          "viewCount": 5489,
+          "viewCount": 5490,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T01:02:08Z",
@@ -1756,7 +1715,7 @@
               "height": 360
             }
           },
-          "viewCount": 6019,
+          "viewCount": 6023,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T13:30:00Z",
@@ -1797,7 +1756,7 @@
               "height": 720
             }
           },
-          "viewCount": 5303,
+          "viewCount": 5307,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T03:16:45Z",
@@ -1828,7 +1787,7 @@
               "height": 360
             }
           },
-          "viewCount": 2934,
+          "viewCount": 2938,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T03:00:00Z",
@@ -2104,7 +2063,7 @@
               "height": 720
             }
           },
-          "viewCount": 1833
+          "viewCount": 1853
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
