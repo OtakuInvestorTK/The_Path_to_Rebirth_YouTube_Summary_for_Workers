@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-28T08:50:16.526Z",
+  "requestedAt": "2025-10-28T09:37:47.729Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -147,7 +147,7 @@
               "height": 720
             }
           },
-          "viewCount": 7831,
+          "viewCount": 7830,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T12:00:00Z",
@@ -214,7 +214,7 @@
               "height": 720
             }
           },
-          "viewCount": 1636,
+          "viewCount": 1637,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T09:00:00Z",
@@ -341,7 +341,7 @@
               "height": 720
             }
           },
-          "viewCount": 2177
+          "viewCount": 2171
         },
         {
           "videoId": "o7IjVM3UfNE",
@@ -376,7 +376,7 @@
               "height": 720
             }
           },
-          "viewCount": 1974
+          "viewCount": 1975
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -548,7 +548,7 @@
               "height": 360
             }
           },
-          "viewCount": 995,
+          "viewCount": 1000,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:30:00Z",
@@ -615,7 +615,7 @@
               "height": 720
             }
           },
-          "viewCount": 3037,
+          "viewCount": 3056,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T11:00:00Z",
@@ -748,7 +748,7 @@
               "height": 720
             }
           },
-          "viewCount": 1239
+          "viewCount": 1243
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -941,7 +941,7 @@
               "height": 720
             }
           },
-          "viewCount": 1075
+          "viewCount": 1082
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1027,7 +1027,7 @@
               "height": 720
             }
           },
-          "viewCount": 5542,
+          "viewCount": 5577,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-08-27T14:11:27Z",
@@ -1236,7 +1236,7 @@
               "height": 720
             }
           },
-          "viewCount": 2010
+          "viewCount": 2015
         }
       ],
       "name": "坪田幸典,坪田こうすけ,つぼた幸典,つぼたこうすけ"
@@ -1290,6 +1290,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "1LVa-A8eSnk",
+          "title": "【川崎の道】横山さんを探せ!!",
+          "description": "【ご寄付でのご支援、どうぞ宜しくお願い申し上げます】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2025-10-28T09:36:12Z",
+          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1LVa-A8eSnk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1LVa-A8eSnk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1LVa-A8eSnk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1LVa-A8eSnk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1LVa-A8eSnk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 353,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-10-28T09:13:12Z",
+            "actualStartTime": "2025-10-28T09:19:21Z",
+            "actualEndTime": "2025-10-28T09:32:38Z"
+          }
+        },
+        {
           "videoId": "3qF9yr-kbFI",
           "title": "【再生の道】くれよしつぐミートアップオンライン vol.26",
           "description": "【ご寄付でのご支援、どうぞ宜しくお願い申し上げます】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
@@ -1312,7 +1353,7 @@
               "height": 360
             }
           },
-          "viewCount": 3197,
+          "viewCount": 3529,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T03:00:00Z",
@@ -1343,7 +1384,7 @@
               "height": 360
             }
           },
-          "viewCount": 5918,
+          "viewCount": 5947,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T12:00:00Z",
@@ -1374,7 +1415,7 @@
               "height": 360
             }
           },
-          "viewCount": 5767,
+          "viewCount": 5786,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T03:00:00Z",
@@ -1415,7 +1456,7 @@
               "height": 720
             }
           },
-          "viewCount": 7249,
+          "viewCount": 7269,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T14:00:00Z",
@@ -1446,7 +1487,7 @@
               "height": 360
             }
           },
-          "viewCount": 5394,
+          "viewCount": 5395,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T01:00:00Z",
@@ -1477,7 +1518,7 @@
               "height": 360
             }
           },
-          "viewCount": 4570,
+          "viewCount": 4587,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T13:30:00Z",
@@ -1559,7 +1600,7 @@
               "height": 720
             }
           },
-          "viewCount": 7785,
+          "viewCount": 7789,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T11:00:00Z",
@@ -1590,7 +1631,7 @@
               "height": 360
             }
           },
-          "viewCount": 4762,
+          "viewCount": 4764,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T03:20:00Z",
@@ -1631,7 +1672,7 @@
               "height": 720
             }
           },
-          "viewCount": 8479,
+          "viewCount": 8475,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-23T09:58:23Z",
@@ -1662,7 +1703,7 @@
               "height": 360
             }
           },
-          "viewCount": 6029,
+          "viewCount": 6028,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T13:30:00Z",
@@ -1703,7 +1744,7 @@
               "height": 720
             }
           },
-          "viewCount": 5319,
+          "viewCount": 5320,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T03:16:45Z",
@@ -1734,7 +1775,7 @@
               "height": 360
             }
           },
-          "viewCount": 2945,
+          "viewCount": 2946,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T03:00:00Z",
@@ -1775,7 +1816,7 @@
               "height": 720
             }
           },
-          "viewCount": 4053,
+          "viewCount": 4054,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-21T13:51:11Z",
@@ -1808,43 +1849,7 @@
       },
       "channelId": "UCKayNPhS9o3Y3Hu6HQRhvbQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "zu2SduBKH6A",
-          "title": "【再生の道】ワンチーム♪ショート版_葛飾_岩見なつよと頼れる仲間たち",
-          "description": "石丸伸二率いる「再生の道」\n1128人の候補者から20倍の確率で合格を勝ち取った1人。\n葛飾を任された元雑誌編集長・言語化プロデューサー。\n\n【政は祭りごと】を指針として楽しみながら政治活動していきます！\n\n政治には人とお金が必要です。\nボランティアして、一緒に楽しみましょう♪\n\n選挙ドットコム\nhttps://go2senkyo.com/seijika/196115\n\nボランティア募集はコチラ⬇️\nhttps://forms.gle/8Y8E3d51SzFP8eddA\n\n企業献金は受け付けません！\n受け付けるのは、個人献金のみです。\n\n献金受付はコチラ⬇️\nhttps://forms.gle/7aRCXA7WgyoeQQ8V8\n\n再生の道　岩見なつよ　公式HP\nhttps://sites.google.com/view/iwaminatsuyo/\n\n公式LINE\nhttps://lin.ee/vCXN8Jp\nいわみんへのメッセージや直接連絡はコチラから。\n　\n★お友達特典★\n100人以上の社長から教えてもらった成功の秘訣を７箇条にした\n私だけの秘密の成功法則をお裾分けします！\n\n私のお仕事紹介マンガです🌟\nhttps://drive.google.com/file/d/1XtCyDXUM-4E2HUZhnL5aIxW8OzRn7UQe/view?usp=sharing\n\n↓絶対見るべき！おすすめ動画\n【再生の道】最終面談その後とコレからの話\nhttps://youtu.be/r8_SZywpMRE\n\n【再生の道】これからやること計画発表\nhttps://youtu.be/QRoGmJ-g-7A\n\n【再生の道】学研卒業生対談\nhttps://youtu.be/9oUDcuLQyfI\n\n【初Live】近況報告　政は祭りごと！！宣言\nhttps://youtube.com/live/8z4Goqeto5M\n\n▶︎いわみんの面談風景などはこちら\nhttps://www.youtube.com/live/OzOG1MbNxLY?si=3xlvxZgtAMiR5wZf\n\n合格発表\nhttps://www.youtube.com/live/_2uracJL07I?si=4z6ME_uuo3buby0K\n\n再生の道チャンネル\nhttps://www.youtube.com/@The-Path-to-Rebirth\n　\n　\n▷チャンネル登録はこちら：\nhttps://www.youtube.com/channel/UCKayNPhS9o3Y3Hu6HQRhvbQ\n　↑　↑　↑\nベルマークを押すと毎回通知が届くようになります。\n　\n　\n▼▼コチラもぜひご覧ください▼▼\n　\n・いわみんってどんな人？\n・商品ラインナップ\n・関連動画一覧\n・プロフィール\n・タグ\n　\n☆　いわみんってどんな人　☆\n　\n◆ホームページ↓\nhttps://gengo-komorebi.com/\n\n▷公式LINE：\nhttps://lin.ee/vCXN8Jp\n　\n週に1回、言語化のヒントをお送りします。\n★お友達特典★\n100人以上の社長から教えてもらった成功の秘訣を７箇条にした\n私だけの秘密の成功法則をお裾分けします！\n\n▷Instagram（読書感想）：\nhttps://www.instagram.com/iwamin_gogo/?hl=ja\n\nインスタグラムでは、YouTubeで公開していない、普段いわみんが読んでいる読書遍歴を公開していますので、よかったらフォローしてください。\n　　\n▷Facebook（読書感想と日々のこと）：\nhttps://www.facebook.com/natsuyo.iwami/\n\nFaceBookでは、Instagramでの本の紹介や趣味のサウナや山登り、スナックの日替わりママ情報など、かなり普段の様子をアップしています。\n\n▷note（社長インタビューやコラムなど）：\nhttps://note.com/iwamin_nana\n\n社長や起業家100人インタビュー、SDGs 関連コラム、プライベートなエッセイなど、長めのコンテンツをアップしています。\n　\n　\n☆　商品ラインナップ　☆\n　\n◆ブランディングやマーケティング戦略\n◆文章作り、ストーリー作りのお手伝い\n◆研修・ワークショップ開催\n◆コーチング・カウンセリング\n\n☆　プロフィール　☆\n　\n岩見奈津代\n 　\n編集者で言語化プロデューサーのいわみんです。\n\n大学時代から学生ライターとして活動開始。\n大手出版社に就職し、女性雑誌編集者として20年超のキャリアを積む。\nティーンファッションから妊娠・出産・女性のライフスタイルまで、多くの女性をターゲットとした雑誌を担当。\n\n編集長、創刊編集長としてウェブメディアやイベント、\n物販なども同時にプロデュースした後、経営戦略室のマネージャーに。\nビジネスマーケティング、多数の新事業プロジェクトマネジメントを経て独立。\n言語化コンサルとして、\nビジネスコンサル、マーケティング・ストーリー戦略、\nエグゼクティブへの言語化コーチングなどを中心に、\nすべての人の「想いを言語化し、ストーリーを作る」お手伝いを行っている。\n\n女子大生とオトナ女子をつなぐ対話の場\n【meeet】主宰\n\n●天狼院書店　雑誌をつくるゼミ講師\n●2030SDGsカードゲーム公認ファシリテーター\n●NLP（神経言語プログラミング）マスタープラクショナー\n●ワークショップデザイナー　\n　\n☆　タグ　☆\n#文章添削 #ブランディング #再生の道  #石丸伸二  # コーチング #言語化 #編集者 #心理学 #影響言語",
-          "publishedAt": "2025-10-21T09:01:27Z",
-          "channelTitle": "【再生の道】葛飾区　岩見なつよ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/zu2SduBKH6A/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/zu2SduBKH6A/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/zu2SduBKH6A/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/zu2SduBKH6A/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/zu2SduBKH6A/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2813
-        }
-      ],
+      "recentVideos": [],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
     },
     {
@@ -1928,7 +1933,7 @@
               "height": 720
             }
           },
-          "viewCount": 2084
+          "viewCount": 2117
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
