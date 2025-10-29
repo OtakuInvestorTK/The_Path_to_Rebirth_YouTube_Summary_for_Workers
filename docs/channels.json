@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-29T03:37:46.484Z",
+  "requestedAt": "2025-10-29T04:47:15.163Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15666,
+          "viewCount": 16056,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 1766
+          "viewCount": 1931
         },
         {
           "videoId": "r_VRFqc0xMQ",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 5619,
+          "viewCount": 5694,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T03:14:41Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 346
+          "viewCount": 534
         },
         {
           "videoId": "VHbLxN6GYg0",
@@ -261,7 +261,7 @@
               "height": 720
             }
           },
-          "viewCount": 7945,
+          "viewCount": 8056,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -368,7 +368,7 @@
               "height": 720
             }
           },
-          "viewCount": 1711,
+          "viewCount": 1715,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T09:00:00Z",
@@ -495,7 +495,7 @@
               "height": 720
             }
           },
-          "viewCount": 2209
+          "viewCount": 2207
         },
         {
           "videoId": "o7IjVM3UfNE",
@@ -530,7 +530,7 @@
               "height": 720
             }
           },
-          "viewCount": 2033
+          "viewCount": 2037
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -671,7 +671,7 @@
               "height": 720
             }
           },
-          "viewCount": 1338,
+          "viewCount": 1339,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:45:28Z",
@@ -702,7 +702,7 @@
               "height": 360
             }
           },
-          "viewCount": 1091,
+          "viewCount": 1092,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:30:00Z",
@@ -861,7 +861,7 @@
               "height": 720
             }
           },
-          "viewCount": 1468,
+          "viewCount": 1469,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T09:03:23Z",
@@ -1298,7 +1298,7 @@
               "height": 720
             }
           },
-          "viewCount": 9468,
+          "viewCount": 9476,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T23:00:00Z",
@@ -1475,10 +1475,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 1036,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-29T04:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-29T04:00:00Z",
+            "actualStartTime": "2025-10-29T04:00:31Z",
+            "concurrentViewers": 518
           }
         }
       ],
@@ -1547,7 +1549,7 @@
               "height": 360
             }
           },
-          "viewCount": 5069,
+          "viewCount": 5096,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T03:00:00Z",
@@ -1578,7 +1580,7 @@
               "height": 360
             }
           },
-          "viewCount": 6229,
+          "viewCount": 6235,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T12:00:00Z",
@@ -1609,7 +1611,7 @@
               "height": 360
             }
           },
-          "viewCount": 5902,
+          "viewCount": 5906,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T03:00:00Z",
@@ -1650,7 +1652,7 @@
               "height": 720
             }
           },
-          "viewCount": 7358,
+          "viewCount": 7356,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T14:00:00Z",
@@ -1681,7 +1683,7 @@
               "height": 360
             }
           },
-          "viewCount": 5456,
+          "viewCount": 5467,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T01:00:00Z",
@@ -1712,7 +1714,7 @@
               "height": 360
             }
           },
-          "viewCount": 4635,
+          "viewCount": 4637,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T13:30:00Z",
@@ -1753,7 +1755,7 @@
               "height": 720
             }
           },
-          "viewCount": 5559,
+          "viewCount": 5560,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T01:02:08Z",
@@ -1794,7 +1796,7 @@
               "height": 720
             }
           },
-          "viewCount": 7901,
+          "viewCount": 7909,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T11:00:00Z",
@@ -1825,7 +1827,7 @@
               "height": 360
             }
           },
-          "viewCount": 4818,
+          "viewCount": 4812,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T03:20:00Z",
@@ -1866,7 +1868,7 @@
               "height": 720
             }
           },
-          "viewCount": 8522,
+          "viewCount": 8517,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-23T09:58:23Z",
@@ -1897,53 +1899,12 @@
               "height": 360
             }
           },
-          "viewCount": 6049,
+          "viewCount": 6048,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T13:30:00Z",
             "actualStartTime": "2025-10-22T13:25:39Z",
             "actualEndTime": "2025-10-22T15:06:03Z"
-          }
-        },
-        {
-          "videoId": "tdl-g1H7k7A",
-          "title": "【再生の道】くれよしつぐミートアップオンライン vol.15 - 2",
-          "description": "【ご寄付はこちらから】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【ご寄付はこちらから】\nhttps://go2senkyo.com/donate/flow/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-10-22T04:33:39Z",
-          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/tdl-g1H7k7A/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/tdl-g1H7k7A/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/tdl-g1H7k7A/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/tdl-g1H7k7A/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/tdl-g1H7k7A/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5376,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-22T03:16:45Z",
-            "actualStartTime": "2025-10-22T03:18:21Z",
-            "actualEndTime": "2025-10-22T04:03:32Z"
           }
         }
       ],
@@ -2005,7 +1966,7 @@
               "height": 720
             }
           },
-          "viewCount": 42
+          "viewCount": 107
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2091,7 +2052,7 @@
               "height": 720
             }
           },
-          "viewCount": 2324
+          "viewCount": 2334
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2242,7 +2203,8 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Uz3wZ7mZBPE",
           "title": "ヨシヒコ・ライブSP with はぎわら 崇さん",
@@ -2276,16 +2238,15 @@
               "height": 720
             }
           },
-          "viewCount": 853,
+          "viewCount": 1300,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-10-29T03:00:00Z",
             "actualStartTime": "2025-10-29T02:58:53Z",
-            "concurrentViewers": 559
+            "actualEndTime": "2025-10-29T04:02:27Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
     },
     {
