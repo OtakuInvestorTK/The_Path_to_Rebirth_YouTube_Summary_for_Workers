@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-29T08:50:44.044Z",
+  "requestedAt": "2025-10-29T09:36:56.204Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 17141,
+          "viewCount": 17382,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 2416
+          "viewCount": 2530
         },
         {
           "videoId": "r_VRFqc0xMQ",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 5828,
+          "viewCount": 5854,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T03:14:41Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 1324
+          "viewCount": 1479
         },
         {
           "videoId": "VHbLxN6GYg0",
@@ -261,7 +261,7 @@
               "height": 720
             }
           },
-          "viewCount": 8270,
+          "viewCount": 8318,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -298,7 +298,7 @@
           "videoId": "Qt5x3bq5Hp8",
           "title": "[ 朗読 ]  牛をつないだ椿の木　新美南吉　自慢話や悪口はよくないね。#朗読,#睡眠導入,#精神安定",
           "description": "朗読 第２０段（毎週水曜日新作追加）　　\n牛をつないだ椿の木　　自慢話や悪口はよくないね。\n\n原作：新美南吉\n底本：「牛をつないだ椿の木」（青空文庫） \nURL:https://www.aozora.gr.jp/cards/000121/files/638_34289.html\nサムネイルイラスト：Pollo ai\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-10-27T17:31:05Z",
+          "publishedAt": "2025-10-29T09:00:06Z",
           "channelTitle": "水野 純也 @再生の道",
           "thumbnails": {
             "default": {
@@ -327,56 +327,15 @@
               "height": 720
             }
           },
-          "viewCount": 5,
+          "viewCount": 68,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-10-29T09:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-10-29T09:00:00Z",
+            "actualStartTime": "2025-10-29T09:00:06Z"
           }
         }
       ],
-      "recentVideos": [
-        {
-          "videoId": "8ucpl_YPt2Y",
-          "title": "[ 朗読 ]  どんぐりと山猫　宮沢賢治作　#朗読,#睡眠導入,#精神安定",
-          "description": "朗読 第１９段（毎週水曜日新作追加）\n\nこの朗読動画は、宮沢賢治作の『どんぐりと山猫』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n原作：宮沢賢治\n底本：「どんぐりと山猫」（青空文庫） \nURL: https://www.aozora.gr.jp/cards/000081/files/43752_17657.html\nサムネイルイラスト：Google Gemini\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-10-22T09:00:06Z",
-          "channelTitle": "水野 純也 @再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/8ucpl_YPt2Y/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/8ucpl_YPt2Y/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/8ucpl_YPt2Y/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/8ucpl_YPt2Y/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/8ucpl_YPt2Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1729,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-22T09:00:00Z",
-            "actualStartTime": "2025-10-22T09:00:06Z",
-            "actualEndTime": "2025-10-22T09:28:42Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
     },
     {
@@ -671,7 +630,7 @@
               "height": 720
             }
           },
-          "viewCount": 1353,
+          "viewCount": 1352,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:45:28Z",
@@ -702,7 +661,7 @@
               "height": 360
             }
           },
-          "viewCount": 1094,
+          "viewCount": 1095,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:30:00Z",
@@ -861,7 +820,7 @@
               "height": 720
             }
           },
-          "viewCount": 1482,
+          "viewCount": 1483,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T09:03:23Z",
@@ -902,7 +861,7 @@
               "height": 720
             }
           },
-          "viewCount": 1254
+          "viewCount": 1256
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -1095,7 +1054,7 @@
               "height": 720
             }
           },
-          "viewCount": 1171
+          "viewCount": 1177
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1298,7 +1257,7 @@
               "height": 720
             }
           },
-          "viewCount": 9495,
+          "viewCount": 9492,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T23:00:00Z",
@@ -1476,7 +1435,7 @@
               "height": 720
             }
           },
-          "viewCount": 2952,
+          "viewCount": 3271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T04:00:00Z",
@@ -1517,7 +1476,7 @@
               "height": 720
             }
           },
-          "viewCount": 4907,
+          "viewCount": 4922,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T09:13:12Z",
@@ -1682,7 +1641,7 @@
               "height": 360
             }
           },
-          "viewCount": 5476,
+          "viewCount": 5475,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T01:00:00Z",
@@ -1713,7 +1672,7 @@
               "height": 360
             }
           },
-          "viewCount": 4651,
+          "viewCount": 4655,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T13:30:00Z",
@@ -1867,7 +1826,7 @@
               "height": 720
             }
           },
-          "viewCount": 8526,
+          "viewCount": 8527,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-23T09:58:23Z",
@@ -1898,7 +1857,7 @@
               "height": 360
             }
           },
-          "viewCount": 6056,
+          "viewCount": 6057,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-22T13:30:00Z",
@@ -1965,7 +1924,7 @@
               "height": 720
             }
           },
-          "viewCount": 421
+          "viewCount": 514
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2051,7 +2010,7 @@
               "height": 720
             }
           },
-          "viewCount": 2374
+          "viewCount": 2390
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2237,7 +2196,7 @@
               "height": 720
             }
           },
-          "viewCount": 3576,
+          "viewCount": 3888,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T03:00:00Z",
