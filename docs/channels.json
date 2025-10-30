@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-30T05:37:28.652Z",
+  "requestedAt": "2025-10-30T06:51:59.565Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 20430,
+          "viewCount": 20509,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 4027
+          "viewCount": 4067
         },
         {
           "videoId": "r_VRFqc0xMQ",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 6233,
+          "viewCount": 6244,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T03:14:41Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 3108
+          "viewCount": 3169
         },
         {
           "videoId": "VHbLxN6GYg0",
@@ -261,7 +261,7 @@
               "height": 720
             }
           },
-          "viewCount": 8863,
+          "viewCount": 8878,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -328,7 +328,7 @@
               "height": 720
             }
           },
-          "viewCount": 807,
+          "viewCount": 818,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T09:00:00Z",
@@ -490,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 2067
+          "viewCount": 2073
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -662,7 +662,7 @@
               "height": 360
             }
           },
-          "viewCount": 1101,
+          "viewCount": 1100,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:30:00Z",
@@ -729,7 +729,7 @@
               "height": 720
             }
           },
-          "viewCount": 3728,
+          "viewCount": 3739,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T11:00:00Z",
@@ -1106,7 +1106,7 @@
               "height": 720
             }
           },
-          "viewCount": 5869,
+          "viewCount": 5875,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-08-27T14:11:27Z",
@@ -1188,7 +1188,42 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "MBaqzFYJy9E",
+          "title": "第20回ミートアップオンライン",
+          "description": "10月31日（金）21:00～21:30にて開催予定です。\n今週は土曜日の朝が難しいため、久々に夜に配信します。\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・西東京市クリーン作戦のご案内（11/1はお休み）\n・女優奥山佳恵さんのトークイベントに参加して\n・学校の支援員（教室見守り）のお仕事をしてみて\n・カタコトロシア語：「ясно」（「わかりました」、「了解」\n    例：「Понял? — Да, ясно.」（わかったか？ — ああ、わかった）",
+          "publishedAt": "2025-10-30T06:43:15Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MBaqzFYJy9E/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MBaqzFYJy9E/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MBaqzFYJy9E/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MBaqzFYJy9E/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-10-30T06:43:14Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "nZwt3-Ly3r8",
@@ -1223,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 9565,
+          "viewCount": 9577,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T23:00:00Z",
@@ -1391,7 +1426,7 @@
               "height": 360
             }
           },
-          "viewCount": 1850,
+          "viewCount": 2413,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-30T03:00:00Z",
@@ -1432,7 +1467,7 @@
               "height": 720
             }
           },
-          "viewCount": 5171,
+          "viewCount": 5270,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T14:00:00Z",
@@ -1473,7 +1508,7 @@
               "height": 720
             }
           },
-          "viewCount": 5726,
+          "viewCount": 5780,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T04:00:00Z",
@@ -1514,7 +1549,7 @@
               "height": 720
             }
           },
-          "viewCount": 5021,
+          "viewCount": 5033,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T09:13:12Z",
@@ -1576,7 +1611,7 @@
               "height": 360
             }
           },
-          "viewCount": 6316,
+          "viewCount": 6321,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T12:00:00Z",
@@ -1607,7 +1642,7 @@
               "height": 360
             }
           },
-          "viewCount": 5970,
+          "viewCount": 5977,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T03:00:00Z",
@@ -1648,7 +1683,7 @@
               "height": 720
             }
           },
-          "viewCount": 7404,
+          "viewCount": 7403,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T14:00:00Z",
@@ -1679,7 +1714,7 @@
               "height": 360
             }
           },
-          "viewCount": 5515,
+          "viewCount": 5520,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T01:00:00Z",
@@ -1710,7 +1745,7 @@
               "height": 360
             }
           },
-          "viewCount": 4688,
+          "viewCount": 4687,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T13:30:00Z",
@@ -1751,7 +1786,7 @@
               "height": 720
             }
           },
-          "viewCount": 5590,
+          "viewCount": 5589,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T01:02:08Z",
@@ -1823,7 +1858,7 @@
               "height": 360
             }
           },
-          "viewCount": 4860,
+          "viewCount": 4861,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T03:20:00Z",
@@ -1864,7 +1899,7 @@
               "height": 720
             }
           },
-          "viewCount": 8559,
+          "viewCount": 8561,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-23T09:58:23Z",
@@ -1931,7 +1966,7 @@
               "height": 720
             }
           },
-          "viewCount": 1449
+          "viewCount": 1466
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2017,7 +2052,7 @@
               "height": 720
             }
           },
-          "viewCount": 2485
+          "viewCount": 2486
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2203,7 +2238,7 @@
               "height": 720
             }
           },
-          "viewCount": 7010,
+          "viewCount": 7068,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T03:00:00Z",
