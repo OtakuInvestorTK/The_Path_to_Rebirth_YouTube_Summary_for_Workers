@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-30T11:28:04.873Z",
+  "requestedAt": "2025-10-30T13:40:20.419Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "ubVMdRcU-Dw",
+          "title": "経済分析・事業評価のプロ 山下こういち が蒲蒲線事業を検証する!!",
+          "description": "新・再生の道においては、各メンバーの活動も積極的に公式チャンネルにて取り上げてまいります。\n\n今回は大田区で活動する山下。事業評価のプロとして、蒲蒲線の事業計画について、鋭く切り込みます!!\n以下、山下からのメッセージと共に、どうぞご覧ください。\n\n--\n10月25日に「蒲蒲線を知って、大田区の将来を一緒に考えよう！」という題名でタウンミーティングを行いました。新空港線（蒲蒲線）は、事業費1,300億円超、公共側負担900億円を超える大規模インフラ整備事業です。昨春の都議会議員選挙の活動を通じて、大田区民の方から頂いた多くの声がきっかけで、蒲蒲線に関する情報収集を始め、多くの関係者の皆様のお力添えを頂き、事業評価の検証を行いました。\n\n本タウンミーティングの目的は、なるべく正しい情報を区民・都民・国民の皆様に広く提供し、その上で導入の可否について判断して頂きたいというものです。\n\nタウンミーティングには、沿線の住民の方を始め、蒲蒲線計画の見直しを求める住民の会事務局長の岩井さん（モデレーター）、藤田都議、津田区議、平野区議、鉄道専門家の阿部さん、再生の道のメンバーの加藤てつおさん、小林学さん、そして撮影クルーとして高橋良さんにもご参加頂き、活発な議論を行うことが出来ました。\n\n本動画が、視聴された皆様が、この時代に大規模インフラ事業を実施することを考える切っ掛けになれば幸いです。",
+          "publishedAt": "2025-10-30T11:33:42Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ubVMdRcU-Dw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ubVMdRcU-Dw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ubVMdRcU-Dw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ubVMdRcU-Dw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ubVMdRcU-Dw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1283
+        },
         {
           "videoId": "iJPFeH23Lao",
           "title": "葛飾区　外国人問題について考える　 岩見なつよ　再生の道　岩見なつよ（葛飾区）奥村こうき（島嶼）たきぐち昭彦（町田市）山下こういち（大田区）河添ひろし（西東京市）中村幸信（豊島区）水野純也（国政担当）",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 20916,
+          "viewCount": 21060,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 4259
+          "viewCount": 4313
         },
         {
           "videoId": "r_VRFqc0xMQ",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 6287,
+          "viewCount": 6309,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T03:14:41Z",
@@ -226,7 +261,7 @@
               "height": 720
             }
           },
-          "viewCount": 3481
+          "viewCount": 3586
         },
         {
           "videoId": "VHbLxN6GYg0",
@@ -261,7 +296,7 @@
               "height": 720
             }
           },
-          "viewCount": 8976,
+          "viewCount": 8998,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -328,7 +363,7 @@
               "height": 720
             }
           },
-          "viewCount": 900,
+          "viewCount": 919,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T09:00:00Z",
@@ -420,7 +455,7 @@
               "height": 720
             }
           },
-          "viewCount": 1485
+          "viewCount": 1487
         },
         {
           "videoId": "TkAK5_JE8f0",
@@ -455,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 2225
+          "viewCount": 2227
         },
         {
           "videoId": "o7IjVM3UfNE",
@@ -662,7 +697,7 @@
               "height": 360
             }
           },
-          "viewCount": 1101,
+          "viewCount": 1102,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T13:30:00Z",
@@ -729,7 +764,7 @@
               "height": 720
             }
           },
-          "viewCount": 3777,
+          "viewCount": 3792,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T11:00:00Z",
@@ -821,7 +856,7 @@
               "height": 720
             }
           },
-          "viewCount": 1518,
+          "viewCount": 1522,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T09:03:23Z",
@@ -1106,7 +1141,7 @@
               "height": 720
             }
           },
-          "viewCount": 5897,
+          "viewCount": 5912,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-08-27T14:11:27Z",
@@ -1258,7 +1293,7 @@
               "height": 720
             }
           },
-          "viewCount": 9611,
+          "viewCount": 9613,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T23:00:00Z",
@@ -1350,7 +1385,7 @@
               "height": 720
             }
           },
-          "viewCount": 2100
+          "viewCount": 2104
         }
       ],
       "name": "坪田幸典,坪田こうすけ,つぼた幸典,つぼたこうすけ"
@@ -1426,7 +1461,7 @@
               "height": 360
             }
           },
-          "viewCount": 3841,
+          "viewCount": 4208,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-30T03:00:00Z",
@@ -1467,7 +1502,7 @@
               "height": 720
             }
           },
-          "viewCount": 5505,
+          "viewCount": 5606,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T14:00:00Z",
@@ -1508,7 +1543,7 @@
               "height": 720
             }
           },
-          "viewCount": 5836,
+          "viewCount": 5841,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T04:00:00Z",
@@ -1549,7 +1584,7 @@
               "height": 720
             }
           },
-          "viewCount": 5036,
+          "viewCount": 5044,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T09:13:12Z",
@@ -1580,7 +1615,7 @@
               "height": 360
             }
           },
-          "viewCount": 5232,
+          "viewCount": 5239,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T03:00:00Z",
@@ -1611,7 +1646,7 @@
               "height": 360
             }
           },
-          "viewCount": 6329,
+          "viewCount": 6333,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T12:00:00Z",
@@ -1683,7 +1718,7 @@
               "height": 720
             }
           },
-          "viewCount": 7409,
+          "viewCount": 7426,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T14:00:00Z",
@@ -1714,7 +1749,7 @@
               "height": 360
             }
           },
-          "viewCount": 5499,
+          "viewCount": 5505,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T01:00:00Z",
@@ -1745,7 +1780,7 @@
               "height": 360
             }
           },
-          "viewCount": 4690,
+          "viewCount": 4698,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T13:30:00Z",
@@ -1786,7 +1821,7 @@
               "height": 720
             }
           },
-          "viewCount": 5596,
+          "viewCount": 5600,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T01:02:08Z",
@@ -1827,7 +1862,7 @@
               "height": 720
             }
           },
-          "viewCount": 8017,
+          "viewCount": 8023,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T11:00:00Z",
@@ -1858,53 +1893,12 @@
               "height": 360
             }
           },
-          "viewCount": 4866,
+          "viewCount": 4868,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T03:20:00Z",
             "actualStartTime": "2025-10-24T03:17:28Z",
             "actualEndTime": "2025-10-24T04:10:33Z"
-          }
-        },
-        {
-          "videoId": "GosLK3xqOTE",
-          "title": "【再生の道】くれよしつぐミートアップオンライン vol.17",
-          "description": "【ご寄付はこちらから】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-10-23T12:28:25Z",
-          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/GosLK3xqOTE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/GosLK3xqOTE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/GosLK3xqOTE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/GosLK3xqOTE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/GosLK3xqOTE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 8567,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-23T09:58:23Z",
-            "actualStartTime": "2025-10-23T09:58:48Z",
-            "actualEndTime": "2025-10-23T11:53:05Z"
           }
         }
       ],
@@ -1966,7 +1960,7 @@
               "height": 720
             }
           },
-          "viewCount": 1579
+          "viewCount": 1650
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2052,7 +2046,7 @@
               "height": 720
             }
           },
-          "viewCount": 2518
+          "viewCount": 2517
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2238,7 +2232,7 @@
               "height": 720
             }
           },
-          "viewCount": 7300,
+          "viewCount": 7376,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T03:00:00Z",
