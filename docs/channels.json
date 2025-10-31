@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-10-31T08:46:29.900Z",
+  "requestedAt": "2025-10-31T09:36:34.240Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "c0NlCoal5WI",
+          "title": "【費用便益分析とは!?】概要を知り、プロから学ぼう!!",
+          "description": "前半：【基礎編】0:08\n後半：【応用編】（山下プロに聞く!!）21:30\n\n再生の道のメンバー 青柳みつや が公共事業の評価を行う上で重要な考え方である\"費用便益分析\"について基礎から整理し、そしてプロに詳しく聞いていきます。最近よく聞く\"経済波及効果\"とは何が違うのか。\"便益\"とは何なのか。公共事業を評価するために必要な知識や観点を、ぜひ一緒に見ていきましょう。\n\n先日公開された山下こういちの新空港線（蒲蒲線）事業に関するタウンミーティング動画をすでにご覧いただいた方は復習として。まだ見ていない方はその予習のために。どうぞご覧ください!!\n\n※本動画の内容はすでに青柳みつやの個人チャンネルにて公開されている内容を再編集したものになります。お含みおきください",
+          "publishedAt": "2025-10-31T09:06:48Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 303
+        },
         {
           "videoId": "ubVMdRcU-Dw",
           "title": "経済分析・事業評価のプロ 山下こういち が蒲蒲線事業を検証する!!",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6206
+          "viewCount": 6287
         },
         {
           "videoId": "iJPFeH23Lao",
@@ -92,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 23553,
+          "viewCount": 23623,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 4793
+          "viewCount": 4813
         },
         {
           "videoId": "r_VRFqc0xMQ",
@@ -261,7 +296,7 @@
               "height": 720
             }
           },
-          "viewCount": 3968
+          "viewCount": 3991
         },
         {
           "videoId": "VHbLxN6GYg0",
@@ -296,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 9210,
+          "viewCount": 9227,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -363,7 +398,7 @@
               "height": 720
             }
           },
-          "viewCount": 1071,
+          "viewCount": 1085,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T09:00:00Z",
@@ -456,41 +491,6 @@
             }
           },
           "viewCount": 1490
-        },
-        {
-          "videoId": "TkAK5_JE8f0",
-          "title": "議会を解散したがる市長対策",
-          "description": "伊東市、南城市では、市議会による不信任案議決に対して、市長が市議会を解散しました。また、前橋市では、市議会議員たちが市長に対して出直しの市長選挙をもうしでています。#田久保真紀 #小川晶 #伊東市 #前橋市 #南城市",
-          "publishedAt": "2025-10-24T09:00:20Z",
-          "channelTitle": "木島やすお　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/TkAK5_JE8f0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/TkAK5_JE8f0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/TkAK5_JE8f0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/TkAK5_JE8f0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/TkAK5_JE8f0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2233
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -821,7 +821,7 @@
               "height": 720
             }
           },
-          "viewCount": 1558,
+          "viewCount": 1571,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T09:03:23Z",
@@ -928,7 +928,7 @@
               "height": 360
             }
           },
-          "viewCount": 431,
+          "viewCount": 432,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T06:00:00Z",
@@ -1020,7 +1020,7 @@
               "height": 720
             }
           },
-          "viewCount": 1293
+          "viewCount": 1295
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1106,7 +1106,7 @@
               "height": 720
             }
           },
-          "viewCount": 5969,
+          "viewCount": 5968,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-08-27T14:11:27Z",
@@ -1258,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 9679,
+          "viewCount": 9692,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T23:00:00Z",
@@ -1403,6 +1403,47 @@
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
       "liveVideos": [
         {
+          "videoId": "0qM9VdNRo5M",
+          "title": "【再生の道】くれよしつぐミートアップオンライン vol.11",
+          "description": "【ご寄付でのご支援、どうぞ宜しくお願い申し上げます】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2025-10-31T08:31:20Z",
+          "channelTitle": "くれ よしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0qM9VdNRo5M/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0qM9VdNRo5M/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0qM9VdNRo5M/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0qM9VdNRo5M/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0qM9VdNRo5M/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1628,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-10-31T08:31:20Z",
+            "actualStartTime": "2025-10-31T08:48:13Z",
+            "concurrentViewers": 1004
+          }
+        },
+        {
           "videoId": "S2y9pEa8l0M",
           "title": "【再生の道】くれよしつぐミートアップオンライン vol.30",
           "description": "【ご寄付でのご支援、どうぞ宜しくお願い申し上げます】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
@@ -1495,7 +1536,7 @@
               "height": 360
             }
           },
-          "viewCount": 3207,
+          "viewCount": 3530,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -1526,7 +1567,7 @@
               "height": 360
             }
           },
-          "viewCount": 5094,
+          "viewCount": 5100,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-30T03:00:00Z",
@@ -1649,7 +1690,7 @@
               "height": 720
             }
           },
-          "viewCount": 5070,
+          "viewCount": 5072,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T09:13:12Z",
@@ -1711,7 +1752,7 @@
               "height": 360
             }
           },
-          "viewCount": 6365,
+          "viewCount": 6366,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-27T12:00:00Z",
@@ -1845,7 +1886,7 @@
               "height": 360
             }
           },
-          "viewCount": 4712,
+          "viewCount": 4713,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T13:30:00Z",
@@ -1886,7 +1927,7 @@
               "height": 720
             }
           },
-          "viewCount": 5627,
+          "viewCount": 5630,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-25T01:02:08Z",
@@ -1927,7 +1968,7 @@
               "height": 720
             }
           },
-          "viewCount": 8040,
+          "viewCount": 8042,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-24T11:00:00Z",
@@ -1994,7 +2035,7 @@
               "height": 720
             }
           },
-          "viewCount": 1894
+          "viewCount": 1911
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2080,7 +2121,7 @@
               "height": 720
             }
           },
-          "viewCount": 2566
+          "viewCount": 2572
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -2266,7 +2307,7 @@
               "height": 720
             }
           },
-          "viewCount": 7933,
+          "viewCount": 7955,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T03:00:00Z",
