@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-02T21:11:34.816Z",
+  "requestedAt": "2025-11-02T22:12:26.014Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6807
+          "viewCount": 6817
         },
         {
           "videoId": "ubVMdRcU-Dw",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 8257
+          "viewCount": 8259
         },
         {
           "videoId": "iJPFeH23Lao",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 28383,
+          "viewCount": 28465,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 5452
+          "viewCount": 5455
         },
         {
           "videoId": "r_VRFqc0xMQ",
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 6548,
+          "viewCount": 6550,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T03:14:41Z",
@@ -296,7 +296,7 @@
               "height": 720
             }
           },
-          "viewCount": 4454
+          "viewCount": 4456
         },
         {
           "videoId": "VHbLxN6GYg0",
@@ -331,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 9404,
+          "viewCount": 9408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -591,7 +591,7 @@
               "height": 360
             }
           },
-          "viewCount": 1181,
+          "viewCount": 1215,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -791,53 +791,12 @@
               "height": 720
             }
           },
-          "viewCount": 1379,
+          "viewCount": 1380,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T09:44:07Z",
             "actualStartTime": "2025-10-31T09:58:41Z",
             "actualEndTime": "2025-10-31T10:38:25Z"
-          }
-        },
-        {
-          "videoId": "2VHxP-Cby8Q",
-          "title": "【再生の道ぎぼはるき】Meetup31",
-          "description": "タクシードライバー初乗務！",
-          "publishedAt": "2025-10-26T22:11:22Z",
-          "channelTitle": "やる気・元気・はるきチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/2VHxP-Cby8Q/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/2VHxP-Cby8Q/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/2VHxP-Cby8Q/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/2VHxP-Cby8Q/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/2VHxP-Cby8Q/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1588,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-26T09:03:23Z",
-            "actualStartTime": "2025-10-26T09:04:31Z",
-            "actualEndTime": "2025-10-26T10:02:33Z"
           }
         }
       ],
@@ -999,7 +958,7 @@
               "height": 720
             }
           },
-          "viewCount": 407
+          "viewCount": 429
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1302,7 +1261,7 @@
               "height": 720
             }
           },
-          "viewCount": 2634,
+          "viewCount": 2840,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T15:45:05Z",
@@ -1343,7 +1302,7 @@
               "height": 720
             }
           },
-          "viewCount": 7655,
+          "viewCount": 7656,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-01T10:20:19Z",
@@ -1384,7 +1343,7 @@
               "height": 720
             }
           },
-          "viewCount": 14392,
+          "viewCount": 14409,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1729,7 +1688,7 @@
               "height": 720
             }
           },
-          "viewCount": 2264
+          "viewCount": 2267
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
