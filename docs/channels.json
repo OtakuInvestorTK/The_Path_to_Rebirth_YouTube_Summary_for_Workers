@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-03T11:12:39.098Z",
+  "requestedAt": "2025-11-03T12:30:39.102Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7098
+          "viewCount": 7117
         },
         {
           "videoId": "ubVMdRcU-Dw",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 29010,
+          "viewCount": 29055,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 5499
+          "viewCount": 5515
         },
         {
           "videoId": "r_VRFqc0xMQ",
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 6572,
+          "viewCount": 6573,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T03:14:41Z",
@@ -296,7 +296,7 @@
               "height": 720
             }
           },
-          "viewCount": 4519
+          "viewCount": 4522
         },
         {
           "videoId": "VHbLxN6GYg0",
@@ -331,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 9434,
+          "viewCount": 9460,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -398,7 +398,7 @@
               "height": 720
             }
           },
-          "viewCount": 1542,
+          "viewCount": 1548,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T09:00:00Z",
@@ -555,7 +555,7 @@
               "height": 360
             }
           },
-          "viewCount": 1657,
+          "viewCount": 1731,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -588,49 +588,7 @@
       },
       "channelId": "UCr_5vp4MHVuUz5c6ELUKjuA",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "U9kF1EC2o-E",
-          "title": "サナエノミクスでどうなる!? ガソリン税",
-          "description": "公認会計士・税理士の横山はるきです！\n\n「ガソリン税の暫定税率って、なぜまだ続いてるの？」\nニュースでは聞き流してしまう“税金の仕組み”を、みんなで一緒に考えるライブです。\n\n参考動画のリンク\nhttps://youtube.com/shorts/QDijpxiHOac?si=3ga8ae8FQyQt1G_u\n\n【SNS】\nX\nhttps://x.com/yokoyama_assoc\n横山はるき｜公認会計士・税理士\nInstagram\nhttps://www.instagram.com/yokoyama_associates\n横山はるき｜公認会計士・税理士\nTikTok\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n横山はるき｜公認会計士・税理士\n\n取材・コラボ・お仕事関係の連絡はこちらから\nhttps://form.run/@haruki-yokoyama\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n \n【自己紹介】\n長野県上田市出身。台東区谷中育ち。\n公認会計士・税理士。学習院大学経済学部卒。体育会硬式テニス部。 \nEY新日本監査法人（会計監査）→フェアコンサルティング・オーストラリア（メルボルンで日系企業の海外進出支援）→南青山アドバイザリーグループ（M&Aに関連したFAS業務や税務業務）→再生の道（代表：石丸伸二） 第１期生（参議院選挙）\n趣味はテニス(2024全日本ベテラン選手権出場)\n\n#公認会計士 #税理士 #横山はるき",
-          "publishedAt": "2025-10-27T12:17:11Z",
-          "channelTitle": "横山はるき / 公認会計士・税理士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/U9kF1EC2o-E/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/U9kF1EC2o-E/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/U9kF1EC2o-E/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/U9kF1EC2o-E/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/U9kF1EC2o-E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4006,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-27T11:00:00Z",
-            "actualStartTime": "2025-10-27T10:59:46Z",
-            "actualEndTime": "2025-10-27T12:02:52Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "横山春紀,横山はるき,よこやま春紀,よこやまはるき"
     },
     {
@@ -714,7 +672,7 @@
               "height": 720
             }
           },
-          "viewCount": 1408,
+          "viewCount": 1410,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T09:44:07Z",
@@ -846,7 +804,49 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "044lcpj3MZ8",
+          "title": "出張先から雑談配信in松江 2025年11月03日",
+          "description": "出張先から雑談配信in松江\n\nみなさん、こんばんは！やなぎさわです。 \n今夜は、出張先の「島根県松江市」からライブ配信をお届けします。\n\n松江市は、国宝・松江城を中心に栄えた城下町の風情と、宍道湖（しんじこ）や中海に囲まれた「水の都」として知られています。 \n宍道湖に沈む夕日は「日本の夕陽百選」にも選ばれているそうで、いつかプライベートでもゆっくり訪れてみたい場所ですね。\n\n今回の配信は、観光やグルメレポートではなく、出張先のホテルからお届けする雑談配信となります。 （松江の街を歩いたり、名物を食べたりする内容ではないので、ご了承くださいね！）\n\nいつもの配信とは少し違う、旅先の空気感を皆さんと共有できれば嬉しいです。 \n今夜も遅い時間ですが、集まっていただきありがとうございます！ \n一緒にのんびりお話ししましょう。\n\n👇 やなぎさわの各種リンクはこちら 👇\n\n📺 YouTube (チャンネル登録お願いします！) https://youtube.com/@marcie_nocturne?si=pWcKkcbEorhV9JBI\n\n🐦 X (旧Twitter) (日々のつぶやきはこちら) https://x.com/marcie_nocturne?s=21&t=rpoaaICkoVeZaKkAAiKpIQ\n\n📷 Instagram (写真やストーリーズなど) https://www.instagram.com/marcie_nocturne?igsh=b3EwMHAzc29idDdp&utm_source=qr\n\n#松江市 #出張 #雑談ライブ",
+          "publishedAt": "2025-10-17T15:08:33Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/044lcpj3MZ8/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/044lcpj3MZ8/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/044lcpj3MZ8/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/044lcpj3MZ8/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/044lcpj3MZ8/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 55,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-11-03T12:00:00Z",
+            "actualStartTime": "2025-11-03T12:15:27Z",
+            "concurrentViewers": 27
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "rT8keyUnpAs",
@@ -881,7 +881,7 @@
               "height": 720
             }
           },
-          "viewCount": 591
+          "viewCount": 594
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -992,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 68
+          "viewCount": 431
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1078,7 +1078,7 @@
               "height": 720
             }
           },
-          "viewCount": 12402,
+          "viewCount": 12434,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1220,7 +1220,7 @@
               "height": 720
             }
           },
-          "viewCount": 5407,
+          "viewCount": 5547,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T15:45:05Z",
@@ -1261,7 +1261,7 @@
               "height": 720
             }
           },
-          "viewCount": 7734,
+          "viewCount": 7736,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-01T10:20:19Z",
@@ -1302,7 +1302,7 @@
               "height": 720
             }
           },
-          "viewCount": 14872,
+          "viewCount": 14895,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1333,7 +1333,7 @@
               "height": 360
             }
           },
-          "viewCount": 4928,
+          "viewCount": 4931,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -1405,7 +1405,7 @@
               "height": 720
             }
           },
-          "viewCount": 6636,
+          "viewCount": 6643,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T14:00:00Z",
@@ -1446,7 +1446,7 @@
               "height": 720
             }
           },
-          "viewCount": 6079,
+          "viewCount": 6081,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T04:00:00Z",
@@ -1487,7 +1487,7 @@
               "height": 720
             }
           },
-          "viewCount": 5132,
+          "viewCount": 5130,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T09:13:12Z",
@@ -1852,7 +1852,7 @@
               "height": 720
             }
           },
-          "viewCount": 8549,
+          "viewCount": 8551,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T03:00:00Z",
