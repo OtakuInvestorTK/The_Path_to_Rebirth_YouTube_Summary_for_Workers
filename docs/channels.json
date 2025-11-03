@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-03T13:26:36.837Z",
+  "requestedAt": "2025-11-03T14:14:56.833Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7117
+          "viewCount": 7158
         },
         {
           "videoId": "ubVMdRcU-Dw",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 8417
+          "viewCount": 8419
         },
         {
           "videoId": "iJPFeH23Lao",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 29081,
+          "viewCount": 29117,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 5516
+          "viewCount": 5518
         },
         {
           "videoId": "r_VRFqc0xMQ",
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 6574,
+          "viewCount": 6588,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T03:14:41Z",
@@ -331,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 9462,
+          "viewCount": 9467,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -398,7 +398,7 @@
               "height": 720
             }
           },
-          "viewCount": 1548,
+          "viewCount": 1552,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T09:00:00Z",
@@ -555,7 +555,7 @@
               "height": 360
             }
           },
-          "viewCount": 1763,
+          "viewCount": 1775,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -672,7 +672,7 @@
               "height": 720
             }
           },
-          "viewCount": 1410,
+          "viewCount": 1411,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T09:44:07Z",
@@ -804,7 +804,8 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "044lcpj3MZ8",
           "title": "出張先から雑談配信in松江 2025年11月03日",
@@ -838,16 +839,14 @@
               "height": 720
             }
           },
-          "viewCount": 339,
+          "viewCount": 421,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
             "actualStartTime": "2025-11-03T12:15:27Z",
-            "concurrentViewers": 142
+            "actualEndTime": "2025-11-03T13:33:25Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "rT8keyUnpAs",
           "title": "石破茂 vs 高市早苗「結局、何が違う？」 2人の所信表明演説を徹底比較！経済、安保、スタンスの違いを7つのポイントで解説。",
@@ -881,7 +880,7 @@
               "height": 720
             }
           },
-          "viewCount": 594
+          "viewCount": 600
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -992,7 +991,7 @@
               "height": 720
             }
           },
-          "viewCount": 605
+          "viewCount": 814
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1078,7 +1077,7 @@
               "height": 720
             }
           },
-          "viewCount": 12441,
+          "viewCount": 12453,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1220,7 +1219,7 @@
               "height": 720
             }
           },
-          "viewCount": 5628,
+          "viewCount": 5662,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T15:45:05Z",
@@ -1302,7 +1301,7 @@
               "height": 720
             }
           },
-          "viewCount": 14933,
+          "viewCount": 14951,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1364,7 +1363,7 @@
               "height": 360
             }
           },
-          "viewCount": 5284,
+          "viewCount": 5285,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-30T03:00:00Z",
@@ -1446,7 +1445,7 @@
               "height": 720
             }
           },
-          "viewCount": 6082,
+          "viewCount": 6083,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T04:00:00Z",
@@ -1852,7 +1851,7 @@
               "height": 720
             }
           },
-          "viewCount": 8549,
+          "viewCount": 8558,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T03:00:00Z",
