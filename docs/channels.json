@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-04T03:06:08.249Z",
+  "requestedAt": "2025-11-04T04:16:57.067Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 31747,
+          "viewCount": 31866,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T11:00:00Z",
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 6610,
+          "viewCount": 6618,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-26T03:14:41Z",
@@ -371,7 +371,7 @@
               "height": 720
             }
           },
-          "viewCount": 9524,
+          "viewCount": 9529,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-28T12:00:00Z",
@@ -595,7 +595,7 @@
               "height": 360
             }
           },
-          "viewCount": 1800,
+          "viewCount": 1809,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -879,7 +879,7 @@
               "height": 720
             }
           },
-          "viewCount": 1084,
+          "viewCount": 1102,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 632
+          "viewCount": 631
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1031,7 +1031,7 @@
               "height": 720
             }
           },
-          "viewCount": 2595
+          "viewCount": 2807
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1057,50 +1057,50 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "uFeCV3NcYTs",
           "title": "【11月4日12:00配信】天野こころのこころトーク#13",
           "description": "",
-          "publishedAt": "2025-11-04T01:26:42Z",
+          "publishedAt": "2025-11-04T04:02:34Z",
           "channelTitle": "天野こころ【再生の道】中央区",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 108,
+          "viewCount": 694,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
             "actualStartTime": "2025-11-04T02:58:03Z",
-            "concurrentViewers": 99
+            "actualEndTime": "2025-11-04T03:54:28Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "天野こころ,あまのこころ"
     },
     {
@@ -1159,7 +1159,7 @@
               "height": 720
             }
           },
-          "viewCount": 12556,
+          "viewCount": 12564,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1301,7 +1301,7 @@
               "height": 720
             }
           },
-          "viewCount": 5927,
+          "viewCount": 5949,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T15:45:05Z",
@@ -1342,7 +1342,7 @@
               "height": 720
             }
           },
-          "viewCount": 7791,
+          "viewCount": 7796,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-01T10:20:19Z",
@@ -1383,7 +1383,7 @@
               "height": 720
             }
           },
-          "viewCount": 15133,
+          "viewCount": 15153,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1414,7 +1414,7 @@
               "height": 360
             }
           },
-          "viewCount": 4942,
+          "viewCount": 4944,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -1486,7 +1486,7 @@
               "height": 720
             }
           },
-          "viewCount": 6699,
+          "viewCount": 6697,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T14:00:00Z",
@@ -1527,7 +1527,7 @@
               "height": 720
             }
           },
-          "viewCount": 6090,
+          "viewCount": 6089,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T04:00:00Z",
