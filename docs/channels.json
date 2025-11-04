@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-04T15:16:14.493Z",
+  "requestedAt": "2025-11-04T16:18:12.525Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7545
+          "viewCount": 7546
         },
         {
           "videoId": "ubVMdRcU-Dw",
@@ -119,43 +119,7 @@
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "33eooixQSho",
-          "title": "日本人だからこそできるAI",
-          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2025-10-28T15:53:13Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/33eooixQSho/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/33eooixQSho/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/33eooixQSho/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/33eooixQSho/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/33eooixQSho/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5607
-        }
-      ],
+      "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -214,7 +178,7 @@
               "height": 720
             }
           },
-          "viewCount": 5183,
+          "viewCount": 5863,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -356,7 +320,7 @@
               "height": 720
             }
           },
-          "viewCount": 1602,
+          "viewCount": 1604,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T09:00:00Z",
@@ -513,7 +477,7 @@
               "height": 360
             }
           },
-          "viewCount": 1868,
+          "viewCount": 1873,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -797,7 +761,7 @@
               "height": 720
             }
           },
-          "viewCount": 1544,
+          "viewCount": 1570,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -838,7 +802,7 @@
               "height": 720
             }
           },
-          "viewCount": 669
+          "viewCount": 672
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -949,7 +913,7 @@
               "height": 720
             }
           },
-          "viewCount": 4040
+          "viewCount": 4091
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1010,7 +974,7 @@
               "height": 720
             }
           },
-          "viewCount": 2322,
+          "viewCount": 2380,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
@@ -1077,7 +1041,7 @@
               "height": 720
             }
           },
-          "viewCount": 12662,
+          "viewCount": 12679,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1219,7 +1183,7 @@
               "height": 720
             }
           },
-          "viewCount": 4247,
+          "viewCount": 4465,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:15:00Z",
@@ -1260,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 1728,
+          "viewCount": 1806,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:00:00Z",
@@ -1383,7 +1347,7 @@
               "height": 720
             }
           },
-          "viewCount": 15309,
+          "viewCount": 15358,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1445,7 +1409,7 @@
               "height": 360
             }
           },
-          "viewCount": 5306,
+          "viewCount": 5310,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-30T03:00:00Z",
@@ -1527,7 +1491,7 @@
               "height": 720
             }
           },
-          "viewCount": 6103,
+          "viewCount": 6106,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T04:00:00Z",
@@ -1594,7 +1558,7 @@
               "height": 720
             }
           },
-          "viewCount": 2380
+          "viewCount": 2382
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -1830,7 +1794,7 @@
               "height": 720
             }
           },
-          "viewCount": 8611,
+          "viewCount": 8610,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T03:00:00Z",
