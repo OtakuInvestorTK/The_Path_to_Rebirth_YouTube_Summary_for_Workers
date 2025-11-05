@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-05T14:14:46.167Z",
+  "requestedAt": "2025-11-05T15:15:39.516Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7937
+          "viewCount": 7964
         },
         {
           "videoId": "ubVMdRcU-Dw",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 10529
+          "viewCount": 10604
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -178,7 +178,7 @@
               "height": 720
             }
           },
-          "viewCount": 11314,
+          "viewCount": 11472,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -245,7 +245,7 @@
               "height": 720
             }
           },
-          "viewCount": 268,
+          "viewCount": 298,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T09:00:00Z",
@@ -402,7 +402,7 @@
               "height": 360
             }
           },
-          "viewCount": 1896,
+          "viewCount": 1905,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -636,7 +636,7 @@
               "height": 720
             }
           },
-          "viewCount": 654
+          "viewCount": 696
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -722,7 +722,7 @@
               "height": 720
             }
           },
-          "viewCount": 1821,
+          "viewCount": 1829,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -763,7 +763,7 @@
               "height": 720
             }
           },
-          "viewCount": 723
+          "viewCount": 727
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -874,7 +874,7 @@
               "height": 720
             }
           },
-          "viewCount": 4849
+          "viewCount": 4884
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 2912,
+          "viewCount": 2939,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
@@ -1002,7 +1002,7 @@
               "height": 720
             }
           },
-          "viewCount": 12840,
+          "viewCount": 12847,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1109,50 +1109,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Yiz4ZiiRlhE",
           "title": "【再生の道】くれよしつぐ ミートアップ vol.34",
           "description": "【ご寄付が活動の糧となります💦】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-11-05T13:02:01Z",
+          "publishedAt": "2025-11-05T14:37:03Z",
           "channelTitle": "くれよしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Yiz4ZiiRlhE/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1403,
+          "viewCount": 1820,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-05T13:05:00Z",
             "actualStartTime": "2025-11-05T13:05:06Z",
-            "concurrentViewers": 482
+            "actualEndTime": "2025-11-05T14:25:49Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "f3zX4k4MBs4",
           "title": "【再生の道】くれよしつぐ ミートアップ vol.33",
@@ -1176,7 +1175,7 @@
               "height": 360
             }
           },
-          "viewCount": 3682,
+          "viewCount": 3866,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1381,7 +1380,7 @@
               "height": 720
             }
           },
-          "viewCount": 15481,
+          "viewCount": 15495,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
