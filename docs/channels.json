@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-05T08:19:49.054Z",
+  "requestedAt": "2025-11-05T09:16:37.521Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7826
+          "viewCount": 7835
         },
         {
           "videoId": "ubVMdRcU-Dw",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 10224
+          "viewCount": 10258
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -178,7 +178,7 @@
               "height": 720
             }
           },
-          "viewCount": 10446,
+          "viewCount": 10538,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -215,7 +215,7 @@
           "videoId": "wE1NDhrFJ_U",
           "title": "[ 朗読 ]  烏の北斗七星　宮沢賢治作　#朗読,#睡眠導入,#精神安定",
           "description": "朗読 第２１段（毎週水曜日新作追加）\n\n原作：宮沢賢治\n底本：「烏の北斗七星」（青空文庫） \nURL: https://www.aozora.gr.jp/cards/000081/files/43755_17660.html\nサムネイルイラスト：Pollo ai\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-11-04T12:29:00Z",
+          "publishedAt": "2025-11-05T09:00:06Z",
           "channelTitle": "水野 純也 @再生の道",
           "thumbnails": {
             "default": {
@@ -244,56 +244,15 @@
               "height": 720
             }
           },
-          "viewCount": 1,
+          "viewCount": 32,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-11-05T09:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-11-05T09:00:00Z",
+            "actualStartTime": "2025-11-05T09:00:06Z"
           }
         }
       ],
-      "recentVideos": [
-        {
-          "videoId": "Qt5x3bq5Hp8",
-          "title": "[ 朗読 ]  牛をつないだ椿の木　新美南吉　自慢話や悪口はよくないね。#朗読,#睡眠導入,#精神安定",
-          "description": "朗読 第２０段（毎週水曜日新作追加）　　\n牛をつないだ椿の木　　自慢話や悪口はよくないね。\n\n原作：新美南吉\n底本：「牛をつないだ椿の木」（青空文庫） \nURL:https://www.aozora.gr.jp/cards/000121/files/638_34289.html\nサムネイルイラスト：Pollo ai\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-10-29T09:00:06Z",
-          "channelTitle": "水野 純也 @再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Qt5x3bq5Hp8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Qt5x3bq5Hp8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Qt5x3bq5Hp8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Qt5x3bq5Hp8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Qt5x3bq5Hp8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1651,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-29T09:00:00Z",
-            "actualStartTime": "2025-10-29T09:00:06Z",
-            "actualEndTime": "2025-10-29T09:39:05Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
     },
     {
@@ -559,7 +518,7 @@
               "height": 720
             }
           },
-          "viewCount": 1454,
+          "viewCount": 1457,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T09:44:07Z",
@@ -676,7 +635,7 @@
               "height": 720
             }
           },
-          "viewCount": 339
+          "viewCount": 347
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -762,7 +721,7 @@
               "height": 720
             }
           },
-          "viewCount": 1768,
+          "viewCount": 1775,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -914,7 +873,7 @@
               "height": 720
             }
           },
-          "viewCount": 4582
+          "viewCount": 4608
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -975,7 +934,7 @@
               "height": 720
             }
           },
-          "viewCount": 2789,
+          "viewCount": 2805,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
@@ -1042,7 +1001,7 @@
               "height": 720
             }
           },
-          "viewCount": 12793,
+          "viewCount": 12798,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1174,7 +1133,7 @@
               "height": 360
             }
           },
-          "viewCount": 2156,
+          "viewCount": 2365,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1215,7 +1174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6014,
+          "viewCount": 6030,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:15:00Z",
@@ -1379,7 +1338,7 @@
               "height": 720
             }
           },
-          "viewCount": 15442,
+          "viewCount": 15452,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1482,7 +1441,7 @@
               "height": 720
             }
           },
-          "viewCount": 6745,
+          "viewCount": 6748,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T14:00:00Z",
