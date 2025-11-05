@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-05T11:13:18.716Z",
+  "requestedAt": "2025-11-05T12:30:05.699Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 10395
+          "viewCount": 10403
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -178,7 +178,7 @@
               "height": 720
             }
           },
-          "viewCount": 10852,
+          "viewCount": 11021,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -245,7 +245,7 @@
               "height": 720
             }
           },
-          "viewCount": 136,
+          "viewCount": 205,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T09:00:00Z",
@@ -402,7 +402,7 @@
               "height": 360
             }
           },
-          "viewCount": 1890,
+          "viewCount": 1896,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -519,7 +519,7 @@
               "height": 720
             }
           },
-          "viewCount": 1457,
+          "viewCount": 1469,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T09:44:07Z",
@@ -636,7 +636,7 @@
               "height": 720
             }
           },
-          "viewCount": 505
+          "viewCount": 560
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -722,7 +722,7 @@
               "height": 720
             }
           },
-          "viewCount": 1791,
+          "viewCount": 1803,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -763,7 +763,7 @@
               "height": 720
             }
           },
-          "viewCount": 710
+          "viewCount": 711
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -874,7 +874,7 @@
               "height": 720
             }
           },
-          "viewCount": 4711
+          "viewCount": 4759
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 2851,
+          "viewCount": 2866,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
@@ -1109,7 +1109,47 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "bhfRD87_1SI",
+          "title": "OBSテストだけの配信",
+          "description": "【ご寄付が活動の糧となります💦】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2025-11-05T12:22:38Z",
+          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bhfRD87_1SI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bhfRD87_1SI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bhfRD87_1SI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bhfRD87_1SI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bhfRD87_1SI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-11-05T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "f3zX4k4MBs4",
@@ -1134,7 +1174,7 @@
               "height": 360
             }
           },
-          "viewCount": 3008,
+          "viewCount": 3277,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1175,7 +1215,7 @@
               "height": 720
             }
           },
-          "viewCount": 6068,
+          "viewCount": 6082,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:15:00Z",
@@ -1216,7 +1256,7 @@
               "height": 720
             }
           },
-          "viewCount": 2180,
+          "viewCount": 2185,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:00:00Z",
@@ -1257,7 +1297,7 @@
               "height": 720
             }
           },
-          "viewCount": 6257,
+          "viewCount": 6260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T15:45:05Z",
@@ -1339,7 +1379,7 @@
               "height": 720
             }
           },
-          "viewCount": 15453,
+          "viewCount": 15474,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1370,7 +1410,7 @@
               "height": 360
             }
           },
-          "viewCount": 4964,
+          "viewCount": 4966,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -1442,7 +1482,7 @@
               "height": 720
             }
           },
-          "viewCount": 6749,
+          "viewCount": 6751,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-29T14:00:00Z",
