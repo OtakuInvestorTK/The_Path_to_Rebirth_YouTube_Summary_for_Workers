@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-05T04:17:47.760Z",
+  "requestedAt": "2025-11-05T05:15:27.273Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7750
+          "viewCount": 7773
         },
         {
           "videoId": "ubVMdRcU-Dw",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 10030
+          "viewCount": 10100
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -178,7 +178,7 @@
               "height": 720
             }
           },
-          "viewCount": 9934,
+          "viewCount": 10123,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -442,7 +442,7 @@
               "height": 360
             }
           },
-          "viewCount": 1886,
+          "viewCount": 1890,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -559,7 +559,7 @@
               "height": 720
             }
           },
-          "viewCount": 1438,
+          "viewCount": 1450,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T09:44:07Z",
@@ -726,7 +726,7 @@
               "height": 720
             }
           },
-          "viewCount": 1728,
+          "viewCount": 1749,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -878,7 +878,7 @@
               "height": 720
             }
           },
-          "viewCount": 4462
+          "viewCount": 4476
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -939,7 +939,7 @@
               "height": 720
             }
           },
-          "viewCount": 2683,
+          "viewCount": 2724,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
@@ -1006,7 +1006,7 @@
               "height": 720
             }
           },
-          "viewCount": 12751,
+          "viewCount": 12756,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1138,7 +1138,7 @@
               "height": 360
             }
           },
-          "viewCount": 1156,
+          "viewCount": 1398,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1179,7 +1179,7 @@
               "height": 720
             }
           },
-          "viewCount": 5871,
+          "viewCount": 5937,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:15:00Z",
@@ -1220,7 +1220,7 @@
               "height": 720
             }
           },
-          "viewCount": 2119,
+          "viewCount": 2142,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:00:00Z",
@@ -1405,7 +1405,7 @@
               "height": 360
             }
           },
-          "viewCount": 5311,
+          "viewCount": 5312,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-30T03:00:00Z",
@@ -1452,47 +1452,6 @@
             "scheduledStartTime": "2025-10-29T14:00:00Z",
             "actualStartTime": "2025-10-29T13:58:45Z",
             "actualEndTime": "2025-10-29T15:34:23Z"
-          }
-        },
-        {
-          "videoId": "h-FyXSRsdYs",
-          "title": "【再生の道】くれよしつぐミートアップオンライン vol.27",
-          "description": "【ご寄付でのご支援、どうぞ宜しくお願い申し上げます】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-10-29T04:57:47Z",
-          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/h-FyXSRsdYs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/h-FyXSRsdYs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/h-FyXSRsdYs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/h-FyXSRsdYs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/h-FyXSRsdYs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6107,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-29T04:00:00Z",
-            "actualStartTime": "2025-10-29T04:00:31Z",
-            "actualEndTime": "2025-10-29T04:53:24Z"
           }
         }
       ],
@@ -1720,49 +1679,7 @@
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "Uz3wZ7mZBPE",
-          "title": "ヨシヒコ・ライブSP with はぎわら 崇さん",
-          "description": "お待たせしました！今回は、再生の道のはぎわら崇をお迎えします。\nはぎわらさんが作られた短編物語「AIデモクラシー」面白いですよね。この話を深掘りしていきます！\nそして、オシャレでダンディなはぎわらさんに、増田のファッションアドバイスをお願いしてみようかと目論見中。\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→\n\n萩原さんを紹介してくれた河添さんとの動画はこちらからhttps://www.youtube.com/watch?v=pSJy5SdJhpc&t=208s\n\n短編物語「AIデモクラシー」AIが浸透した未来はどうなるのか、AIが個人の選択から社会の運営までを担うようになった近未来を描いた作品　by はぎわらたかしhttps://www.youtube.com/watch?v=6RMVazPppTA",
-          "publishedAt": "2025-10-29T04:50:19Z",
-          "channelTitle": "増田よしひこ@再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Uz3wZ7mZBPE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Uz3wZ7mZBPE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Uz3wZ7mZBPE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Uz3wZ7mZBPE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Uz3wZ7mZBPE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 8629,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-10-29T03:00:00Z",
-            "actualStartTime": "2025-10-29T02:58:53Z",
-            "actualEndTime": "2025-10-29T04:02:27Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
     },
     {
