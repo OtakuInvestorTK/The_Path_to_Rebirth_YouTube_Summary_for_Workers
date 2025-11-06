@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-06T01:08:45.267Z",
+  "requestedAt": "2025-11-06T03:09:48.282Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8159
+          "viewCount": 8222
         },
         {
           "videoId": "ubVMdRcU-Dw",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 13537
+          "viewCount": 14033
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -178,7 +178,7 @@
               "height": 720
             }
           },
-          "viewCount": 11884,
+          "viewCount": 11938,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -245,7 +245,7 @@
               "height": 720
             }
           },
-          "viewCount": 555,
+          "viewCount": 600,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T09:00:00Z",
@@ -402,7 +402,7 @@
               "height": 360
             }
           },
-          "viewCount": 1914,
+          "viewCount": 1916,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -519,7 +519,7 @@
               "height": 720
             }
           },
-          "viewCount": 1497,
+          "viewCount": 1501,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T09:44:07Z",
@@ -636,7 +636,7 @@
               "height": 720
             }
           },
-          "viewCount": 890
+          "viewCount": 932
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -722,7 +722,7 @@
               "height": 720
             }
           },
-          "viewCount": 1868,
+          "viewCount": 1875,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -874,7 +874,7 @@
               "height": 720
             }
           },
-          "viewCount": 5011
+          "viewCount": 5040
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 3065,
+          "viewCount": 3091,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
@@ -1002,7 +1002,7 @@
               "height": 720
             }
           },
-          "viewCount": 12898,
+          "viewCount": 12909,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1112,6 +1112,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "mthKsKkWAJ4",
+          "title": "【再生の道】くれよしつぐ ミートアップ vol.35",
+          "description": "【ご寄付が活動の糧となります💦】\n三井住友銀行 経堂支店 普通 7245716  ｸﾚﾖｼﾂｸﾞｺｳｴﾝｶｲ ﾀﾞｲﾋﾖｳ ｸﾚ ﾖｼﾂｸﾞ\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2025-11-06T01:40:41Z",
+          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mthKsKkWAJ4/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mthKsKkWAJ4/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mthKsKkWAJ4/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mthKsKkWAJ4/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mthKsKkWAJ4/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 513,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-11-06T03:00:00Z",
+            "actualStartTime": "2025-11-06T02:49:12Z",
+            "actualEndTime": "2025-11-06T03:09:37Z"
+          }
+        },
+        {
           "videoId": "Yiz4ZiiRlhE",
           "title": "【再生の道】くれよしつぐ ミートアップ vol.34",
           "description": "【ご寄付が活動の糧となります💦】\nhttps://go2senkyo.com/donate/flow/196111\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
@@ -1144,7 +1185,7 @@
               "height": 720
             }
           },
-          "viewCount": 3833,
+          "viewCount": 4196,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T13:05:00Z",
@@ -1175,7 +1216,7 @@
               "height": 360
             }
           },
-          "viewCount": 4235,
+          "viewCount": 4267,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1216,7 +1257,7 @@
               "height": 720
             }
           },
-          "viewCount": 6183,
+          "viewCount": 6197,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:15:00Z",
@@ -1298,7 +1339,7 @@
               "height": 720
             }
           },
-          "viewCount": 6271,
+          "viewCount": 6272,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T15:45:05Z",
@@ -1339,7 +1380,7 @@
               "height": 720
             }
           },
-          "viewCount": 7895,
+          "viewCount": 7897,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-01T10:20:19Z",
@@ -1380,7 +1421,7 @@
               "height": 720
             }
           },
-          "viewCount": 15538,
+          "viewCount": 15543,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1442,7 +1483,7 @@
               "height": 360
             }
           },
-          "viewCount": 5327,
+          "viewCount": 5330,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-30T03:00:00Z",
