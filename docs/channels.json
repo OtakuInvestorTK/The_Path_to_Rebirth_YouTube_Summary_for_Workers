@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-06T13:28:03.391Z",
+  "requestedAt": "2025-11-06T14:15:15.094Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -143,7 +143,7 @@
               "height": 720
             }
           },
-          "viewCount": 12319,
+          "viewCount": 12349,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -210,7 +210,7 @@
               "height": 720
             }
           },
-          "viewCount": 706,
+          "viewCount": 725,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T09:00:00Z",
@@ -601,7 +601,7 @@
               "height": 720
             }
           },
-          "viewCount": 1016
+          "viewCount": 1045
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -652,50 +652,49 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Ev1DCeJT0SE",
           "title": "出張先から雑談配信in秋田 2025年11月06日",
           "description": "皆さんこんにちは、やなぎさわです！\n\n今回は、夏の竿燈（かんとう）まつりや美味しいきりたんぽで知られる、秋田県秋田市に来ています！\n日本海に面し、歴史ある城下町の雰囲気も残る素敵な場所ですね。\n\n……と言っても、残念ながら今回は観光やグルメ旅ではなく、いつも通り「出張」で秋田市にお邪魔しております！\n\nこの配信は、出張先の滞在先からお届けする、まったり雑談ライブです。\n（美味しいものは食べられませんでしたが、皆さんとお話ししたくて配信を始めました！）\n\n出張先からの配信ですが、今夜も皆さんとコメントを通じてお話しできるのを楽しみにしていました。\n遅い時間（または、お忙しい中）、遊びに来てくれて本当にありがとうございます！\n\n今夜も一緒に楽しい時間を過ごしましょう。\n気軽にコメントしていってくださいね！\n\n---\n👇やなぎさわの活動はこちらから👇\n\n■ YouTubeチャンネル (チャンネル登録お願いします！)\nhttps://youtube.com/@marcie_nocturne?si=pWcKkcbEorhV9JBI\n\n■ Twitter (日常や告知など)\nhttps://x.com/marcie_nocturne?s=21&t=rpoaaICkoVeZaKkAAiKpIQ\n\n■ Instagram (写真など)\nhttps://www.instagram.com/marcie_nocturne?igsh=b3EwMHAzc29idDdp&utm_source=qr",
-          "publishedAt": "2025-11-01T16:54:53Z",
+          "publishedAt": "2025-11-06T13:40:10Z",
           "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Ev1DCeJT0SE/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 502,
+          "viewCount": 639,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-06T12:00:00Z",
             "actualStartTime": "2025-11-06T12:00:56Z",
-            "concurrentViewers": 103
+            "actualEndTime": "2025-11-06T13:28:07Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "044lcpj3MZ8",
           "title": "出張先から雑談配信in松江 2025年11月03日",
@@ -729,7 +728,7 @@
               "height": 720
             }
           },
-          "viewCount": 1971,
+          "viewCount": 1995,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -881,7 +880,7 @@
               "height": 720
             }
           },
-          "viewCount": 5356
+          "viewCount": 5673
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -942,7 +941,7 @@
               "height": 720
             }
           },
-          "viewCount": 3268,
+          "viewCount": 3271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
@@ -1009,7 +1008,7 @@
               "height": 720
             }
           },
-          "viewCount": 13088,
+          "viewCount": 13113,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1150,12 +1149,12 @@
               "height": 720
             }
           },
-          "viewCount": 188,
+          "viewCount": 1006,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2025-11-06T13:15:00Z",
             "actualStartTime": "2025-11-06T13:20:37Z",
-            "concurrentViewers": 174
+            "concurrentViewers": 406
           }
         }
       ],
@@ -1193,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 3121,
+          "viewCount": 3275,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:20:00Z",
@@ -1234,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 2531,
+          "viewCount": 2636,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:00:00Z",
@@ -1275,7 +1274,7 @@
               "height": 720
             }
           },
-          "viewCount": 4605,
+          "viewCount": 4607,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T13:05:00Z",
@@ -1306,7 +1305,7 @@
               "height": 360
             }
           },
-          "viewCount": 4329,
+          "viewCount": 4334,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1347,7 +1346,7 @@
               "height": 720
             }
           },
-          "viewCount": 6203,
+          "viewCount": 6204,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:15:00Z",
@@ -1470,7 +1469,7 @@
               "height": 720
             }
           },
-          "viewCount": 7903,
+          "viewCount": 7905,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-01T10:20:19Z",
@@ -1511,7 +1510,7 @@
               "height": 720
             }
           },
-          "viewCount": 15605,
+          "viewCount": 15627,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1542,7 +1541,7 @@
               "height": 360
             }
           },
-          "viewCount": 4982,
+          "viewCount": 4984,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -1609,7 +1608,7 @@
               "height": 720
             }
           },
-          "viewCount": 6904
+          "viewCount": 7937
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
