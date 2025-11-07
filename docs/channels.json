@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-07T09:15:25.798Z",
+  "requestedAt": "2025-11-07T10:16:13.236Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -107,7 +107,7 @@
               "height": 720
             }
           },
-          "viewCount": 12534,
+          "viewCount": 12546,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -266,7 +266,7 @@
               "height": 720
             }
           },
-          "viewCount": 294
+          "viewCount": 413
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -367,7 +367,7 @@
               "height": 360
             }
           },
-          "viewCount": 1933,
+          "viewCount": 1931,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -484,7 +484,7 @@
               "height": 720
             }
           },
-          "viewCount": 1530,
+          "viewCount": 1533,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T09:44:07Z",
@@ -566,7 +566,8 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "RvNwei0B0Kk",
           "title": "【府中市】淳さんぽライブ【調布駅】",
@@ -600,16 +601,14 @@
               "height": 720
             }
           },
-          "viewCount": 74,
+          "viewCount": 170,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-07T08:30:00Z",
             "actualStartTime": "2025-11-07T08:29:21Z",
-            "concurrentViewers": 56
+            "actualEndTime": "2025-11-07T09:38:24Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "WTPVwQhn9ww",
           "title": "兵頭秀一 葛飾区長候補(IT企業社長60歳)亀有駅南口街頭演説",
@@ -729,7 +728,7 @@
               "height": 720
             }
           },
-          "viewCount": 2074,
+          "viewCount": 2139,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T12:00:00Z",
@@ -811,7 +810,7 @@
               "height": 720
             }
           },
-          "viewCount": 778
+          "viewCount": 777
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -922,7 +921,7 @@
               "height": 720
             }
           },
-          "viewCount": 8361
+          "viewCount": 8484
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -983,7 +982,7 @@
               "height": 720
             }
           },
-          "viewCount": 3381,
+          "viewCount": 3394,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T03:00:00Z",
@@ -1050,7 +1049,7 @@
               "height": 720
             }
           },
-          "viewCount": 13263,
+          "viewCount": 13271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1192,7 +1191,7 @@
               "height": 720
             }
           },
-          "viewCount": 3153,
+          "viewCount": 3531,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-07T03:27:22Z",
@@ -1233,7 +1232,7 @@
               "height": 720
             }
           },
-          "viewCount": 4109,
+          "viewCount": 4144,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T13:15:00Z",
@@ -1274,7 +1273,7 @@
               "height": 720
             }
           },
-          "viewCount": 3669,
+          "viewCount": 3677,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:20:00Z",
@@ -1315,7 +1314,7 @@
               "height": 720
             }
           },
-          "viewCount": 2801,
+          "viewCount": 2812,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:00:00Z",
@@ -1356,7 +1355,7 @@
               "height": 720
             }
           },
-          "viewCount": 4645,
+          "viewCount": 4649,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T13:05:00Z",
@@ -1387,7 +1386,7 @@
               "height": 360
             }
           },
-          "viewCount": 4368,
+          "viewCount": 4362,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1551,7 +1550,7 @@
               "height": 720
             }
           },
-          "viewCount": 7922,
+          "viewCount": 7924,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-01T10:20:19Z",
@@ -1592,7 +1591,7 @@
               "height": 720
             }
           },
-          "viewCount": 15748,
+          "viewCount": 15756,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1659,7 +1658,7 @@
               "height": 720
             }
           },
-          "viewCount": 661
+          "viewCount": 769
         },
         {
           "videoId": "vD1c9Bq_rOM",
@@ -1694,7 +1693,7 @@
               "height": 720
             }
           },
-          "viewCount": 1376
+          "viewCount": 1507
         },
         {
           "videoId": "muBBKOr1gsU",
@@ -1729,7 +1728,7 @@
               "height": 720
             }
           },
-          "viewCount": 1475
+          "viewCount": 1564
         },
         {
           "videoId": "KBuBDKyFzWs",
@@ -1764,7 +1763,7 @@
               "height": 720
             }
           },
-          "viewCount": 11007
+          "viewCount": 11215
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
