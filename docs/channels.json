@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-07T08:20:02.539Z",
+  "requestedAt": "2025-11-07T09:15:25.798Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -23,43 +23,7 @@
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "c0NlCoal5WI",
-          "title": "【費用便益分析とは!?】概要を知り、プロから学ぼう!!",
-          "description": "前半：【基礎編】0:08\n後半：【応用編】（山下プロに聞く!!）21:30\n\n再生の道のメンバー 青柳みつや が公共事業の評価を行う上で重要な考え方である\"費用便益分析\"について基礎から整理し、そしてプロに詳しく聞いていきます。最近よく聞く\"経済波及効果\"とは何が違うのか。\"便益\"とは何なのか。公共事業を評価するために必要な知識や観点を、ぜひ一緒に見ていきましょう。\n\n先日公開された山下こういちの新空港線（蒲蒲線）事業に関するタウンミーティング動画をすでにご覧いただいた方は復習として。まだ見ていない方はその予習のために。どうぞご覧ください!!\n\n※本動画の内容はすでに青柳みつやの個人チャンネルにて公開されている内容を再編集したものになります。お含みおきください",
-          "publishedAt": "2025-10-31T09:06:48Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/c0NlCoal5WI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 8821
-        }
-      ],
+      "recentVideos": [],
       "name": "再生の道,さいせいのみち"
     },
     {
@@ -143,7 +107,7 @@
               "height": 720
             }
           },
-          "viewCount": 12528,
+          "viewCount": 12534,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -210,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 893,
+          "viewCount": 892,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T09:00:00Z",
@@ -268,7 +232,43 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "s7N-rpuuyVY",
+          "title": "亀有の両さんまつり",
+          "description": "",
+          "publishedAt": "2025-11-07T08:51:34Z",
+          "channelTitle": "木島やすお　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s7N-rpuuyVY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s7N-rpuuyVY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s7N-rpuuyVY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/s7N-rpuuyVY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/s7N-rpuuyVY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 294
+        }
+      ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -367,7 +367,7 @@
               "height": 360
             }
           },
-          "viewCount": 1931,
+          "viewCount": 1933,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-02T13:30:00Z",
@@ -566,7 +566,49 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "RvNwei0B0Kk",
+          "title": "【府中市】淳さんぽライブ【調布駅】",
+          "description": "府中市から旧甲州街道をゴミ拾いしつつ、隣の市の調布駅まで雑談する配信をします。",
+          "publishedAt": "2025-10-30T02:47:54Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RvNwei0B0Kk/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RvNwei0B0Kk/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RvNwei0B0Kk/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RvNwei0B0Kk/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RvNwei0B0Kk/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 74,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-11-07T08:30:00Z",
+            "actualStartTime": "2025-11-07T08:29:21Z",
+            "concurrentViewers": 56
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "WTPVwQhn9ww",
@@ -601,7 +643,7 @@
               "height": 720
             }
           },
-          "viewCount": 2032
+          "viewCount": 2034
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -687,7 +729,7 @@
               "height": 720
             }
           },
-          "viewCount": 2035,
+          "viewCount": 2074,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T12:00:00Z",
@@ -769,7 +811,7 @@
               "height": 720
             }
           },
-          "viewCount": 777
+          "viewCount": 778
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -880,7 +922,7 @@
               "height": 720
             }
           },
-          "viewCount": 8264
+          "viewCount": 8361
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1008,7 +1050,7 @@
               "height": 720
             }
           },
-          "viewCount": 13239,
+          "viewCount": 13263,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T12:00:00Z",
@@ -1150,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 2862,
+          "viewCount": 3153,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-07T03:27:22Z",
@@ -1191,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 4087,
+          "viewCount": 4109,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T13:15:00Z",
@@ -1232,7 +1274,7 @@
               "height": 720
             }
           },
-          "viewCount": 3666,
+          "viewCount": 3669,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:20:00Z",
@@ -1345,7 +1387,7 @@
               "height": 360
             }
           },
-          "viewCount": 4362,
+          "viewCount": 4368,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1427,7 +1469,7 @@
               "height": 720
             }
           },
-          "viewCount": 2226,
+          "viewCount": 2229,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T10:00:00Z",
@@ -1509,7 +1551,7 @@
               "height": 720
             }
           },
-          "viewCount": 7919,
+          "viewCount": 7922,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-01T10:20:19Z",
@@ -1550,7 +1592,7 @@
               "height": 720
             }
           },
-          "viewCount": 15756,
+          "viewCount": 15748,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-10-31T08:31:20Z",
@@ -1617,7 +1659,7 @@
               "height": 720
             }
           },
-          "viewCount": 325
+          "viewCount": 661
         },
         {
           "videoId": "vD1c9Bq_rOM",
@@ -1652,7 +1694,7 @@
               "height": 720
             }
           },
-          "viewCount": 1273
+          "viewCount": 1376
         },
         {
           "videoId": "muBBKOr1gsU",
@@ -1687,7 +1729,7 @@
               "height": 720
             }
           },
-          "viewCount": 1396
+          "viewCount": 1475
         },
         {
           "videoId": "KBuBDKyFzWs",
@@ -1722,7 +1764,7 @@
               "height": 720
             }
           },
-          "viewCount": 10885
+          "viewCount": 11007
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
