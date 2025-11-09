@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-09T14:11:32.906Z",
+  "requestedAt": "2025-11-09T15:12:11.646Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 2232,
+          "viewCount": 4999,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2025-11-09T14:00:02Z",
             "actualStartTime": "2025-11-09T14:00:27Z",
-            "concurrentViewers": 2537
+            "concurrentViewers": 4464
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 16635,
+          "viewCount": 17049,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-08T13:00:26Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 12811,
+          "viewCount": 12820,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -350,7 +350,7 @@
               "height": 720
             }
           },
-          "viewCount": 2626
+          "viewCount": 2622
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -643,7 +643,7 @@
               "height": 720
             }
           },
-          "viewCount": 951,
+          "viewCount": 962,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-07T08:30:00Z",
@@ -770,7 +770,7 @@
               "height": 720
             }
           },
-          "viewCount": 2702,
+          "viewCount": 2723,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T12:00:00Z",
@@ -811,7 +811,7 @@
               "height": 720
             }
           },
-          "viewCount": 2064,
+          "viewCount": 2068,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-03T12:00:00Z",
@@ -928,7 +928,7 @@
               "height": 720
             }
           },
-          "viewCount": 12077
+          "viewCount": 12136
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1156,7 +1156,7 @@
               "height": 720
             }
           },
-          "viewCount": 4286,
+          "viewCount": 4325,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-08T14:28:03Z",
@@ -1197,7 +1197,7 @@
               "height": 720
             }
           },
-          "viewCount": 3945,
+          "viewCount": 3956,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-08T03:30:00Z",
@@ -1238,7 +1238,7 @@
               "height": 720
             }
           },
-          "viewCount": 3421,
+          "viewCount": 3440,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-07T14:55:00Z",
@@ -1361,7 +1361,7 @@
               "height": 720
             }
           },
-          "viewCount": 3905,
+          "viewCount": 3915,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:20:00Z",
@@ -1474,7 +1474,7 @@
               "height": 360
             }
           },
-          "viewCount": 4407,
+          "viewCount": 4410,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T03:00:00Z",
@@ -1664,7 +1664,7 @@
               "height": 720
             }
           },
-          "viewCount": 2300
+          "viewCount": 2367
         },
         {
           "videoId": "wLzGfJ0GTB0",
@@ -1699,7 +1699,7 @@
               "height": 720
             }
           },
-          "viewCount": 2402
+          "viewCount": 2427
         },
         {
           "videoId": "HabzRF3KPmc",
@@ -1734,7 +1734,7 @@
               "height": 720
             }
           },
-          "viewCount": 3348
+          "viewCount": 3381
         },
         {
           "videoId": "ck9Q2iUzpxw",
@@ -1769,7 +1769,7 @@
               "height": 720
             }
           },
-          "viewCount": 2771
+          "viewCount": 2786
         },
         {
           "videoId": "vD1c9Bq_rOM",
@@ -1804,7 +1804,7 @@
               "height": 720
             }
           },
-          "viewCount": 2851
+          "viewCount": 2871
         },
         {
           "videoId": "muBBKOr1gsU",
@@ -1839,7 +1839,7 @@
               "height": 720
             }
           },
-          "viewCount": 2622
+          "viewCount": 2650
         },
         {
           "videoId": "KBuBDKyFzWs",
@@ -1874,7 +1874,7 @@
               "height": 720
             }
           },
-          "viewCount": 15194
+          "viewCount": 15257
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
