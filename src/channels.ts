@@ -50,7 +50,7 @@ const shouldKeepVideo = (video: VideoSummary, nowMs: number): boolean => {
     return true;
   }
   const scheduled = liveStreaming.scheduledStartTime;
-  if (!scheduled) {
+  if (scheduled === undefined) {
     return false;
   }
   const scheduledTime = new Date(scheduled).getTime();
