@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-11T04:19:17.440Z",
+  "requestedAt": "2025-11-11T05:15:23.188Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 91072,
+          "viewCount": 91143,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-09T14:00:02Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 20376,
+          "viewCount": 20395,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-08T13:00:26Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 12947,
+          "viewCount": 12954,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-04T12:00:00Z",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 1446
+          "viewCount": 1604
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 11359
+          "viewCount": 11633
         },
         {
           "videoId": "s7N-rpuuyVY",
@@ -454,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 2863
+          "viewCount": 2870
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -580,7 +580,7 @@
               "height": 360
             }
           },
-          "viewCount": 7557,
+          "viewCount": 7707,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T12:00:00Z",
@@ -747,7 +747,7 @@
               "height": 720
             }
           },
-          "viewCount": 984,
+          "viewCount": 985,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-07T08:30:00Z",
@@ -874,7 +874,7 @@
               "height": 720
             }
           },
-          "viewCount": 2812,
+          "viewCount": 2813,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T12:00:00Z",
@@ -991,7 +991,7 @@
               "height": 720
             }
           },
-          "viewCount": 10047
+          "viewCount": 10218
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1062,7 +1062,7 @@
         {
           "videoId": "nJg5Z1FwinU",
           "title": "【11月11日12:00配信】天野こころのこころトーク#14",
-          "description": "",
+          "description": "【内容】\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​\n\n▽ホームページ\nhttps://amano-cocoro.com/​\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/...​\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano​\n\ninstagram / ID : @cocoro_amano\n   / cocoro_amano  ​",
           "publishedAt": "2025-11-11T04:03:03Z",
           "channelTitle": "天野こころ【再生の道】中央区",
           "thumbnails": {
@@ -1092,7 +1092,7 @@
               "height": 720
             }
           },
-          "viewCount": 1620,
+          "viewCount": 2058,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T03:00:00Z",
@@ -1224,50 +1224,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "EGcd9JJYYlU",
           "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.41",
           "description": "【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-11-11T00:24:20Z",
+          "publishedAt": "2025-11-11T04:49:39Z",
           "channelTitle": "くれよしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/EGcd9JJYYlU/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1289,
+          "viewCount": 1910,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-11T03:30:00Z",
             "actualStartTime": "2025-11-11T03:28:47Z",
-            "concurrentViewers": 571
+            "actualEndTime": "2025-11-11T04:31:33Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "DzuJsis2ADM",
           "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.40",
@@ -1301,7 +1300,7 @@
               "height": 720
             }
           },
-          "viewCount": 6332,
+          "viewCount": 6409,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T10:00:00Z",
@@ -1342,7 +1341,7 @@
               "height": 720
             }
           },
-          "viewCount": 4712,
+          "viewCount": 4711,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-08T14:28:03Z",
@@ -1547,7 +1546,7 @@
               "height": 720
             }
           },
-          "viewCount": 3955,
+          "viewCount": 3957,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:20:00Z",
@@ -1629,7 +1628,7 @@
               "height": 720
             }
           },
-          "viewCount": 4705,
+          "viewCount": 4704,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T13:05:00Z",
@@ -1809,7 +1808,7 @@
               "height": 720
             }
           },
-          "viewCount": 35750,
+          "viewCount": 36072,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T11:00:00Z",
@@ -1850,7 +1849,7 @@
               "height": 720
             }
           },
-          "viewCount": 6401
+          "viewCount": 6449
         },
         {
           "videoId": "wLzGfJ0GTB0",
@@ -1885,7 +1884,7 @@
               "height": 720
             }
           },
-          "viewCount": 4593
+          "viewCount": 4664
         },
         {
           "videoId": "HabzRF3KPmc",
@@ -1920,7 +1919,7 @@
               "height": 720
             }
           },
-          "viewCount": 4455
+          "viewCount": 4474
         },
         {
           "videoId": "ck9Q2iUzpxw",
@@ -1955,7 +1954,7 @@
               "height": 720
             }
           },
-          "viewCount": 3439
+          "viewCount": 3445
         },
         {
           "videoId": "vD1c9Bq_rOM",
@@ -1990,7 +1989,7 @@
               "height": 720
             }
           },
-          "viewCount": 3351
+          "viewCount": 3355
         },
         {
           "videoId": "muBBKOr1gsU",
@@ -2025,7 +2024,7 @@
               "height": 720
             }
           },
-          "viewCount": 2943
+          "viewCount": 2950
         },
         {
           "videoId": "KBuBDKyFzWs",
@@ -2060,7 +2059,7 @@
               "height": 720
             }
           },
-          "viewCount": 16918
+          "viewCount": 16935
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
