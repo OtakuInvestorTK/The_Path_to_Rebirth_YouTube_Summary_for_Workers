@@ -44,22 +44,6 @@ export type VideoSummary = {
   viewCount?: number;
 };
 
-const shouldKeepVideo = (video: VideoSummary, nowMs: number): boolean => {
-  const liveStreaming = video.liveStreaming;
-  if (liveStreaming?.status !== "upcoming") {
-    return true;
-  }
-  const scheduled = liveStreaming.scheduledStartTime;
-  if (scheduled === undefined) {
-    return false;
-  }
-  const scheduledTime = new Date(scheduled).getTime();
-  if (Number.isNaN(scheduledTime)) {
-    return false;
-  }
-  return nowMs - scheduledTime <= ONE_DAY_MS;
-};
-
 export class ChannelResolutionError extends Error {
   constructor(message: string) {
     super(message);
@@ -121,21 +105,8 @@ export async function fetchChannelsPayload(
 
   return {
     requestedAt: new Date().toISOString(),
-    channels: sanitizeChannelResults(results),
+    channels: results,
   };
-}
-
-function sanitizeChannelResults(results: ChannelResult[]): ChannelResult[] {
-  const now = Date.now();
-  return results.map((channel) => ({
-    ...channel,
-    liveVideos: channel.liveVideos.filter((video) =>
-      shouldKeepVideo(video, now)
-    ),
-    recentVideos: channel.recentVideos.filter((video) =>
-      shouldKeepVideo(video, now)
-    ),
-  }));
 }
 
 type ResolvedChannel = ResolvedChannelInfo & {
@@ -304,9 +275,20 @@ async function fetchChannelData(
   });
 
   const now = Date.now();
-  const filteredSummaries = summaries.filter((video) =>
-    shouldKeepVideo(video, now)
-  );
+  const filteredSummaries = summaries.filter((video) => {
+    const liveStreaming = video.liveStreaming;
+    if (liveStreaming?.status !== "upcoming") {
+      return true;
+    }
+    if (!liveStreaming.scheduledStartTime) {
+      return false;
+    }
+    const referenceTime = new Date(liveStreaming.scheduledStartTime).getTime();
+    if (Number.isNaN(referenceTime)) {
+      return true;
+    }
+    return now - referenceTime <= ONE_DAY_MS;
+  });
 
   const isLiveOrUpcoming = (v: VideoSummary) =>
     v.liveStreaming?.status === "live" ||
