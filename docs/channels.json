@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-11T03:09:37.851Z",
+  "requestedAt": "2025-11-11T04:19:17.440Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 90981,
+          "viewCount": 91072,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-09T14:00:02Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 20355,
+          "viewCount": 20376,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-08T13:00:26Z",
@@ -257,7 +257,7 @@
               "height": 720
             }
           },
-          "viewCount": 1144,
+          "viewCount": 1147,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-05T09:00:00Z",
@@ -317,6 +317,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "Sz-H3j-rNiY",
+          "title": "足利の明治三年創業、門前そば　きくや本店　#木島 #足利 #きくや本店",
+          "description": "",
+          "publishedAt": "2025-11-11T03:20:03Z",
+          "channelTitle": "木島やすお　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Sz-H3j-rNiY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Sz-H3j-rNiY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Sz-H3j-rNiY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Sz-H3j-rNiY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Sz-H3j-rNiY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 2660
+        },
+        {
           "videoId": "nLkRUz3aYZ4",
           "title": "栃木県足利の裁判所まではるばるとやって来ました。 #木島 #足利支部 #訴訟",
           "description": "",
@@ -349,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 1144
+          "viewCount": 1446
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -384,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 10955
+          "viewCount": 11359
         },
         {
           "videoId": "s7N-rpuuyVY",
@@ -545,7 +580,7 @@
               "height": 360
             }
           },
-          "viewCount": 7389,
+          "viewCount": 7557,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T12:00:00Z",
@@ -956,7 +991,7 @@
               "height": 720
             }
           },
-          "viewCount": 9836
+          "viewCount": 10047
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -983,47 +1018,6 @@
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
       "liveVideos": [
-        {
-          "videoId": "nJg5Z1FwinU",
-          "title": "【11月11日12:00配信】天野こころのこころトーク#14",
-          "description": "",
-          "publishedAt": "2025-11-10T08:35:18Z",
-          "channelTitle": "天野こころ【再生の道】中央区",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 232,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-11-11T03:00:00Z",
-            "actualStartTime": "2025-11-11T02:56:05Z",
-            "concurrentViewers": 203
-          }
-        },
         {
           "videoId": "TORLhMqeedg",
           "title": "上田議員に中央区と政治にについて伺ってみる！",
@@ -1066,44 +1060,44 @@
       ],
       "recentVideos": [
         {
-          "videoId": "uFeCV3NcYTs",
-          "title": "【11月4日12:00配信】天野こころのこころトーク#13",
+          "videoId": "nJg5Z1FwinU",
+          "title": "【11月11日12:00配信】天野こころのこころトーク#14",
           "description": "",
-          "publishedAt": "2025-11-04T04:02:34Z",
+          "publishedAt": "2025-11-11T04:03:03Z",
           "channelTitle": "天野こころ【再生の道】中央区",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/default.jpg",
+              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/uFeCV3NcYTs/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/nJg5Z1FwinU/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 3579,
+          "viewCount": 1620,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-11-04T03:00:00Z",
-            "actualStartTime": "2025-11-04T02:58:03Z",
-            "actualEndTime": "2025-11-04T03:54:28Z"
+            "scheduledStartTime": "2025-11-11T03:00:00Z",
+            "actualStartTime": "2025-11-11T02:56:05Z",
+            "actualEndTime": "2025-11-11T03:56:20Z"
           }
         }
       ],
@@ -1264,10 +1258,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 1289,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-11-11T03:30:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-11-11T03:30:00Z",
+            "actualStartTime": "2025-11-11T03:28:47Z",
+            "concurrentViewers": 571
           }
         }
       ],
@@ -1305,7 +1301,7 @@
               "height": 720
             }
           },
-          "viewCount": 6239,
+          "viewCount": 6332,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T10:00:00Z",
@@ -1346,7 +1342,7 @@
               "height": 720
             }
           },
-          "viewCount": 4711,
+          "viewCount": 4712,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-08T14:28:03Z",
@@ -1428,7 +1424,7 @@
               "height": 720
             }
           },
-          "viewCount": 3483,
+          "viewCount": 3486,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-07T14:55:00Z",
@@ -1469,7 +1465,7 @@
               "height": 720
             }
           },
-          "viewCount": 5714,
+          "viewCount": 5716,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-07T03:27:22Z",
@@ -1551,7 +1547,7 @@
               "height": 720
             }
           },
-          "viewCount": 3956,
+          "viewCount": 3955,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:20:00Z",
@@ -1813,7 +1809,7 @@
               "height": 720
             }
           },
-          "viewCount": 35293,
+          "viewCount": 35750,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T11:00:00Z",
@@ -1854,7 +1850,7 @@
               "height": 720
             }
           },
-          "viewCount": 6359
+          "viewCount": 6401
         },
         {
           "videoId": "wLzGfJ0GTB0",
@@ -1889,7 +1885,7 @@
               "height": 720
             }
           },
-          "viewCount": 4525
+          "viewCount": 4593
         },
         {
           "videoId": "HabzRF3KPmc",
@@ -1924,7 +1920,7 @@
               "height": 720
             }
           },
-          "viewCount": 4433
+          "viewCount": 4455
         },
         {
           "videoId": "ck9Q2iUzpxw",
@@ -1959,7 +1955,7 @@
               "height": 720
             }
           },
-          "viewCount": 3414
+          "viewCount": 3439
         },
         {
           "videoId": "vD1c9Bq_rOM",
@@ -1994,7 +1990,7 @@
               "height": 720
             }
           },
-          "viewCount": 3334
+          "viewCount": 3351
         },
         {
           "videoId": "muBBKOr1gsU",
@@ -2029,7 +2025,7 @@
               "height": 720
             }
           },
-          "viewCount": 2938
+          "viewCount": 2943
         },
         {
           "videoId": "KBuBDKyFzWs",
@@ -2064,7 +2060,7 @@
               "height": 720
             }
           },
-          "viewCount": 16895
+          "viewCount": 16918
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
