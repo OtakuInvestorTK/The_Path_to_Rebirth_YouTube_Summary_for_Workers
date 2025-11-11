@@ -276,12 +276,14 @@ async function fetchChannelData(
 
   const now = Date.now();
   const filteredSummaries = summaries.filter((video) => {
-    if (video.liveStreaming?.status !== "upcoming") {
+    const liveStreaming = video.liveStreaming;
+    if (liveStreaming?.status !== "upcoming") {
       return true;
     }
-    const reference =
-      video.liveStreaming.scheduledStartTime ?? video.publishedAt;
-    const referenceTime = new Date(reference).getTime();
+    if (!liveStreaming.scheduledStartTime) {
+      return false;
+    }
+    const referenceTime = new Date(liveStreaming.scheduledStartTime).getTime();
     if (Number.isNaN(referenceTime)) {
       return true;
     }
