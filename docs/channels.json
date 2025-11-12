@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-12T10:16:53.540Z",
+  "requestedAt": "2025-11-12T11:12:58.819Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 92530,
+          "viewCount": 92562,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-09T14:00:02Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 20599,
+          "viewCount": 20598,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-08T13:00:26Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 14203,
+          "viewCount": 14282,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T12:00:00Z",
@@ -223,7 +223,43 @@
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "BPz48hrCX_I",
+          "title": "[ 朗読 ]  一寸法師　（御伽草子）　#朗読,#睡眠導入,#精神安定",
+          "description": "朗読 第２２段（毎週水曜日新作追加）　　\n 一寸法師　（御伽草子）　　\n\nこの朗読動画は、御伽草子の『一寸法師』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n底本：「一寸法師」\nサムネイルイラスト：Pollo ai\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
+          "publishedAt": "2025-11-12T10:19:15Z",
+          "channelTitle": "水野 純也 @再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 57
+        }
+      ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
     },
     {
@@ -307,7 +343,7 @@
               "height": 720
             }
           },
-          "viewCount": 3937
+          "viewCount": 3985
         },
         {
           "videoId": "nLkRUz3aYZ4",
@@ -342,7 +378,7 @@
               "height": 720
             }
           },
-          "viewCount": 3695
+          "viewCount": 3717
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -377,7 +413,7 @@
               "height": 720
             }
           },
-          "viewCount": 14580
+          "viewCount": 14628
         },
         {
           "videoId": "s7N-rpuuyVY",
@@ -538,7 +574,7 @@
               "height": 360
             }
           },
-          "viewCount": 8897,
+          "viewCount": 8924,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T12:00:00Z",
@@ -954,7 +990,7 @@
               "height": 720
             }
           },
-          "viewCount": 13153
+          "viewCount": 13224
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1055,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 7535,
+          "viewCount": 7606,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T03:00:00Z",
@@ -1222,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 2328,
+          "viewCount": 2748,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T07:15:00Z",
@@ -1263,7 +1299,7 @@
               "height": 720
             }
           },
-          "viewCount": 5632,
+          "viewCount": 5651,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T14:10:00Z",
@@ -1304,7 +1340,7 @@
               "height": 720
             }
           },
-          "viewCount": 6389,
+          "viewCount": 6398,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T03:30:00Z",
@@ -1345,7 +1381,7 @@
               "height": 720
             }
           },
-          "viewCount": 6626,
+          "viewCount": 6633,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T10:00:00Z",
@@ -1468,7 +1504,7 @@
               "height": 720
             }
           },
-          "viewCount": 3497,
+          "viewCount": 3498,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-07T14:55:00Z",
@@ -1550,7 +1586,7 @@
               "height": 720
             }
           },
-          "viewCount": 4478,
+          "viewCount": 4480,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T13:15:00Z",
@@ -1632,7 +1668,7 @@
               "height": 720
             }
           },
-          "viewCount": 2924,
+          "viewCount": 2926,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-06T03:00:00Z",
@@ -1740,7 +1776,7 @@
               "height": 720
             }
           },
-          "viewCount": 40673,
+          "viewCount": 40752,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T11:00:00Z",
@@ -1781,7 +1817,7 @@
               "height": 720
             }
           },
-          "viewCount": 7356
+          "viewCount": 7366
         },
         {
           "videoId": "wLzGfJ0GTB0",
@@ -1816,7 +1852,7 @@
               "height": 720
             }
           },
-          "viewCount": 5954
+          "viewCount": 5986
         },
         {
           "videoId": "HabzRF3KPmc",
@@ -1851,7 +1887,7 @@
               "height": 720
             }
           },
-          "viewCount": 4934
+          "viewCount": 4940
         },
         {
           "videoId": "ck9Q2iUzpxw",
@@ -1886,7 +1922,7 @@
               "height": 720
             }
           },
-          "viewCount": 3664
+          "viewCount": 3668
         },
         {
           "videoId": "vD1c9Bq_rOM",
@@ -1921,7 +1957,7 @@
               "height": 720
             }
           },
-          "viewCount": 3629
+          "viewCount": 3654
         },
         {
           "videoId": "muBBKOr1gsU",
@@ -1956,7 +1992,7 @@
               "height": 720
             }
           },
-          "viewCount": 3135
+          "viewCount": 3146
         },
         {
           "videoId": "KBuBDKyFzWs",
@@ -1991,7 +2027,7 @@
               "height": 720
             }
           },
-          "viewCount": 17270
+          "viewCount": 17266
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -2227,7 +2263,7 @@
               "height": 720
             }
           },
-          "viewCount": 5201,
+          "viewCount": 5769,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T03:00:00Z",
