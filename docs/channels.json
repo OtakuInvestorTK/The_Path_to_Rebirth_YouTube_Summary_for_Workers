@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-16T06:20:27.830Z",
+  "requestedAt": "2025-11-16T07:13:14.351Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 93890,
+          "viewCount": 93909,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-09T14:00:02Z",
@@ -216,7 +216,7 @@
               "height": 720
             }
           },
-          "viewCount": 1148
+          "viewCount": 1156
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -302,7 +302,7 @@
               "height": 720
             }
           },
-          "viewCount": 5016
+          "viewCount": 5021
         },
         {
           "videoId": "nLkRUz3aYZ4",
@@ -337,7 +337,7 @@
               "height": 720
             }
           },
-          "viewCount": 4586
+          "viewCount": 4588
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -372,7 +372,7 @@
               "height": 720
             }
           },
-          "viewCount": 15324
+          "viewCount": 15325
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -538,7 +538,7 @@
               "height": 720
             }
           },
-          "viewCount": 4746
+          "viewCount": 4857
         },
         {
           "videoId": "anAoQxHjMbg",
@@ -655,7 +655,7 @@
               "height": 720
             }
           },
-          "viewCount": 1680,
+          "viewCount": 1689,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T08:53:06Z",
@@ -771,12 +771,12 @@
               "height": 720
             }
           },
-          "viewCount": 48,
+          "viewCount": 76,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2025-11-16T06:00:00Z",
             "actualStartTime": "2025-11-16T05:59:46Z",
-            "concurrentViewers": 55
+            "concurrentViewers": 3
           }
         }
       ],
@@ -864,7 +864,7 @@
               "height": 720
             }
           },
-          "viewCount": 289
+          "viewCount": 311
         },
         {
           "videoId": "dfheg3ZWCIE",
@@ -899,7 +899,7 @@
               "height": 720
             }
           },
-          "viewCount": 2832,
+          "viewCount": 2835,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T13:00:00Z",
@@ -1016,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 14794
+          "viewCount": 14803
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1077,7 +1077,7 @@
               "height": 720
             }
           },
-          "viewCount": 4639,
+          "viewCount": 4644,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T03:00:00Z",
@@ -1185,7 +1185,7 @@
               "height": 720
             }
           },
-          "viewCount": 12689,
+          "viewCount": 12727,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T12:30:00Z",
@@ -1844,7 +1844,7 @@
               "height": 720
             }
           },
-          "viewCount": 6441
+          "viewCount": 6468
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
