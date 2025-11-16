@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-16T12:25:42.606Z",
+  "requestedAt": "2025-11-16T13:20:13.615Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 93947,
+          "viewCount": 94006,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-09T14:00:02Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 15679,
+          "viewCount": 15694,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T12:00:00Z",
@@ -302,7 +302,7 @@
               "height": 720
             }
           },
-          "viewCount": 5036
+          "viewCount": 5039
         },
         {
           "videoId": "nLkRUz3aYZ4",
@@ -337,7 +337,7 @@
               "height": 720
             }
           },
-          "viewCount": 4603
+          "viewCount": 4602
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -450,6 +450,49 @@
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
       "liveVideos": [
         {
+          "videoId": "peyaJq9qPSQ",
+          "title": "meetup #20251116 #2",
+          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
+          "publishedAt": "2025-11-16T13:12:00Z",
+          "channelTitle": "弘田としやすCh",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/peyaJq9qPSQ/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/peyaJq9qPSQ/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/peyaJq9qPSQ/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/peyaJq9qPSQ/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/peyaJq9qPSQ/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 144,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-11-16T13:15:00Z",
+            "actualStartTime": "2025-11-16T13:13:35Z",
+            "concurrentViewers": 109
+          }
+        }
+      ],
+      "recentVideos": [
+        {
           "videoId": "9Ypu1N65e-w",
           "title": "meetup 20251116",
           "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
@@ -472,14 +515,15 @@
               "height": 360
             }
           },
-          "viewCount": 0,
+          "viewCount": 351,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-11-16T13:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2025-11-16T13:00:00Z",
+            "actualStartTime": "2025-11-16T12:58:58Z",
+            "actualEndTime": "2025-11-16T13:13:16Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "弘田敏康,弘田としやす,ひろた敏康,ひろたとしやす"
     },
     {
@@ -538,7 +582,7 @@
               "height": 720
             }
           },
-          "viewCount": 5771
+          "viewCount": 5858
         },
         {
           "videoId": "anAoQxHjMbg",
@@ -563,7 +607,7 @@
               "height": 360
             }
           },
-          "viewCount": 9441,
+          "viewCount": 9446,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T12:00:00Z",
@@ -655,7 +699,7 @@
               "height": 720
             }
           },
-          "viewCount": 1797,
+          "viewCount": 1815,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T08:53:06Z",
@@ -772,7 +816,7 @@
               "height": 720
             }
           },
-          "viewCount": 722,
+          "viewCount": 741,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T06:00:00Z",
@@ -864,7 +908,7 @@
               "height": 720
             }
           },
-          "viewCount": 403
+          "viewCount": 429
         },
         {
           "videoId": "dfheg3ZWCIE",
@@ -1016,7 +1060,7 @@
               "height": 720
             }
           },
-          "viewCount": 14852
+          "viewCount": 14853
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1077,7 +1121,7 @@
               "height": 720
             }
           },
-          "viewCount": 4659,
+          "viewCount": 4658,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T03:00:00Z",
@@ -1118,7 +1162,7 @@
               "height": 720
             }
           },
-          "viewCount": 8325,
+          "viewCount": 8331,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T03:00:00Z",
@@ -1185,7 +1229,7 @@
               "height": 720
             }
           },
-          "viewCount": 13025,
+          "viewCount": 13055,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T12:30:00Z",
@@ -1357,7 +1401,7 @@
               "height": 360
             }
           },
-          "viewCount": 3837,
+          "viewCount": 3860,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T13:35:00Z",
@@ -1388,7 +1432,7 @@
               "height": 360
             }
           },
-          "viewCount": 3934,
+          "viewCount": 3933,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T03:30:00Z",
@@ -1429,7 +1473,7 @@
               "height": 720
             }
           },
-          "viewCount": 4434,
+          "viewCount": 4436,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T12:00:00Z",
@@ -1470,7 +1514,7 @@
               "height": 720
             }
           },
-          "viewCount": 4449,
+          "viewCount": 4446,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T03:30:00Z",
@@ -1593,7 +1637,7 @@
               "height": 720
             }
           },
-          "viewCount": 5923,
+          "viewCount": 5927,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T14:10:00Z",
@@ -1634,7 +1678,7 @@
               "height": 720
             }
           },
-          "viewCount": 6554,
+          "viewCount": 6561,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T03:30:00Z",
@@ -1675,7 +1719,7 @@
               "height": 720
             }
           },
-          "viewCount": 6712,
+          "viewCount": 6713,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T10:00:00Z",
@@ -1742,7 +1786,7 @@
               "height": 720
             }
           },
-          "viewCount": 42165,
+          "viewCount": 42174,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T11:00:00Z",
@@ -1884,7 +1928,7 @@
               "height": 720
             }
           },
-          "viewCount": 6691
+          "viewCount": 6728
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -2020,7 +2064,7 @@
               "height": 720
             }
           },
-          "viewCount": 9463,
+          "viewCount": 9475,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T03:00:00Z",
