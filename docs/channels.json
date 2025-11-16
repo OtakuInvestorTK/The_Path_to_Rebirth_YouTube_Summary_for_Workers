@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-16T16:15:37.049Z",
+  "requestedAt": "2025-11-16T17:11:30.879Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -23,49 +23,7 @@
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "FMEiVkHWWWs",
-          "title": "【再生の道】葛飾区議選・開票見守りライブ",
-          "description": "葛飾区議選・開票見守りライブです！皆さん一緒に見守りましょう！",
-          "publishedAt": "2025-11-09T16:17:17Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/FMEiVkHWWWs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/FMEiVkHWWWs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/FMEiVkHWWWs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/FMEiVkHWWWs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/FMEiVkHWWWs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 94033,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-11-09T14:00:02Z",
-            "actualStartTime": "2025-11-09T14:00:27Z",
-            "actualEndTime": "2025-11-09T16:08:49Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "再生の道,さいせいのみち"
     },
     {
@@ -149,7 +107,7 @@
               "height": 720
             }
           },
-          "viewCount": 15698,
+          "viewCount": 15703,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T12:00:00Z",
@@ -337,7 +295,7 @@
               "height": 720
             }
           },
-          "viewCount": 4618
+          "viewCount": 4619
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -372,7 +330,7 @@
               "height": 720
             }
           },
-          "viewCount": 15338
+          "viewCount": 15347
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -483,7 +441,7 @@
               "height": 720
             }
           },
-          "viewCount": 906,
+          "viewCount": 1015,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T13:15:00Z",
@@ -514,7 +472,7 @@
               "height": 360
             }
           },
-          "viewCount": 698,
+          "viewCount": 752,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T13:00:00Z",
@@ -581,7 +539,7 @@
               "height": 720
             }
           },
-          "viewCount": 6102
+          "viewCount": 6159
         },
         {
           "videoId": "anAoQxHjMbg",
@@ -606,7 +564,7 @@
               "height": 360
             }
           },
-          "viewCount": 9447,
+          "viewCount": 9451,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T12:00:00Z",
@@ -698,7 +656,7 @@
               "height": 720
             }
           },
-          "viewCount": 1865,
+          "viewCount": 1868,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T08:53:06Z",
@@ -815,7 +773,7 @@
               "height": 720
             }
           },
-          "viewCount": 751,
+          "viewCount": 758,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T06:00:00Z",
@@ -907,7 +865,7 @@
               "height": 720
             }
           },
-          "viewCount": 541
+          "viewCount": 543
         },
         {
           "videoId": "dfheg3ZWCIE",
@@ -1059,7 +1017,7 @@
               "height": 720
             }
           },
-          "viewCount": 14881
+          "viewCount": 14878
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1228,7 +1186,7 @@
               "height": 720
             }
           },
-          "viewCount": 13152,
+          "viewCount": 13168,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T12:30:00Z",
@@ -1370,7 +1328,7 @@
               "height": 720
             }
           },
-          "viewCount": 1319,
+          "viewCount": 1570,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T14:00:00Z",
@@ -1401,7 +1359,7 @@
               "height": 360
             }
           },
-          "viewCount": 3872,
+          "viewCount": 3926,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T13:35:00Z",
@@ -1432,7 +1390,7 @@
               "height": 360
             }
           },
-          "viewCount": 3946,
+          "viewCount": 3944,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T03:30:00Z",
@@ -1473,7 +1431,7 @@
               "height": 720
             }
           },
-          "viewCount": 4442,
+          "viewCount": 4441,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T12:00:00Z",
@@ -1596,7 +1554,7 @@
               "height": 720
             }
           },
-          "viewCount": 5155,
+          "viewCount": 5158,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T07:15:00Z",
@@ -1637,7 +1595,7 @@
               "height": 720
             }
           },
-          "viewCount": 5927,
+          "viewCount": 5933,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T14:10:00Z",
@@ -1678,7 +1636,7 @@
               "height": 720
             }
           },
-          "viewCount": 6561,
+          "viewCount": 6565,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T03:30:00Z",
@@ -1719,7 +1677,7 @@
               "height": 720
             }
           },
-          "viewCount": 6715,
+          "viewCount": 6714,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T10:00:00Z",
@@ -1786,7 +1744,7 @@
               "height": 720
             }
           },
-          "viewCount": 42172,
+          "viewCount": 42181,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T11:00:00Z",
@@ -1928,7 +1886,7 @@
               "height": 720
             }
           },
-          "viewCount": 6854
+          "viewCount": 6879
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -2064,7 +2022,7 @@
               "height": 720
             }
           },
-          "viewCount": 9482,
+          "viewCount": 9498,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T03:00:00Z",
