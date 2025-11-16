@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-16T07:13:14.351Z",
+  "requestedAt": "2025-11-16T08:17:49.285Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 15661,
+          "viewCount": 15671,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T12:00:00Z",
@@ -302,7 +302,7 @@
               "height": 720
             }
           },
-          "viewCount": 5021
+          "viewCount": 5028
         },
         {
           "videoId": "nLkRUz3aYZ4",
@@ -337,7 +337,7 @@
               "height": 720
             }
           },
-          "viewCount": 4588
+          "viewCount": 4597
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -538,7 +538,7 @@
               "height": 720
             }
           },
-          "viewCount": 4857
+          "viewCount": 5064
         },
         {
           "videoId": "anAoQxHjMbg",
@@ -655,7 +655,7 @@
               "height": 720
             }
           },
-          "viewCount": 1689,
+          "viewCount": 1715,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T08:53:06Z",
@@ -737,7 +737,8 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "r_yT4nt75AE",
           "title": "【再生の道】淳さんぽライブ【町田市鶴川】",
@@ -771,16 +772,15 @@
               "height": 720
             }
           },
-          "viewCount": 76,
+          "viewCount": 363,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-16T06:00:00Z",
             "actualStartTime": "2025-11-16T05:59:46Z",
-            "concurrentViewers": 3
+            "actualEndTime": "2025-11-16T07:30:42Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -864,7 +864,7 @@
               "height": 720
             }
           },
-          "viewCount": 311
+          "viewCount": 366
         },
         {
           "videoId": "dfheg3ZWCIE",
@@ -899,7 +899,7 @@
               "height": 720
             }
           },
-          "viewCount": 2835,
+          "viewCount": 2836,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T13:00:00Z",
@@ -1016,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 14803
+          "viewCount": 14811
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1118,7 +1118,7 @@
               "height": 720
             }
           },
-          "viewCount": 8323,
+          "viewCount": 8325,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T03:00:00Z",
@@ -1185,7 +1185,7 @@
               "height": 720
             }
           },
-          "viewCount": 12727,
+          "viewCount": 12781,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T12:30:00Z",
@@ -1348,7 +1348,7 @@
               "height": 360
             }
           },
-          "viewCount": 3910,
+          "viewCount": 3922,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T03:30:00Z",
@@ -1844,7 +1844,7 @@
               "height": 720
             }
           },
-          "viewCount": 6468
+          "viewCount": 6524
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -1980,7 +1980,7 @@
               "height": 720
             }
           },
-          "viewCount": 9386,
+          "viewCount": 9416,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T03:00:00Z",
