@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-16T05:13:58.373Z",
+  "requestedAt": "2025-11-16T06:20:27.830Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 93891,
+          "viewCount": 93890,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-09T14:00:02Z",
@@ -216,7 +216,7 @@
               "height": 720
             }
           },
-          "viewCount": 1150
+          "viewCount": 1148
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -302,7 +302,7 @@
               "height": 720
             }
           },
-          "viewCount": 5015
+          "viewCount": 5016
         },
         {
           "videoId": "nLkRUz3aYZ4",
@@ -337,7 +337,7 @@
               "height": 720
             }
           },
-          "viewCount": 4585
+          "viewCount": 4586
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -448,7 +448,37 @@
         }
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "9Ypu1N65e-w",
+          "title": "meetup 20251116",
+          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
+          "publishedAt": "2025-11-16T05:23:06Z",
+          "channelTitle": "弘田としやすCh",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9Ypu1N65e-w/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9Ypu1N65e-w/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9Ypu1N65e-w/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-11-16T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "弘田敏康,弘田としやす,ひろた敏康,ひろたとしやす"
     },
@@ -508,7 +538,7 @@
               "height": 720
             }
           },
-          "viewCount": 4515
+          "viewCount": 4746
         },
         {
           "videoId": "anAoQxHjMbg",
@@ -533,7 +563,7 @@
               "height": 360
             }
           },
-          "viewCount": 9434,
+          "viewCount": 9437,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T12:00:00Z",
@@ -625,7 +655,7 @@
               "height": 720
             }
           },
-          "viewCount": 1661,
+          "viewCount": 1680,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T08:53:06Z",
@@ -707,7 +737,49 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "r_yT4nt75AE",
+          "title": "【再生の道】淳さんぽライブ【町田市鶴川】",
+          "description": "小田急線鶴川駅から町田GIONスタジアム(Jリーグ町田ゼルビアホームスタジアム)までの徒歩アクセス動線をお届けします。",
+          "publishedAt": "2025-11-07T05:10:21Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 48,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-11-16T06:00:00Z",
+            "actualStartTime": "2025-11-16T05:59:46Z",
+            "concurrentViewers": 55
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
@@ -792,7 +864,7 @@
               "height": 720
             }
           },
-          "viewCount": 284
+          "viewCount": 289
         },
         {
           "videoId": "dfheg3ZWCIE",
@@ -827,7 +899,7 @@
               "height": 720
             }
           },
-          "viewCount": 2833,
+          "viewCount": 2832,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T13:00:00Z",
@@ -944,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 14790
+          "viewCount": 14794
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1005,7 +1077,7 @@
               "height": 720
             }
           },
-          "viewCount": 4636,
+          "viewCount": 4639,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T03:00:00Z",
@@ -1113,7 +1185,7 @@
               "height": 720
             }
           },
-          "viewCount": 12657,
+          "viewCount": 12689,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T12:30:00Z",
@@ -1245,7 +1317,7 @@
               "height": 360
             }
           },
-          "viewCount": 3706,
+          "viewCount": 3724,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T13:35:00Z",
@@ -1276,7 +1348,7 @@
               "height": 360
             }
           },
-          "viewCount": 3909,
+          "viewCount": 3910,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T03:30:00Z",
@@ -1317,7 +1389,7 @@
               "height": 720
             }
           },
-          "viewCount": 4424,
+          "viewCount": 4426,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T12:00:00Z",
@@ -1630,7 +1702,7 @@
               "height": 720
             }
           },
-          "viewCount": 42127,
+          "viewCount": 42137,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T11:00:00Z",
@@ -1772,7 +1844,7 @@
               "height": 720
             }
           },
-          "viewCount": 6396
+          "viewCount": 6441
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
