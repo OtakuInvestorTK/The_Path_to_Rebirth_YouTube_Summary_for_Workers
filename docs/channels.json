@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-17T04:21:16.927Z",
+  "requestedAt": "2025-11-17T05:15:14.485Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -107,7 +107,7 @@
               "height": 720
             }
           },
-          "viewCount": 2614
+          "viewCount": 3067
         },
         {
           "videoId": "2mst_T4SJzI",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 1202
+          "viewCount": 1201
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -295,7 +295,7 @@
               "height": 720
             }
           },
-          "viewCount": 5067
+          "viewCount": 5066
         },
         {
           "videoId": "nLkRUz3aYZ4",
@@ -330,7 +330,7 @@
               "height": 720
             }
           },
-          "viewCount": 4634
+          "viewCount": 4636
         },
         {
           "videoId": "c6gfCQDIRs8",
@@ -365,7 +365,7 @@
               "height": 720
             }
           },
-          "viewCount": 15366
+          "viewCount": 15367
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -476,7 +476,7 @@
               "height": 720
             }
           },
-          "viewCount": 1616,
+          "viewCount": 1646,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T13:15:00Z",
@@ -507,7 +507,7 @@
               "height": 360
             }
           },
-          "viewCount": 863,
+          "viewCount": 864,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T13:00:00Z",
@@ -574,7 +574,7 @@
               "height": 720
             }
           },
-          "viewCount": 6555
+          "viewCount": 6585
         },
         {
           "videoId": "anAoQxHjMbg",
@@ -599,7 +599,7 @@
               "height": 360
             }
           },
-          "viewCount": 9454,
+          "viewCount": 9455,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T12:00:00Z",
@@ -808,7 +808,7 @@
               "height": 720
             }
           },
-          "viewCount": 811,
+          "viewCount": 808,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T06:00:00Z",
@@ -900,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 1859
+          "viewCount": 1884
         },
         {
           "videoId": "ykSG5EPvink",
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 568
+          "viewCount": 581
         },
         {
           "videoId": "dfheg3ZWCIE",
@@ -1087,7 +1087,7 @@
               "height": 720
             }
           },
-          "viewCount": 14909
+          "viewCount": 14910
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1148,7 +1148,7 @@
               "height": 720
             }
           },
-          "viewCount": 4681,
+          "viewCount": 4684,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T03:00:00Z",
@@ -1256,7 +1256,7 @@
               "height": 720
             }
           },
-          "viewCount": 13303,
+          "viewCount": 13314,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T12:30:00Z",
@@ -1363,50 +1363,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "cBd3Kzo1n7w",
           "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.48",
           "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-11-17T02:15:49Z",
+          "publishedAt": "2025-11-17T04:53:17Z",
           "channelTitle": "くれよしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/cBd3Kzo1n7w/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 880,
+          "viewCount": 1347,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-17T03:30:00Z",
             "actualStartTime": "2025-11-17T03:29:11Z",
-            "concurrentViewers": 325
+            "actualEndTime": "2025-11-17T04:45:29Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "ItFfucP-rAA",
           "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.48",
@@ -1440,7 +1439,7 @@
               "height": 720
             }
           },
-          "viewCount": 3522,
+          "viewCount": 3579,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T14:00:00Z",
@@ -1543,7 +1542,7 @@
               "height": 720
             }
           },
-          "viewCount": 4454,
+          "viewCount": 4457,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T12:00:00Z",
@@ -1666,7 +1665,7 @@
               "height": 720
             }
           },
-          "viewCount": 5167,
+          "viewCount": 5168,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T07:15:00Z",
@@ -1707,7 +1706,7 @@
               "height": 720
             }
           },
-          "viewCount": 5938,
+          "viewCount": 5939,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T14:10:00Z",
@@ -1856,7 +1855,7 @@
               "height": 720
             }
           },
-          "viewCount": 42224,
+          "viewCount": 42223,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-10T11:00:00Z",
@@ -2134,7 +2133,7 @@
               "height": 720
             }
           },
-          "viewCount": 9531,
+          "viewCount": 9541,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T03:00:00Z",
