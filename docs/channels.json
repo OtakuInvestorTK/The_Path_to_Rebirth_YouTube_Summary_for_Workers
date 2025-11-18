@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-18T01:08:41.671Z",
+  "requestedAt": "2025-11-18T03:08:11.677Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 42521,
+          "viewCount": 44085,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T12:30:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 14162
+          "viewCount": 14358
         },
         {
           "videoId": "2mst_T4SJzI",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 15754,
+          "viewCount": 15755,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T12:00:00Z",
@@ -338,41 +338,6 @@
             }
           },
           "viewCount": 5103
-        },
-        {
-          "videoId": "nLkRUz3aYZ4",
-          "title": "栃木県足利の裁判所まではるばるとやって来ました。 #木島 #足利支部 #訴訟",
-          "description": "",
-          "publishedAt": "2025-11-11T01:11:45Z",
-          "channelTitle": "木島やすお　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/nLkRUz3aYZ4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/nLkRUz3aYZ4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/nLkRUz3aYZ4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/nLkRUz3aYZ4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/nLkRUz3aYZ4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4657
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -483,7 +448,7 @@
               "height": 720
             }
           },
-          "viewCount": 1881,
+          "viewCount": 1883,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T13:15:00Z",
@@ -581,7 +546,7 @@
               "height": 720
             }
           },
-          "viewCount": 8414
+          "viewCount": 8455
         }
       ],
       "name": "横山春紀,横山はるき,よこやま春紀,よこやまはるき"
@@ -784,7 +749,7 @@
               "height": 720
             }
           },
-          "viewCount": 872,
+          "viewCount": 876,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T06:00:00Z",
@@ -876,7 +841,7 @@
               "height": 720
             }
           },
-          "viewCount": 931
+          "viewCount": 1288
         },
         {
           "videoId": "QDYNHvi2kaU",
@@ -911,7 +876,7 @@
               "height": 720
             }
           },
-          "viewCount": 2725
+          "viewCount": 2737
         },
         {
           "videoId": "ykSG5EPvink",
@@ -1122,10 +1087,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 279,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-11-18T03:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-11-18T03:00:00Z",
+            "actualStartTime": "2025-11-18T02:48:21Z",
+            "concurrentViewers": 175
           }
         }
       ],
@@ -1204,7 +1171,7 @@
               "height": 720
             }
           },
-          "viewCount": 8364,
+          "viewCount": 8367,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-11T03:00:00Z",
@@ -1271,7 +1238,7 @@
               "height": 720
             }
           },
-          "viewCount": 13506,
+          "viewCount": 13524,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T12:30:00Z",
@@ -1403,7 +1370,7 @@
               "height": 360
             }
           },
-          "viewCount": 2890,
+          "viewCount": 3104,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T13:45:00Z",
@@ -1444,7 +1411,7 @@
               "height": 720
             }
           },
-          "viewCount": 3830,
+          "viewCount": 3846,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T03:30:00Z",
@@ -1485,7 +1452,7 @@
               "height": 720
             }
           },
-          "viewCount": 3813,
+          "viewCount": 3823,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T14:00:00Z",
@@ -1516,7 +1483,7 @@
               "height": 360
             }
           },
-          "viewCount": 3973,
+          "viewCount": 3974,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T13:35:00Z",
@@ -1547,7 +1514,7 @@
               "height": 360
             }
           },
-          "viewCount": 3967,
+          "viewCount": 3968,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T03:30:00Z",
@@ -1588,7 +1555,7 @@
               "height": 720
             }
           },
-          "viewCount": 4470,
+          "viewCount": 4472,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T12:00:00Z",
@@ -1960,7 +1927,7 @@
               "height": 720
             }
           },
-          "viewCount": 7150
+          "viewCount": 7159
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -2096,7 +2063,7 @@
               "height": 720
             }
           },
-          "viewCount": 9582,
+          "viewCount": 9586,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T03:00:00Z",
