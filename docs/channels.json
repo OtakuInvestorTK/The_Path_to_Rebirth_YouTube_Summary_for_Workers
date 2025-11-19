@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-19T10:16:31.221Z",
+  "requestedAt": "2025-11-19T11:12:59.303Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -136,7 +136,7 @@
               "height": 720
             }
           },
-          "viewCount": 54880,
+          "viewCount": 55014,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T12:30:00Z",
@@ -228,7 +228,7 @@
               "height": 720
             }
           },
-          "viewCount": 8437,
+          "viewCount": 8520,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T12:00:00Z",
@@ -269,7 +269,7 @@
               "height": 720
             }
           },
-          "viewCount": 16184
+          "viewCount": 16208
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -330,42 +330,7 @@
               "height": 720
             }
           },
-          "viewCount": 16
-        },
-        {
-          "videoId": "BPz48hrCX_I",
-          "title": "[ 朗読 ]  一寸法師　（御伽草子）　#朗読,#睡眠導入,#精神安定",
-          "description": "朗読 第２２段（毎週水曜日新作追加）　　\n 一寸法師　（御伽草子）　　\n\nこの朗読動画は、御伽草子の『一寸法師』を、Google Gemini, Junya により現代の言葉遣いに書き改めて朗読したものです。\n\n底本：「一寸法師」\nサムネイルイラスト：Pollo ai\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-11-12T10:19:15Z",
-          "channelTitle": "水野 純也 @再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/BPz48hrCX_I/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1287
+          "viewCount": 73
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -451,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 1882
+          "viewCount": 1997
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -562,7 +527,7 @@
               "height": 720
             }
           },
-          "viewCount": 1935,
+          "viewCount": 1936,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T13:15:00Z",
@@ -660,7 +625,7 @@
               "height": 720
             }
           },
-          "viewCount": 9091
+          "viewCount": 9105
         }
       ],
       "name": "横山春紀,横山はるき,よこやま春紀,よこやまはるき"
@@ -955,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 504
+          "viewCount": 509
         },
         {
           "videoId": "wXVmhvq1nao",
@@ -1025,7 +990,7 @@
               "height": 720
             }
           },
-          "viewCount": 3156
+          "viewCount": 3167
         },
         {
           "videoId": "ykSG5EPvink",
@@ -1060,7 +1025,7 @@
               "height": 720
             }
           },
-          "viewCount": 668
+          "viewCount": 669
         },
         {
           "videoId": "dfheg3ZWCIE",
@@ -1095,7 +1060,7 @@
               "height": 720
             }
           },
-          "viewCount": 2913,
+          "viewCount": 2914,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-12T13:00:00Z",
@@ -1237,7 +1202,7 @@
               "height": 720
             }
           },
-          "viewCount": 2856,
+          "viewCount": 2874,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T03:00:00Z",
@@ -1345,7 +1310,7 @@
               "height": 720
             }
           },
-          "viewCount": 13722,
+          "viewCount": 13736,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T12:30:00Z",
@@ -1477,7 +1442,7 @@
               "height": 360
             }
           },
-          "viewCount": 3680,
+          "viewCount": 3734,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T13:25:00Z",
@@ -1508,7 +1473,7 @@
               "height": 360
             }
           },
-          "viewCount": 3882,
+          "viewCount": 3890,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T13:45:00Z",
@@ -1549,7 +1514,7 @@
               "height": 720
             }
           },
-          "viewCount": 3959,
+          "viewCount": 3966,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T03:30:00Z",
@@ -1590,7 +1555,7 @@
               "height": 720
             }
           },
-          "viewCount": 3869,
+          "viewCount": 3874,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T14:00:00Z",
@@ -1652,7 +1617,7 @@
               "height": 360
             }
           },
-          "viewCount": 3983,
+          "viewCount": 3984,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-14T03:30:00Z",
@@ -1734,7 +1699,7 @@
               "height": 720
             }
           },
-          "viewCount": 4502,
+          "viewCount": 4503,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-13T03:30:00Z",
@@ -1942,7 +1907,7 @@
               "height": 720
             }
           },
-          "viewCount": 7305
+          "viewCount": 7307
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
