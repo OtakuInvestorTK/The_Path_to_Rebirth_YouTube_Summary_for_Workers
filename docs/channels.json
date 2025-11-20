@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-20T05:15:02.081Z",
+  "requestedAt": "2025-11-20T06:21:23.354Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 19219,
+          "viewCount": 19543,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 56901,
+          "viewCount": 56968,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T12:30:00Z",
@@ -230,7 +230,7 @@
               "height": 720
             }
           },
-          "viewCount": 8935,
+          "viewCount": 8952,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T12:00:00Z",
@@ -271,7 +271,7 @@
               "height": 720
             }
           },
-          "viewCount": 16858
+          "viewCount": 16898
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -386,6 +386,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "f0wEJFzChLQ",
+          "title": "餃子50円値引きの日＋餃子無料券キャンペーン #木島 #大阪王将 #餃子無料券",
+          "description": "",
+          "publishedAt": "2025-11-20T05:20:48Z",
+          "channelTitle": "木島やすお　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f0wEJFzChLQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f0wEJFzChLQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f0wEJFzChLQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f0wEJFzChLQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f0wEJFzChLQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 776
+        },
+        {
           "videoId": "bhuAWdE18Tc",
           "title": "大阪王将では、餃子商品を注文した数と同じ数の餃子無料券がもらえるキャンペーン中です。#大阪王将 #餃子無料券",
           "description": "",
@@ -418,7 +453,7 @@
               "height": 720
             }
           },
-          "viewCount": 2907
+          "viewCount": 3005
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -529,7 +564,7 @@
               "height": 720
             }
           },
-          "viewCount": 1950,
+          "viewCount": 1951,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T13:15:00Z",
@@ -627,7 +662,7 @@
               "height": 720
             }
           },
-          "viewCount": 9258
+          "viewCount": 9263
         }
       ],
       "name": "横山春紀,横山はるき,よこやま春紀,よこやまはるき"
@@ -830,7 +865,7 @@
               "height": 720
             }
           },
-          "viewCount": 946,
+          "viewCount": 947,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T06:00:00Z",
@@ -922,7 +957,7 @@
               "height": 720
             }
           },
-          "viewCount": 1069
+          "viewCount": 1114
         },
         {
           "videoId": "OiZrBDt3_HM",
@@ -957,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 1057
+          "viewCount": 1101
         },
         {
           "videoId": "wXVmhvq1nao",
@@ -992,7 +1027,7 @@
               "height": 720
             }
           },
-          "viewCount": 1661
+          "viewCount": 1663
         },
         {
           "videoId": "QDYNHvi2kaU",
@@ -1027,7 +1062,7 @@
               "height": 720
             }
           },
-          "viewCount": 3243
+          "viewCount": 3238
         },
         {
           "videoId": "ykSG5EPvink",
@@ -1397,7 +1432,7 @@
               "height": 360
             }
           },
-          "viewCount": 3458,
+          "viewCount": 3526,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T13:35:00Z",
@@ -1428,7 +1463,7 @@
               "height": 360
             }
           },
-          "viewCount": 4039,
+          "viewCount": 4040,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T13:25:00Z",
@@ -1459,7 +1494,7 @@
               "height": 360
             }
           },
-          "viewCount": 3941,
+          "viewCount": 3942,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T13:45:00Z",
@@ -1541,7 +1576,7 @@
               "height": 720
             }
           },
-          "viewCount": 3884,
+          "viewCount": 3886,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T14:00:00Z",
@@ -1811,7 +1846,7 @@
               "height": 720
             }
           },
-          "viewCount": 7357
+          "viewCount": 7361
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
