@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-21T15:13:43.834Z",
+  "requestedAt": "2025-11-21T16:18:41.785Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 40790,
+          "viewCount": 41121,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 23403,
+          "viewCount": 23431,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 58595,
+          "viewCount": 58627,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T12:30:00Z",
@@ -231,7 +231,7 @@
               "height": 720
             }
           },
-          "viewCount": 9185,
+          "viewCount": 9187,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T12:00:00Z",
@@ -272,7 +272,7 @@
               "height": 720
             }
           },
-          "viewCount": 17565
+          "viewCount": 17566
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 2756
+          "viewCount": 2768
         },
         {
           "videoId": "bhuAWdE18Tc",
@@ -454,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 6006
+          "viewCount": 6083
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -663,7 +663,7 @@
               "height": 720
             }
           },
-          "viewCount": 9683
+          "viewCount": 9687
         }
       ],
       "name": "横山春紀,横山はるき,よこやま春紀,よこやまはるき"
@@ -958,7 +958,7 @@
               "height": 720
             }
           },
-          "viewCount": 1723,
+          "viewCount": 1718,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -994,7 +994,7 @@
               "height": 480
             }
           },
-          "viewCount": 1203
+          "viewCount": 1194
         },
         {
           "videoId": "LsGwRuj7M98",
@@ -1029,7 +1029,7 @@
               "height": 720
             }
           },
-          "viewCount": 1382
+          "viewCount": 1386
         },
         {
           "videoId": "OiZrBDt3_HM",
@@ -1064,7 +1064,7 @@
               "height": 720
             }
           },
-          "viewCount": 1325
+          "viewCount": 1327
         },
         {
           "videoId": "wXVmhvq1nao",
@@ -1099,7 +1099,7 @@
               "height": 720
             }
           },
-          "viewCount": 1698
+          "viewCount": 1704
         },
         {
           "videoId": "QDYNHvi2kaU",
@@ -1134,7 +1134,7 @@
               "height": 720
             }
           },
-          "viewCount": 3350
+          "viewCount": 3349
         },
         {
           "videoId": "ykSG5EPvink",
@@ -1169,7 +1169,7 @@
               "height": 720
             }
           },
-          "viewCount": 699
+          "viewCount": 695
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1305,7 +1305,7 @@
               "height": 720
             }
           },
-          "viewCount": 3127,
+          "viewCount": 3116,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T03:00:00Z",
@@ -1373,49 +1373,7 @@
           }
         }
       ],
-      "recentVideos": [
-        {
-          "videoId": "o2t2NWvJp5Q",
-          "title": "第21回ミートアップオンライン",
-          "description": "11月14日（金）21:30～22:15にて開催予定です。\n今週も土曜日朝が難しいため、夜に配信できたらと思います。\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・西東京市クリーン作戦（次回11/23）\n・ちょっと前のイベント参加について\n・コーチング再開！\n・カタコトロシア語：「ясно」（「わかりました」、「了解」\n    例：「Понял? — Да, ясно.」（わかった？ — ああ、わかった）",
-          "publishedAt": "2025-11-14T15:20:37Z",
-          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/o2t2NWvJp5Q/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/o2t2NWvJp5Q/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/o2t2NWvJp5Q/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/o2t2NWvJp5Q/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/o2t2NWvJp5Q/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 14001,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-11-14T12:30:00Z",
-            "actualStartTime": "2025-11-14T12:26:11Z",
-            "actualEndTime": "2025-11-14T13:32:12Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
     },
     {
@@ -1549,7 +1507,7 @@
               "height": 720
             }
           },
-          "viewCount": 4392,
+          "viewCount": 4423,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T13:05:28Z",
@@ -1590,7 +1548,7 @@
               "height": 720
             }
           },
-          "viewCount": 596,
+          "viewCount": 618,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-20T13:04:23Z",
@@ -1620,7 +1578,7 @@
               "height": 360
             }
           },
-          "viewCount": 1293,
+          "viewCount": 1299,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T13:00:00Z",
@@ -1651,7 +1609,7 @@
               "height": 360
             }
           },
-          "viewCount": 4032,
+          "viewCount": 4028,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T13:35:00Z",
@@ -1682,7 +1640,7 @@
               "height": 360
             }
           },
-          "viewCount": 4095,
+          "viewCount": 4096,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T13:25:00Z",
@@ -1713,7 +1671,7 @@
               "height": 360
             }
           },
-          "viewCount": 4001,
+          "viewCount": 4002,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T13:45:00Z",
@@ -1801,37 +1759,6 @@
             "scheduledStartTime": "2025-11-16T14:00:00Z",
             "actualStartTime": "2025-11-16T13:59:56Z",
             "actualEndTime": "2025-11-16T15:16:47Z"
-          }
-        },
-        {
-          "videoId": "dSE9Mf4Bvts",
-          "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.47",
-          "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-11-14T15:45:18Z",
-          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/dSE9Mf4Bvts/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/dSE9Mf4Bvts/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/dSE9Mf4Bvts/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "viewCount": 4011,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-11-14T13:35:00Z",
-            "actualStartTime": "2025-11-14T13:59:42Z",
-            "actualEndTime": "2025-11-14T15:03:07Z"
           }
         }
       ],
@@ -1993,7 +1920,7 @@
               "height": 720
             }
           },
-          "viewCount": 7391
+          "viewCount": 7394
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
