@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-22T08:17:50.488Z",
+  "requestedAt": "2025-11-22T09:13:41.819Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 43689,
+          "viewCount": 43885,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 23675,
+          "viewCount": 23699,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 59006,
+          "viewCount": 59008,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T12:30:00Z",
@@ -272,7 +272,7 @@
               "height": 720
             }
           },
-          "viewCount": 17661
+          "viewCount": 17681
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 2940
+          "viewCount": 2952
         },
         {
           "videoId": "bhuAWdE18Tc",
@@ -454,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 6403
+          "viewCount": 6439
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -565,7 +565,7 @@
               "height": 720
             }
           },
-          "viewCount": 1984,
+          "viewCount": 1985,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-16T13:15:00Z",
@@ -629,43 +629,7 @@
       },
       "channelId": "UCr_5vp4MHVuUz5c6ELUKjuA",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "GBX1nvPcs0A",
-          "title": "いまさら聞けない！ガソリン税の暫定税率廃止について",
-          "description": "公認会計士・税理士の横山はるきです！\n\nガソリン税の「暫定税率廃止」って何？\nわかりやすく1分で解説します！\n\n【SNS】\nX\nhttps://x.com/yokoyama_assoc\n横山はるき｜公認会計士・税理士\nInstagram\nhttps://www.instagram.com/yokoyama_associates\n横山はるき｜公認会計士・税理士\nTikTok\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n横山はるき｜公認会計士・税理士\n\n取材・コラボ・お仕事関係の連絡はこちらから\nhttps://form.run/@haruki-yokoyama\nhttps://www.tiktok.com/@yokoyama_associates?_t=zs-8vk8giv90dq&_r=1\n \n【自己紹介】\n長野県上田市出身。台東区谷中育ち。\n公認会計士・税理士。学習院大学経済学部卒。体育会硬式テニス部。 \nEY新日本監査法人（会計監査）→フェアコンサルティング・オーストラリア（メルボルンで日系企業の海外進出支援）→南青山アドバイザリーグループ（M&Aに関連したFAS業務や税務業務）→再生の道（代表：石丸伸二） 第１期生（参議院選挙）\n趣味はテニス(2024全日本ベテラン選手権出場)\n\n#公認会計士 #税理士 #横山はるき",
-          "publishedAt": "2025-11-15T09:00:34Z",
-          "channelTitle": "横山はるき / 公認会計士・税理士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/GBX1nvPcs0A/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/GBX1nvPcs0A/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/GBX1nvPcs0A/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/GBX1nvPcs0A/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/GBX1nvPcs0A/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 9728
-        }
-      ],
+      "recentVideos": [],
       "name": "横山春紀,横山はるき,よこやま春紀,よこやまはるき"
     },
     {
@@ -958,7 +922,7 @@
               "height": 720
             }
           },
-          "viewCount": 1874,
+          "viewCount": 1901,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -994,7 +958,7 @@
               "height": 480
             }
           },
-          "viewCount": 1293
+          "viewCount": 1301
         },
         {
           "videoId": "LsGwRuj7M98",
@@ -1029,7 +993,7 @@
               "height": 720
             }
           },
-          "viewCount": 1415
+          "viewCount": 1418
         },
         {
           "videoId": "OiZrBDt3_HM",
@@ -1134,7 +1098,7 @@
               "height": 720
             }
           },
-          "viewCount": 3353
+          "viewCount": 3354
         },
         {
           "videoId": "ykSG5EPvink",
@@ -1305,7 +1269,7 @@
               "height": 720
             }
           },
-          "viewCount": 3159,
+          "viewCount": 3167,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T03:00:00Z",
@@ -1372,7 +1336,7 @@
               "height": 720
             }
           },
-          "viewCount": 5222,
+          "viewCount": 5475,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
@@ -1555,7 +1519,7 @@
               "height": 720
             }
           },
-          "viewCount": 655,
+          "viewCount": 666,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-20T13:04:23Z",
@@ -1585,7 +1549,7 @@
               "height": 360
             }
           },
-          "viewCount": 1326,
+          "viewCount": 1335,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T13:00:00Z",
