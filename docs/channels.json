@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-23T18:19:06.678Z",
+  "requestedAt": "2025-11-23T19:11:02.550Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 47637,
+          "viewCount": 47653,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 24137,
+          "viewCount": 24135,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 59852,
+          "viewCount": 59872,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-17T12:30:00Z",
@@ -272,7 +272,7 @@
               "height": 720
             }
           },
-          "viewCount": 17820
+          "viewCount": 17819
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 2134
+          "viewCount": 2144
         },
         {
           "videoId": "f0wEJFzChLQ",
@@ -454,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 3356
+          "viewCount": 3374
         },
         {
           "videoId": "bhuAWdE18Tc",
@@ -489,7 +489,7 @@
               "height": 720
             }
           },
-          "viewCount": 6769
+          "viewCount": 6771
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -716,49 +716,7 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "r_yT4nt75AE",
-          "title": "【再生の道】淳さんぽライブ【町田市鶴川】",
-          "description": "小田急線鶴川駅から町田GIONスタジアム(Jリーグ町田ゼルビアホームスタジアム)までの徒歩アクセス動線をお届けします。",
-          "publishedAt": "2025-11-16T18:34:32Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/r_yT4nt75AE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 982,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-11-16T06:00:00Z",
-            "actualStartTime": "2025-11-16T05:59:46Z",
-            "actualEndTime": "2025-11-16T07:30:42Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -842,7 +800,7 @@
               "height": 720
             }
           },
-          "viewCount": 406
+          "viewCount": 419
         },
         {
           "videoId": "LsERSt6-3_I",
@@ -877,7 +835,7 @@
               "height": 720
             }
           },
-          "viewCount": 2212,
+          "viewCount": 2215,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -948,7 +906,7 @@
               "height": 720
             }
           },
-          "viewCount": 1475
+          "viewCount": 1474
         },
         {
           "videoId": "OiZrBDt3_HM",
@@ -1256,7 +1214,7 @@
               "height": 720
             }
           },
-          "viewCount": 7979,
+          "viewCount": 7985,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
@@ -1398,7 +1356,7 @@
               "height": 720
             }
           },
-          "viewCount": 4985,
+          "viewCount": 4981,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T13:05:28Z",
@@ -1439,7 +1397,7 @@
               "height": 720
             }
           },
-          "viewCount": 733,
+          "viewCount": 736,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-20T13:04:23Z",
@@ -1500,7 +1458,7 @@
               "height": 360
             }
           },
-          "viewCount": 4081,
+          "viewCount": 4078,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T13:35:00Z",
