@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-24T13:29:27.620Z",
+  "requestedAt": "2025-11-24T14:15:04.767Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "x5hsyI6BntY",
           "title": "SAISEI WEEKLY NEWS (2025.11.24)",
@@ -56,16 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 4270,
+          "viewCount": 6247,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
             "actualStartTime": "2025-11-24T13:02:47Z",
-            "concurrentViewers": 2986
+            "actualEndTime": "2025-11-24T14:00:32Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "zeYDc-efi0o",
           "title": "【ライブ対談】新マスコットキャラクター\"再生ペンギン（仮）\"誕生秘話",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 48437,
+          "viewCount": 48473,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -140,53 +139,12 @@
               "height": 720
             }
           },
-          "viewCount": 24310,
+          "viewCount": 24326,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
             "actualStartTime": "2025-11-19T12:32:07Z",
             "actualEndTime": "2025-11-19T13:10:42Z"
-          }
-        },
-        {
-          "videoId": "Gy8TKLkSkTk",
-          "title": "SAISEI WEEKLY NEWS (2025.11.17)",
-          "description": "再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-11-17T13:34:55Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Gy8TKLkSkTk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Gy8TKLkSkTk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Gy8TKLkSkTk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Gy8TKLkSkTk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Gy8TKLkSkTk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 60204,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-11-17T12:30:00Z",
-            "actualStartTime": "2025-11-17T12:30:34Z",
-            "actualEndTime": "2025-11-17T13:30:34Z"
           }
         }
       ],
@@ -426,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 2392
+          "viewCount": 2395
         },
         {
           "videoId": "f0wEJFzChLQ",
@@ -496,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 8464
+          "viewCount": 8552
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -842,7 +800,7 @@
               "height": 720
             }
           },
-          "viewCount": 733
+          "viewCount": 739
         },
         {
           "videoId": "LsERSt6-3_I",
@@ -1154,7 +1112,7 @@
               "height": 720
             }
           },
-          "viewCount": 3213,
+          "viewCount": 3217,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T03:00:00Z",
@@ -1221,7 +1179,7 @@
               "height": 720
             }
           },
-          "viewCount": 8353,
+          "viewCount": 8371,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
