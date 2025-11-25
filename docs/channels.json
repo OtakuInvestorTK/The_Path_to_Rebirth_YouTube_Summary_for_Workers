@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-25T08:21:03.359Z",
+  "requestedAt": "2025-11-25T09:17:46.308Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1657
+          "viewCount": 2694
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 30055,
+          "viewCount": 30498,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 49063,
+          "viewCount": 49111,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 24536,
+          "viewCount": 24574,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
@@ -231,7 +231,47 @@
         }
       },
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "qp2A-l9E-xY",
+          "title": "再生の道1期生-青柳みつやのYouTube Live!! #19",
+          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
+          "publishedAt": "2025-11-18T09:58:45Z",
+          "channelTitle": "青柳みつや - 再生の道への挑戦",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-11-25T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "NYCk0NBtbZQ",
@@ -333,7 +373,7 @@
               "height": 720
             }
           },
-          "viewCount": 1034
+          "viewCount": 1041
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -419,7 +459,7 @@
               "height": 720
             }
           },
-          "viewCount": 1807
+          "viewCount": 1865
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -454,7 +494,7 @@
               "height": 720
             }
           },
-          "viewCount": 2482
+          "viewCount": 2491
         },
         {
           "videoId": "f0wEJFzChLQ",
@@ -489,7 +529,7 @@
               "height": 720
             }
           },
-          "viewCount": 4075
+          "viewCount": 4092
         },
         {
           "videoId": "bhuAWdE18Tc",
@@ -524,7 +564,7 @@
               "height": 720
             }
           },
-          "viewCount": 8957
+          "viewCount": 8989
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -803,6 +843,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "uL8TPV0U7to",
+          "title": "【皮肉】商店街が「自滅」した本当の理由…車を呼んで人を捨てた悲劇",
+          "description": "ガラガラの商店街、その原因は本当に「イオン」や「Amazon」だけでしょうか？\n実は、多くの商店街は外からの攻撃ではなく、内側からの「ある決断」によって崩壊していました。\nそれは、時代の変化に焦り、自分たちの最大の武器である「歩く楽しさ」を捨ててしまったことでした。\n\n▼動画のポイント\nこの動画では、都市計画と心理学の視点から、商店街衰退の皮肉なメカニズムを解説しています。\n * 誤った適応： 「車社会」に対抗するために、あえて車を呼び込もうとした戦略。\n * トレードオフの失敗： 道路を広げた結果、ドライバーは素通りし、歩行者（学生や地元客）には「危険でつまらない道」になってしまった。\n * 教訓： 誰にでもいい顔をしようとして（二兎を追って）、結局誰からも愛されない街になってしまった事例。\n\n「あなたの街は、本当は誰のために設計されていますか？」\nこの問いかけは、ビジネスや個人の生き方にも通じる深いメッセージです。\n\n▼関連ハッシュタグ\n#商店街 #都市計画 #失敗学 #シャッター街 #ビジネス #教訓 #車社会 #まちづくり #雑学 #道は続くよどこまでも\n\n▼道は続くよどこまでも 公式・SNS\n動画の感想や「私の街もこうなった！」という体験談はコメント欄でお待ちしています！\n * 公式サイト\n   https://sites.google.com/view/yanagisawa-takayuki/\n * YouTube\n   https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\n * X (Twitter)\n   https://x.com/marcie_nocturne\n * Instagram\n   https://www.instagram.com/marcie_nocturne/\n * TikTok\n   https://www.tiktok.com/@marcie_nocturne",
+          "publishedAt": "2025-11-25T09:01:24Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uL8TPV0U7to/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uL8TPV0U7to/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uL8TPV0U7to/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uL8TPV0U7to/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uL8TPV0U7to/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 33
+        },
+        {
           "videoId": "-NUos5zz-fA",
           "title": "【衝撃】Amazonがイオンを超えた日…商店街が消えた「2つの波」とは？",
           "description": "かつて人でごった返していた商店街が、なぜ静かな「シャッター街」になってしまったのか？\nその背景には、私たちの生活を一変させた「巨大な2つの波」がありました。\n2020年、Amazonの売上がついにあの企業を超えた時、日本の買い物文化は決定的に変わりました。\n\n▼動画のポイント\nこの動画では、商店街衰退の理由を歴史的な視点から紐解きます。\n * 第一の波（1990年代）： モータリゼーションと郊外型ショッピングセンター（イオンなど）の台頭。\n * 第二の波（2010年代）： スマートフォンの普及とEコマース（Amazonなど）の爆発的成長。\n * インフラの逆転： 「店に行く」時代から「物が家に来る」時代へのパラダイムシフト。\n\nネット通販はもはや単なる便利ツールではなく、電気や水道と同じ「社会インフラ」になりました。\nしかし、本当の課題は外からの波だけではないかもしれません…。\n\n▼目次\n00:00 シャッター街はなぜ生まれたのか？\n00:26 第一の波：郊外化とモータリゼーション\n00:42 第二の波：デジタルの襲来とEコマース\n01:06 Amazonがイオンを超えた日（歴史的転換点）\n01:20 新しい生活様式と社会インフラ化\n\n▼関連ハッシュタグ\n#商店街 #シャッター街 #Amazon #イオン #経済 #ビジネス #雑学 #歴史 #NotebookLM #道は続くよどこまでも\n\n▼道は続くよどこまでも 公式・SNS\n動画の感想やリクエストはコメント欄でお待ちしています！\n * 公式サイト\n   https://sites.google.com/view/yanagisawa-takayuki/\n * YouTube\n   https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\n * X (Twitter)\n   https://x.com/marcie_nocturne\n * Instagram\n   https://www.instagram.com/marcie_nocturne/\n * TikTok\n   https://www.tiktok.com/@marcie_nocturne",
@@ -835,7 +910,7 @@
               "height": 720
             }
           },
-          "viewCount": 180
+          "viewCount": 192
         },
         {
           "videoId": "YCTrHhcf-5M",
@@ -870,7 +945,7 @@
               "height": 720
             }
           },
-          "viewCount": 776
+          "viewCount": 777
         },
         {
           "videoId": "LsERSt6-3_I",
@@ -1147,7 +1222,7 @@
               "height": 720
             }
           },
-          "viewCount": 1189,
+          "viewCount": 1300,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1214,7 +1289,7 @@
               "height": 720
             }
           },
-          "viewCount": 8494,
+          "viewCount": 8514,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
@@ -1356,7 +1431,7 @@
               "height": 720
             }
           },
-          "viewCount": 1988,
+          "viewCount": 2172,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
@@ -1499,7 +1574,7 @@
               "height": 360
             }
           },
-          "viewCount": 4096,
+          "viewCount": 4097,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T13:35:00Z",
@@ -1530,7 +1605,7 @@
               "height": 360
             }
           },
-          "viewCount": 4116,
+          "viewCount": 4114,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T13:25:00Z",
