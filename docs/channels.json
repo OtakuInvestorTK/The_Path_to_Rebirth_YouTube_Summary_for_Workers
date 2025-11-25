@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-25T03:10:23.336Z",
+  "requestedAt": "2025-11-25T04:20:57.483Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 26859,
+          "viewCount": 27765,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 48899,
+          "viewCount": 48949,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 24518,
+          "viewCount": 24529,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
@@ -231,7 +231,7 @@
               "height": 720
             }
           },
-          "viewCount": 9385,
+          "viewCount": 9386,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T12:00:00Z",
@@ -298,7 +298,7 @@
               "height": 720
             }
           },
-          "viewCount": 1032
+          "viewCount": 1034
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 1037
+          "viewCount": 1279
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -489,7 +489,7 @@
               "height": 720
             }
           },
-          "viewCount": 8863
+          "viewCount": 8884
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -800,7 +800,7 @@
               "height": 720
             }
           },
-          "viewCount": 157
+          "viewCount": 161
         },
         {
           "videoId": "YCTrHhcf-5M",
@@ -835,7 +835,7 @@
               "height": 720
             }
           },
-          "viewCount": 763
+          "viewCount": 766
         },
         {
           "videoId": "LsERSt6-3_I",
@@ -870,7 +870,7 @@
               "height": 720
             }
           },
-          "viewCount": 2232,
+          "viewCount": 2235,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -1077,89 +1077,47 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "k-FJUKKuQLM",
           "title": "【11月25日12:00配信】天野こころのこころトーク#16",
           "description": "生存確認と活動報告\n今日は10分くらい予定です！",
-          "publishedAt": "2025-11-25T02:35:48Z",
+          "publishedAt": "2025-11-25T03:21:40Z",
           "channelTitle": "天野こころ【再生の道】中央区",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/k-FJUKKuQLM/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 151,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-11-25T03:00:00Z",
-            "actualStartTime": "2025-11-25T02:56:48Z",
-            "concurrentViewers": 85
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "JdLuBfOH4SQ",
-          "title": "【11月18日12:00配信】天野こころのこころトーク#15",
-          "description": "【内容】\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​\n\n▽ホームページ\nhttps://amano-cocoro.com/​\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/...​\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano​\n\ninstagram / ID : @cocoro_amano\n   / cocoro_amano  ​",
-          "publishedAt": "2025-11-18T04:15:12Z",
-          "channelTitle": "天野こころ【再生の道】中央区",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JdLuBfOH4SQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JdLuBfOH4SQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JdLuBfOH4SQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/JdLuBfOH4SQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/JdLuBfOH4SQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3225,
+          "viewCount": 424,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-11-18T03:00:00Z",
-            "actualStartTime": "2025-11-18T02:48:21Z",
-            "actualEndTime": "2025-11-18T03:59:52Z"
+            "scheduledStartTime": "2025-11-25T03:00:00Z",
+            "actualStartTime": "2025-11-25T02:56:48Z",
+            "actualEndTime": "2025-11-25T03:18:40Z"
           }
         }
       ],
@@ -1328,50 +1286,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Pc_fyvWsP-s",
           "title": "【再生の道】くれよしつぐ ミートアップ vol.54",
           "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】https://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-11-25T03:01:48Z",
+          "publishedAt": "2025-11-25T04:17:02Z",
           "channelTitle": "くれよしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/Pc_fyvWsP-s/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 176,
+          "viewCount": 1017,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
             "actualStartTime": "2025-11-25T03:02:16Z",
-            "concurrentViewers": 171
+            "actualEndTime": "2025-11-25T04:10:21Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "ZbiBAgk4NkU",
           "title": "【再生の道】くれよしつぐミートアップ vol.54",
@@ -1405,7 +1362,7 @@
               "height": 720
             }
           },
-          "viewCount": 120,
+          "viewCount": 152,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-25T02:58:52Z",
@@ -1445,7 +1402,7 @@
               "height": 720
             }
           },
-          "viewCount": 224,
+          "viewCount": 247,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-25T02:39:59Z",
@@ -1485,7 +1442,7 @@
               "height": 720
             }
           },
-          "viewCount": 5129,
+          "viewCount": 5133,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T13:05:28Z",
@@ -1526,7 +1483,7 @@
               "height": 720
             }
           },
-          "viewCount": 770,
+          "viewCount": 772,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-20T13:04:23Z",
