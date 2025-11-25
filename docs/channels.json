@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-25T12:31:03.038Z",
+  "requestedAt": "2025-11-25T13:30:14.410Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5520
+          "viewCount": 6400
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 32018,
+          "viewCount": 32437,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 49213,
+          "viewCount": 49260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 24598,
+          "viewCount": 24605,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 2466,
+          "viewCount": 4208,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -273,89 +273,47 @@
         }
       },
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "p9GlHbqVwZ0",
           "title": "再生の道1期生-青柳みつやのYouTube Live!! #19",
           "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
-          "publishedAt": "2025-11-25T09:22:22Z",
+          "publishedAt": "2025-11-25T13:24:34Z",
           "channelTitle": "青柳みつや - 再生の道への挑戦",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 700,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-11-25T12:00:00Z",
-            "actualStartTime": "2025-11-25T12:02:16Z",
-            "concurrentViewers": 916
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "NYCk0NBtbZQ",
-          "title": "再生の道1期生-青柳みつやのYouTube Live!! #18",
-          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
-          "publishedAt": "2025-11-18T12:56:15Z",
-          "channelTitle": "青柳みつや - 再生の道への挑戦",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NYCk0NBtbZQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NYCk0NBtbZQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NYCk0NBtbZQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/NYCk0NBtbZQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/NYCk0NBtbZQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 9397,
+          "viewCount": 1217,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-11-18T12:00:00Z",
-            "actualStartTime": "2025-11-18T12:01:28Z",
-            "actualEndTime": "2025-11-18T12:46:21Z"
+            "scheduledStartTime": "2025-11-25T12:00:00Z",
+            "actualStartTime": "2025-11-25T12:02:16Z",
+            "actualEndTime": "2025-11-25T13:16:14Z"
           }
         }
       ],
@@ -503,7 +461,7 @@
               "height": 720
             }
           },
-          "viewCount": 2114
+          "viewCount": 2173
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -538,7 +496,7 @@
               "height": 720
             }
           },
-          "viewCount": 2511
+          "viewCount": 2522
         },
         {
           "videoId": "f0wEJFzChLQ",
@@ -573,7 +531,7 @@
               "height": 720
             }
           },
-          "viewCount": 4092
+          "viewCount": 4119
         },
         {
           "videoId": "bhuAWdE18Tc",
@@ -608,7 +566,7 @@
               "height": 720
             }
           },
-          "viewCount": 8989
+          "viewCount": 8998
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -919,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 320
+          "viewCount": 360
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -954,7 +912,7 @@
               "height": 720
             }
           },
-          "viewCount": 219
+          "viewCount": 220
         },
         {
           "videoId": "YCTrHhcf-5M",
@@ -989,7 +947,7 @@
               "height": 720
             }
           },
-          "viewCount": 780
+          "viewCount": 794
         },
         {
           "videoId": "LsERSt6-3_I",
@@ -1024,7 +982,7 @@
               "height": 720
             }
           },
-          "viewCount": 2237,
+          "viewCount": 2238,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -1095,7 +1053,7 @@
               "height": 720
             }
           },
-          "viewCount": 1481
+          "viewCount": 1482
         },
         {
           "videoId": "OiZrBDt3_HM",
@@ -1266,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 1598,
+          "viewCount": 1683,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1333,7 +1291,7 @@
               "height": 720
             }
           },
-          "viewCount": 8531,
+          "viewCount": 8554,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
@@ -1475,7 +1433,7 @@
               "height": 720
             }
           },
-          "viewCount": 2704,
+          "viewCount": 2793,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
@@ -1516,7 +1474,7 @@
               "height": 720
             }
           },
-          "viewCount": 5143,
+          "viewCount": 5144,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T13:05:28Z",
@@ -1557,7 +1515,7 @@
               "height": 720
             }
           },
-          "viewCount": 772,
+          "viewCount": 773,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-20T13:04:23Z",
