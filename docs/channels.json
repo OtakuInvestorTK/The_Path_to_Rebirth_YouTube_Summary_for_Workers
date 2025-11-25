@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-25T09:17:46.308Z",
+  "requestedAt": "2025-11-25T10:18:01.562Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2694
+          "viewCount": 3420
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 30498,
+          "viewCount": 30999,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 49111,
+          "viewCount": 49135,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 24574,
+          "viewCount": 24579,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-19T12:30:00Z",
@@ -206,8 +206,92 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
-      "recentVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "fN0odi3RIL4",
+          "title": "エビデンスに基づく教育って何？(更新しました)",
+          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2025-11-25T10:06:39Z",
+          "channelTitle": "奥村こうき | 再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fN0odi3RIL4/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fN0odi3RIL4/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fN0odi3RIL4/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fN0odi3RIL4/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fN0odi3RIL4/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 128,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-11-25T10:06:39Z",
+            "actualStartTime": "2025-11-25T10:09:22Z",
+            "concurrentViewers": 273
+          }
+        }
+      ],
+      "recentVideos": [
+        {
+          "videoId": "mCDtIA-yqiI",
+          "title": "エビデンスに基づく教育って何？うちの子に当てはまるの？",
+          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2025-11-25T10:08:46Z",
+          "channelTitle": "奥村こうき | 再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mCDtIA-yqiI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mCDtIA-yqiI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mCDtIA-yqiI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mCDtIA-yqiI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mCDtIA-yqiI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 383,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-10-30T10:55:06Z",
+            "actualStartTime": "2025-11-25T10:03:01Z",
+            "actualEndTime": "2025-11-25T10:06:29Z"
+          }
+        }
+      ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -233,34 +317,34 @@
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
       "liveVideos": [
         {
-          "videoId": "qp2A-l9E-xY",
+          "videoId": "p9GlHbqVwZ0",
           "title": "再生の道1期生-青柳みつやのYouTube Live!! #19",
           "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
-          "publishedAt": "2025-11-18T09:58:45Z",
+          "publishedAt": "2025-11-25T09:22:22Z",
           "channelTitle": "青柳みつや - 再生の道への挑戦",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/default_live.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/mqdefault_live.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/hqdefault_live.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/sddefault_live.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/qp2A-l9E-xY/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p9GlHbqVwZ0/maxresdefault_live.jpg",
               "width": 1280,
               "height": 720
             }
@@ -459,7 +543,7 @@
               "height": 720
             }
           },
-          "viewCount": 1865
+          "viewCount": 1955
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -529,7 +613,7 @@
               "height": 720
             }
           },
-          "viewCount": 4092
+          "viewCount": 4100
         },
         {
           "videoId": "bhuAWdE18Tc",
@@ -564,7 +648,7 @@
               "height": 720
             }
           },
-          "viewCount": 8989
+          "viewCount": 8990
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -875,7 +959,7 @@
               "height": 720
             }
           },
-          "viewCount": 33
+          "viewCount": 146
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -910,7 +994,7 @@
               "height": 720
             }
           },
-          "viewCount": 192
+          "viewCount": 195
         },
         {
           "videoId": "YCTrHhcf-5M",
@@ -945,7 +1029,7 @@
               "height": 720
             }
           },
-          "viewCount": 777
+          "viewCount": 780
         },
         {
           "videoId": "LsERSt6-3_I",
@@ -980,7 +1064,7 @@
               "height": 720
             }
           },
-          "viewCount": 2236,
+          "viewCount": 2237,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -1016,7 +1100,7 @@
               "height": 480
             }
           },
-          "viewCount": 1352
+          "viewCount": 1353
         },
         {
           "videoId": "LsGwRuj7M98",
@@ -1222,7 +1306,7 @@
               "height": 720
             }
           },
-          "viewCount": 1300,
+          "viewCount": 1403,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1431,7 +1515,7 @@
               "height": 720
             }
           },
-          "viewCount": 2172,
+          "viewCount": 2351,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
@@ -1605,7 +1689,7 @@
               "height": 360
             }
           },
-          "viewCount": 4114,
+          "viewCount": 4116,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-18T13:25:00Z",
