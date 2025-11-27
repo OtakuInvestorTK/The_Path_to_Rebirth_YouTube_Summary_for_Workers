@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-27T15:15:17.520Z",
+  "requestedAt": "2025-11-27T16:18:17.580Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16126
+          "viewCount": 16232
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 36904,
+          "viewCount": 36967,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8126,
+          "viewCount": 8172,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -293,7 +293,7 @@
               "height": 720
             }
           },
-          "viewCount": 393
+          "viewCount": 406
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -379,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 779
+          "viewCount": 810
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -755,7 +755,7 @@
               "height": 480
             }
           },
-          "viewCount": 1270,
+          "viewCount": 1408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
@@ -796,7 +796,7 @@
               "height": 720
             }
           },
-          "viewCount": 988
+          "viewCount": 1029
         },
         {
           "videoId": "iiGz3tBh7AY",
@@ -831,7 +831,7 @@
               "height": 720
             }
           },
-          "viewCount": 1100
+          "viewCount": 1104
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -866,7 +866,7 @@
               "height": 720
             }
           },
-          "viewCount": 1332
+          "viewCount": 1346
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -1007,7 +1007,7 @@
               "height": 480
             }
           },
-          "viewCount": 1393
+          "viewCount": 1394
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1118,7 +1118,7 @@
               "height": 720
             }
           },
-          "viewCount": 4785
+          "viewCount": 5432
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1246,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 8719,
+          "viewCount": 8747,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
@@ -1388,7 +1388,7 @@
               "height": 720
             }
           },
-          "viewCount": 2486,
+          "viewCount": 2505,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
@@ -1419,7 +1419,7 @@
               "height": 360
             }
           },
-          "viewCount": 508,
+          "viewCount": 520,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:35:00Z",
@@ -1460,53 +1460,12 @@
               "height": 720
             }
           },
-          "viewCount": 3463,
+          "viewCount": 3464,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
             "actualStartTime": "2025-11-25T03:02:16Z",
             "actualEndTime": "2025-11-25T04:10:21Z"
-          }
-        },
-        {
-          "videoId": "BNKGP4SWAsc",
-          "title": "【再生の道】くれよしつぐ ミートアップ vol.53",
-          "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】https://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-11-20T15:47:05Z",
-          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/BNKGP4SWAsc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/BNKGP4SWAsc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/BNKGP4SWAsc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/BNKGP4SWAsc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/BNKGP4SWAsc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5184,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-11-20T13:05:28Z",
-            "actualStartTime": "2025-11-20T13:07:12Z",
-            "actualEndTime": "2025-11-20T14:13:41Z"
           }
         }
       ],
