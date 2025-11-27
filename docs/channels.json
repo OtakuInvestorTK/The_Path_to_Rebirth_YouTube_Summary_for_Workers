@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-27T12:30:58.053Z",
+  "requestedAt": "2025-11-27T13:27:59.232Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15977
+          "viewCount": 16044
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,53 +92,12 @@
               "height": 720
             }
           },
-          "viewCount": 36772,
+          "viewCount": 36808,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
             "actualStartTime": "2025-11-24T13:02:47Z",
             "actualEndTime": "2025-11-24T14:00:32Z"
-          }
-        },
-        {
-          "videoId": "zeYDc-efi0o",
-          "title": "【ライブ対談】新マスコットキャラクター\"再生ペンギン（仮）\"誕生秘話",
-          "description": "先日、記念すべき第1回 SAISEI WEEKLY NEWSにてお披露目された新マスコットキャラクター、再生ペンギン（仮）。その誕生秘話について、\"あの二人\"が語ります!!\n--\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-11-20T12:54:44Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/zeYDc-efi0o/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/zeYDc-efi0o/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/zeYDc-efi0o/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/zeYDc-efi0o/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/zeYDc-efi0o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 50200,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-11-20T12:00:00Z",
-            "actualStartTime": "2025-11-20T12:00:41Z",
-            "actualEndTime": "2025-11-20T12:45:35Z"
           }
         }
       ],
@@ -200,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8114,
+          "viewCount": 8126,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -334,7 +293,7 @@
               "height": 720
             }
           },
-          "viewCount": 361
+          "viewCount": 379
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -420,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 659
+          "viewCount": 712
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -455,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 2784
+          "viewCount": 2791
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -490,7 +449,7 @@
               "height": 720
             }
           },
-          "viewCount": 2643
+          "viewCount": 2645
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -766,7 +725,8 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "ftrfSfaj92w",
           "title": "出張先から雑談配信in富山",
@@ -795,16 +755,14 @@
               "height": 480
             }
           },
-          "viewCount": 357,
+          "viewCount": 667,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
             "actualStartTime": "2025-11-27T12:00:24Z",
-            "concurrentViewers": 139
+            "actualEndTime": "2025-11-27T13:15:18Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "A4oEpNbVm80",
           "title": "【衝撃】更地にすると税金6倍！？ボロ家が街から消えない「最悪のカラクリ」",
@@ -838,7 +796,7 @@
               "height": 720
             }
           },
-          "viewCount": 649
+          "viewCount": 693
         },
         {
           "videoId": "iiGz3tBh7AY",
@@ -873,7 +831,7 @@
               "height": 720
             }
           },
-          "viewCount": 1080
+          "viewCount": 1081
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -908,7 +866,7 @@
               "height": 720
             }
           },
-          "viewCount": 1331
+          "viewCount": 1332
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -943,7 +901,7 @@
               "height": 720
             }
           },
-          "viewCount": 282
+          "viewCount": 283
         },
         {
           "videoId": "YCTrHhcf-5M",
@@ -1013,7 +971,7 @@
               "height": 720
             }
           },
-          "viewCount": 2264,
+          "viewCount": 2267,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -1160,7 +1118,7 @@
               "height": 720
             }
           },
-          "viewCount": 2747
+          "viewCount": 3495
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1221,7 +1179,7 @@
               "height": 720
             }
           },
-          "viewCount": 2331,
+          "viewCount": 2338,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1430,7 +1388,7 @@
               "height": 720
             }
           },
-          "viewCount": 2433,
+          "viewCount": 2455,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
@@ -1502,7 +1460,7 @@
               "height": 720
             }
           },
-          "viewCount": 3458,
+          "viewCount": 3459,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
@@ -1543,7 +1501,7 @@
               "height": 720
             }
           },
-          "viewCount": 5182,
+          "viewCount": 5184,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T13:05:28Z",
@@ -1584,42 +1542,11 @@
               "height": 720
             }
           },
-          "viewCount": 792,
+          "viewCount": 793,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-20T13:04:23Z",
             "actualEndTime": "2025-11-20T13:04:25Z"
-          }
-        },
-        {
-          "videoId": "CLV-QnKwwgI",
-          "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.53",
-          "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-11-20T13:14:45Z",
-          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/CLV-QnKwwgI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/CLV-QnKwwgI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/CLV-QnKwwgI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "viewCount": 1446,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-11-20T13:00:00Z",
-            "actualStartTime": "2025-11-20T13:02:17Z",
-            "actualEndTime": "2025-11-20T13:04:18Z"
           }
         }
       ],
