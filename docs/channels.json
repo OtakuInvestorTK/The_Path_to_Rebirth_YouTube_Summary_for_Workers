@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-27T11:13:28.871Z",
+  "requestedAt": "2025-11-27T12:30:58.053Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15855
+          "viewCount": 15977
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 36711,
+          "viewCount": 36772,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 50150,
+          "viewCount": 50200,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 8093,
+          "viewCount": 8114,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -267,7 +267,7 @@
               "height": 720
             }
           },
-          "viewCount": 9035,
+          "viewCount": 9047,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -420,7 +420,7 @@
               "height": 720
             }
           },
-          "viewCount": 593
+          "viewCount": 659
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -455,7 +455,7 @@
               "height": 720
             }
           },
-          "viewCount": 2782
+          "viewCount": 2784
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -490,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 2641
+          "viewCount": 2643
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -766,7 +766,44 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "ftrfSfaj92w",
+          "title": "出張先から雑談配信in富山",
+          "description": "【富山県からの配信です】\n\nこんにちは、やなぎさわです。\n今回は出張で富山県に来ています。\n\n富山といえば、標高3,000メートル級の「立山連峰」から、水深1,000メートルを超える「富山湾」まで、高低差4,000メートルのダイナミックな地形が織りなす「キトキト（新鮮）」な魅力が詰まった土地です。\n「天然のいけす」と呼ばれる富山湾の白エビやホタルイカ、あるいはご当地グルメの富山ブラックラーメンなど、想像するだけでお腹が空いてきますね。\n\nただ、今回はあくまで「仕事」での滞在です！\n残念ながら観光名所を巡ったり、食レポをしたりする配信ではありませんが、この素晴らしい土地の空気感を感じながら、少しリラックスして皆さんとお話しできればと思います。\n\n出張先からのゆるいトーク、ぜひ作業用BGMとして、または晩酌のお供としてお付き合いください。\n\n【SNSのフォローもお願いします！】\n配信の感想や日常のつぶやきはX（旧Twitter）でも更新中です。\n\n• YouTubeチャンネル登録はこちら\nhttps://youtube.com/@marcie_nocturne?si=pWcKkcbEorhV9JBI\n\n• X (Twitter)\nhttps://x.com/marcie_nocturne?s=21&t=rpoaaICkoVeZaKkAAiKpIQ\n\n• Instagram\nhttps://www.instagram.com/marcie_nocturne?igsh=b3EwMHAzc29idDdp&utm_source=qr\n\n本日もご視聴ありがとうございます。\nコメントもお待ちしています！\n\nやなぎさわ",
+          "publishedAt": "2025-11-18T23:41:32Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ftrfSfaj92w/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ftrfSfaj92w/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ftrfSfaj92w/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ftrfSfaj92w/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 357,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-11-27T12:00:00Z",
+            "actualStartTime": "2025-11-27T12:00:24Z",
+            "concurrentViewers": 139
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "A4oEpNbVm80",
@@ -801,7 +838,7 @@
               "height": 720
             }
           },
-          "viewCount": 317
+          "viewCount": 649
         },
         {
           "videoId": "iiGz3tBh7AY",
@@ -836,7 +873,7 @@
               "height": 720
             }
           },
-          "viewCount": 1068
+          "viewCount": 1080
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -871,7 +908,7 @@
               "height": 720
             }
           },
-          "viewCount": 1325
+          "viewCount": 1331
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -941,7 +978,7 @@
               "height": 720
             }
           },
-          "viewCount": 840
+          "viewCount": 843
         },
         {
           "videoId": "LsERSt6-3_I",
@@ -1123,7 +1160,7 @@
               "height": 720
             }
           },
-          "viewCount": 1708
+          "viewCount": 2747
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1184,7 +1221,7 @@
               "height": 720
             }
           },
-          "viewCount": 2316,
+          "viewCount": 2331,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1251,7 +1288,7 @@
               "height": 720
             }
           },
-          "viewCount": 8702,
+          "viewCount": 8719,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
@@ -1393,7 +1430,7 @@
               "height": 720
             }
           },
-          "viewCount": 2388,
+          "viewCount": 2433,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
@@ -1465,7 +1502,7 @@
               "height": 720
             }
           },
-          "viewCount": 3455,
+          "viewCount": 3458,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
