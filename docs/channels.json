@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-27T01:07:34.855Z",
+  "requestedAt": "2025-11-27T03:07:13.890Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15337
+          "viewCount": 15415
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 36375,
+          "viewCount": 36435,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 49928,
+          "viewCount": 49994,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T12:00:00Z",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 7930,
+          "viewCount": 7964,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -267,7 +267,7 @@
               "height": 720
             }
           },
-          "viewCount": 8886,
+          "viewCount": 8910,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -388,6 +388,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "PBCRDYqfgMI",
+          "title": "法定養育費制度について",
+          "description": "令和８年4月1日からスタートする法定養育費制度について話しています。 #木島 #養育費 #法定養育費制度",
+          "publishedAt": "2025-11-27T01:24:43Z",
+          "channelTitle": "木島やすお　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PBCRDYqfgMI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PBCRDYqfgMI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PBCRDYqfgMI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PBCRDYqfgMI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PBCRDYqfgMI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 77
+        },
+        {
           "videoId": "wfRy6z2SfpE",
           "title": "今日は市川簡易裁判所 #木島 #裁判所 #市川簡易裁判所",
           "description": "",
@@ -420,7 +455,7 @@
               "height": 720
             }
           },
-          "viewCount": 2710
+          "viewCount": 2716
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -455,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 2634
+          "viewCount": 2636
         },
         {
           "videoId": "f0wEJFzChLQ",
@@ -490,7 +525,7 @@
               "height": 720
             }
           },
-          "viewCount": 4291
+          "viewCount": 4298
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -801,7 +836,7 @@
               "height": 720
             }
           },
-          "viewCount": 975
+          "viewCount": 977
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -871,7 +906,7 @@
               "height": 720
             }
           },
-          "viewCount": 275
+          "viewCount": 278
         },
         {
           "videoId": "YCTrHhcf-5M",
@@ -906,7 +941,7 @@
               "height": 720
             }
           },
-          "viewCount": 836
+          "viewCount": 838
         },
         {
           "videoId": "LsERSt6-3_I",
@@ -1113,7 +1148,7 @@
               "height": 720
             }
           },
-          "viewCount": 2285,
+          "viewCount": 2292,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1180,7 +1215,7 @@
               "height": 720
             }
           },
-          "viewCount": 8681,
+          "viewCount": 8683,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
@@ -1322,7 +1357,7 @@
               "height": 720
             }
           },
-          "viewCount": 2229,
+          "viewCount": 2250,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
@@ -1353,7 +1388,7 @@
               "height": 360
             }
           },
-          "viewCount": 483,
+          "viewCount": 490,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:35:00Z",
@@ -1394,7 +1429,7 @@
               "height": 720
             }
           },
-          "viewCount": 3446,
+          "viewCount": 3448,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
@@ -1435,7 +1470,7 @@
               "height": 720
             }
           },
-          "viewCount": 5176,
+          "viewCount": 5178,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-20T13:05:28Z",
@@ -1476,7 +1511,7 @@
               "height": 720
             }
           },
-          "viewCount": 788,
+          "viewCount": 789,
           "liveStreaming": {
             "status": "completed",
             "actualStartTime": "2025-11-20T13:04:23Z",
