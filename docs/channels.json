@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-28T07:15:20.744Z",
+  "requestedAt": "2025-11-28T08:20:34.794Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16771
+          "viewCount": 16809
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 37454,
+          "viewCount": 37491,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8262,
+          "viewCount": 8275,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 9255,
+          "viewCount": 9271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -293,7 +293,7 @@
               "height": 720
             }
           },
-          "viewCount": 437
+          "viewCount": 440
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -379,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 919
+          "viewCount": 933
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 2857
+          "viewCount": 2865
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -675,7 +675,8 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "fLmGpqgO2Go",
           "title": "【府中市】淳さんぽライブ【武蔵野の森公園】",
@@ -709,16 +710,15 @@
               "height": 720
             }
           },
-          "viewCount": 23,
+          "viewCount": 104,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-28T07:00:00Z",
             "actualStartTime": "2025-11-28T07:00:27Z",
-            "concurrentViewers": 26
+            "actualEndTime": "2025-11-28T08:15:33Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -797,7 +797,7 @@
               "height": 480
             }
           },
-          "viewCount": 2057,
+          "viewCount": 2103,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
@@ -908,7 +908,7 @@
               "height": 720
             }
           },
-          "viewCount": 1355
+          "viewCount": 1359
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -1089,7 +1089,7 @@
               "height": 720
             }
           },
-          "viewCount": 7780
+          "viewCount": 7947
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1150,7 +1150,7 @@
               "height": 720
             }
           },
-          "viewCount": 2399,
+          "viewCount": 2401,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1217,7 +1217,7 @@
               "height": 720
             }
           },
-          "viewCount": 8774,
+          "viewCount": 8792,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-21T23:00:00Z",
