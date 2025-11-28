@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-28T06:23:36.257Z",
+  "requestedAt": "2025-11-28T07:15:20.744Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16750
+          "viewCount": 16771
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 37423,
+          "viewCount": 37454,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8246,
+          "viewCount": 8262,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 9246,
+          "viewCount": 9255,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -379,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 916
+          "viewCount": 919
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 2856
+          "viewCount": 2857
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -449,7 +449,7 @@
               "height": 720
             }
           },
-          "viewCount": 2654
+          "viewCount": 2655
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -675,7 +675,49 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "fLmGpqgO2Go",
+          "title": "【府中市】淳さんぽライブ【武蔵野の森公園】",
+          "description": "本日16時から府中市武蔵野の森公園周辺をゴミ拾いしながら雑談する配信を行います。",
+          "publishedAt": "2025-11-16T09:49:35Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fLmGpqgO2Go/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fLmGpqgO2Go/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fLmGpqgO2Go/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fLmGpqgO2Go/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fLmGpqgO2Go/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 23,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-11-28T07:00:00Z",
+            "actualStartTime": "2025-11-28T07:00:27Z",
+            "concurrentViewers": 26
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
@@ -755,7 +797,7 @@
               "height": 480
             }
           },
-          "viewCount": 2008,
+          "viewCount": 2057,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
@@ -796,7 +838,7 @@
               "height": 720
             }
           },
-          "viewCount": 1188
+          "viewCount": 1192
         },
         {
           "videoId": "iiGz3tBh7AY",
@@ -1047,7 +1089,7 @@
               "height": 720
             }
           },
-          "viewCount": 7699
+          "viewCount": 7780
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1348,7 +1390,7 @@
               "height": 360
             }
           },
-          "viewCount": 539,
+          "viewCount": 545,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:35:00Z",
