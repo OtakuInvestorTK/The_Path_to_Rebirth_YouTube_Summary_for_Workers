@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-29T05:14:12.412Z",
+  "requestedAt": "2025-11-29T06:20:39.338Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 17478
+          "viewCount": 17476
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 38138,
+          "viewCount": 38174,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8379,
+          "viewCount": 8389,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 9454,
+          "viewCount": 9457,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -293,7 +293,7 @@
               "height": 720
             }
           },
-          "viewCount": 497
+          "viewCount": 498
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -379,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 204
+          "viewCount": 1370
         },
         {
           "videoId": "PBCRDYqfgMI",
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 1078
+          "viewCount": 1080
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -449,7 +449,7 @@
               "height": 720
             }
           },
-          "viewCount": 2906
+          "viewCount": 2908
         },
         {
           "videoId": "A-olTdwDIz8",
@@ -745,7 +745,7 @@
               "height": 720
             }
           },
-          "viewCount": 948,
+          "viewCount": 966,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T07:00:00Z",
@@ -802,7 +802,47 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "oLuJCDx9Fnk",
+          "title": "出張先から雑談配信in鳥取",
+          "description": "🎙️ ストリーミングを始めたばかりですか、それともレベルアップを目指していますか？StreamYardをチェックして、$10の割引をゲット！😍 https://streamyard.com/pal/d/6288782636679168",
+          "publishedAt": "2025-11-29T05:57:36Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oLuJCDx9Fnk/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oLuJCDx9Fnk/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oLuJCDx9Fnk/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oLuJCDx9Fnk/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oLuJCDx9Fnk/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-11-30T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "CE96yy1rkto",
@@ -837,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 664
+          "viewCount": 710
         },
         {
           "videoId": "ftrfSfaj92w",
@@ -943,7 +983,7 @@
               "height": 720
             }
           },
-          "viewCount": 1202
+          "viewCount": 1211
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -1048,7 +1088,7 @@
               "height": 720
             }
           },
-          "viewCount": 878
+          "viewCount": 880
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1159,7 +1199,7 @@
               "height": 720
             }
           },
-          "viewCount": 9821
+          "viewCount": 9868
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1287,7 +1327,7 @@
               "height": 720
             }
           },
-          "viewCount": 5296,
+          "viewCount": 5806,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
