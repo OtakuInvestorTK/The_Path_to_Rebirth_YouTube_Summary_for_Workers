@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-30T09:14:03.273Z",
+  "requestedAt": "2025-11-30T10:14:02.527Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 18222
+          "viewCount": 18245
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 38915,
+          "viewCount": 38939,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8471,
+          "viewCount": 8483,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 9641,
+          "viewCount": 9645,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -379,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 3425
+          "viewCount": 3472
         },
         {
           "videoId": "PBCRDYqfgMI",
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 1230
+          "viewCount": 1235
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -600,7 +600,8 @@
         }
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "KOHYjEkbsSk",
           "title": "やる気・元気・はるきチャンネル がライブ配信中！",
@@ -634,55 +635,12 @@
               "height": 720
             }
           },
-          "viewCount": 64,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2025-11-30T09:01:55Z",
-            "actualStartTime": "2025-11-30T09:02:51Z",
-            "concurrentViewers": 52
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "JYeb2sveNZA",
-          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
-          "description": "",
-          "publishedAt": "2025-11-30T09:03:17Z",
-          "channelTitle": "やる気・元気・はるきチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 8,
+          "viewCount": 343,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-11-29T22:05:50Z",
-            "actualStartTime": "2025-11-30T09:01:31Z",
-            "actualEndTime": "2025-11-30T09:01:42Z"
+            "scheduledStartTime": "2025-11-30T09:01:55Z",
+            "actualStartTime": "2025-11-30T09:02:51Z",
+            "actualEndTime": "2025-11-30T09:45:56Z"
           }
         }
       ],
@@ -855,7 +813,7 @@
         {
           "videoId": "oLuJCDx9Fnk",
           "title": "出張先から雑談配信in鳥取",
-          "description": "🎙️ ストリーミングを始めたばかりですか、それともレベルアップを目指していますか？StreamYardをチェックして、$10の割引をゲット！😍 https://streamyard.com/pal/d/6288782636679168",
+          "description": "鳥取県鳥取市からこんばんは、やなぎさわです。\n\n今回は出張先からのライブ配信です。\n鳥取といえば、日本最大級の起伏を持つ「鳥取砂丘」や、神話「因幡の白兎」の舞台としても知られる、歴史と自然が調和した素晴らしい土地です。\n\nただ、今回はあくまで「仕事」での滞在です。\n残念ながら、雄大な砂丘を歩いたり、今の時期に最高な「松葉ガニ」に舌鼓を打ったり……といった観光グルメ配信ではありません（笑）。\nホテルからのまったりとした雑談になりますが、普段とは違う出張先の空気感だけでも共有できればと思います。\n\n本日は、現地で開催されたこちらの講演会に参加してきました。\nこれからの時代や未来の生き方について、非常に刺激を受ける内容でした。\n配信の中で少し触れられればと思っています。\n\n▼参加した講演会はこちら\n「特別対談」石丸伸二×須藤元気～未来を変えるのはキミ達だ！～\n[https://tsc21.gr.jp/20251130open/](https://tsc21.gr.jp/20251130open/)\n\n短い時間かもしれませんが、リラックスしてお付き合いいただければ嬉しいです。\nコメントもお待ちしています！\n\n───────────────\n■ SNSのフォローもぜひお願いします！\n───────────────\nYouTube\n[https://youtube.com/@marcie_nocturne?si=pWcKkcbEorhV9JBI](https://youtube.com/@marcie_nocturne?si=pWcKkcbEorhV9JBI)\n\nX (Twitter)\n日常のふとしたことや更新情報を呟いています。\n[https://x.com/marcie_nocturne?s=21&t=rpoaaICkoVeZaKkAAiKpIQ](https://x.com/marcie_nocturne?s=21&t=rpoaaICkoVeZaKkAAiKpIQ)\n\nInstagram\n[https://www.instagram.com/marcie_nocturne?igsh=b3EwMHAzc29idDdp&utm_source=qr](https://www.instagram.com/marcie_nocturne?igsh=b3EwMHAzc29idDdp&utm_source=qr)\n\n--------------------------------------------------\n■ この配信について\n※本配信は出張先からの雑談配信です。現地の観光案内やグルメレポートを行うものではありませんのでご了承ください。",
           "publishedAt": "2025-11-29T05:57:36Z",
           "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
           "thumbnails": {
@@ -893,6 +851,36 @@
         }
       ],
       "recentVideos": [
+        {
+          "videoId": "5teqhZovooY",
+          "title": "【警告】2033年、実家が「負動産」に変わる。更地にすると税金6倍の罠とは？",
+          "description": "【2033年問題】あなたの実家は大丈夫？放置すると資産が借金に変わる衝撃の真実\n\n「うちは大丈夫」「いつか売ればいい」…そう思っていませんか？\n実は、2033年には日本の住宅の3軒に1軒が空き家になるという予測が出ています。\n\nこの動画では、実家が「負動産」化してしまう前に知っておくべき、税金の罠、法律の改正、そして唯一の解決策について徹底解説します。\n\n更地にすると固定資産税が6倍？\n2023年の法改正で放置もNG？\n国に返納するのも数百万円かかる？\n\n八方塞がりにも見えるこの問題ですが、発想を転換すれば解決の糸口は見えてきます。\nご両親が元気なうちに、ぜひ家族でこの動画をシェアしてください。\n\n-----------------------------------------\n\n【目次（タイムスタンプ）】\n00:00 オープニング：2033年、3軒に1軒が空き家に？\n01:30 【罠1】更地にできない本当の理由（税金6倍の恐怖）\n02:38 【罠2】放置も許されない！2023年空き家法改正の衝撃\n03:24 【罠3】なぜ実家は「売れない」のか？市場の失敗パラドックス\n04:01 国の引き取り制度（相続土地国庫帰属制度）の厳しい現実\n04:55 「負動産」にしない最終手段：発想の転換\n05:26 「関係人口」という新しい解決策\n05:46 今すぐやるべき3つのアクションプラン\n06:19 あなたの家を「メディア」にするという選択\n\n-----------------------------------------\n\n【この動画の重要キーワード】\n・住宅用地の特例\n家が建っているだけで固定資産税が最大1/6になる制度。これが空き家放置の温床でしたが、今後は通用しなくなります。\n\n・管理不全空き家\n2023年の法改正で新設。放置された危険な空き家は、特例解除（増税）の対象になります。\n\n・関係人口\n定住でも観光でもない、地域と多様に関わる人々。実家を「売る」のではなく、この人たちと「関わる」拠点にすることが鍵です。\n\n-----------------------------------------\n\n【道は続くよどこまでも - 公式リンク】\n\n公式サイト\n[https://sites.google.com/view/yanagisawa-takayuki/]\n\nYouTubeチャンネル登録はこちら\n[https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM]\n\nX (Twitter)\n[https://x.com/marcie_nocturne]\n\nInstagram\n[https://www.instagram.com/marcie_nocturne/]\n\nTikTok\n[https://www.tiktok.com/@marcie_nocturne]\n\n-----------------------------------------\n\n#実家じまい #空き家問題 #不動産 #相続 #2033年問題 #固定資産税 #実家 #リノベーション #負動産 #地方移住",
+          "publishedAt": "2025-11-30T10:00:10Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5teqhZovooY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5teqhZovooY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5teqhZovooY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5teqhZovooY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 31
+        },
         {
           "videoId": "CE96yy1rkto",
           "title": "【衝撃】シャッター商店街が「ある方法」で奇跡の復活！？",
@@ -956,7 +944,7 @@
               "height": 480
             }
           },
-          "viewCount": 3023,
+          "viewCount": 3044,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
@@ -997,7 +985,7 @@
               "height": 720
             }
           },
-          "viewCount": 1463
+          "viewCount": 1474
         },
         {
           "videoId": "iiGz3tBh7AY",
@@ -1032,7 +1020,7 @@
               "height": 720
             }
           },
-          "viewCount": 1226
+          "viewCount": 1234
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -1067,7 +1055,7 @@
               "height": 720
             }
           },
-          "viewCount": 1417
+          "viewCount": 1420
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -1213,7 +1201,7 @@
               "height": 720
             }
           },
-          "viewCount": 10839
+          "viewCount": 10878
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1274,7 +1262,7 @@
               "height": 720
             }
           },
-          "viewCount": 2445,
+          "viewCount": 2444,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1341,7 +1329,7 @@
               "height": 720
             }
           },
-          "viewCount": 9864,
+          "viewCount": 9967,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1483,7 +1471,7 @@
               "height": 720
             }
           },
-          "viewCount": 3013,
+          "viewCount": 3016,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
