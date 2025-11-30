@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-30T12:27:21.918Z",
+  "requestedAt": "2025-11-30T13:21:57.101Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 18326
+          "viewCount": 18355
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 39018,
+          "viewCount": 39041,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8500,
+          "viewCount": 8499,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 9660,
+          "viewCount": 9662,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -293,7 +293,7 @@
               "height": 720
             }
           },
-          "viewCount": 565
+          "viewCount": 564
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -379,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 3477
+          "viewCount": 3608
         },
         {
           "videoId": "PBCRDYqfgMI",
@@ -635,7 +635,7 @@
               "height": 720
             }
           },
-          "viewCount": 641,
+          "viewCount": 744,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -809,7 +809,8 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "oLuJCDx9Fnk",
           "title": "出張先から雑談配信in鳥取",
@@ -843,16 +844,14 @@
               "height": 720
             }
           },
-          "viewCount": 655,
+          "viewCount": 1435,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
             "actualStartTime": "2025-11-30T12:00:01Z",
-            "concurrentViewers": 341
+            "actualEndTime": "2025-11-30T13:21:00Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "5teqhZovooY",
           "title": "【警告】2033年、実家が「負動産」に変わる。更地にすると税金6倍の罠とは？",
@@ -881,7 +880,7 @@
               "height": 480
             }
           },
-          "viewCount": 322
+          "viewCount": 447
         },
         {
           "videoId": "CE96yy1rkto",
@@ -916,7 +915,7 @@
               "height": 720
             }
           },
-          "viewCount": 1092
+          "viewCount": 1108
         },
         {
           "videoId": "ftrfSfaj92w",
@@ -1022,7 +1021,7 @@
               "height": 720
             }
           },
-          "viewCount": 1233
+          "viewCount": 1240
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -1203,7 +1202,7 @@
               "height": 720
             }
           },
-          "viewCount": 10964
+          "viewCount": 10982
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1264,7 +1263,7 @@
               "height": 720
             }
           },
-          "viewCount": 2449,
+          "viewCount": 2445,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1331,7 +1330,7 @@
               "height": 720
             }
           },
-          "viewCount": 10096,
+          "viewCount": 10123,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1473,7 +1472,7 @@
               "height": 720
             }
           },
-          "viewCount": 3032,
+          "viewCount": 3034,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
@@ -1545,7 +1544,7 @@
               "height": 720
             }
           },
-          "viewCount": 3540,
+          "viewCount": 3543,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
