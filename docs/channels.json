@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-30T03:22:25.852Z",
+  "requestedAt": "2025-11-30T04:29:52.905Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 18090
+          "viewCount": 18113
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 38771,
+          "viewCount": 38818,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8453,
+          "viewCount": 8454,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 9609,
+          "viewCount": 9605,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -293,7 +293,7 @@
               "height": 720
             }
           },
-          "viewCount": 551
+          "viewCount": 545
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -379,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 3257
+          "viewCount": 3318
         },
         {
           "videoId": "PBCRDYqfgMI",
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 1213
+          "viewCount": 1219
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -450,41 +450,6 @@
             }
           },
           "viewCount": 2973
-        },
-        {
-          "videoId": "A-olTdwDIz8",
-          "title": "葛西臨海公園のコスモス #木島 #葛西臨海公園 #コスモス",
-          "description": "",
-          "publishedAt": "2025-11-23T03:53:32Z",
-          "channelTitle": "木島やすお　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/A-olTdwDIz8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/A-olTdwDIz8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/A-olTdwDIz8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/A-olTdwDIz8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/A-olTdwDIz8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2715
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -745,7 +710,7 @@
               "height": 720
             }
           },
-          "viewCount": 1130,
+          "viewCount": 1142,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T07:00:00Z",
@@ -877,7 +842,7 @@
               "height": 720
             }
           },
-          "viewCount": 1082
+          "viewCount": 1084
         },
         {
           "videoId": "ftrfSfaj92w",
@@ -907,7 +872,7 @@
               "height": 480
             }
           },
-          "viewCount": 2922,
+          "viewCount": 2958,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
@@ -983,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 1240
+          "viewCount": 1222
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -1018,7 +983,7 @@
               "height": 720
             }
           },
-          "viewCount": 1411
+          "viewCount": 1412
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -1053,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 316
+          "viewCount": 317
         },
         {
           "videoId": "YCTrHhcf-5M",
@@ -1088,7 +1053,7 @@
               "height": 720
             }
           },
-          "viewCount": 892
+          "viewCount": 896
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1199,7 +1164,7 @@
               "height": 720
             }
           },
-          "viewCount": 10629
+          "viewCount": 10672
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1260,7 +1225,7 @@
               "height": 720
             }
           },
-          "viewCount": 2440,
+          "viewCount": 2439,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1327,7 +1292,7 @@
               "height": 720
             }
           },
-          "viewCount": 9379,
+          "viewCount": 9472,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
