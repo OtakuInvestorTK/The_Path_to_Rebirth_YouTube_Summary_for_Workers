@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-11-30T08:18:02.908Z",
+  "requestedAt": "2025-11-30T09:14:03.273Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 18187
+          "viewCount": 18222
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 38891,
+          "viewCount": 38915,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 8469,
+          "viewCount": 8471,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 9627,
+          "viewCount": 9641,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -379,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 3403
+          "viewCount": 3425
         },
         {
           "videoId": "PBCRDYqfgMI",
@@ -414,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 1231
+          "viewCount": 1230
         },
         {
           "videoId": "wfRy6z2SfpE",
@@ -600,8 +600,92 @@
         }
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
-      "liveVideos": [],
-      "recentVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "KOHYjEkbsSk",
+          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
+          "description": "",
+          "publishedAt": "2025-11-30T09:01:56Z",
+          "channelTitle": "やる気・元気・はるきチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KOHYjEkbsSk/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KOHYjEkbsSk/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KOHYjEkbsSk/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KOHYjEkbsSk/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KOHYjEkbsSk/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 64,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-11-30T09:01:55Z",
+            "actualStartTime": "2025-11-30T09:02:51Z",
+            "concurrentViewers": 52
+          }
+        }
+      ],
+      "recentVideos": [
+        {
+          "videoId": "JYeb2sveNZA",
+          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
+          "description": "",
+          "publishedAt": "2025-11-30T09:03:17Z",
+          "channelTitle": "やる気・元気・はるきチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JYeb2sveNZA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 8,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-11-29T22:05:50Z",
+            "actualStartTime": "2025-11-30T09:01:31Z",
+            "actualEndTime": "2025-11-30T09:01:42Z"
+          }
+        }
+      ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
     },
     {
@@ -710,7 +794,7 @@
               "height": 720
             }
           },
-          "viewCount": 1151,
+          "viewCount": 1162,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T07:00:00Z",
@@ -842,7 +926,7 @@
               "height": 720
             }
           },
-          "viewCount": 1090
+          "viewCount": 1092
         },
         {
           "videoId": "ftrfSfaj92w",
@@ -872,7 +956,7 @@
               "height": 480
             }
           },
-          "viewCount": 3007,
+          "viewCount": 3023,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
@@ -913,7 +997,7 @@
               "height": 720
             }
           },
-          "viewCount": 1464
+          "viewCount": 1463
         },
         {
           "videoId": "iiGz3tBh7AY",
@@ -1019,41 +1103,6 @@
             }
           },
           "viewCount": 322
-        },
-        {
-          "videoId": "YCTrHhcf-5M",
-          "title": "なぜ商店街はイオンとAmazonに負けたのか？廃墟化する街の「絶望」と「再生」のシナリオ",
-          "description": "かつてあんなに賑わっていた地元の商店街。なぜ今は静まり返っているのでしょうか？ 「シャッターを閉めているのは税金対策でしょ？」 もしそう思っているなら、その常識は今日で覆ります。\n\nAmazonやイオンの台頭、車社会のパラドックス、そして後継者を阻む「個人保証」という名の絶望的な壁。 シャッター通りの裏側にある残酷な経済の仕組みと、そこから見え始めた「新たな希望（サードプレイス）」について徹底解剖します。\n\nあなたの街の未来を考えるきっかけになれば嬉しいです。 ぜひコメントで、皆さんの地元の商店街の様子も教えてください！\n\n📢 チャンネル登録＆高評価をお願いします！\n\n⏳ 目次（タイムスタンプ）\n視聴したい箇所へすぐに飛べます！\n\n00:00 オープニング：変わり果てた地元の風景 00:58 第1部：衰退の表層 - Amazonとイオン、時間差の挟み撃ち 02:33 第2部：衰退の深層 - 車社会への対応不全というパラドックス 03:49 第3部：内部崩壊 - 後継者がいない「本当の理由」と個人保証の闇 05:25 第4部：俗説の解体 - 「税金対策でシャッター」は大間違い！？固定資産税のカラクリ 07:08 第5部：商店街の未来 - 「サードプレイス」としての再生と成功事例 08:38 エンディング：あなたの街はどう変われるか？\n\n🔗 関連リンク・SNS\n活動の最新情報はこちらからチェックしてください！\n\n■ 公式サイト 道は続くよどこまでも https://sites.google.com/view/yanagisawa-takayuki/\n\n■ YouTubeチャンネル やなぎさわ誉之(たかゆき)【道は続くよどこまでも】 https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\n\n■ X (Twitter) @marcie_nocturne\nhttps://x.com/marcie_nocturne\n\n■ Instagram @marcie_nocturne \nhttps://www.instagram.com/marcie_nocturne/\n\n■ TikTok @marcie_nocturne \nhttps://www.tiktok.com/@marcie_nocturne\n\n🔍 この動画のキーワード・ハッシュタグ\n#シャッター街 #商店街 #地方創生 #まちづくり #経済 #空き家問題 #サードプレイス #固定資産税 #都市計画 #amazon",
-          "publishedAt": "2025-11-23T09:00:50Z",
-          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/YCTrHhcf-5M/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/YCTrHhcf-5M/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/YCTrHhcf-5M/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/YCTrHhcf-5M/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/YCTrHhcf-5M/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 898
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1164,7 +1213,7 @@
               "height": 720
             }
           },
-          "viewCount": 10802
+          "viewCount": 10839
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1225,7 +1274,7 @@
               "height": 720
             }
           },
-          "viewCount": 2444,
+          "viewCount": 2445,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1292,7 +1341,7 @@
               "height": 720
             }
           },
-          "viewCount": 9777,
+          "viewCount": 9864,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1434,7 +1483,7 @@
               "height": 720
             }
           },
-          "viewCount": 3004,
+          "viewCount": 3013,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
