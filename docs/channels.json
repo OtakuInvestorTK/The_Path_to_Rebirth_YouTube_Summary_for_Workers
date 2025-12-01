@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-01T03:45:45.055Z",
+  "requestedAt": "2025-12-01T04:44:07.340Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 18618
+          "viewCount": 18631
         },
         {
           "videoId": "x5hsyI6BntY",
@@ -199,7 +199,7 @@
               "height": 720
             }
           },
-          "viewCount": 8524,
+          "viewCount": 8532,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -266,7 +266,7 @@
               "height": 720
             }
           },
-          "viewCount": 9713,
+          "viewCount": 9721,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 3843
+          "viewCount": 3855
         },
         {
           "videoId": "PBCRDYqfgMI",
@@ -675,7 +675,7 @@
               "height": 720
             }
           },
-          "viewCount": 1260,
+          "viewCount": 1275,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -792,7 +792,7 @@
               "height": 720
             }
           },
-          "viewCount": 1184,
+          "viewCount": 1187,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T07:00:00Z",
@@ -879,7 +879,7 @@
               "height": 480
             }
           },
-          "viewCount": 10467,
+          "viewCount": 10919,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -915,7 +915,7 @@
               "height": 480
             }
           },
-          "viewCount": 1162
+          "viewCount": 1192
         },
         {
           "videoId": "CE96yy1rkto",
@@ -1056,7 +1056,7 @@
               "height": 720
             }
           },
-          "viewCount": 1256
+          "viewCount": 1252
         },
         {
           "videoId": "uL8TPV0U7to",
@@ -1091,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 1431
+          "viewCount": 1432
         },
         {
           "videoId": "-NUos5zz-fA",
@@ -1237,7 +1237,7 @@
               "height": 720
             }
           },
-          "viewCount": 11171
+          "viewCount": 11178
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1298,7 +1298,7 @@
               "height": 720
             }
           },
-          "viewCount": 2453,
+          "viewCount": 2455,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:00:00Z",
@@ -1365,7 +1365,7 @@
               "height": 720
             }
           },
-          "viewCount": 10607,
+          "viewCount": 10622,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1507,7 +1507,7 @@
               "height": 720
             }
           },
-          "viewCount": 3071,
+          "viewCount": 3067,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
@@ -1538,7 +1538,7 @@
               "height": 360
             }
           },
-          "viewCount": 580,
+          "viewCount": 578,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:35:00Z",
@@ -1579,7 +1579,7 @@
               "height": 720
             }
           },
-          "viewCount": 3558,
+          "viewCount": 3553,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
@@ -1811,50 +1811,50 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "p7P7LlMaR7A",
           "title": "ヨシヒコ・ライブSP with 小林学さん",
           "description": "再生の道から、参院選でがんばった小林学さんをお迎えします。\n\n【こんな話が出そうです】\n稼ぐ必要のないほど稼げるようになる秘訣　笑\neモータースポーツは仕事か趣味か\nまなぶの夢は。。。\n再生の道での活動（AI, サポーター制度、選挙区公募制度など）\nキャンプでgo",
-          "publishedAt": "2025-11-30T01:18:03Z",
+          "publishedAt": "2025-12-01T04:12:02Z",
           "channelTitle": "増田よしひこ@再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/p7P7LlMaR7A/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 974,
+          "viewCount": 1685,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
             "actualStartTime": "2025-12-01T02:59:51Z",
-            "concurrentViewers": 672
+            "actualEndTime": "2025-12-01T04:01:34Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
     },
     {
