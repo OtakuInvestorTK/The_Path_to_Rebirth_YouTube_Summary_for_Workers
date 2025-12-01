@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-01T12:31:20.359Z",
+  "requestedAt": "2025-12-01T13:31:30.374Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "RncBRWkq6Dw",
           "title": "SAISEI WEEKLY NEWS (2025.12.01)",
           "description": "—\n☑️最近の再生🔄メンバーの多種多様な活動をご紹介‼︎\n☑️Koki’s EYE👁️ついにコーナーお披露目‼︎代表が︎政治とAIについて語る\n☑️再生ラウンジ☕️ペンギンの生みの親TELLさんと共に、ペンギンの名前を大発表‼︎📢\n※そしてそしてCMにはあの企業戦士が登場⁉︎\n—\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-01T01:11:44Z",
+          "publishedAt": "2025-12-01T12:51:07Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/RncBRWkq6Dw/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 4541,
+          "viewCount": 9870,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
             "actualStartTime": "2025-12-01T12:00:27Z",
-            "concurrentViewers": 4009
+            "actualEndTime": "2025-12-01T12:47:07Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "-Z8dBHCAHTE",
           "title": "【ペンギン名大募集!!】再生の道(期限:11/27)",
@@ -134,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 39658,
+          "viewCount": 39697,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-24T13:00:00Z",
@@ -335,7 +334,7 @@
               "height": 720
             }
           },
-          "viewCount": 595
+          "viewCount": 596
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -421,7 +420,7 @@
               "height": 720
             }
           },
-          "viewCount": 3996
+          "viewCount": 4065
         },
         {
           "videoId": "PBCRDYqfgMI",
@@ -491,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 3051
+          "viewCount": 3056
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -677,7 +676,7 @@
               "height": 720
             }
           },
-          "viewCount": 1551,
+          "viewCount": 1592,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -886,7 +885,7 @@
               "height": 720
             }
           },
-          "viewCount": 585
+          "viewCount": 838
         },
         {
           "videoId": "oLuJCDx9Fnk",
@@ -916,7 +915,7 @@
               "height": 480
             }
           },
-          "viewCount": 14041,
+          "viewCount": 14378,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -952,7 +951,7 @@
               "height": 480
             }
           },
-          "viewCount": 1471
+          "viewCount": 1482
         },
         {
           "videoId": "CE96yy1rkto",
@@ -1128,7 +1127,7 @@
               "height": 720
             }
           },
-          "viewCount": 1443
+          "viewCount": 1438
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1239,7 +1238,7 @@
               "height": 720
             }
           },
-          "viewCount": 11291
+          "viewCount": 11290
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1367,7 +1366,7 @@
               "height": 720
             }
           },
-          "viewCount": 10819,
+          "viewCount": 10850,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1499,7 +1498,7 @@
               "height": 360
             }
           },
-          "viewCount": 1416,
+          "viewCount": 1851,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:05:00Z",
@@ -1530,7 +1529,7 @@
               "height": 360
             }
           },
-          "viewCount": 474,
+          "viewCount": 636,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:00:00Z",
@@ -1602,7 +1601,7 @@
               "height": 360
             }
           },
-          "viewCount": 582,
+          "viewCount": 583,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:35:00Z",
@@ -1643,7 +1642,7 @@
               "height": 720
             }
           },
-          "viewCount": 3565,
+          "viewCount": 3567,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T03:01:48Z",
@@ -1910,7 +1909,7 @@
               "height": 720
             }
           },
-          "viewCount": 5723,
+          "viewCount": 6144,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
