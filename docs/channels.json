@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-02T10:17:29.129Z",
+  "requestedAt": "2025-12-02T11:14:33.141Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 32463,
+          "viewCount": 32658,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -164,7 +164,7 @@
               "height": 720
             }
           },
-          "viewCount": 8604,
+          "viewCount": 8609,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T10:06:39Z",
@@ -231,7 +231,7 @@
               "height": 720
             }
           },
-          "viewCount": 9787,
+          "viewCount": 9799,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-25T12:00:00Z",
@@ -352,6 +352,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "g3rNhW5VR50",
+          "title": "大阪王将の餃子無料券 #木島 #大阪王将 #餃子無料券",
+          "description": "",
+          "publishedAt": "2025-12-02T10:26:55Z",
+          "channelTitle": "木島やすお　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g3rNhW5VR50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g3rNhW5VR50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g3rNhW5VR50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/g3rNhW5VR50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/g3rNhW5VR50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 2735
+        },
+        {
           "videoId": "nbk7SLCHcA4",
           "title": "土曜日に、仕事でここまで来ました。",
           "description": "",
@@ -384,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 4232
+          "viewCount": 4242
         },
         {
           "videoId": "PBCRDYqfgMI",
@@ -605,7 +640,7 @@
               "height": 720
             }
           },
-          "viewCount": 2077,
+          "viewCount": 2100,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -814,7 +849,7 @@
               "height": 720
             }
           },
-          "viewCount": 32
+          "viewCount": 255
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -879,7 +914,7 @@
               "height": 480
             }
           },
-          "viewCount": 16267,
+          "viewCount": 16310,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -915,7 +950,7 @@
               "height": 480
             }
           },
-          "viewCount": 1816
+          "viewCount": 1850
         },
         {
           "videoId": "CE96yy1rkto",
@@ -1167,7 +1202,7 @@
               "height": 720
             }
           },
-          "viewCount": 11454
+          "viewCount": 11452
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1253,7 +1288,7 @@
               "height": 720
             }
           },
-          "viewCount": 11041,
+          "viewCount": 11047,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1385,7 +1420,7 @@
               "height": 360
             }
           },
-          "viewCount": 3547,
+          "viewCount": 3620,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:05:00Z",
@@ -1416,7 +1451,7 @@
               "height": 360
             }
           },
-          "viewCount": 1028,
+          "viewCount": 1044,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:00:00Z",
@@ -1457,7 +1492,7 @@
               "height": 720
             }
           },
-          "viewCount": 3147,
+          "viewCount": 3148,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:40:23Z",
@@ -1755,7 +1790,7 @@
               "height": 720
             }
           },
-          "viewCount": 243
+          "viewCount": 356
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1790,7 +1825,7 @@
               "height": 720
             }
           },
-          "viewCount": 8317,
+          "viewCount": 8377,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
