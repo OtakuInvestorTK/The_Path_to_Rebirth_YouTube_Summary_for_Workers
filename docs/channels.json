@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-02T13:33:00.648Z",
+  "requestedAt": "2025-12-02T14:16:34.238Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6712,
+          "viewCount": 9026,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 33258,
+          "viewCount": 33529,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 1750,
+          "viewCount": 3251,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 4,
+          "viewCount": 5,
           "liveStreaming": {
             "status": "upcoming",
             "scheduledStartTime": "2025-12-03T09:00:00Z"
@@ -297,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 625
+          "viewCount": 630
         }
       ],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
@@ -383,7 +383,7 @@
               "height": 720
             }
           },
-          "viewCount": 3412
+          "viewCount": 3475
         },
         {
           "videoId": "nbk7SLCHcA4",
@@ -453,7 +453,7 @@
               "height": 720
             }
           },
-          "viewCount": 1271
+          "viewCount": 1280
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -639,7 +639,7 @@
               "height": 720
             }
           },
-          "viewCount": 2207,
+          "viewCount": 2234,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -813,7 +813,47 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "fW7CCk41GBI",
+          "title": "出張先から雑談配信in秋田",
+          "description": "勇壮な「なまはげ」の伝承や忠犬ハチ公のルーツである秋田犬、そして日本有数の米どころとしても知られる秋田県。四季折々の豊かな自然と、歴史ある温泉地が点在する魅力的な場所に来ています。\n\n本日は、そんな秋田への出張先からライブ配信をお届けします。あいにく観光名所を巡ったり名物グルメを堪能する時間は取れませんが、仕事の合間に、現地の静かな空気感を少しでも共有できればと思い配信を始めました。いつもとは違う場所から、やなぎさわの声をお届けします。\n\nお忙しい中、配信に来てくださり本当にありがとうございます。ぜひリラックスして、チャット等で交流していただければ嬉しいです。\n\n【SNS・公式サイト】 フォローやチャンネル登録もお待ちしています！\n\n▼Twitter https://x.com/marcie_nocturne\n\n▼Instagram https://www.instagram.com/marcie_nocturne/\n\n▼TikTok https://www.tiktok.com/@marcie_nocturne\n\n▼公式サイト https://sites.google.com/view/yanagisawa-takayuki/\n\n▼YouTubeチャンネル https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\n\n🎙️ ストリーミングを始めたばかりですか、それともレベルアップを目指していますか？StreamYardをチェックして、$10の割引をゲット！😍 https://streamyard.com/pal/d/6288782636679168",
+          "publishedAt": "2025-12-02T13:54:10Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fW7CCk41GBI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fW7CCk41GBI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fW7CCk41GBI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fW7CCk41GBI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fW7CCk41GBI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-03T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "NAUmV8ipA8k",
@@ -848,7 +888,7 @@
               "height": 720
             }
           },
-          "viewCount": 364
+          "viewCount": 392
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -913,7 +953,7 @@
               "height": 480
             }
           },
-          "viewCount": 16472,
+          "viewCount": 16534,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -949,7 +989,7 @@
               "height": 480
             }
           },
-          "viewCount": 1904
+          "viewCount": 1919
         },
         {
           "videoId": "CE96yy1rkto",
@@ -1201,7 +1241,7 @@
               "height": 720
             }
           },
-          "viewCount": 11478
+          "viewCount": 11488
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1287,7 +1327,7 @@
               "height": 720
             }
           },
-          "viewCount": 11076,
+          "viewCount": 11083,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1419,7 +1459,7 @@
               "height": 360
             }
           },
-          "viewCount": 3757,
+          "viewCount": 3799,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:05:00Z",
@@ -1450,7 +1490,7 @@
               "height": 360
             }
           },
-          "viewCount": 1093,
+          "viewCount": 1106,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:00:00Z",
@@ -1522,7 +1562,7 @@
               "height": 360
             }
           },
-          "viewCount": 585,
+          "viewCount": 586,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-26T03:35:00Z",
@@ -1789,7 +1829,7 @@
               "height": 720
             }
           },
-          "viewCount": 567
+          "viewCount": 635
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1824,7 +1864,7 @@
               "height": 720
             }
           },
-          "viewCount": 8578,
+          "viewCount": 8621,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
