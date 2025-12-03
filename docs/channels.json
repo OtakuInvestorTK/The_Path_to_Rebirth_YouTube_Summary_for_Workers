@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-03T14:15:59.936Z",
+  "requestedAt": "2025-12-03T15:17:09.224Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 25268,
+          "viewCount": 25505,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 34431,
+          "viewCount": 34486,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 9314,
+          "viewCount": 9379,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -257,7 +257,7 @@
               "height": 720
             }
           },
-          "viewCount": 236,
+          "viewCount": 261,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T09:00:00Z",
@@ -605,7 +605,7 @@
               "height": 720
             }
           },
-          "viewCount": 2540,
+          "viewCount": 2548,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -779,7 +779,8 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "fW7CCk41GBI",
           "title": "出張先から雑談配信in秋田",
@@ -806,23 +807,16 @@
               "url": "https://i.ytimg.com/vi/fW7CCk41GBI/sddefault_live.jpg",
               "width": 640,
               "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fW7CCk41GBI/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
             }
           },
-          "viewCount": 574,
+          "viewCount": 652,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
             "actualStartTime": "2025-12-03T13:01:33Z",
-            "concurrentViewers": 167
+            "actualEndTime": "2025-12-03T14:20:55Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "BYkM-YJk5Ks",
           "title": "【税金6倍】実家を放置すると届く「警告書」の正体 #shorts",
@@ -856,7 +850,7 @@
               "height": 720
             }
           },
-          "viewCount": 1109
+          "viewCount": 1209
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -891,7 +885,7 @@
               "height": 720
             }
           },
-          "viewCount": 1311
+          "viewCount": 1313
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -956,7 +950,7 @@
               "height": 480
             }
           },
-          "viewCount": 17102,
+          "viewCount": 17117,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -992,7 +986,7 @@
               "height": 480
             }
           },
-          "viewCount": 2094
+          "viewCount": 2097
         },
         {
           "videoId": "CE96yy1rkto",
@@ -1057,7 +1051,7 @@
               "height": 480
             }
           },
-          "viewCount": 3225,
+          "viewCount": 3229,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
@@ -1295,7 +1289,7 @@
               "height": 720
             }
           },
-          "viewCount": 11222,
+          "viewCount": 11237,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1458,7 +1452,7 @@
               "height": 360
             }
           },
-          "viewCount": 1291,
+          "viewCount": 1292,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:00:00Z",
@@ -1725,7 +1719,7 @@
               "height": 720
             }
           },
-          "viewCount": 1575
+          "viewCount": 1594
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1760,7 +1754,7 @@
               "height": 720
             }
           },
-          "viewCount": 9294,
+          "viewCount": 9320,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
