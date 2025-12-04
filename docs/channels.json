@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-04T13:32:23.253Z",
+  "requestedAt": "2025-12-04T14:16:10.827Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 26828,
+          "viewCount": 26903,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 34834,
+          "viewCount": 34860,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 9887,
+          "viewCount": 9912,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -257,7 +257,7 @@
               "height": 720
             }
           },
-          "viewCount": 551,
+          "viewCount": 570,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T09:00:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 4473
+          "viewCount": 4471
         },
         {
           "videoId": "nbk7SLCHcA4",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 4424
+          "viewCount": 4431
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -570,7 +570,7 @@
               "height": 720
             }
           },
-          "viewCount": 2627,
+          "viewCount": 2630,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -687,7 +687,7 @@
               "height": 720
             }
           },
-          "viewCount": 1210,
+          "viewCount": 1209,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T07:00:00Z",
@@ -779,7 +779,7 @@
               "height": 720
             }
           },
-          "viewCount": 334
+          "viewCount": 359
         },
         {
           "videoId": "fW7CCk41GBI",
@@ -809,7 +809,7 @@
               "height": 480
             }
           },
-          "viewCount": 2399,
+          "viewCount": 2442,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 1779
+          "viewCount": 1785
         },
         {
           "videoId": "oLuJCDx9Fnk",
@@ -950,7 +950,7 @@
               "height": 480
             }
           },
-          "viewCount": 17429,
+          "viewCount": 17438,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -1021,7 +1021,7 @@
               "height": 720
             }
           },
-          "viewCount": 1201
+          "viewCount": 1205
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1182,7 +1182,7 @@
               "height": 720
             }
           },
-          "viewCount": 11439,
+          "viewCount": 11485,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1323,12 +1323,12 @@
               "height": 720
             }
           },
-          "viewCount": 351,
+          "viewCount": 1034,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2025-11-15T00:56:30Z",
             "actualStartTime": "2025-12-04T13:12:36Z",
-            "concurrentViewers": 251
+            "concurrentViewers": 444
           }
         }
       ],
@@ -1654,7 +1654,7 @@
               "height": 720
             }
           },
-          "viewCount": 1740
+          "viewCount": 1783
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1689,7 +1689,7 @@
               "height": 720
             }
           },
-          "viewCount": 9746,
+          "viewCount": 9749,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
