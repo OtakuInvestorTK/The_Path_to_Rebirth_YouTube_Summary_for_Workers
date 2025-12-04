@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-04T07:16:33.865Z",
+  "requestedAt": "2025-12-04T08:21:54.163Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 26480,
+          "viewCount": 26519,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 9709,
+          "viewCount": 9728,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -257,7 +257,7 @@
               "height": 720
             }
           },
-          "viewCount": 499,
+          "viewCount": 510,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T09:00:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 4409
+          "viewCount": 4412
         },
         {
           "videoId": "nbk7SLCHcA4",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 4415
+          "viewCount": 4414
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -570,7 +570,7 @@
               "height": 720
             }
           },
-          "viewCount": 2603,
+          "viewCount": 2615,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -774,7 +774,7 @@
               "height": 480
             }
           },
-          "viewCount": 2039,
+          "viewCount": 2100,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
@@ -815,7 +815,7 @@
               "height": 720
             }
           },
-          "viewCount": 1448
+          "viewCount": 1450
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -850,7 +850,7 @@
               "height": 720
             }
           },
-          "viewCount": 1348
+          "viewCount": 1351
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -915,7 +915,7 @@
               "height": 480
             }
           },
-          "viewCount": 17301,
+          "viewCount": 17354,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -1016,7 +1016,7 @@
               "height": 480
             }
           },
-          "viewCount": 3239,
+          "viewCount": 3244,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-27T12:00:00Z",
@@ -1194,7 +1194,47 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "CUD_BSJq87k",
+          "title": "【12月5日12:00配信】天野こころのこころトーク#17",
+          "description": "活動報告。\n中央区イベント情報。\n最近思うこと。",
+          "publishedAt": "2025-12-04T07:32:43Z",
+          "channelTitle": "天野こころ【再生の道】中央区",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-05T03:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "天野こころ,あまのこころ"
     },
@@ -1386,7 +1426,7 @@
               "height": 360
             }
           },
-          "viewCount": 4809,
+          "viewCount": 4819,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:05:00Z",
@@ -1417,7 +1457,7 @@
               "height": 360
             }
           },
-          "viewCount": 1361,
+          "viewCount": 1356,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:00:00Z",
@@ -1684,7 +1724,7 @@
               "height": 720
             }
           },
-          "viewCount": 1685
+          "viewCount": 1716
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1719,7 +1759,7 @@
               "height": 720
             }
           },
-          "viewCount": 9607,
+          "viewCount": 9613,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
