@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-05T01:10:50.753Z",
+  "requestedAt": "2025-12-05T03:14:15.677Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 27176,
+          "viewCount": 27240,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 34969,
+          "viewCount": 34991,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 10042,
+          "viewCount": 10071,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -257,7 +257,7 @@
               "height": 720
             }
           },
-          "viewCount": 643,
+          "viewCount": 647,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T09:00:00Z",
@@ -317,6 +317,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "EvNXKqOPiYE",
+          "title": "餃子無料券発動！",
+          "description": "",
+          "publishedAt": "2025-12-05T02:46:23Z",
+          "channelTitle": "木島やすお　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EvNXKqOPiYE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EvNXKqOPiYE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EvNXKqOPiYE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EvNXKqOPiYE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EvNXKqOPiYE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 345
+        },
+        {
           "videoId": "g3rNhW5VR50",
           "title": "大阪王将の餃子無料券 #木島 #大阪王将 #餃子無料券",
           "description": "",
@@ -349,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 4520
+          "viewCount": 4527
         },
         {
           "videoId": "nbk7SLCHcA4",
@@ -384,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 4447
+          "viewCount": 4448
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -570,7 +605,7 @@
               "height": 720
             }
           },
-          "viewCount": 2671,
+          "viewCount": 2672,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -779,7 +814,7 @@
               "height": 720
             }
           },
-          "viewCount": 779
+          "viewCount": 856
         },
         {
           "videoId": "fW7CCk41GBI",
@@ -809,7 +844,7 @@
               "height": 480
             }
           },
-          "viewCount": 2703,
+          "viewCount": 2744,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
@@ -850,7 +885,7 @@
               "height": 720
             }
           },
-          "viewCount": 1529
+          "viewCount": 1543
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -885,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 1385
+          "viewCount": 1388
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -950,7 +985,7 @@
               "height": 480
             }
           },
-          "viewCount": 17477,
+          "viewCount": 17490,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -986,7 +1021,7 @@
               "height": 480
             }
           },
-          "viewCount": 2221
+          "viewCount": 2222
         },
         {
           "videoId": "CE96yy1rkto",
@@ -1156,10 +1191,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 174,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-12-05T03:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2025-12-05T03:00:00Z",
+            "actualStartTime": "2025-12-05T02:58:38Z",
+            "concurrentViewers": 113
           }
         }
       ],
@@ -1222,7 +1259,7 @@
               "height": 720
             }
           },
-          "viewCount": 11571,
+          "viewCount": 11582,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1364,7 +1401,7 @@
               "height": 720
             }
           },
-          "viewCount": 2894,
+          "viewCount": 3117,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T00:56:30Z",
@@ -1426,7 +1463,7 @@
               "height": 360
             }
           },
-          "viewCount": 1400,
+          "viewCount": 1401,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:00:00Z",
@@ -1693,7 +1730,7 @@
               "height": 720
             }
           },
-          "viewCount": 1817
+          "viewCount": 1829
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1728,7 +1765,7 @@
               "height": 720
             }
           },
-          "viewCount": 9886,
+          "viewCount": 9920,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
