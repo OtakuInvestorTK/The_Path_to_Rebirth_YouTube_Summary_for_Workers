@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-04T23:14:04.728Z",
+  "requestedAt": "2025-12-05T01:10:50.753Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 27116,
+          "viewCount": 27176,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 34954,
+          "viewCount": 34969,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 10026,
+          "viewCount": 10042,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -257,7 +257,7 @@
               "height": 720
             }
           },
-          "viewCount": 640,
+          "viewCount": 643,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T09:00:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 4514
+          "viewCount": 4520
         },
         {
           "videoId": "nbk7SLCHcA4",
@@ -570,7 +570,7 @@
               "height": 720
             }
           },
-          "viewCount": 2670,
+          "viewCount": 2671,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -779,7 +779,7 @@
               "height": 720
             }
           },
-          "viewCount": 670
+          "viewCount": 779
         },
         {
           "videoId": "fW7CCk41GBI",
@@ -809,7 +809,7 @@
               "height": 480
             }
           },
-          "viewCount": 2658,
+          "viewCount": 2703,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
@@ -850,7 +850,7 @@
               "height": 720
             }
           },
-          "viewCount": 1512
+          "viewCount": 1529
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -885,7 +885,7 @@
               "height": 720
             }
           },
-          "viewCount": 1381
+          "viewCount": 1385
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 1792
+          "viewCount": 1794
         },
         {
           "videoId": "oLuJCDx9Fnk",
@@ -950,7 +950,7 @@
               "height": 480
             }
           },
-          "viewCount": 17471,
+          "viewCount": 17477,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -986,7 +986,7 @@
               "height": 480
             }
           },
-          "viewCount": 2217
+          "viewCount": 2221
         },
         {
           "videoId": "CE96yy1rkto",
@@ -1122,7 +1122,47 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "CUD_BSJq87k",
+          "title": "【12月5日12:00配信】天野こころのこころトーク#17",
+          "description": "活動報告。\n中央区イベント情報。\n最近思うこと。",
+          "publishedAt": "2025-12-04T07:32:43Z",
+          "channelTitle": "天野こころ【再生の道】中央区",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-05T03:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "天野こころ,あまのこころ"
     },
@@ -1182,7 +1222,7 @@
               "height": 720
             }
           },
-          "viewCount": 11556,
+          "viewCount": 11571,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-28T23:00:00Z",
@@ -1324,7 +1364,7 @@
               "height": 720
             }
           },
-          "viewCount": 2652,
+          "viewCount": 2894,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T00:56:30Z",
@@ -1355,7 +1395,7 @@
               "height": 360
             }
           },
-          "viewCount": 4954,
+          "viewCount": 4962,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:05:00Z",
@@ -1386,7 +1426,7 @@
               "height": 360
             }
           },
-          "viewCount": 1399,
+          "viewCount": 1400,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:00:00Z",
@@ -1653,7 +1693,7 @@
               "height": 720
             }
           },
-          "viewCount": 1812
+          "viewCount": 1817
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1688,7 +1728,7 @@
               "height": 720
             }
           },
-          "viewCount": 9861,
+          "viewCount": 9886,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
