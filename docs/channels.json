@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-06T14:12:32.704Z",
+  "requestedAt": "2025-12-06T15:13:04.179Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 28023,
+          "viewCount": 28029,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 35292,
+          "viewCount": 35301,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 10271,
+          "viewCount": 10293,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 3719
+          "viewCount": 3934
         },
         {
           "videoId": "EvNXKqOPiYE",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 2768
+          "viewCount": 2796
         },
         {
           "videoId": "g3rNhW5VR50",
@@ -495,7 +495,37 @@
         }
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "6X8rPPoDtN0",
+          "title": "meetup 20251207",
+          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
+          "publishedAt": "2025-12-06T15:04:39Z",
+          "channelTitle": "弘田としやすCh",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6X8rPPoDtN0/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6X8rPPoDtN0/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6X8rPPoDtN0/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-07T13:30:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "弘田敏康,弘田としやす,ひろた敏康,ひろたとしやす"
     },
@@ -772,7 +802,7 @@
               "height": 720
             }
           },
-          "viewCount": 852
+          "viewCount": 851
         },
         {
           "videoId": "vH_bFJ_uTlw",
@@ -807,7 +837,7 @@
               "height": 720
             }
           },
-          "viewCount": 1608
+          "viewCount": 1613
         },
         {
           "videoId": "fW7CCk41GBI",
@@ -837,7 +867,7 @@
               "height": 480
             }
           },
-          "viewCount": 2955,
+          "viewCount": 2956,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
@@ -878,7 +908,7 @@
               "height": 720
             }
           },
-          "viewCount": 1638
+          "viewCount": 1639
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -913,7 +943,7 @@
               "height": 720
             }
           },
-          "viewCount": 1509
+          "viewCount": 1510
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -948,7 +978,7 @@
               "height": 720
             }
           },
-          "viewCount": 1826
+          "viewCount": 1832
         },
         {
           "videoId": "oLuJCDx9Fnk",
@@ -1150,7 +1180,7 @@
               "height": 720
             }
           },
-          "viewCount": 2700,
+          "viewCount": 2722,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T03:00:00Z",
@@ -1307,7 +1337,7 @@
               "height": 360
             }
           },
-          "viewCount": 2467,
+          "viewCount": 2491,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T12:20:00Z",
@@ -1348,7 +1378,7 @@
               "height": 720
             }
           },
-          "viewCount": 3888,
+          "viewCount": 3908,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T00:56:30Z",
@@ -1379,7 +1409,7 @@
               "height": 360
             }
           },
-          "viewCount": 5024,
+          "viewCount": 5025,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:05:00Z",
@@ -1577,7 +1607,7 @@
               "height": 720
             }
           },
-          "viewCount": 2785
+          "viewCount": 2821
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -1713,7 +1743,7 @@
               "height": 720
             }
           },
-          "viewCount": 1927
+          "viewCount": 1932
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1748,7 +1778,7 @@
               "height": 720
             }
           },
-          "viewCount": 10109,
+          "viewCount": 10119,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
