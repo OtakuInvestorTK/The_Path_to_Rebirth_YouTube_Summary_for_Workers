@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-06T04:16:47.214Z",
+  "requestedAt": "2025-12-06T05:13:57.139Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 27825,
+          "viewCount": 27835,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 35214,
+          "viewCount": 35218,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 10229,
+          "viewCount": 10231,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 339
+          "viewCount": 516
         },
         {
           "videoId": "EvNXKqOPiYE",
@@ -420,41 +420,6 @@
             }
           },
           "viewCount": 4637
-        },
-        {
-          "videoId": "nbk7SLCHcA4",
-          "title": "土曜日に、仕事でここまで来ました。",
-          "description": "",
-          "publishedAt": "2025-11-29T04:56:30Z",
-          "channelTitle": "木島やすお　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/nbk7SLCHcA4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/nbk7SLCHcA4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/nbk7SLCHcA4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/nbk7SLCHcA4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/nbk7SLCHcA4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4515
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -807,7 +772,7 @@
               "height": 720
             }
           },
-          "viewCount": 467
+          "viewCount": 552
         },
         {
           "videoId": "vH_bFJ_uTlw",
@@ -913,7 +878,7 @@
               "height": 720
             }
           },
-          "viewCount": 1614
+          "viewCount": 1620
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -948,7 +913,7 @@
               "height": 720
             }
           },
-          "viewCount": 1486
+          "viewCount": 1496
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -1185,7 +1150,7 @@
               "height": 720
             }
           },
-          "viewCount": 2545,
+          "viewCount": 2554,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T03:00:00Z",
@@ -1342,7 +1307,7 @@
               "height": 360
             }
           },
-          "viewCount": 2159,
+          "viewCount": 2184,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T12:20:00Z",
@@ -1383,7 +1348,7 @@
               "height": 720
             }
           },
-          "viewCount": 3841,
+          "viewCount": 3848,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-15T00:56:30Z",
@@ -1612,7 +1577,7 @@
               "height": 720
             }
           },
-          "viewCount": 2051
+          "viewCount": 2141
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -1783,7 +1748,7 @@
               "height": 720
             }
           },
-          "viewCount": 10084,
+          "viewCount": 10090,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
