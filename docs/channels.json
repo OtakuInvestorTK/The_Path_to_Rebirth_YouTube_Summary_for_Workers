@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-06T13:22:15.631Z",
+  "requestedAt": "2025-12-06T14:12:32.704Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 27999,
+          "viewCount": 28023,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 10280,
+          "viewCount": 10271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 3432
+          "viewCount": 3719
         },
         {
           "videoId": "EvNXKqOPiYE",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 2747
+          "viewCount": 2768
         },
         {
           "videoId": "g3rNhW5VR50",
@@ -605,7 +605,7 @@
               "height": 720
             }
           },
-          "viewCount": 2715,
+          "viewCount": 2716,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -807,7 +807,7 @@
               "height": 720
             }
           },
-          "viewCount": 1590
+          "viewCount": 1608
         },
         {
           "videoId": "fW7CCk41GBI",
@@ -837,7 +837,7 @@
               "height": 480
             }
           },
-          "viewCount": 2954,
+          "viewCount": 2955,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
@@ -878,7 +878,7 @@
               "height": 720
             }
           },
-          "viewCount": 1637
+          "viewCount": 1638
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -913,7 +913,7 @@
               "height": 720
             }
           },
-          "viewCount": 1507
+          "viewCount": 1509
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -978,7 +978,7 @@
               "height": 480
             }
           },
-          "viewCount": 17693,
+          "viewCount": 17701,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T12:00:00Z",
@@ -1150,7 +1150,7 @@
               "height": 720
             }
           },
-          "viewCount": 2707,
+          "viewCount": 2700,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T03:00:00Z",
@@ -1307,7 +1307,7 @@
               "height": 360
             }
           },
-          "viewCount": 2444,
+          "viewCount": 2467,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T12:20:00Z",
@@ -1577,7 +1577,7 @@
               "height": 720
             }
           },
-          "viewCount": 2693
+          "viewCount": 2785
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
