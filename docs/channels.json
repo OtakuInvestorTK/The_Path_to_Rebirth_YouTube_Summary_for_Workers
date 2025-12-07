@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-07T14:12:58.919Z",
+  "requestedAt": "2025-12-07T15:12:38.890Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 28382,
+          "viewCount": 28404,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 35458,
+          "viewCount": 35470,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -257,7 +257,7 @@
               "height": 720
             }
           },
-          "viewCount": 854,
+          "viewCount": 856,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T09:00:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 4756
+          "viewCount": 4773
         },
         {
           "videoId": "EvNXKqOPiYE",
@@ -495,7 +495,8 @@
         }
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "6X8rPPoDtN0",
           "title": "meetup 20251207",
@@ -519,16 +520,15 @@
               "height": 360
             }
           },
-          "viewCount": 319,
+          "viewCount": 426,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-07T13:30:00Z",
             "actualStartTime": "2025-12-07T13:30:29Z",
-            "concurrentViewers": 85
+            "actualEndTime": "2025-12-07T14:36:02Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "弘田敏康,弘田としやす,ひろた敏康,ひろたとしやす"
     },
     {
@@ -637,7 +637,7 @@
               "height": 720
             }
           },
-          "viewCount": 2733,
+          "viewCount": 2734,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -704,7 +704,7 @@
               "height": 720
             }
           },
-          "viewCount": 1503
+          "viewCount": 1585
         },
         {
           "videoId": "jk7UVprXMsI",
@@ -734,7 +734,7 @@
               "height": 480
             }
           },
-          "viewCount": 5281
+          "viewCount": 5399
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -970,7 +970,7 @@
               "height": 480
             }
           },
-          "viewCount": 3051,
+          "viewCount": 3052,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
@@ -1011,7 +1011,7 @@
               "height": 720
             }
           },
-          "viewCount": 1682
+          "viewCount": 1687
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -1081,7 +1081,7 @@
               "height": 720
             }
           },
-          "viewCount": 1847
+          "viewCount": 1850
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1217,7 +1217,7 @@
               "height": 720
             }
           },
-          "viewCount": 2800,
+          "viewCount": 2801,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T03:00:00Z",
@@ -1374,7 +1374,7 @@
               "height": 360
             }
           },
-          "viewCount": 2704,
+          "viewCount": 2711,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T12:20:00Z",
@@ -1446,7 +1446,7 @@
               "height": 360
             }
           },
-          "viewCount": 5040,
+          "viewCount": 5041,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T11:05:00Z",
@@ -1644,7 +1644,7 @@
               "height": 720
             }
           },
-          "viewCount": 3352
+          "viewCount": 3365
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -1780,7 +1780,7 @@
               "height": 720
             }
           },
-          "viewCount": 1965
+          "viewCount": 1975
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1815,7 +1815,7 @@
               "height": 720
             }
           },
-          "viewCount": 10166,
+          "viewCount": 10164,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
