@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-06T23:13:16.647Z",
+  "requestedAt": "2025-12-07T01:17:35.308Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 28096,
+          "viewCount": 28116,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 35336,
+          "viewCount": 35366,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 10317,
+          "viewCount": 10318,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:05:00Z",
@@ -257,7 +257,7 @@
               "height": 720
             }
           },
-          "viewCount": 829,
+          "viewCount": 830,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T09:00:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 4351
+          "viewCount": 4450
         },
         {
           "videoId": "EvNXKqOPiYE",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 2865
+          "viewCount": 2901
         },
         {
           "videoId": "g3rNhW5VR50",
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 4693
+          "viewCount": 4699
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -635,7 +635,7 @@
               "height": 720
             }
           },
-          "viewCount": 2728,
+          "viewCount": 2729,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-11-30T09:01:55Z",
@@ -668,7 +668,73 @@
       },
       "channelId": "UCQ7TWZuas7xoJApDQYcPPwg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "TQnoDB7Z_BI",
+          "title": "政治団体「再生の道」たきぐち昭彦の街宣活動！",
+          "description": "石丸伸二が立ち上げた政治団体「再生の道」のたきぐち昭彦が政治活動を再開！町田駅での街宣活動の様子です。",
+          "publishedAt": "2025-12-07T00:21:59Z",
+          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TQnoDB7Z_BI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TQnoDB7Z_BI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TQnoDB7Z_BI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TQnoDB7Z_BI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TQnoDB7Z_BI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 64
+        },
+        {
+          "videoId": "jk7UVprXMsI",
+          "title": "政治団体「再生の道」のたきぐち昭彦が政治活動再開を宣言！",
+          "description": "石丸伸二が立ち上げた「再生の道」のたきぐち昭彦（町田担当）が政治活動を再開！その思いを語りました！",
+          "publishedAt": "2025-12-07T00:11:40Z",
+          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jk7UVprXMsI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jk7UVprXMsI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jk7UVprXMsI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jk7UVprXMsI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 151
+        }
+      ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
     },
     {
@@ -802,7 +868,7 @@
               "height": 720
             }
           },
-          "viewCount": 1030
+          "viewCount": 1034
         },
         {
           "videoId": "vH_bFJ_uTlw",
@@ -867,7 +933,7 @@
               "height": 480
             }
           },
-          "viewCount": 2995,
+          "viewCount": 2999,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
@@ -908,7 +974,7 @@
               "height": 720
             }
           },
-          "viewCount": 1656
+          "viewCount": 1661
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -943,7 +1009,7 @@
               "height": 720
             }
           },
-          "viewCount": 1523
+          "viewCount": 1522
         },
         {
           "videoId": "56GHtEUzrDs",
@@ -1180,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 2749,
+          "viewCount": 2756,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T03:00:00Z",
@@ -1337,7 +1403,7 @@
               "height": 360
             }
           },
-          "viewCount": 2576,
+          "viewCount": 2585,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T12:20:00Z",
@@ -1607,7 +1673,7 @@
               "height": 720
             }
           },
-          "viewCount": 2956
+          "viewCount": 3020
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -1743,7 +1809,7 @@
               "height": 720
             }
           },
-          "viewCount": 1944
+          "viewCount": 1946
         },
         {
           "videoId": "p7P7LlMaR7A",
@@ -1778,7 +1844,7 @@
               "height": 720
             }
           },
-          "viewCount": 10130,
+          "viewCount": 10132,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T03:00:00Z",
