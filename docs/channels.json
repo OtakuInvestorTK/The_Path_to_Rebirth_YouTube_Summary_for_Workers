@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-08T13:31:06.500Z",
+  "requestedAt": "2025-12-08T14:16:32.281Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7422,
+          "viewCount": 8937,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 28604,
+          "viewCount": 28618,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-02T12:00:00Z",
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 4901
+          "viewCount": 4915
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -520,7 +520,7 @@
               "height": 360
             }
           },
-          "viewCount": 1564,
+          "viewCount": 1589,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-07T13:30:00Z",
@@ -662,7 +662,7 @@
               "height": 720
             }
           },
-          "viewCount": 2197
+          "viewCount": 2217
         },
         {
           "videoId": "jk7UVprXMsI",
@@ -692,7 +692,7 @@
               "height": 480
             }
           },
-          "viewCount": 6914
+          "viewCount": 6982
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -828,7 +828,7 @@
               "height": 720
             }
           },
-          "viewCount": 324
+          "viewCount": 327
         },
         {
           "videoId": "K4b9HvhcIZI",
@@ -898,7 +898,7 @@
               "height": 720
             }
           },
-          "viewCount": 1093
+          "viewCount": 1090
         },
         {
           "videoId": "vH_bFJ_uTlw",
@@ -1004,7 +1004,7 @@
               "height": 720
             }
           },
-          "viewCount": 1704
+          "viewCount": 1708
         },
         {
           "videoId": "NAUmV8ipA8k",
@@ -1372,7 +1372,7 @@
               "height": 360
             }
           },
-          "viewCount": 2798,
+          "viewCount": 2809,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T12:20:00Z",
@@ -1580,7 +1580,7 @@
               "height": 720
             }
           },
-          "viewCount": 3475
+          "viewCount": 3489
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -1742,7 +1742,8 @@
         }
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "1sl1XBShSLw",
           "title": "西岡事務局長ダメ出し10連発【加藤てつお】再生の道",
@@ -1776,15 +1777,14 @@
               "height": 720
             }
           },
-          "viewCount": 884,
+          "viewCount": 1766,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
-            "actualStartTime": "2025-12-08T13:15:06Z"
+            "actualStartTime": "2025-12-08T13:15:06Z",
+            "actualEndTime": "2025-12-08T13:49:01Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "71HwJcwvbVU",
           "title": "今晩 プレミア配信決定！　2025年12月8日 22時15分から（変更の可能性あり）",
@@ -1818,7 +1818,7 @@
               "height": 720
             }
           },
-          "viewCount": 3285
+          "viewCount": 4084
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
