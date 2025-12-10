@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-10T08:21:33.853Z",
+  "requestedAt": "2025-12-10T09:18:45.768Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 36194,
+          "viewCount": 36309,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 6622,
+          "viewCount": 6659,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T12:00:00Z",
@@ -181,12 +181,13 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "v_yzDc9zayM",
           "title": "[ 朗読 ] サンタクロースはいるんだ　1897年 ニューヨーク・サン紙社説より   #朗読,#睡眠導入,#精神安定",
           "description": "朗読 第２５段（毎週水曜日新作追加）\nメリークリスマス！\n\nこの朗読動画は、1897年 ニューヨーク・サン紙社説を、Google Gemini, Junya により現代の言葉遣いに翻訳して朗読したものです。\n\n底本：The New York Sun (1897) \"Yes, Virginia, There is a Santa Claus\"\nイラスト：Jemini\n翻訳：Jemini\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指す63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-12-09T09:13:40Z",
+          "publishedAt": "2025-12-10T09:00:06Z",
           "channelTitle": "水野 純也 @再生の道",
           "thumbnails": {
             "default": {
@@ -217,51 +218,10 @@
           },
           "viewCount": 2,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-12-10T09:00:00Z"
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "NWKPaPg73rA",
-          "title": "[ 朗読 ] サンタクロースがやってきた　原作：ヘンリ・リヴィングストン・ジュニア   #朗読,#睡眠導入,#精神安定",
-          "description": "朗読 第２４段（毎週水曜日新作追加）\nメリークリスマス！\n原作オリジナルイラスト絵本\n\nこの朗読動画は、ヘンリ・リヴィングストン・ジュニア作の『サンタクロースがやってきた』を、Google Gemini, Junya により現代の言葉遣いに翻訳して朗読したものです。\n\n原作：オー・ヘンリー\n翻訳：Jemini\n底本：「A Visit from St. Nicholas」\nBGM：https://audiostock.jp\n\n\n東京都在住、再生の道から国政を目指す63歳、4人家族。\n孫はいないのでパパでいきます。\n\nX   https://x.com/HAL_MIZ9",
-          "publishedAt": "2025-12-03T09:00:28Z",
-          "channelTitle": "水野 純也 @再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NWKPaPg73rA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NWKPaPg73rA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NWKPaPg73rA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/NWKPaPg73rA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/NWKPaPg73rA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 926,
-          "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2025-12-03T09:00:00Z",
-            "actualStartTime": "2025-12-03T09:00:28Z",
-            "actualEndTime": "2025-12-03T09:08:11Z"
+            "scheduledStartTime": "2025-12-10T09:00:00Z",
+            "actualStartTime": "2025-12-10T09:00:06Z",
+            "actualEndTime": "2025-12-10T09:08:16Z"
           }
         }
       ],
@@ -348,7 +308,7 @@
               "height": 720
             }
           },
-          "viewCount": 673
+          "viewCount": 710
         },
         {
           "videoId": "0pMdMP2atiE",
@@ -418,7 +378,7 @@
               "height": 720
             }
           },
-          "viewCount": 3201
+          "viewCount": 3207
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -661,7 +621,7 @@
               "height": 720
             }
           },
-          "viewCount": 2545
+          "viewCount": 2551
         },
         {
           "videoId": "jk7UVprXMsI",
@@ -691,7 +651,7 @@
               "height": 480
             }
           },
-          "viewCount": 7797
+          "viewCount": 7808
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -795,6 +755,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "4pfV6WzgGdA",
+          "title": "【衝撃】買い物難民の50%は都会に住んでいる！？「陸の孤島」化するニュータウンの末路",
+          "description": "「買い物難民」と聞いて、過疎地の話だと思っていませんか？\n実はその約半数は、東京や大阪など「三大都市圏」に住んでいるんです。\nかつて「夢の場所」だったニュータウンが、今なぜ「陸の孤島」へと変貌しているのか？\n都会のド真ん中で進行する、静かで残酷な孤立の真実をお伝えします。\n\n▼目次（タイムスタンプ）\n00:00 都会で食べ物が買えない？すぐ隣にある危機\n00:17 衝撃の真実！買い物難民の50%は「都会」にいる\n00:42 老いていく街...「ニュータウン」の誤算\n00:56 都会の真ん中にある「陸の孤島」\n01:03 免許返納、店舗撤退、バス廃止のドミノ倒し\n01:21 田舎より酷い？都会特有の「孤独」\n01:38 親や将来のあなた自身に降りかかる問題\n\n---\n\n▼この動画について\n今回はNotebookLMを活用し、「都市型買い物難民」の問題を深掘りしました。\n急な坂道、遠のくスーパー、そして消えるバス。\n便利さを追い求めた結果生まれた都市の「構造的な欠陥」について考えます。\n\nあなたの街の状況はどうですか？ぜひコメント欄で教えてください。\n\n▼関連ハッシュタグ\n#買い物難民 #ニュータウン #陸の孤島 #高齢化社会 #免許返納 #都市問題 #公共交通 #NotebookLM #オールドニュータウン #限界集落\n\n---\n\n▼やなぎさわ誉之(たかゆき) 公式情報\n\n🔔 YouTubeチャンネル登録はこちら\n[やなぎさわ誉之(たかゆき)【道は続くよどこまでも】](https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM)\n\n🌐 公式サイト\n[道は続くよどこまでも](https://sites.google.com/view/yanagisawa-takayuki/)\n\n🐦 Twitter (X)\n[最新情報や取材の裏側を発信中](https://x.com/marcie_nocturne)\n\n📷 Instagram\n[日常の風景と活動記録](https://www.instagram.com/marcie_nocturne/)\n\n🎵 TikTok\n[ショート動画で社会問題をサクッと解説](https://www.tiktok.com/@marcie_nocturne)",
+          "publishedAt": "2025-12-10T09:00:08Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4pfV6WzgGdA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4pfV6WzgGdA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4pfV6WzgGdA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4pfV6WzgGdA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4pfV6WzgGdA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 3
+        },
+        {
           "videoId": "LUfToe8cXPw",
           "title": "【石丸伸二×チイキズカン】ReHacQで語られた「地方の外貨獲得」の本当の意味とは？高岡のホテルから本音解説",
           "description": "今回は富山県高岡市の出張先から急遽生配信！\n新幹線での移動中に見た「ReHacQ（石丸伸二氏×地域図鑑・坂本氏）」の対談動画に触発され、ホテルから熱く語ります。\n「地方創生」という言葉が使われなくなるこれからの時代、地域企業が生き残るための「外貨獲得」の真定義と、辞めた社員や地元を離れた人を戦力に変える「アルムナイ」の可能性について深掘りします。\n\n【動画の目次】\n00:00 オープニング・高岡のホテルからお届け\n06:28 ReHacQ（石丸伸二氏×地域図鑑）を見てスイッチが入った話\n15:20 地方における「外貨獲得」の本当の意味（ドルや元ではない！）\n24:50 地域特有の壁を壊す「よそ者」と「100億企業」の必要性\n28:50 コメント返し・視聴者との対話\n47:00 人材流動化時代の切り札「アルムナイ（Alumni）」とは？\n50:44 隠岐の島町の「関係人口カード」と地方との関わり方\n58:26 AIが即席で作った「アルムナイ解説資料」公開\n01:03:40 エンディング・次回の予告\n\n【動画のポイント】\n * 「外貨」の再定義: 多くの人が誤解している「外貨」について、柳沢流に解説。「自社の商圏の外から得る全ての収益」こそが、地方経済を救う鍵です。\n * アルムナイ（卒業生）ネットワーク: 「辞めたら裏切り者」はもう古い。退職者や地元を離れた若者を「貴重な人的資源」として捉え直す、これからの採用・組織戦略について語ります。\n * 高岡出張の裏話: 実は胃腸の調子が悪かった？コンビニの焼きうどんと明日の朝食パン（チョコパン）論争など、リラックスした雑談も。\n\n地方創生やビジネスのヒントを探している方、ReHacQの動画を見て「実際どうなの？」と思った方はぜひ最後までご覧ください！\nもし共感していただけたら、ぜひチャンネル登録・高評価・コメントをお願いします！👍\n\n【関連リンク・SNS】\n最新情報やオフショットはこちらからチェックしてください！\n\n■ 公式サイト\n道は続くよどこまでも\nhttps://sites.google.com/view/yanagisawa-takayuki/\n\n■ YouTubeチャンネル\nやなぎさわ誉之(たかゆき)【道は続くよどこまでも】\nhttps://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\n\n■ X (旧Twitter)\nリアルタイムなつぶやきはこちら！\nhttps://x.com/marcie_nocturne\n\n■ Instagram\n旅の風景や日常の写真をアップしています\nhttps://www.instagram.com/marcie_nocturne/\n\n■ TikTok\nショート動画でサクッと楽しめます\nhttps://www.tiktok.com/@marcie_nocturne\n\n【ハッシュタグ】\n#ReHacQ #石丸伸二 #地域図鑑 #地方創生 #外貨獲得 #アルムナイ #ビジネス #やなぎさわ誉之 #富山 #高岡",
@@ -822,7 +817,7 @@
               "height": 480
             }
           },
-          "viewCount": 1270,
+          "viewCount": 1612,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -863,7 +858,7 @@
               "height": 720
             }
           },
-          "viewCount": 1217
+          "viewCount": 1230
         },
         {
           "videoId": "YroC2IQlhB4",
@@ -898,7 +893,7 @@
               "height": 720
             }
           },
-          "viewCount": 1257
+          "viewCount": 1260
         },
         {
           "videoId": "K4b9HvhcIZI",
@@ -933,7 +928,7 @@
               "height": 720
             }
           },
-          "viewCount": 863
+          "viewCount": 864
         },
         {
           "videoId": "ozbCOGlLRwo",
@@ -968,7 +963,7 @@
               "height": 720
             }
           },
-          "viewCount": 970
+          "viewCount": 971
         },
         {
           "videoId": "vH_bFJ_uTlw",
@@ -1210,7 +1205,7 @@
               "height": 720
             }
           },
-          "viewCount": 2451,
+          "viewCount": 2462,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:00:00Z",
@@ -1251,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 2895,
+          "viewCount": 2900,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T03:00:00Z",
@@ -1408,7 +1403,7 @@
               "height": 360
             }
           },
-          "viewCount": 2665,
+          "viewCount": 2683,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1439,7 +1434,7 @@
               "height": 360
             }
           },
-          "viewCount": 2299,
+          "viewCount": 2328,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:20:00Z",
@@ -1470,7 +1465,7 @@
               "height": 360
             }
           },
-          "viewCount": 2932,
+          "viewCount": 2936,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T12:20:00Z",
@@ -1839,7 +1834,7 @@
               "height": 720
             }
           },
-          "viewCount": 17062,
+          "viewCount": 17127,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1880,7 +1875,7 @@
               "height": 720
             }
           },
-          "viewCount": 9133
+          "viewCount": 9161
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
