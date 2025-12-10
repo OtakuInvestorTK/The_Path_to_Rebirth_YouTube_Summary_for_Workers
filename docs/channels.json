@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-10T21:15:58.134Z",
+  "requestedAt": "2025-12-10T22:15:53.258Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 37692,
+          "viewCount": 37744,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 7218,
+          "viewCount": 7238,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T12:00:00Z",
@@ -216,7 +216,7 @@
               "height": 720
             }
           },
-          "viewCount": 404,
+          "viewCount": 430,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T09:00:00Z",
@@ -308,7 +308,7 @@
               "height": 720
             }
           },
-          "viewCount": 1930
+          "viewCount": 1936
         },
         {
           "videoId": "0pMdMP2atiE",
@@ -479,7 +479,7 @@
               "height": 360
             }
           },
-          "viewCount": 1755,
+          "viewCount": 1756,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-07T13:30:00Z",
@@ -567,36 +567,36 @@
           "videoId": "fxMdK-GlHQs",
           "title": "やる気・元気・はるきチャンネル がライブ配信中！",
           "description": "",
-          "publishedAt": "2025-12-01T23:12:41Z",
+          "publishedAt": "2025-12-10T22:15:25Z",
           "channelTitle": "やる気・元気・はるきチャンネル",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 670,
+          "viewCount": 688,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T23:12:40Z",
@@ -663,7 +663,7 @@
               "height": 720
             }
           },
-          "viewCount": 2589
+          "viewCount": 2588
         },
         {
           "videoId": "jk7UVprXMsI",
@@ -829,7 +829,7 @@
               "height": 720
             }
           },
-          "viewCount": 644
+          "viewCount": 667
         },
         {
           "videoId": "LUfToe8cXPw",
@@ -859,7 +859,7 @@
               "height": 480
             }
           },
-          "viewCount": 5606,
+          "viewCount": 5663,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 1290
+          "viewCount": 1291
         },
         {
           "videoId": "K4b9HvhcIZI",
@@ -1212,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 2592,
+          "viewCount": 2593,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:00:00Z",
@@ -1253,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 2909,
+          "viewCount": 2910,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T03:00:00Z",
@@ -1385,7 +1385,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "I2-I-2RksRw",
+          "title": "【街頭演説】狛江駅12/11 7:00から",
+          "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】https://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行(出向)/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2025-12-10T20:50:32Z",
+          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/I2-I-2RksRw/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/I2-I-2RksRw/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/I2-I-2RksRw/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/I2-I-2RksRw/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/I2-I-2RksRw/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 21,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-12-10T20:50:31Z",
+            "actualStartTime": "2025-12-10T22:08:36Z",
+            "concurrentViewers": 94
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "_J0XtwJ9VUU",
@@ -1410,7 +1452,7 @@
               "height": 360
             }
           },
-          "viewCount": 2925,
+          "viewCount": 2931,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1441,7 +1483,7 @@
               "height": 360
             }
           },
-          "viewCount": 2412,
+          "viewCount": 2411,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:20:00Z",
@@ -1472,7 +1514,7 @@
               "height": 360
             }
           },
-          "viewCount": 2952,
+          "viewCount": 2951,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T12:20:00Z",
@@ -1841,7 +1883,7 @@
               "height": 720
             }
           },
-          "viewCount": 18054,
+          "viewCount": 18073,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1882,7 +1924,7 @@
               "height": 720
             }
           },
-          "viewCount": 9801
+          "viewCount": 9809
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
