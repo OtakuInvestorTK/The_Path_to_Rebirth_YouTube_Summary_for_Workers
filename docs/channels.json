@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-10T09:18:45.768Z",
+  "requestedAt": "2025-12-10T10:18:13.889Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 36309,
+          "viewCount": 36504,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 6659,
+          "viewCount": 6735,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T12:00:00Z",
@@ -216,7 +216,7 @@
               "height": 720
             }
           },
-          "viewCount": 2,
+          "viewCount": 83,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T09:00:00Z",
@@ -308,7 +308,7 @@
               "height": 720
             }
           },
-          "viewCount": 710
+          "viewCount": 810
         },
         {
           "videoId": "0pMdMP2atiE",
@@ -479,7 +479,7 @@
               "height": 360
             }
           },
-          "viewCount": 1734,
+          "viewCount": 1739,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-07T13:30:00Z",
@@ -562,7 +562,49 @@
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "fxMdK-GlHQs",
+          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
+          "description": "",
+          "publishedAt": "2025-12-01T23:12:41Z",
+          "channelTitle": "やる気・元気・はるきチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fxMdK-GlHQs/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 70,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-12-01T23:12:40Z",
+            "actualStartTime": "2025-12-10T09:52:58Z",
+            "actualEndTime": "2025-12-10T10:13:37Z"
+          }
+        }
+      ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
     },
     {
@@ -621,7 +663,7 @@
               "height": 720
             }
           },
-          "viewCount": 2551
+          "viewCount": 2540
         },
         {
           "videoId": "jk7UVprXMsI",
@@ -787,7 +829,7 @@
               "height": 720
             }
           },
-          "viewCount": 3
+          "viewCount": 179
         },
         {
           "videoId": "LUfToe8cXPw",
@@ -817,7 +859,7 @@
               "height": 480
             }
           },
-          "viewCount": 1612,
+          "viewCount": 2725,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -893,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 1260
+          "viewCount": 1262
         },
         {
           "videoId": "K4b9HvhcIZI",
@@ -963,7 +1005,7 @@
               "height": 720
             }
           },
-          "viewCount": 971
+          "viewCount": 972
         },
         {
           "videoId": "vH_bFJ_uTlw",
@@ -998,7 +1040,7 @@
               "height": 720
             }
           },
-          "viewCount": 1725
+          "viewCount": 1726
         },
         {
           "videoId": "fW7CCk41GBI",
@@ -1028,48 +1070,13 @@
               "height": 480
             }
           },
-          "viewCount": 3107,
+          "viewCount": 3108,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-03T13:00:00Z",
             "actualStartTime": "2025-12-03T13:01:33Z",
             "actualEndTime": "2025-12-03T14:20:55Z"
           }
-        },
-        {
-          "videoId": "BYkM-YJk5Ks",
-          "title": "【税金6倍】実家を放置すると届く「警告書」の正体 #shorts",
-          "description": "",
-          "publishedAt": "2025-12-03T10:00:19Z",
-          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/BYkM-YJk5Ks/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/BYkM-YJk5Ks/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/BYkM-YJk5Ks/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/BYkM-YJk5Ks/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/BYkM-YJk5Ks/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1719
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1205,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 2462,
+          "viewCount": 2483,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:00:00Z",
@@ -1403,7 +1410,7 @@
               "height": 360
             }
           },
-          "viewCount": 2683,
+          "viewCount": 2725,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1434,7 +1441,7 @@
               "height": 360
             }
           },
-          "viewCount": 2328,
+          "viewCount": 2341,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:20:00Z",
@@ -1834,7 +1841,7 @@
               "height": 720
             }
           },
-          "viewCount": 17127,
+          "viewCount": 17245,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1875,7 +1882,7 @@
               "height": 720
             }
           },
-          "viewCount": 9161
+          "viewCount": 9212
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
