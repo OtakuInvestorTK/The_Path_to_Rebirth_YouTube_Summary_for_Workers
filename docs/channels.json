@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-10T22:15:53.258Z",
+  "requestedAt": "2025-12-10T23:12:57.886Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 37744,
+          "viewCount": 37794,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 7238,
+          "viewCount": 7259,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T12:00:00Z",
@@ -308,7 +308,7 @@
               "height": 720
             }
           },
-          "viewCount": 1936
+          "viewCount": 1945
         },
         {
           "videoId": "0pMdMP2atiE",
@@ -479,7 +479,7 @@
               "height": 360
             }
           },
-          "viewCount": 1756,
+          "viewCount": 1757,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-07T13:30:00Z",
@@ -596,7 +596,7 @@
               "height": 720
             }
           },
-          "viewCount": 688,
+          "viewCount": 690,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T23:12:40Z",
@@ -663,7 +663,7 @@
               "height": 720
             }
           },
-          "viewCount": 2588
+          "viewCount": 2592
         },
         {
           "videoId": "jk7UVprXMsI",
@@ -693,7 +693,7 @@
               "height": 480
             }
           },
-          "viewCount": 7900
+          "viewCount": 7899
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -829,7 +829,7 @@
               "height": 720
             }
           },
-          "viewCount": 667
+          "viewCount": 704
         },
         {
           "videoId": "LUfToe8cXPw",
@@ -859,7 +859,7 @@
               "height": 480
             }
           },
-          "viewCount": 5663,
+          "viewCount": 5733,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -1212,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 2593,
+          "viewCount": 2596,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:00:00Z",
@@ -1419,12 +1419,12 @@
               "height": 720
             }
           },
-          "viewCount": 21,
+          "viewCount": 251,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2025-12-10T20:50:31Z",
             "actualStartTime": "2025-12-10T22:08:36Z",
-            "concurrentViewers": 94
+            "concurrentViewers": 178
           }
         }
       ],
@@ -1452,7 +1452,7 @@
               "height": 360
             }
           },
-          "viewCount": 2931,
+          "viewCount": 2940,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1483,7 +1483,7 @@
               "height": 360
             }
           },
-          "viewCount": 2411,
+          "viewCount": 2412,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:20:00Z",
@@ -1883,7 +1883,7 @@
               "height": 720
             }
           },
-          "viewCount": 18073,
+          "viewCount": 18125,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1924,7 +1924,7 @@
               "height": 720
             }
           },
-          "viewCount": 9809
+          "viewCount": 9808
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
