@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-11T11:14:09.198Z",
+  "requestedAt": "2025-12-11T12:33:14.791Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 38837,
+          "viewCount": 38932,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 7477,
+          "viewCount": 7503,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T12:00:00Z",
@@ -216,7 +216,7 @@
               "height": 720
             }
           },
-          "viewCount": 533,
+          "viewCount": 536,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T09:00:00Z",
@@ -308,7 +308,7 @@
               "height": 720
             }
           },
-          "viewCount": 2114
+          "viewCount": 2127
         },
         {
           "videoId": "0pMdMP2atiE",
@@ -596,7 +596,7 @@
               "height": 720
             }
           },
-          "viewCount": 1031,
+          "viewCount": 1066,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T23:12:40Z",
@@ -693,7 +693,7 @@
               "height": 480
             }
           },
-          "viewCount": 7965
+          "viewCount": 7968
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -829,7 +829,7 @@
               "height": 720
             }
           },
-          "viewCount": 390
+          "viewCount": 599
         },
         {
           "videoId": "4pfV6WzgGdA",
@@ -864,7 +864,7 @@
               "height": 720
             }
           },
-          "viewCount": 894
+          "viewCount": 895
         },
         {
           "videoId": "LUfToe8cXPw",
@@ -894,7 +894,7 @@
               "height": 480
             }
           },
-          "viewCount": 6568,
+          "viewCount": 6692,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -1040,7 +1040,7 @@
               "height": 720
             }
           },
-          "viewCount": 993
+          "viewCount": 994
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1151,7 +1151,7 @@
               "height": 720
             }
           },
-          "viewCount": 1991
+          "viewCount": 3170
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1212,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 2713,
+          "viewCount": 2728,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:00:00Z",
@@ -1253,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 2911,
+          "viewCount": 2918,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-05T03:00:00Z",
@@ -1385,50 +1385,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "4V0bNmXovbU",
           "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.61",
           "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-12-11T10:40:30Z",
+          "publishedAt": "2025-12-11T11:58:26Z",
           "channelTitle": "くれよしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/4V0bNmXovbU/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 580,
+          "viewCount": 1072,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-11T10:45:00Z",
             "actualStartTime": "2025-12-11T10:44:22Z",
-            "concurrentViewers": 222
+            "actualEndTime": "2025-12-11T11:40:07Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "I2-I-2RksRw",
           "title": "【街頭演説】狛江駅12/11 7:00から",
@@ -1462,7 +1461,7 @@
               "height": 720
             }
           },
-          "viewCount": 4376,
+          "viewCount": 4491,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T20:50:31Z",
@@ -1493,7 +1492,7 @@
               "height": 360
             }
           },
-          "viewCount": 3044,
+          "viewCount": 3061,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1924,7 +1923,7 @@
               "height": 720
             }
           },
-          "viewCount": 18794,
+          "viewCount": 18880,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1965,7 +1964,7 @@
               "height": 720
             }
           },
-          "viewCount": 9940
+          "viewCount": 9990
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
