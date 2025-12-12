@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-12T11:14:44.294Z",
+  "requestedAt": "2025-12-12T12:31:34.003Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1761
+          "viewCount": 3235
         },
         {
           "videoId": "_GEnHnQlJQs",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 40253,
+          "viewCount": 40320,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -343,7 +343,7 @@
               "height": 720
             }
           },
-          "viewCount": 2289
+          "viewCount": 2297
         },
         {
           "videoId": "0pMdMP2atiE",
@@ -479,7 +479,7 @@
               "height": 360
             }
           },
-          "viewCount": 1799,
+          "viewCount": 1801,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-07T13:30:00Z",
@@ -596,7 +596,7 @@
               "height": 720
             }
           },
-          "viewCount": 1239,
+          "viewCount": 1244,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T23:12:40Z",
@@ -663,7 +663,7 @@
               "height": 720
             }
           },
-          "viewCount": 2685
+          "viewCount": 2692
         },
         {
           "videoId": "jk7UVprXMsI",
@@ -693,7 +693,7 @@
               "height": 480
             }
           },
-          "viewCount": 8054
+          "viewCount": 8059
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -829,7 +829,7 @@
               "height": 720
             }
           },
-          "viewCount": 631
+          "viewCount": 916
         },
         {
           "videoId": "wQ9IQAtCYuo",
@@ -864,7 +864,7 @@
               "height": 720
             }
           },
-          "viewCount": 1168
+          "viewCount": 1193
         },
         {
           "videoId": "4pfV6WzgGdA",
@@ -929,7 +929,7 @@
               "height": 480
             }
           },
-          "viewCount": 7321,
+          "viewCount": 7344,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -970,7 +970,7 @@
               "height": 720
             }
           },
-          "viewCount": 1339
+          "viewCount": 1340
         },
         {
           "videoId": "YroC2IQlhB4",
@@ -1005,7 +1005,7 @@
               "height": 720
             }
           },
-          "viewCount": 1198
+          "viewCount": 1199
         },
         {
           "videoId": "K4b9HvhcIZI",
@@ -1040,7 +1040,7 @@
               "height": 720
             }
           },
-          "viewCount": 904
+          "viewCount": 905
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1151,7 +1151,7 @@
               "height": 720
             }
           },
-          "viewCount": 2032
+          "viewCount": 2827
         },
         {
           "videoId": "HOuz8bKw-Ko",
@@ -1186,7 +1186,7 @@
               "height": 720
             }
           },
-          "viewCount": 9077
+          "viewCount": 9343
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1247,7 +1247,7 @@
               "height": 720
             }
           },
-          "viewCount": 2819,
+          "viewCount": 2825,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:00:00Z",
@@ -1279,7 +1279,42 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "H6SoZWV2JRc",
+          "title": "第24回ミートアップオンライン",
+          "description": "皆さま、こんばんは。\n週末いかがお過ごしでしょうか？\n明日12月13日（土）8:00-8:30にてミートアップオンラインを開催予定です。\nお時間ある方はぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・西東京市クリーン作戦（次回明後日12/14 8:00〜）※8:00スタートに変更\n・最近嬉しかったことのご報告\n・学校の先生の忙しいエピソード\n・今週の今風ロシア語：「супер（スーペル）」（＝スラング的な「すごっ！」「最高！」）",
+          "publishedAt": "2025-12-12T12:25:20Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-12T23:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
     },
@@ -1414,7 +1449,7 @@
               "height": 720
             }
           },
-          "viewCount": 2659,
+          "viewCount": 2682,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-11T10:45:00Z",
@@ -1455,7 +1490,7 @@
               "height": 720
             }
           },
-          "viewCount": 4829,
+          "viewCount": 4897,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T20:50:31Z",
@@ -1486,7 +1521,7 @@
               "height": 360
             }
           },
-          "viewCount": 3110,
+          "viewCount": 3111,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1815,7 +1850,7 @@
               "height": 720
             }
           },
-          "viewCount": 646
+          "viewCount": 716
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1876,7 +1911,7 @@
               "height": 720
             }
           },
-          "viewCount": 19457,
+          "viewCount": 19497,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
