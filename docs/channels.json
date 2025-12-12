@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-12T03:19:22.528Z",
+  "requestedAt": "2025-12-12T04:29:41.837Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 39950,
+          "viewCount": 39996,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 7628,
+          "viewCount": 7627,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T12:00:00Z",
@@ -308,7 +308,7 @@
               "height": 720
             }
           },
-          "viewCount": 2246
+          "viewCount": 2248
         },
         {
           "videoId": "0pMdMP2atiE",
@@ -561,7 +561,7 @@
               "height": 720
             }
           },
-          "viewCount": 1175,
+          "viewCount": 1181,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T23:12:40Z",
@@ -658,7 +658,7 @@
               "height": 480
             }
           },
-          "viewCount": 8006
+          "viewCount": 8021
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -794,7 +794,7 @@
               "height": 720
             }
           },
-          "viewCount": 1129
+          "viewCount": 1135
         },
         {
           "videoId": "4pfV6WzgGdA",
@@ -859,7 +859,7 @@
               "height": 480
             }
           },
-          "viewCount": 7136,
+          "viewCount": 7118,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -900,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 1332
+          "viewCount": 1336
         },
         {
           "videoId": "YroC2IQlhB4",
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 1195
+          "viewCount": 1196
         },
         {
           "videoId": "K4b9HvhcIZI",
@@ -1005,7 +1005,7 @@
               "height": 720
             }
           },
-          "viewCount": 999
+          "viewCount": 1000
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1116,7 +1116,7 @@
               "height": 720
             }
           },
-          "viewCount": 7586
+          "viewCount": 7866
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1183,47 +1183,6 @@
             "scheduledStartTime": "2025-12-09T03:00:00Z",
             "actualStartTime": "2025-12-09T02:58:53Z",
             "actualEndTime": "2025-12-09T04:03:16Z"
-          }
-        },
-        {
-          "videoId": "CUD_BSJq87k",
-          "title": "【12月5日12:00配信】天野こころのこころトーク#17",
-          "description": "【内容】\n活動報告。\n中央区イベント情報。\n最近思うこと。\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​\n\n▽ホームページ\nhttps://amano-cocoro.com/​\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/...​\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano​\n\ninstagram / ID : @cocoro_amano\n   / cocoro_amano  ​",
-          "publishedAt": "2025-12-05T04:19:40Z",
-          "channelTitle": "天野こころ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/CUD_BSJq87k/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2925,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-05T03:00:00Z",
-            "actualStartTime": "2025-12-05T02:58:38Z",
-            "actualEndTime": "2025-12-05T04:10:57Z"
           }
         }
       ],
@@ -1385,7 +1344,7 @@
               "height": 720
             }
           },
-          "viewCount": 2363,
+          "viewCount": 2414,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-11T10:45:00Z",
@@ -1426,7 +1385,7 @@
               "height": 720
             }
           },
-          "viewCount": 4766,
+          "viewCount": 4796,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T20:50:31Z",
@@ -1457,7 +1416,7 @@
               "height": 360
             }
           },
-          "viewCount": 3093,
+          "viewCount": 3099,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1686,7 +1645,7 @@
               "height": 720
             }
           },
-          "viewCount": 3583
+          "viewCount": 3582
         }
       ],
       "name": "大塚貴一,大塚きいち,おおつか貴一,おおつかきいち"
@@ -1822,7 +1781,7 @@
               "height": 720
             }
           },
-          "viewCount": 204
+          "viewCount": 291
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1883,7 +1842,7 @@
               "height": 720
             }
           },
-          "viewCount": 19272,
+          "viewCount": 19298,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1924,7 +1883,7 @@
               "height": 720
             }
           },
-          "viewCount": 10103
+          "viewCount": 10096
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
