@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-13T08:18:41.743Z",
+  "requestedAt": "2025-12-13T09:14:32.843Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11282
+          "viewCount": 11393
         },
         {
           "videoId": "_GEnHnQlJQs",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 41795,
+          "viewCount": 41839,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -251,7 +251,7 @@
               "height": 720
             }
           },
-          "viewCount": 635,
+          "viewCount": 639,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T09:00:00Z",
@@ -628,7 +628,7 @@
               "height": 720
             }
           },
-          "viewCount": 2718
+          "viewCount": 2721
         },
         {
           "videoId": "jk7UVprXMsI",
@@ -658,7 +658,7 @@
               "height": 480
             }
           },
-          "viewCount": 8133
+          "viewCount": 8118
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -794,7 +794,7 @@
               "height": 720
             }
           },
-          "viewCount": 1939
+          "viewCount": 2066
         },
         {
           "videoId": "wQ9IQAtCYuo",
@@ -1116,7 +1116,7 @@
               "height": 720
             }
           },
-          "viewCount": 6241
+          "viewCount": 6316
         },
         {
           "videoId": "HOuz8bKw-Ko",
@@ -1151,7 +1151,7 @@
               "height": 720
             }
           },
-          "viewCount": 11627
+          "viewCount": 11731
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1279,7 +1279,7 @@
               "height": 720
             }
           },
-          "viewCount": 5625,
+          "viewCount": 5976,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-12T23:00:00Z",
@@ -1421,7 +1421,7 @@
               "height": 720
             }
           },
-          "viewCount": 2883,
+          "viewCount": 2871,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-11T10:45:00Z",
@@ -1493,7 +1493,7 @@
               "height": 360
             }
           },
-          "viewCount": 3124,
+          "viewCount": 3125,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1524,7 +1524,7 @@
               "height": 360
             }
           },
-          "viewCount": 2502,
+          "viewCount": 2503,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:20:00Z",
@@ -1759,6 +1759,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "U8rEb4YbrYM",
+          "title": "ヨシヒコ・ライブSP with 吉田あやさん4",
+          "description": "先生のお給料について語る",
+          "publishedAt": "2025-12-13T09:00:46Z",
+          "channelTitle": "増田よしひこ@再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U8rEb4YbrYM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U8rEb4YbrYM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U8rEb4YbrYM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U8rEb4YbrYM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U8rEb4YbrYM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 12
+        },
+        {
           "videoId": "KSnlVIIFuAY",
           "title": "ヨシヒコ・ライブSP with 吉田あやさん3",
           "description": "いつそんなに猛勉強したの！",
@@ -1791,7 +1826,7 @@
               "height": 720
             }
           },
-          "viewCount": 306
+          "viewCount": 368
         },
         {
           "videoId": "4SoADmK9qzM",
@@ -1826,7 +1861,7 @@
               "height": 720
             }
           },
-          "viewCount": 1116
+          "viewCount": 1115
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1887,7 +1922,7 @@
               "height": 720
             }
           },
-          "viewCount": 19793,
+          "viewCount": 19809,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1928,7 +1963,7 @@
               "height": 720
             }
           },
-          "viewCount": 10268
+          "viewCount": 10283
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
