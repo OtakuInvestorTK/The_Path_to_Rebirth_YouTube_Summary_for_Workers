@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-13T09:14:32.843Z",
+  "requestedAt": "2025-12-13T10:14:41.448Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11393
+          "viewCount": 11597
         },
         {
           "videoId": "_GEnHnQlJQs",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 41839,
+          "viewCount": 41895,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 7778,
+          "viewCount": 7786,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T12:00:00Z",
@@ -251,7 +251,7 @@
               "height": 720
             }
           },
-          "viewCount": 639,
+          "viewCount": 642,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T09:00:00Z",
@@ -310,6 +310,41 @@
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "SqvaKewoL6M",
+          "title": "InBody検査を受けました。 #木島 #InBody検査",
+          "description": "",
+          "publishedAt": "2025-12-13T09:25:47Z",
+          "channelTitle": "木島やすお　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SqvaKewoL6M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SqvaKewoL6M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SqvaKewoL6M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SqvaKewoL6M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SqvaKewoL6M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 331
+        },
         {
           "videoId": "jOF8NG9GRkA",
           "title": "江戸川区北葛西のベトナム料理店「PHO365」のブン・ネム。汁なしの米粉麺に春巻きのせ。#ベトナム料理 #PHO365 #ブンネム",
@@ -444,7 +479,7 @@
               "height": 360
             }
           },
-          "viewCount": 1818,
+          "viewCount": 1821,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-07T13:30:00Z",
@@ -658,7 +693,7 @@
               "height": 480
             }
           },
-          "viewCount": 8118
+          "viewCount": 8133
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -794,7 +829,7 @@
               "height": 720
             }
           },
-          "viewCount": 2066
+          "viewCount": 2099
         },
         {
           "videoId": "wQ9IQAtCYuo",
@@ -829,7 +864,7 @@
               "height": 720
             }
           },
-          "viewCount": 1214
+          "viewCount": 1220
         },
         {
           "videoId": "4pfV6WzgGdA",
@@ -894,7 +929,7 @@
               "height": 480
             }
           },
-          "viewCount": 7640,
+          "viewCount": 7665,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -1005,7 +1040,7 @@
               "height": 720
             }
           },
-          "viewCount": 917
+          "viewCount": 919
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1116,7 +1151,7 @@
               "height": 720
             }
           },
-          "viewCount": 6316
+          "viewCount": 6399
         },
         {
           "videoId": "HOuz8bKw-Ko",
@@ -1151,7 +1186,7 @@
               "height": 720
             }
           },
-          "viewCount": 11731
+          "viewCount": 11823
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1212,7 +1247,7 @@
               "height": 720
             }
           },
-          "viewCount": 2848,
+          "viewCount": 2852,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:00:00Z",
@@ -1279,7 +1314,7 @@
               "height": 720
             }
           },
-          "viewCount": 5976,
+          "viewCount": 6320,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-12T23:00:00Z",
@@ -1421,7 +1456,7 @@
               "height": 720
             }
           },
-          "viewCount": 2871,
+          "viewCount": 2918,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-11T10:45:00Z",
@@ -1462,7 +1497,7 @@
               "height": 720
             }
           },
-          "viewCount": 5036,
+          "viewCount": 5051,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T20:50:31Z",
@@ -1791,7 +1826,7 @@
               "height": 720
             }
           },
-          "viewCount": 12
+          "viewCount": 91
         },
         {
           "videoId": "KSnlVIIFuAY",
@@ -1826,7 +1861,7 @@
               "height": 720
             }
           },
-          "viewCount": 368
+          "viewCount": 422
         },
         {
           "videoId": "4SoADmK9qzM",
@@ -1861,7 +1896,7 @@
               "height": 720
             }
           },
-          "viewCount": 1115
+          "viewCount": 1143
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1922,7 +1957,7 @@
               "height": 720
             }
           },
-          "viewCount": 19809,
+          "viewCount": 19821,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1963,7 +1998,7 @@
               "height": 720
             }
           },
-          "viewCount": 10283
+          "viewCount": 10300
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
