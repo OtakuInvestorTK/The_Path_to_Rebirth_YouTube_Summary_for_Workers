@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-14T06:21:57.806Z",
+  "requestedAt": "2025-12-14T07:14:08.989Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14574
+          "viewCount": 14644
         },
         {
           "videoId": "_GEnHnQlJQs",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 44196,
+          "viewCount": 44243,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 7840,
+          "viewCount": 7851,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T12:00:00Z",
@@ -251,7 +251,7 @@
               "height": 720
             }
           },
-          "viewCount": 684,
+          "viewCount": 685,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T09:00:00Z",
@@ -343,7 +343,7 @@
               "height": 720
             }
           },
-          "viewCount": 1466
+          "viewCount": 1478
         },
         {
           "videoId": "jOF8NG9GRkA",
@@ -378,7 +378,7 @@
               "height": 720
             }
           },
-          "viewCount": 2470
+          "viewCount": 2482
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -596,7 +596,7 @@
               "height": 720
             }
           },
-          "viewCount": 1296,
+          "viewCount": 1300,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T23:12:40Z",
@@ -713,7 +713,7 @@
               "height": 720
             }
           },
-          "viewCount": 2921,
+          "viewCount": 2960,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-14T00:00:00Z",
@@ -770,7 +770,47 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "Nhg5788P5Fc",
+          "title": "【松江出張】水の都からお届けする夜の雑談配信",
+          "description": "「水の都」として知られる島根県松江市に来ています。\n宍道湖や国宝・松江城で有名なこの街は、歴史ある城下町の風情と、静かで落ち着いた時間が流れていて、とても心地よい雰囲気です。\n\n今回は仕事での訪問のため、残念ながら観光名所巡りやグルメレポートなどの配信ではありませんが、出張先の部屋からリラックスして雑談配信をお届けします。\n仕事終わりの「やなぎさわ」と、松江の夜の空気を少しでも共有できれば嬉しいです。\n\nいつも動画を見てくださり、本当にありがとうございます。\n皆さんのコメントをお待ちしています！\n\n---\n▼各種SNS・公式サイトはこちら\n\n【公式サイト】\n[https://sites.google.com/view/yanagisawa-takayuki/](https://sites.google.com/view/yanagisawa-takayuki/)\n\n【YouTube】チャンネル登録お願いします！\n[https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM](https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM)\n\n【Twitter (X)】\n[https://x.com/marcie_nocturne](https://x.com/marcie_nocturne)\n\n【Instagram】\n[https://www.instagram.com/marcie_nocturne/](https://www.instagram.com/marcie_nocturne/)\n\n【TikTok】\n[https://www.tiktok.com/@marcie_nocturne](https://www.tiktok.com/@marcie_nocturne)\n\n🎙️ ストリーミングを始めたばかりですか、それともレベルアップを目指していますか？StreamYardをチェックして、$10の割引をゲット！😍 https://streamyard.com/pal/d/6288782636679168",
+          "publishedAt": "2025-12-14T07:08:17Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nhg5788P5Fc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nhg5788P5Fc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nhg5788P5Fc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Nhg5788P5Fc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Nhg5788P5Fc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-14T11:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "vJl4Cdk9KgA",
@@ -805,7 +845,7 @@
               "height": 720
             }
           },
-          "viewCount": 2301
+          "viewCount": 2302
         },
         {
           "videoId": "wQ9IQAtCYuo",
@@ -840,7 +880,7 @@
               "height": 720
             }
           },
-          "viewCount": 1255
+          "viewCount": 1251
         },
         {
           "videoId": "4pfV6WzgGdA",
@@ -1127,7 +1167,7 @@
               "height": 720
             }
           },
-          "viewCount": 7325
+          "viewCount": 7362
         },
         {
           "videoId": "HOuz8bKw-Ko",
@@ -1162,7 +1202,7 @@
               "height": 720
             }
           },
-          "viewCount": 12819
+          "viewCount": 12841
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1290,7 +1330,7 @@
               "height": 720
             }
           },
-          "viewCount": 8567,
+          "viewCount": 8636,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-12T23:00:00Z",
@@ -1432,7 +1472,7 @@
               "height": 720
             }
           },
-          "viewCount": 3011,
+          "viewCount": 3022,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-11T10:45:00Z",
@@ -1504,7 +1544,7 @@
               "height": 360
             }
           },
-          "viewCount": 3131,
+          "viewCount": 3133,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T11:05:00Z",
@@ -1535,7 +1575,7 @@
               "height": 360
             }
           },
-          "viewCount": 2524,
+          "viewCount": 2526,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:20:00Z",
@@ -1802,7 +1842,7 @@
               "height": 720
             }
           },
-          "viewCount": 1049
+          "viewCount": 1059
         },
         {
           "videoId": "KSnlVIIFuAY",
@@ -1933,7 +1973,7 @@
               "height": 720
             }
           },
-          "viewCount": 20092,
+          "viewCount": 20111,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
@@ -1974,7 +2014,7 @@
               "height": 720
             }
           },
-          "viewCount": 10405
+          "viewCount": 10410
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
