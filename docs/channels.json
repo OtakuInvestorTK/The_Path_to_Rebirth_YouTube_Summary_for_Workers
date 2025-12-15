@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-15T12:35:17.167Z",
+  "requestedAt": "2025-12-15T13:36:34.963Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "7WQrufCe1Jg",
           "title": "【LIVE配信】SAISEI WEEKLY NEWS (2025.12.15) -再生の道-",
           "description": "再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-15T01:30:05Z",
+          "publishedAt": "2025-12-15T13:30:48Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 3717,
+          "viewCount": 6429,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-15T12:00:00Z",
             "actualStartTime": "2025-12-15T12:00:37Z",
-            "concurrentViewers": 1972
+            "actualEndTime": "2025-12-15T13:11:35Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "vd5wwMa1v70",
           "title": "【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!",
@@ -99,48 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 16456
-        },
-        {
-          "videoId": "_GEnHnQlJQs",
-          "title": "SAISEI WEEKLY NEWS (2025.12.08)",
-          "description": "—\n☑️最近の再生🔄メンバーの多種多様な活動をご紹介‼︎\n☑️Koki’s EYE👁️”EBPM”って⁈その課題や”罠”について考えてみる📚\n☑️再生ラウンジ☕️今回もスペシャルゲストが登場‼︎（サムネを要確認😆笑）\n\n※みっちー🐧の仲間も登場⁈そしてみなさんとの新たな盛り上げ企画についてのご説明も😉\n—\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-08T13:10:21Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_GEnHnQlJQs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_GEnHnQlJQs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_GEnHnQlJQs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/_GEnHnQlJQs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/_GEnHnQlJQs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 46592,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-08T12:00:00Z",
-            "actualStartTime": "2025-12-08T12:00:11Z",
-            "actualEndTime": "2025-12-08T13:01:17Z"
-          }
+          "viewCount": 16487
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -293,7 +251,7 @@
               "height": 720
             }
           },
-          "viewCount": 716,
+          "viewCount": 722,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T09:00:00Z",
@@ -385,7 +343,7 @@
               "height": 720
             }
           },
-          "viewCount": 1631
+          "viewCount": 1633
         },
         {
           "videoId": "jOF8NG9GRkA",
@@ -420,7 +378,7 @@
               "height": 720
             }
           },
-          "viewCount": 2529
+          "viewCount": 2532
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -606,7 +564,7 @@
               "height": 720
             }
           },
-          "viewCount": 1102
+          "viewCount": 1159
         },
         {
           "videoId": "fxMdK-GlHQs",
@@ -641,7 +599,7 @@
               "height": 720
             }
           },
-          "viewCount": 1328,
+          "viewCount": 1345,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-01T23:12:40Z",
@@ -850,7 +808,7 @@
               "height": 720
             }
           },
-          "viewCount": 939
+          "viewCount": 981
         },
         {
           "videoId": "Nhg5788P5Fc",
@@ -885,7 +843,7 @@
               "height": 720
             }
           },
-          "viewCount": 2027,
+          "viewCount": 2140,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-14T11:00:00Z",
@@ -926,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 1116
+          "viewCount": 1147
         },
         {
           "videoId": "vJl4Cdk9KgA",
@@ -961,7 +919,7 @@
               "height": 720
             }
           },
-          "viewCount": 2454
+          "viewCount": 2467
         },
         {
           "videoId": "wQ9IQAtCYuo",
@@ -1213,7 +1171,7 @@
               "height": 720
             }
           },
-          "viewCount": 8009
+          "viewCount": 8021
         },
         {
           "videoId": "HOuz8bKw-Ko",
@@ -1248,7 +1206,7 @@
               "height": 720
             }
           },
-          "viewCount": 13465
+          "viewCount": 13484
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1376,7 +1334,7 @@
               "height": 720
             }
           },
-          "viewCount": 9872,
+          "viewCount": 9903,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-12T23:00:00Z",
@@ -1518,7 +1476,7 @@
               "height": 720
             }
           },
-          "viewCount": 4609,
+          "viewCount": 4847,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T09:02:02Z",
@@ -1559,7 +1517,7 @@
               "height": 720
             }
           },
-          "viewCount": 2598,
+          "viewCount": 2753,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T03:30:00Z",
@@ -2005,7 +1963,7 @@
               "height": 720
             }
           },
-          "viewCount": 1502
+          "viewCount": 1500
         },
         {
           "videoId": "4SoADmK9qzM",
@@ -2067,49 +2025,7 @@
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "1sl1XBShSLw",
-          "title": "西岡事務局長ダメ出し10連発【加藤てつお】再生の道",
-          "description": "今回の動画は……\nなんと、政治活動＆選挙期間中に、再生の道 事務局長・西岡事務局長から加藤てつおが受け続けた ガチの“ダメ出し”10連発 をまとめてみました\n—— 加藤てつおの心の叫びが聞こえてきそうな、涙あり笑いあり、ちょっとだけ成長もあり（？） の内容となっております。\n\nぜひ、温かい目（と笑い）でご覧ください。\nそして、よかったらチャンネル登録＆高評価で\nてつおを応援してください\n\n再生の道ウィークリーニュース\nhttps://www.youtube.com/live/_GEnHnQlJQs?si=KGXzPWmbRr5QLnU0\n\nオフィシャルサイト\nhttps://tetsuo.tokyo/\n\nオフィシャルX\nhttps://x.com/Tetsuo_OMG\n\nオフィシャルInstagram\nhttps://www.instagram.com/katotetsuo_koenkai/\n\nオフィシャルTikTok\nhttps://www.tiktok.com/@katotetsuo_koenkai\n\n加藤てつおの政治活動を支えて頂く献金のお手続き\nhttps://go2senkyo.com/seijika/195922",
-          "publishedAt": "2025-12-08T13:15:06Z",
-          "channelTitle": "加藤てつお【再生の道】1st Gen.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/1sl1XBShSLw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/1sl1XBShSLw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/1sl1XBShSLw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/1sl1XBShSLw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/1sl1XBShSLw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 20415,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-08T13:15:00Z",
-            "actualStartTime": "2025-12-08T13:15:06Z",
-            "actualEndTime": "2025-12-08T13:49:01Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
