@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-15T09:26:21.068Z",
+  "requestedAt": "2025-12-15T10:19:31.045Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 16300
+          "viewCount": 16352
         },
         {
           "videoId": "_GEnHnQlJQs",
@@ -132,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 46501,
+          "viewCount": 46530,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T12:00:00Z",
@@ -291,7 +291,7 @@
               "height": 720
             }
           },
-          "viewCount": 712,
+          "viewCount": 713,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T09:00:00Z",
@@ -418,7 +418,7 @@
               "height": 720
             }
           },
-          "viewCount": 2523
+          "viewCount": 2528
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -604,7 +604,7 @@
               "height": 720
             }
           },
-          "viewCount": 915
+          "viewCount": 955
         },
         {
           "videoId": "fxMdK-GlHQs",
@@ -756,7 +756,7 @@
               "height": 720
             }
           },
-          "viewCount": 3238,
+          "viewCount": 3246,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-14T00:00:00Z",
@@ -848,7 +848,7 @@
               "height": 720
             }
           },
-          "viewCount": 104
+          "viewCount": 559
         },
         {
           "videoId": "Nhg5788P5Fc",
@@ -883,7 +883,7 @@
               "height": 720
             }
           },
-          "viewCount": 1716,
+          "viewCount": 1803,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-14T11:00:00Z",
@@ -924,7 +924,7 @@
               "height": 720
             }
           },
-          "viewCount": 1066
+          "viewCount": 1080
         },
         {
           "videoId": "vJl4Cdk9KgA",
@@ -959,7 +959,7 @@
               "height": 720
             }
           },
-          "viewCount": 2454
+          "viewCount": 2453
         },
         {
           "videoId": "wQ9IQAtCYuo",
@@ -1059,7 +1059,7 @@
               "height": 480
             }
           },
-          "viewCount": 7904,
+          "viewCount": 7913,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T13:00:00Z",
@@ -1211,7 +1211,7 @@
               "height": 720
             }
           },
-          "viewCount": 7952
+          "viewCount": 7976
         },
         {
           "videoId": "HOuz8bKw-Ko",
@@ -1246,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 13383
+          "viewCount": 13405
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1307,7 +1307,7 @@
               "height": 720
             }
           },
-          "viewCount": 2896,
+          "viewCount": 2900,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:00:00Z",
@@ -1374,7 +1374,7 @@
               "height": 720
             }
           },
-          "viewCount": 9765,
+          "viewCount": 9792,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-12T23:00:00Z",
@@ -1481,50 +1481,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "fjar1DI0ZqI",
           "title": "街頭演説 狛江駅 12/15",
           "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】https://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行(出向)/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-12-15T09:02:02Z",
+          "publishedAt": "2025-12-15T10:11:34Z",
           "channelTitle": "くれよしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/fjar1DI0ZqI/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 158,
+          "viewCount": 533,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-15T09:02:02Z",
             "actualStartTime": "2025-12-15T09:04:21Z",
-            "concurrentViewers": 196
+            "actualEndTime": "2025-12-15T10:03:01Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "UK74n1SthlY",
           "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.62",
@@ -1558,7 +1557,7 @@
               "height": 720
             }
           },
-          "viewCount": 2087,
+          "viewCount": 2317,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T03:30:00Z",
@@ -1640,7 +1639,7 @@
               "height": 720
             }
           },
-          "viewCount": 5081,
+          "viewCount": 5082,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-10T20:50:31Z",
@@ -1702,7 +1701,7 @@
               "height": 360
             }
           },
-          "viewCount": 2536,
+          "viewCount": 2540,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-09T03:20:00Z",
@@ -1969,7 +1968,7 @@
               "height": 720
             }
           },
-          "viewCount": 1215
+          "viewCount": 1216
         },
         {
           "videoId": "KSnlVIIFuAY",
@@ -2004,7 +2003,7 @@
               "height": 720
             }
           },
-          "viewCount": 1480
+          "viewCount": 1483
         },
         {
           "videoId": "4SoADmK9qzM",
@@ -2039,7 +2038,7 @@
               "height": 720
             }
           },
-          "viewCount": 1333
+          "viewCount": 1324
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -2100,7 +2099,7 @@
               "height": 720
             }
           },
-          "viewCount": 20390,
+          "viewCount": 20415,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-08T13:15:00Z",
