@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-18T15:17:09.260Z",
+  "requestedAt": "2025-12-18T16:21:32.386Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8304
+          "viewCount": 9993
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 13714
+          "viewCount": 13822
         },
         {
           "videoId": "LIA57oAH07w",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 11381
+          "viewCount": 11441
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 18254
+          "viewCount": 18330
         },
         {
           "videoId": "7WQrufCe1Jg",
@@ -197,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 31855,
+          "viewCount": 31889,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T12:00:00Z",
@@ -238,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 17763
+          "viewCount": 17798
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -324,7 +324,7 @@
               "height": 720
             }
           },
-          "viewCount": 7379,
+          "viewCount": 7403,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -441,7 +441,7 @@
               "height": 720
             }
           },
-          "viewCount": 1790
+          "viewCount": 1803
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -627,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 1965
+          "viewCount": 1963
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -830,7 +830,7 @@
               "height": 720
             }
           },
-          "viewCount": 960
+          "viewCount": 971
         },
         {
           "videoId": "6XHvEfQuAzo",
@@ -865,7 +865,7 @@
               "height": 720
             }
           },
-          "viewCount": 575
+          "viewCount": 576
         },
         {
           "videoId": "C4Nf0veB_A8",
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 2430
+          "viewCount": 2436
         },
         {
           "videoId": "Nhg5788P5Fc",
@@ -970,7 +970,7 @@
               "height": 720
             }
           },
-          "viewCount": 3067,
+          "viewCount": 3072,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-14T11:00:00Z",
@@ -1011,7 +1011,7 @@
               "height": 720
             }
           },
-          "viewCount": 1571
+          "viewCount": 1572
         },
         {
           "videoId": "vJl4Cdk9KgA",
@@ -1218,7 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 3154,
+          "viewCount": 3155,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T03:00:00Z",
@@ -1250,7 +1250,42 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "MO3NlRbQxIQ",
+          "title": "第25回ミートアップオンライン",
+          "description": "皆さま、こんばんは。\n週末、いかがお過ごしでしょうか？\n今週は12月21日（日）22:00-22:30にて開催予定です。\nお時間ある方はぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・【告知】来週の「SAISEI WEEKLY NEWS 」について\n・【共有】映画「みんなの学校」に行ってきた！（予定）\n・【共有】おすすめポッドキャスト番組「歴史を面白く学ぶコテンラジオ （COTEN RADIO）」\n・【おまけ】今週の今風ロシア語：「「круто」（クルータ）」＝「最高！」「すごい！」「かっこいい！」「イカしてる」",
+          "publishedAt": "2025-12-18T15:47:45Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MO3NlRbQxIQ/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MO3NlRbQxIQ/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MO3NlRbQxIQ/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MO3NlRbQxIQ/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-21T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "H6SoZWV2JRc",
@@ -1285,7 +1320,7 @@
               "height": 720
             }
           },
-          "viewCount": 10486,
+          "viewCount": 10508,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-12T23:00:00Z",
@@ -1427,7 +1462,7 @@
               "height": 720
             }
           },
-          "viewCount": 2888,
+          "viewCount": 2922,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T22:26:59Z",
@@ -1550,7 +1585,7 @@
               "height": 720
             }
           },
-          "viewCount": 3830,
+          "viewCount": 3841,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T03:30:00Z",
@@ -1857,7 +1892,7 @@
               "height": 720
             }
           },
-          "viewCount": 1345
+          "viewCount": 1350
         },
         {
           "videoId": "KSnlVIIFuAY",
@@ -1892,7 +1927,7 @@
               "height": 720
             }
           },
-          "viewCount": 1618
+          "viewCount": 1624
         },
         {
           "videoId": "4SoADmK9qzM",
@@ -1927,7 +1962,7 @@
               "height": 720
             }
           },
-          "viewCount": 1433
+          "viewCount": 1436
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
