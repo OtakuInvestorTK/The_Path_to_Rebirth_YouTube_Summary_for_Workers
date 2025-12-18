@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-18T09:21:03.553Z",
+  "requestedAt": "2025-12-18T10:16:53.551Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "7vOk6fxiDDc",
+          "title": "【AI時代をどう生き抜くか!!】前彦根市長/和田ひろゆきがアドバイザーに就任!!メンバーに伝えたいメッセージとは?",
+          "description": "前彦根市長の和田ひろゆきさんが、\n再生の道アドバイザーに就任しました!!\n\n本動画は全3部作の中で、第1部にあたります!\nどうぞ楽しみください!!\n\n****************************\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2025-12-18T09:57:25Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7vOk6fxiDDc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7vOk6fxiDDc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7vOk6fxiDDc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7vOk6fxiDDc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7vOk6fxiDDc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 678
+        },
         {
           "videoId": "kh1J5YIo2jM",
           "title": "【初めての一般質問】葛飾区議会議員/岩見なつよの活動報告！",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 12905
+          "viewCount": 13101
         },
         {
           "videoId": "LIA57oAH07w",
@@ -92,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 11188
+          "viewCount": 11194
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -127,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 17892
+          "viewCount": 17940
         },
         {
           "videoId": "7WQrufCe1Jg",
@@ -162,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 31659,
+          "viewCount": 31699,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T12:00:00Z",
@@ -203,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 17721
+          "viewCount": 17732
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -289,7 +324,7 @@
               "height": 720
             }
           },
-          "viewCount": 7269,
+          "viewCount": 7293,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -406,7 +441,7 @@
               "height": 720
             }
           },
-          "viewCount": 1786
+          "viewCount": 1789
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -592,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 1955
+          "viewCount": 1956
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -795,7 +830,7 @@
               "height": 720
             }
           },
-          "viewCount": 174
+          "viewCount": 528
         },
         {
           "videoId": "6XHvEfQuAzo",
@@ -830,7 +865,7 @@
               "height": 720
             }
           },
-          "viewCount": 510
+          "viewCount": 512
         },
         {
           "videoId": "C4Nf0veB_A8",
@@ -865,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 1105
+          "viewCount": 1106
         },
         {
           "videoId": "WyfmosR5XLI",
@@ -900,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 2409
+          "viewCount": 2423
         },
         {
           "videoId": "Nhg5788P5Fc",
@@ -935,7 +970,7 @@
               "height": 720
             }
           },
-          "viewCount": 3049,
+          "viewCount": 3039,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-14T11:00:00Z",
@@ -1122,7 +1157,7 @@
               "height": 720
             }
           },
-          "viewCount": 8587
+          "viewCount": 8600
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1183,7 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 3139,
+          "viewCount": 3141,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T03:00:00Z",
@@ -1392,7 +1427,7 @@
               "height": 720
             }
           },
-          "viewCount": 2806,
+          "viewCount": 2827,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T22:26:59Z",
@@ -1433,7 +1468,7 @@
               "height": 720
             }
           },
-          "viewCount": 4749,
+          "viewCount": 4750,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T10:04:09Z",
@@ -1474,7 +1509,7 @@
               "height": 720
             }
           },
-          "viewCount": 5612,
+          "viewCount": 5613,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T09:02:02Z",
@@ -1515,7 +1550,7 @@
               "height": 720
             }
           },
-          "viewCount": 3808,
+          "viewCount": 3818,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T03:30:00Z",
@@ -1898,7 +1933,7 @@
               "height": 720
             }
           },
-          "viewCount": 1608
+          "viewCount": 1602
         },
         {
           "videoId": "4SoADmK9qzM",
