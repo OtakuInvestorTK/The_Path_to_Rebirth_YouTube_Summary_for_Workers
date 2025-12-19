@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-19T07:17:34.035Z",
+  "requestedAt": "2025-12-19T08:21:48.723Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8041
+          "viewCount": 9425
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 17794
+          "viewCount": 18146
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 14220
+          "viewCount": 14282
         },
         {
           "videoId": "LIA57oAH07w",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 11958
+          "viewCount": 11972
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -197,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 18884
+          "viewCount": 18941
         },
         {
           "videoId": "7WQrufCe1Jg",
@@ -232,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 32207,
+          "viewCount": 32224,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T12:00:00Z",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 17906
+          "viewCount": 17912
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -359,7 +359,7 @@
               "height": 720
             }
           },
-          "viewCount": 7493,
+          "viewCount": 7502,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -476,7 +476,7 @@
               "height": 720
             }
           },
-          "viewCount": 1819
+          "viewCount": 1817
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -662,7 +662,7 @@
               "height": 720
             }
           },
-          "viewCount": 1968
+          "viewCount": 1969
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -865,7 +865,7 @@
               "height": 720
             }
           },
-          "viewCount": 1054
+          "viewCount": 1059
         },
         {
           "videoId": "6XHvEfQuAzo",
@@ -1005,7 +1005,7 @@
               "height": 720
             }
           },
-          "viewCount": 3122,
+          "viewCount": 3127,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-14T11:00:00Z",
@@ -1158,43 +1158,7 @@
       },
       "channelId": "UCk6haDaZ2Bpa3e6SMrHyCVg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "0s7OvvP6h_o",
-          "title": "いわさん、SP社長と対談【後半】",
-          "description": "---\nサブチャンネルをはじめました\nhttps://youtube.com/@challenger-iwasan?si=WA-V75GxDCz2Xiq7\n\n「チャレンジャーいわさんチャンネル」の名前で、71歳のいわさんが様々なアクティビティにチャレンジ中！\nチャンネル登録して新たな動画をお楽しみに！\n\n◆プロフィール\n大阪生まれ。\n1978年リクルート入社(26年間住まい情報事業)。49歳でリクルート退職後3社で勤務。\n2020年65歳で仕事を辞め、新設大学墨田区の「iU」に1期生として入学。3年生で退学。\n2025年「再生の道」1期生でエントリーし台東区で選出。東京都議会議員選挙に立候補したが当選ならず。\n2025年夏　次のチャレンジを模索中！",
-          "publishedAt": "2025-12-12T08:00:01Z",
-          "channelTitle": "いわさんチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/0s7OvvP6h_o/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/0s7OvvP6h_o/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/0s7OvvP6h_o/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/0s7OvvP6h_o/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/0s7OvvP6h_o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 8657
-        }
-      ],
+      "recentVideos": [],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
     },
     {
