@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-19T09:18:56.144Z",
+  "requestedAt": "2025-12-19T10:16:53.217Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10298
+          "viewCount": 11124
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 18389
+          "viewCount": 18636
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 14318
+          "viewCount": 14357
         },
         {
           "videoId": "LIA57oAH07w",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 11992
+          "viewCount": 12001
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -197,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 18989
+          "viewCount": 19030
         },
         {
           "videoId": "7WQrufCe1Jg",
@@ -239,41 +239,6 @@
             "actualStartTime": "2025-12-15T12:00:37Z",
             "actualEndTime": "2025-12-15T13:11:35Z"
           }
-        },
-        {
-          "videoId": "vd5wwMa1v70",
-          "title": "【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!",
-          "description": "【タイムライン】\n0:00 当選後の活動スタート\n2:43 当選の瞬間・感謝メッセージ\n7:20 議員証授与から3週間の活動 事業との両立\n10:21 政治参加による仕事への影響\n14:49 民間感覚を保つ重要性 AIを活用した質問準備\n18:19 再生の道×AI（NotebookLM）で効率化\n24:30 現場重視の時間確保 議会システムの現実\n28:27 議会と執行部の権限分離 会派制度による制約\n35:04 初回質問の結果\n37:26 行政DX 見える化への質問 KPI設定不備が判明\n42:49 建設的な議員活動 協力的スタンスの重要性\n59:16 議員専門分野の見える化提案\n1:01:48 地域政治への呼びかけ 各地域の議会チェックを\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-12T09:39:54Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/vd5wwMa1v70/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/vd5wwMa1v70/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/vd5wwMa1v70/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/vd5wwMa1v70/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/vd5wwMa1v70/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 17917
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -359,7 +324,7 @@
               "height": 720
             }
           },
-          "viewCount": 7506,
+          "viewCount": 7508,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -662,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 1968
+          "viewCount": 1969
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -865,7 +830,7 @@
               "height": 720
             }
           },
-          "viewCount": 112
+          "viewCount": 577
         },
         {
           "videoId": "zqA4uKoWE1c",
@@ -935,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 695
+          "viewCount": 707
         },
         {
           "videoId": "C4Nf0veB_A8",
@@ -970,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 1154
+          "viewCount": 1160
         },
         {
           "videoId": "WyfmosR5XLI",
@@ -1217,7 +1182,7 @@
               "height": 720
             }
           },
-          "viewCount": 3192,
+          "viewCount": 3196,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T03:00:00Z",
@@ -1319,7 +1284,7 @@
               "height": 720
             }
           },
-          "viewCount": 10552,
+          "viewCount": 10559,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-12T23:00:00Z",
@@ -1426,50 +1391,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "0nflShm9vL8",
           "title": "街頭演説 狛江駅 12/19",
           "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】https://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行(出向)/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
-          "publishedAt": "2025-12-19T09:03:54Z",
+          "publishedAt": "2025-12-19T10:16:26Z",
           "channelTitle": "くれよしつぐ チャンネル【再生の道】",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/0nflShm9vL8/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/0nflShm9vL8/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/0nflShm9vL8/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/0nflShm9vL8/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/0nflShm9vL8/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/0nflShm9vL8/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/0nflShm9vL8/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/0nflShm9vL8/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/0nflShm9vL8/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/0nflShm9vL8/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 86,
+          "viewCount": 412,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-19T09:03:53Z",
             "actualStartTime": "2025-12-19T09:05:11Z",
-            "concurrentViewers": 127
+            "actualEndTime": "2025-12-19T10:03:12Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "Q6SpxYzPo7k",
           "title": "街頭演説 喜多見駅 12/17",
@@ -1503,7 +1467,7 @@
               "height": 720
             }
           },
-          "viewCount": 2975,
+          "viewCount": 2978,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T22:26:59Z",
@@ -1544,7 +1508,7 @@
               "height": 720
             }
           },
-          "viewCount": 4792,
+          "viewCount": 4793,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T10:04:09Z",
@@ -1585,7 +1549,7 @@
               "height": 720
             }
           },
-          "viewCount": 5611,
+          "viewCount": 5613,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T09:02:02Z",
@@ -1626,7 +1590,7 @@
               "height": 720
             }
           },
-          "viewCount": 3853,
+          "viewCount": 3852,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T03:30:00Z",
@@ -1933,7 +1897,7 @@
               "height": 720
             }
           },
-          "viewCount": 1357
+          "viewCount": 1362
         },
         {
           "videoId": "KSnlVIIFuAY",
@@ -1968,7 +1932,7 @@
               "height": 720
             }
           },
-          "viewCount": 1634
+          "viewCount": 1636
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
