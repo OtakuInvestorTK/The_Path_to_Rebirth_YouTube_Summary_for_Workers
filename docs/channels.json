@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-20T03:11:04.167Z",
+  "requestedAt": "2025-12-20T04:21:05.002Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "NfzHQ2u4Fb0",
+          "title": "【ご案内】再生の道マスコットキャラクター「みっちー」利用申請ガイド",
+          "description": "再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2025-12-20T04:05:38Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NfzHQ2u4Fb0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NfzHQ2u4Fb0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NfzHQ2u4Fb0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NfzHQ2u4Fb0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NfzHQ2u4Fb0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 353
+        },
         {
           "videoId": "EyGWftbmLKE",
           "title": "【今の行政DX、、、意味ないです】元市長が構造を問題点を解説!!",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 22212
+          "viewCount": 22434
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -92,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 21464
+          "viewCount": 21593
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -127,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 14789
+          "viewCount": 14829
         },
         {
           "videoId": "LIA57oAH07w",
@@ -162,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 12410
+          "viewCount": 12425
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -197,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 19696
+          "viewCount": 19719
         },
         {
           "videoId": "7WQrufCe1Jg",
@@ -232,7 +267,7 @@
               "height": 720
             }
           },
-          "viewCount": 32533,
+          "viewCount": 32587,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T12:00:00Z",
@@ -324,7 +359,7 @@
               "height": 720
             }
           },
-          "viewCount": 7596,
+          "viewCount": 7597,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -441,7 +476,7 @@
               "height": 720
             }
           },
-          "viewCount": 1843
+          "viewCount": 1862
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -830,7 +865,7 @@
               "height": 720
             }
           },
-          "viewCount": 1016
+          "viewCount": 1026
         },
         {
           "videoId": "zqA4uKoWE1c",
@@ -865,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 1113
+          "viewCount": 1117
         },
         {
           "videoId": "6XHvEfQuAzo",
@@ -900,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 789
+          "viewCount": 824
         },
         {
           "videoId": "C4Nf0veB_A8",
@@ -1182,7 +1217,7 @@
               "height": 720
             }
           },
-          "viewCount": 3214,
+          "viewCount": 3213,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T03:00:00Z",
@@ -1384,7 +1419,7 @@
               "height": 720
             }
           },
-          "viewCount": 4198,
+          "viewCount": 4205,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-19T09:03:53Z",
@@ -1425,7 +1460,7 @@
               "height": 720
             }
           },
-          "viewCount": 3005,
+          "viewCount": 3004,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T22:26:59Z",
@@ -1855,7 +1890,7 @@
               "height": 720
             }
           },
-          "viewCount": 1390
+          "viewCount": 1392
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
