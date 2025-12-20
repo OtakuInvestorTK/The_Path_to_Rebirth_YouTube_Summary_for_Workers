@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-19T23:14:51.737Z",
+  "requestedAt": "2025-12-20T01:08:39.821Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 20324
+          "viewCount": 21601
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 20987
+          "viewCount": 21242
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 14689
+          "viewCount": 14717
         },
         {
           "videoId": "LIA57oAH07w",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 12356
+          "viewCount": 12389
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -197,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 19539
+          "viewCount": 19621
         },
         {
           "videoId": "7WQrufCe1Jg",
@@ -232,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 32519,
+          "viewCount": 32533,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T12:00:00Z",
@@ -324,7 +324,7 @@
               "height": 720
             }
           },
-          "viewCount": 7579,
+          "viewCount": 7584,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -441,7 +441,7 @@
               "height": 720
             }
           },
-          "viewCount": 1840
+          "viewCount": 1843
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -627,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 1977
+          "viewCount": 1978
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -830,7 +830,7 @@
               "height": 720
             }
           },
-          "viewCount": 972
+          "viewCount": 994
         },
         {
           "videoId": "zqA4uKoWE1c",
@@ -865,7 +865,7 @@
               "height": 720
             }
           },
-          "viewCount": 1104
+          "viewCount": 1113
         },
         {
           "videoId": "6XHvEfQuAzo",
@@ -900,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 762
+          "viewCount": 789
         },
         {
           "videoId": "C4Nf0veB_A8",
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 1169
+          "viewCount": 1175
         },
         {
           "videoId": "WyfmosR5XLI",
@@ -1250,49 +1250,7 @@
           }
         }
       ],
-      "recentVideos": [
-        {
-          "videoId": "H6SoZWV2JRc",
-          "title": "第24回ミートアップオンライン",
-          "description": "皆さま、こんばんは。\n週末いかがお過ごしでしょうか？\n明日12月13日（土）8:00-8:30にてミートアップオンラインを開催予定です。\nお時間ある方はぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・西東京市クリーン作戦（次回明後日12/14 8:00〜）※8:00スタートに変更\n・最近嬉しかったことのご報告\n・学校の先生の忙しいエピソード\n・今週の今風ロシア語：「супер（スーペル）」（＝スラング的な「すごっ！」「最高！」）",
-          "publishedAt": "2025-12-12T23:54:09Z",
-          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/H6SoZWV2JRc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 10591,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-12T23:00:00Z",
-            "actualStartTime": "2025-12-12T22:59:21Z",
-            "actualEndTime": "2025-12-12T23:49:13Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
     },
     {
@@ -1426,7 +1384,7 @@
               "height": 720
             }
           },
-          "viewCount": 4127,
+          "viewCount": 4164,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-19T09:03:53Z",
@@ -1467,7 +1425,7 @@
               "height": 720
             }
           },
-          "viewCount": 3004,
+          "viewCount": 3005,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T22:26:59Z",
@@ -1590,7 +1548,7 @@
               "height": 720
             }
           },
-          "viewCount": 3863,
+          "viewCount": 3864,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T03:30:00Z",
@@ -1897,42 +1855,7 @@
               "height": 720
             }
           },
-          "viewCount": 1379
-        },
-        {
-          "videoId": "KSnlVIIFuAY",
-          "title": "ヨシヒコ・ライブSP with 吉田あやさん3",
-          "description": "いつそんなに猛勉強したの！",
-          "publishedAt": "2025-12-13T00:00:25Z",
-          "channelTitle": "増田よしひこ@再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/KSnlVIIFuAY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/KSnlVIIFuAY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/KSnlVIIFuAY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/KSnlVIIFuAY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/KSnlVIIFuAY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1644
+          "viewCount": 1387
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
