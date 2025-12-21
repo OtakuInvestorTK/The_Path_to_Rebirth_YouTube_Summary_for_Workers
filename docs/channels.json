@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-21T22:14:04.775Z",
+  "requestedAt": "2025-12-21T23:13:50.079Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -171,7 +171,7 @@
               "height": 720
             }
           },
-          "viewCount": 25135
+          "viewCount": 25108
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -206,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 23659
+          "viewCount": 23678
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 15610
+          "viewCount": 15615
         },
         {
           "videoId": "LIA57oAH07w",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 14229
+          "viewCount": 14230
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -346,7 +346,7 @@
               "height": 720
             }
           },
-          "viewCount": 33280,
+          "viewCount": 33306,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T12:00:00Z",
@@ -438,7 +438,7 @@
               "height": 720
             }
           },
-          "viewCount": 7708,
+          "viewCount": 7709,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -630,7 +630,7 @@
               "height": 720
             }
           },
-          "viewCount": 7462,
+          "viewCount": 7473,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T10:00:00Z",
@@ -713,43 +713,7 @@
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "DCI66JLnAt8",
-          "title": "【再生の道からタクドラの道】久しぶりの自撮り投稿です！山梨県石和温泉に来てます！",
-          "description": "",
-          "publishedAt": "2025-12-14T22:52:31Z",
-          "channelTitle": "やる気・元気・はるきチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/DCI66JLnAt8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/DCI66JLnAt8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/DCI66JLnAt8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/DCI66JLnAt8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/DCI66JLnAt8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1996
-        }
-      ],
+      "recentVideos": [],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
     },
     {
@@ -908,7 +872,7 @@
               "height": 720
             }
           },
-          "viewCount": 487
+          "viewCount": 492
         },
         {
           "videoId": "ZMZHD13ABck",
@@ -978,7 +942,7 @@
               "height": 720
             }
           },
-          "viewCount": 1187
+          "viewCount": 1188
         },
         {
           "videoId": "6XHvEfQuAzo",
@@ -1083,7 +1047,7 @@
               "height": 720
             }
           },
-          "viewCount": 2410
+          "viewCount": 2412
         },
         {
           "videoId": "Nhg5788P5Fc",
@@ -1260,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 3253,
+          "viewCount": 3254,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T03:00:00Z",
@@ -1327,7 +1291,7 @@
               "height": 720
             }
           },
-          "viewCount": 5351,
+          "viewCount": 5520,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-21T13:00:00Z",
@@ -1469,7 +1433,7 @@
               "height": 720
             }
           },
-          "viewCount": 4440,
+          "viewCount": 4439,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-19T09:03:53Z",
@@ -1900,7 +1864,7 @@
               "height": 720
             }
           },
-          "viewCount": 8054,
+          "viewCount": 8080,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T09:00:00Z",
@@ -2008,7 +1972,7 @@
               "height": 720
             }
           },
-          "viewCount": 441,
+          "viewCount": 442,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T11:03:51Z",
