@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-22T08:23:01.381Z",
+  "requestedAt": "2025-12-22T09:22:34.327Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -136,7 +136,7 @@
               "height": 720
             }
           },
-          "viewCount": 10781
+          "viewCount": 10813
         },
         {
           "videoId": "EyGWftbmLKE",
@@ -171,7 +171,7 @@
               "height": 720
             }
           },
-          "viewCount": 25316
+          "viewCount": 25335
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -206,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 23954
+          "viewCount": 23984
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 15687
+          "viewCount": 15704
         },
         {
           "videoId": "LIA57oAH07w",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 14275
+          "viewCount": 14288
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -311,7 +311,7 @@
               "height": 720
             }
           },
-          "viewCount": 20829
+          "viewCount": 20836
         },
         {
           "videoId": "7WQrufCe1Jg",
@@ -346,7 +346,7 @@
               "height": 720
             }
           },
-          "viewCount": 33380,
+          "viewCount": 33401,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T12:00:00Z",
@@ -438,7 +438,7 @@
               "height": 720
             }
           },
-          "viewCount": 7721,
+          "viewCount": 7733,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -630,7 +630,7 @@
               "height": 720
             }
           },
-          "viewCount": 7665,
+          "viewCount": 7685,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T10:00:00Z",
@@ -840,6 +840,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "GZhWyOkmeqk",
+          "title": "東京行きはワガママか？地方移住ブームの裏にある「残酷な真実」",
+          "description": "「東京に行くのはワガママだ」…そんな言葉に惑わされていませんか？\n今の時代、若者の東京一極集中は単なる憧れではなく、冷酷なデータに基づいた合理的な「生存戦略」です。\n地方と東京に横たわる圧倒的な格差、そして人生の「再挑戦」にかかるコストの差を解説します。\n\n### この動画で学べること\n\n* 地方に住むことで背負う「経済的ペナルティ」の正体\n* 東京が「何度でもやり直せる場所」である理由\n* コロナ禍の「地方回帰ブーム」が幻想だったという裏付け\n* 変化の激しい令和時代を生き抜くための最適な選択肢\n\n「失敗しても次がある」という環境に身を置くことこそが、現代における最強のリスクヘッジです。あなたの未来を守るためのヒントとして、ぜひ最後までご覧ください。\n\n### 各種リンク・SNSアカウント\n\n* 公式サイト：道は続くよどこまでも\n[https://sites.google.com/view/yanagisawa-takayuki/](https://sites.google.com/view/yanagisawa-takayuki/)\n* YouTube：やなぎさわ誉之(たかゆき)【道は続くよどこまでも】\n[https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM](https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM)\n* Twitter(X)：やなぎさわ誉之(たかゆき)【道は続くよどこまでも】\n[https://x.com/marcie_nocturne](https://x.com/marcie_nocturne)\n* Instagram：やなぎさわ 誉之 たかゆき\n[https://www.instagram.com/marcie_nocturne/](https://www.instagram.com/marcie_nocturne/)\n* TikTok：やなぎさわ誉之(たかゆき)【道は続くよどこまでも】\n[https://www.tiktok.com/@marcie_nocturne](https://www.tiktok.com/@marcie_nocturne)\n\n#東京一極集中 #生存戦略 #地方移住 #キャリア形成 #年収アップ #転職 #働き方 #格差社会 #やなぎさわ誉之 #YouTubeショート",
+          "publishedAt": "2025-12-22T09:00:23Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GZhWyOkmeqk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GZhWyOkmeqk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GZhWyOkmeqk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GZhWyOkmeqk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GZhWyOkmeqk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 220
+        },
+        {
           "videoId": "ZZo8Efewewg",
           "title": "なぜ若者は「東京」を目指すのか？経済格差とジェンダーから紐解く、残酷な生存戦略。",
           "description": "なぜ若者は、そして特に女性は地方を捨て、東京という「ブラックホール」を目指すのか？\n2024年、加速する東京一極集中の深層には、単なる憧れではない「経済的・社会的・心理的」な生存戦略が隠されています。\n地方が「圧力鍋」となり、東京が「労働力を消費する巨大な代謝装置」となる現実を、最新データから解剖します。\n\n---\n\n### 今回の動画のポイント\n\n「脱東京」は幻想だったのか？2024年の転入超過数は前年比+1万1000人と大幅に拡大しました。\n本動画では、地方に残ることの「経済的ペナルティ（年収43万円の壁）」、キャリアの安全性、そしてジェンダーバイアスからの「政治的亡命」という視点から、東京一極集中の正体を明らかにします。\nさらに、唯一の勝ち組・福岡市の成功要因や、2040年に訪れる「独身高齢者で溢れる街」という東京の終焉、そして私たちが取るべき「幸せのコスパ」を最大化する新戦略を提案します。\n\n---\n\n### タイムスタンプ\n\n00:00 なぜ、若者はみんな「東京」を目指すのか？\n00:18 地方は「圧力鍋」、東京は「ブラックホール」\n00:41 2024年、データが示す「東京回帰」の真実\n01:00 東京は若者を消費する「巨大な代謝装置」\n01:19 経済的生存戦略：40万円の年収格差\n01:38 「配属ガチャ」の恐怖とキャリアのセーフティネット\n01:58 静かなる離脱：なぜ女性は地方から逃げ出すのか\n02:17 相互監視の地方 vs 匿名性の楽園・東京\n02:35 「推し活格差」という文化インフラの問題\n02:54 東京生活のリアル：搾取される家賃とコスト\n03:11 地方の逆襲：福岡市が若者を惹きつける理由\n03:28 2040年問題：東京ブラックホールの終焉\n03:49 提案：これからの時代の「新しい生存戦略」\n04:08 あなたの「生存戦略」を、今、定めよ。\n\n---\n\n### 公式リンク・SNS\n\n最新情報や日常の活動はこちらからチェックしてください！\n\n■公式サイト：道は続くよどこまでも\n[https://sites.google.com/view/yanagisawa-takayuki/](https://sites.google.com/view/yanagisawa-takayuki/)\n\n■YouTubeチャンネル\n[https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM](https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM)\n\n■Twitter (X)\n[https://x.com/marcie_nocturne](https://x.com/marcie_nocturne)\n\n■Instagram\n[https://www.instagram.com/marcie_nocturne/](https://www.instagram.com/marcie_nocturne/)\n\n■TikTok\n[https://www.tiktok.com/@marcie_nocturne](https://www.tiktok.com/@marcie_nocturne)\n\n---\n\n### 関連ハッシュタグ\n\n#東京一極集中 #生存戦略 #地方創生 #2040年問題 #経済格差 #ジェンダー #福岡市 #推し活 #キャリア形成 #働き方",
@@ -872,7 +907,7 @@
               "height": 720
             }
           },
-          "viewCount": 621
+          "viewCount": 624
         },
         {
           "videoId": "ZMZHD13ABck",
@@ -1013,41 +1048,6 @@
             }
           },
           "viewCount": 1103
-        },
-        {
-          "videoId": "WyfmosR5XLI",
-          "title": "東京都の税金「1.5兆円」はどこへ消えた？ #Shorts",
-          "description": "東京都民の税金、年間1.5兆円が国に「奪われている」という話題をご存知ですか？\n「1.5兆円」というと、なんと岡山県や熊本県の年間予算に匹敵する金額です。\n\nこの動画では、SNSでも議論を呼んでいる東京都と国の税金を巡る対立構造をわかりやすく解説しました。\n\n・なぜ東京都のお金が地方へ移されるのか？（税収調整の仕組み）\n・東京都が主張する「応益課税」とは？\n・もしこの財源が東京にあれば、待機児童対策や高齢者福祉はどう変わる？\n\n単なる自治体同士の喧嘩ではなく、私たちが納めた税金がどう使われるべきかという、とても重要な問題です。\n皆さんは「稼いだ場所で使うべき」か「格差をなくすために配るべき」か、どう思いますか？\nぜひコメント欄で意見を聞かせてください！\n\n▼タイムスタンプ\n00:00 東京都の1.5兆円問題とは\n00:25 お金はどこへ？税収調整の仕組み\n00:55 東京都の主張「応益課税」\n01:29 生活への影響と金額の規模\n\n▼関連リンク\n公式サイト：道は続くよどこまでも\n[https://sites.google.com/view/yanagisawa-takayuki/](https://sites.google.com/view/yanagisawa-takayuki/)\n\nYouTube：やなぎさわ誉之(たかゆき)【道は続くよどこまでも】\n[https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM](https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM)\n\nTwitter：やなぎさわ誉之(たかゆき)【道は続くよどこまでも】\n[https://x.com/marcie_nocturne](https://x.com/marcie_nocturne)\n\nInstagram：やなぎさわ 誉之 たかゆき\n[https://www.instagram.com/marcie_nocturne/](https://www.instagram.com/marcie_nocturne/)\n\nTikTok：やなぎさわ誉之(たかゆき)【道は続くよどこまでも】\n[https://www.tiktok.com/@marcie_nocturne](https://www.tiktok.com/@marcie_nocturne)\n\n#東京都 #税金 #1.5兆円 #政治 #ニュース #地方交付税 #解説 #やなぎさわ誉之 #道は続くよどこまでも",
-          "publishedAt": "2025-12-15T09:00:53Z",
-          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/WyfmosR5XLI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/WyfmosR5XLI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/WyfmosR5XLI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/WyfmosR5XLI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/WyfmosR5XLI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2416
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1250,7 +1250,7 @@
               "height": 720
             }
           },
-          "viewCount": 7226,
+          "viewCount": 7369,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-21T13:00:00Z",
@@ -1392,7 +1392,7 @@
               "height": 720
             }
           },
-          "viewCount": 4451,
+          "viewCount": 4453,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-19T09:03:53Z",
@@ -1433,7 +1433,7 @@
               "height": 720
             }
           },
-          "viewCount": 3039,
+          "viewCount": 3041,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T22:26:59Z",
@@ -1474,7 +1474,7 @@
               "height": 720
             }
           },
-          "viewCount": 4843,
+          "viewCount": 4844,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-15T10:04:09Z",
@@ -1822,7 +1822,7 @@
               "height": 720
             }
           },
-          "viewCount": 8580,
+          "viewCount": 8650,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T09:00:00Z",
@@ -1889,7 +1889,7 @@
               "height": 720
             }
           },
-          "viewCount": 6101,
+          "viewCount": 6120,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T08:40:44Z",
@@ -1930,7 +1930,7 @@
               "height": 720
             }
           },
-          "viewCount": 446,
+          "viewCount": 447,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T11:03:51Z",
