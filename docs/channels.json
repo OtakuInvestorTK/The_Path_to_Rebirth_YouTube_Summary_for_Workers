@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-22T13:30:17.605Z",
+  "requestedAt": "2025-12-22T14:15:58.307Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1091,
+          "viewCount": 1764,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5948,
+          "viewCount": 6610,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 10907
+          "viewCount": 10932
         },
         {
           "videoId": "EyGWftbmLKE",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 25404
+          "viewCount": 25399
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 24118
+          "viewCount": 24158
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 15756
+          "viewCount": 15770
         },
         {
           "videoId": "LIA57oAH07w",
@@ -279,7 +279,7 @@
               "height": 720
             }
           },
-          "viewCount": 14304
+          "viewCount": 14309
         },
         {
           "videoId": "LjZoVp5yZA8",
@@ -314,48 +314,7 @@
               "height": 720
             }
           },
-          "viewCount": 20901
-        },
-        {
-          "videoId": "7WQrufCe1Jg",
-          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2025.12.15) -再生の道-",
-          "description": "再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-15T13:30:48Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/7WQrufCe1Jg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 33431,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-15T12:00:00Z",
-            "actualStartTime": "2025-12-15T12:00:37Z",
-            "actualEndTime": "2025-12-15T13:11:35Z"
-          }
+          "viewCount": 20922
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -441,7 +400,7 @@
               "height": 720
             }
           },
-          "viewCount": 7736,
+          "viewCount": 7744,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-16T12:00:00Z",
@@ -633,7 +592,7 @@
               "height": 720
             }
           },
-          "viewCount": 7819,
+          "viewCount": 7839,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T10:00:00Z",
@@ -875,7 +834,7 @@
               "height": 720
             }
           },
-          "viewCount": 738
+          "viewCount": 833
         },
         {
           "videoId": "ZZo8Efewewg",
@@ -945,7 +904,7 @@
               "height": 720
             }
           },
-          "viewCount": 1399
+          "viewCount": 1400
         },
         {
           "videoId": "zqA4uKoWE1c",
@@ -980,7 +939,7 @@
               "height": 720
             }
           },
-          "viewCount": 1121
+          "viewCount": 1122
         },
         {
           "videoId": "6XHvEfQuAzo",
@@ -1253,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 7955,
+          "viewCount": 8057,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-21T13:00:00Z",
@@ -1544,7 +1503,7 @@
               "height": 720
             }
           },
-          "viewCount": 896,
+          "viewCount": 1133,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1786,7 +1745,7 @@
               "height": 720
             }
           },
-          "viewCount": 8816,
+          "viewCount": 8832,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T09:00:00Z",
@@ -1853,7 +1812,7 @@
               "height": 720
             }
           },
-          "viewCount": 6181,
+          "viewCount": 6182,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T08:40:44Z",
@@ -1894,7 +1853,7 @@
               "height": 720
             }
           },
-          "viewCount": 447,
+          "viewCount": 452,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T11:03:51Z",
