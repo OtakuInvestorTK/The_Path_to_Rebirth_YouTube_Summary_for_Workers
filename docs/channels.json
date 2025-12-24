@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-24T12:31:30.513Z",
+  "requestedAt": "2025-12-24T13:28:02.961Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "ghH7pruoS1U",
           "title": "【未来のために、嫌われろ!!】前彦根市長/和田ひろゆきの政治エンジニアリング構想とは?",
@@ -56,15 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 989,
+          "viewCount": 1606,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
-            "actualStartTime": "2025-12-24T12:00:07Z"
+            "actualStartTime": "2025-12-24T12:00:07Z",
+            "actualEndTime": "2025-12-24T12:32:39Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "3aNEexxW7BI",
           "title": "[ 教えて都議会 ] 桐山ひとみ 議員（ミライ会議）",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 13965,
+          "viewCount": 14016,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 21336,
+          "viewCount": 21387,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -180,7 +180,7 @@
               "height": 720
             }
           },
-          "viewCount": 11709
+          "viewCount": 11737
         },
         {
           "videoId": "EyGWftbmLKE",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 26608
+          "viewCount": 26646
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 25268
+          "viewCount": 25293
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 5954,
+          "viewCount": 6004,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -691,36 +691,36 @@
           "videoId": "qKD0iRNWrvY",
           "title": "【再生の道】淳さんぽライブ【福島】",
           "description": "福島駅周辺を雑談しながら散歩する様子をお届けします。",
-          "publishedAt": "2025-12-24T00:13:49Z",
+          "publishedAt": "2025-12-24T12:50:51Z",
           "channelTitle": "村越淳太(府中)",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 643,
+          "viewCount": 660,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T00:13:49Z",
@@ -756,7 +756,7 @@
               "height": 480
             }
           },
-          "viewCount": 380,
+          "viewCount": 409,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T00:54:16Z",
@@ -848,7 +848,7 @@
               "height": 720
             }
           },
-          "viewCount": 135
+          "viewCount": 176
         },
         {
           "videoId": "9IlZ47vuWQc",
@@ -883,7 +883,7 @@
               "height": 720
             }
           },
-          "viewCount": 1343
+          "viewCount": 1358
         },
         {
           "videoId": "GZhWyOkmeqk",
@@ -953,7 +953,7 @@
               "height": 720
             }
           },
-          "viewCount": 836
+          "viewCount": 838
         },
         {
           "videoId": "ZMZHD13ABck",
@@ -1023,7 +1023,7 @@
               "height": 720
             }
           },
-          "viewCount": 1140
+          "viewCount": 1143
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1134,7 +1134,7 @@
               "height": 720
             }
           },
-          "viewCount": 6672
+          "viewCount": 6776
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1195,7 +1195,7 @@
               "height": 720
             }
           },
-          "viewCount": 1899,
+          "viewCount": 1920,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T03:00:00Z",
@@ -1262,7 +1262,7 @@
               "height": 720
             }
           },
-          "viewCount": 8977,
+          "viewCount": 8998,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-21T13:00:00Z",
@@ -1404,7 +1404,7 @@
               "height": 720
             }
           },
-          "viewCount": 4508,
+          "viewCount": 4511,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-19T09:03:53Z",
@@ -1471,7 +1471,7 @@
               "height": 720
             }
           },
-          "viewCount": 3089,
+          "viewCount": 3098,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1713,7 +1713,7 @@
               "height": 720
             }
           },
-          "viewCount": 2516
+          "viewCount": 2568
         },
         {
           "videoId": "m1qsFLEHeDU",
@@ -1748,7 +1748,7 @@
               "height": 720
             }
           },
-          "viewCount": 9627,
+          "viewCount": 9622,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T09:00:00Z",
