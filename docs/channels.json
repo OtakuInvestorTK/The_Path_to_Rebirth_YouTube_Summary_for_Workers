@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-23T23:14:09.997Z",
+  "requestedAt": "2025-12-24T01:12:00.472Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 13108,
+          "viewCount": 13281,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 20600,
+          "viewCount": 20781,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 11537
+          "viewCount": 11559
         },
         {
           "videoId": "EyGWftbmLKE",
@@ -214,7 +214,7 @@
               "height": 720
             }
           },
-          "viewCount": 26411
+          "viewCount": 26447
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -249,7 +249,7 @@
               "height": 720
             }
           },
-          "viewCount": 24944
+          "viewCount": 24992
         },
         {
           "videoId": "kh1J5YIo2jM",
@@ -284,7 +284,7 @@
               "height": 720
             }
           },
-          "viewCount": 16201
+          "viewCount": 16219
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -370,7 +370,7 @@
               "height": 720
             }
           },
-          "viewCount": 4773,
+          "viewCount": 5097,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -719,7 +719,85 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "AIYW3hmE3sc",
+          "title": "村越淳太(府中) がライブ配信中！",
+          "description": "",
+          "publishedAt": "2025-12-24T00:54:17Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AIYW3hmE3sc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AIYW3hmE3sc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AIYW3hmE3sc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AIYW3hmE3sc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 4,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-12-24T00:54:16Z",
+            "actualStartTime": "2025-12-24T00:56:11Z",
+            "concurrentViewers": 8
+          }
+        },
+        {
+          "videoId": "qKD0iRNWrvY",
+          "title": "【再生の道】淳さんぽライブ【福島】",
+          "description": "福島駅周辺を雑談しながら散歩する様子をお届けします。",
+          "publishedAt": "2025-12-24T00:13:49Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qKD0iRNWrvY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 32,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-12-24T00:13:49Z",
+            "actualStartTime": "2025-12-24T00:15:27Z",
+            "concurrentViewers": 1
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
@@ -804,7 +882,7 @@
               "height": 720
             }
           },
-          "viewCount": 966
+          "viewCount": 1043
         },
         {
           "videoId": "GZhWyOkmeqk",
@@ -839,7 +917,7 @@
               "height": 720
             }
           },
-          "viewCount": 1108
+          "viewCount": 1114
         },
         {
           "videoId": "ZZo8Efewewg",
@@ -874,7 +952,7 @@
               "height": 720
             }
           },
-          "viewCount": 779
+          "viewCount": 781
         },
         {
           "videoId": "ZMZHD13ABck",
@@ -1090,7 +1168,7 @@
               "height": 720
             }
           },
-          "viewCount": 5003
+          "viewCount": 5303
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1151,7 +1229,7 @@
               "height": 720
             }
           },
-          "viewCount": 1659,
+          "viewCount": 1689,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T03:00:00Z",
@@ -1218,7 +1296,7 @@
               "height": 720
             }
           },
-          "viewCount": 8875,
+          "viewCount": 8892,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-21T13:00:00Z",
@@ -1360,7 +1438,7 @@
               "height": 720
             }
           },
-          "viewCount": 4492,
+          "viewCount": 4493,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-19T09:03:53Z",
@@ -1468,7 +1546,7 @@
               "height": 720
             }
           },
-          "viewCount": 2884,
+          "viewCount": 2922,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1710,7 +1788,7 @@
               "height": 720
             }
           },
-          "viewCount": 1114
+          "viewCount": 1310
         },
         {
           "videoId": "m1qsFLEHeDU",
@@ -1745,7 +1823,7 @@
               "height": 720
             }
           },
-          "viewCount": 9500,
+          "viewCount": 9503,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T09:00:00Z",
@@ -1853,7 +1931,7 @@
               "height": 720
             }
           },
-          "viewCount": 475,
+          "viewCount": 476,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T11:03:51Z",
