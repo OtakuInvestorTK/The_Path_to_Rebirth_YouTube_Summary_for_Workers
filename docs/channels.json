@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-25T10:16:41.282Z",
+  "requestedAt": "2025-12-25T11:13:45.653Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8146,
+          "viewCount": 8311,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 14629,
+          "viewCount": 14655,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 22404,
+          "viewCount": 22528,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -180,7 +180,7 @@
               "height": 720
             }
           },
-          "viewCount": 11924
+          "viewCount": 11928
         },
         {
           "videoId": "EyGWftbmLKE",
@@ -301,7 +301,7 @@
               "height": 720
             }
           },
-          "viewCount": 6416,
+          "viewCount": 6433,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -685,7 +685,7 @@
               "height": 720
             }
           },
-          "viewCount": 797,
+          "viewCount": 812,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T00:13:49Z",
@@ -721,7 +721,7 @@
               "height": 480
             }
           },
-          "viewCount": 554,
+          "viewCount": 544,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T00:54:16Z",
@@ -778,7 +778,47 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "s91ABdMoxg8",
+          "title": "出張先から雑談配信in仙台",
+          "description": "仙台に滞在中、おそらく年内最後の配信になるため、急遽ライブ配信を行います！ ここ数日の各地の出張で得た気づきや、現在の活動についてゆるやかにお話しします。\n概要欄は後ほど内容を整理して再度アップしますが、まずは取り急ぎ\n\n🎙️ ストリーミングを始めたばかりですか、それともレベルアップを目指していますか？StreamYardをチェックして、$10の割引をゲット！😍 https://streamyard.com/pal/d/6288782636679168",
+          "publishedAt": "2025-12-25T10:18:15Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s91ABdMoxg8/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s91ABdMoxg8/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s91ABdMoxg8/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/s91ABdMoxg8/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/s91ABdMoxg8/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-25T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "_tzoYJWAkL4",
@@ -813,7 +853,7 @@
               "height": 720
             }
           },
-          "viewCount": 166
+          "viewCount": 252
         },
         {
           "videoId": "sL_Rcm4ETkU",
@@ -953,7 +993,7 @@
               "height": 720
             }
           },
-          "viewCount": 859
+          "viewCount": 875
         },
         {
           "videoId": "ZMZHD13ABck",
@@ -1067,6 +1107,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "tBwkns-xAMg",
+          "title": "いわさん、熊本の阿蘇を巡る",
+          "description": "---\nサブチャンネルをはじめました\nhttps://youtube.com/@challenger-iwasan?si=WA-V75GxDCz2Xiq7\n\n「チャレンジャーいわさんチャンネル」の名前で、71歳のいわさんが様々なアクティビティにチャレンジ中！\nチャンネル登録して新たな動画をお楽しみに！\n\n◆プロフィール\n大阪生まれ。\n1978年リクルート入社(26年間住まい情報事業)。49歳でリクルート退職後3社で勤務。\n2020年65歳で仕事を辞め、新設大学墨田区の「iU」に1期生として入学。3年生で退学。\n2025年「再生の道」1期生でエントリーし台東区で選出。東京都議会議員選挙に立候補したが当選ならず。\n2025年夏　次のチャレンジを模索中！",
+          "publishedAt": "2025-12-25T11:01:43Z",
+          "channelTitle": "いわさんチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tBwkns-xAMg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tBwkns-xAMg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tBwkns-xAMg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tBwkns-xAMg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tBwkns-xAMg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 48
+        },
+        {
           "videoId": "IkEZVB7CDLM",
           "title": "いわさん、再生の道１期生の増田さんと糸島を巡る",
           "description": "今回ご出演いただいた増田よしひこさんのYouTubeチャンネルはこちら\nhttps://youtube.com/channel/UCf82lQ2FSQFZNW2yhvcFt5Q?si=cuuiIOG85PrNFm1Z\n\n---\nサブチャンネルをはじめました\nhttps://youtube.com/@challenger-iwasan?si=WA-V75GxDCz2Xiq7\n\n「チャレンジャーいわさんチャンネル」の名前で、71歳のいわさんが様々なアクティビティにチャレンジ中！\nチャンネル登録して新たな動画をお楽しみに！\n\n◆プロフィール\n大阪生まれ。\n1978年リクルート入社(26年間住まい情報事業)。49歳でリクルート退職後3社で勤務。\n2020年65歳で仕事を辞め、新設大学墨田区の「iU」に1期生として入学。3年生で退学。\n2025年「再生の道」1期生でエントリーし台東区で選出。東京都議会議員選挙に立候補したが当選ならず。\n2025年夏　次のチャレンジを模索中！",
@@ -1099,7 +1174,7 @@
               "height": 720
             }
           },
-          "viewCount": 7578
+          "viewCount": 7632
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1160,7 +1235,7 @@
               "height": 720
             }
           },
-          "viewCount": 2073,
+          "viewCount": 2077,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T03:00:00Z",
@@ -1369,7 +1444,7 @@
               "height": 720
             }
           },
-          "viewCount": 1203,
+          "viewCount": 1616,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T07:55:00Z",
@@ -1477,7 +1552,7 @@
               "height": 720
             }
           },
-          "viewCount": 3333,
+          "viewCount": 3332,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1719,7 +1794,7 @@
               "height": 720
             }
           },
-          "viewCount": 2930
+          "viewCount": 2972
         },
         {
           "videoId": "m1qsFLEHeDU",
