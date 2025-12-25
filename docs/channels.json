@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-25T07:17:40.886Z",
+  "requestedAt": "2025-12-25T08:21:18.883Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7677,
+          "viewCount": 7845,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 14559,
+          "viewCount": 14589,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 22156,
+          "viewCount": 22217,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 26856
+          "viewCount": 26871
         },
         {
           "videoId": "7vOk6fxiDDc",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 25795
+          "viewCount": 25831
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 6372,
+          "viewCount": 6380,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -528,7 +528,7 @@
               "height": 720
             }
           },
-          "viewCount": 8203,
+          "viewCount": 8205,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T10:00:00Z",
@@ -848,7 +848,7 @@
               "height": 720
             }
           },
-          "viewCount": 433
+          "viewCount": 458
         },
         {
           "videoId": "9IlZ47vuWQc",
@@ -918,7 +918,7 @@
               "height": 720
             }
           },
-          "viewCount": 1202
+          "viewCount": 1205
         },
         {
           "videoId": "ZZo8Efewewg",
@@ -1023,7 +1023,7 @@
               "height": 720
             }
           },
-          "viewCount": 1157
+          "viewCount": 1158
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1134,7 +1134,7 @@
               "height": 720
             }
           },
-          "viewCount": 7407
+          "viewCount": 7469
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1195,7 +1195,7 @@
               "height": 720
             }
           },
-          "viewCount": 2051,
+          "viewCount": 2048,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T03:00:00Z",
@@ -1262,7 +1262,7 @@
               "height": 720
             }
           },
-          "viewCount": 9073,
+          "viewCount": 9086,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-21T13:00:00Z",
@@ -1369,7 +1369,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "3RfJKuTLOSI",
+          "title": "【再生の道】くれよしつぐ ミートアップオンライン vol.63",
+          "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】\nhttps://go2senkyo.com/seijika/196111\n\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2025-12-25T07:50:55Z",
+          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3RfJKuTLOSI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3RfJKuTLOSI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3RfJKuTLOSI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3RfJKuTLOSI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3RfJKuTLOSI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 402,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-12-25T07:55:00Z",
+            "actualStartTime": "2025-12-25T07:55:17Z",
+            "concurrentViewers": 231
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "0nflShm9vL8",
@@ -1404,7 +1446,7 @@
               "height": 720
             }
           },
-          "viewCount": 4530,
+          "viewCount": 4531,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-19T09:03:53Z",
@@ -1471,7 +1513,7 @@
               "height": 720
             }
           },
-          "viewCount": 3308,
+          "viewCount": 3311,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1713,7 +1755,7 @@
               "height": 720
             }
           },
-          "viewCount": 2875
+          "viewCount": 2912
         },
         {
           "videoId": "m1qsFLEHeDU",
@@ -1748,7 +1790,7 @@
               "height": 720
             }
           },
-          "viewCount": 9777,
+          "viewCount": 9787,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T09:00:00Z",
