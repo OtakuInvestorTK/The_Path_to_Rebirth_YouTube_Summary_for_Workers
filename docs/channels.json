@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-26T10:16:38.536Z",
+  "requestedAt": "2025-12-26T11:13:58.437Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9716,
+          "viewCount": 9754,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 15053,
+          "viewCount": 15071,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 24684,
+          "viewCount": 24796,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -180,7 +180,7 @@
               "height": 720
             }
           },
-          "viewCount": 12137
+          "viewCount": 12145
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -266,7 +266,7 @@
               "height": 720
             }
           },
-          "viewCount": 6586,
+          "viewCount": 6583,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -458,7 +458,7 @@
               "height": 720
             }
           },
-          "viewCount": 8248,
+          "viewCount": 8249,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T10:00:00Z",
@@ -778,7 +778,7 @@
               "height": 720
             }
           },
-          "viewCount": 133
+          "viewCount": 180
         },
         {
           "videoId": "s91ABdMoxg8",
@@ -808,7 +808,7 @@
               "height": 480
             }
           },
-          "viewCount": 841,
+          "viewCount": 853,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T12:00:00Z",
@@ -884,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 730
+          "viewCount": 732
         },
         {
           "videoId": "9IlZ47vuWQc",
@@ -989,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 914
+          "viewCount": 919
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1100,7 +1100,7 @@
               "height": 720
             }
           },
-          "viewCount": 2289
+          "viewCount": 2379
         },
         {
           "videoId": "IkEZVB7CDLM",
@@ -1135,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 8118
+          "viewCount": 8144
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1228,7 +1228,42 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "3B87G_OsAyI",
+          "title": "第26回ミートアップオンライン",
+          "description": "皆さま、こんばんは。\nもう年末ですね。\n\n明日今年最後のライブ配信をできたらと思います。\n【12/27土　朝8:00-8:30（予定）】\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・今年の振り返り\n・【共有】おすすめポッドキャスト番組「歴史を面白く学ぶコテンラジオ （COTEN RADIO）」\n・【おまけ】今週の今風ロシア語：「「круто」（クルータ）」＝「最高！」「すごい！」「かっこいい！」「イカしてる」",
+          "publishedAt": "2025-12-26T10:37:48Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-26T23:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "MO3NlRbQxIQ",
@@ -1263,7 +1298,7 @@
               "height": 720
             }
           },
-          "viewCount": 9161,
+          "viewCount": 9179,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-21T13:00:00Z",
@@ -1405,7 +1440,7 @@
               "height": 720
             }
           },
-          "viewCount": 3009,
+          "viewCount": 3024,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T07:55:00Z",
@@ -1472,7 +1507,7 @@
               "height": 720
             }
           },
-          "viewCount": 3472,
+          "viewCount": 3477,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1714,7 +1749,7 @@
               "height": 720
             }
           },
-          "viewCount": 3153
+          "viewCount": 3146
         },
         {
           "videoId": "m1qsFLEHeDU",
@@ -1749,7 +1784,7 @@
               "height": 720
             }
           },
-          "viewCount": 9951,
+          "viewCount": 9955,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T09:00:00Z",
