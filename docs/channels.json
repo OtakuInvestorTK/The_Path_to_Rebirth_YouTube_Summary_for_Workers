@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-27T12:28:53.435Z",
+  "requestedAt": "2025-12-27T13:24:33.170Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10434,
+          "viewCount": 10456,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 15668,
+          "viewCount": 15689,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 28089,
+          "viewCount": 28151,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -206,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 3623,
+          "viewCount": 3921,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 6705,
+          "viewCount": 6707,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -743,7 +743,7 @@
               "height": 720
             }
           },
-          "viewCount": 654
+          "viewCount": 673
         },
         {
           "videoId": "s91ABdMoxg8",
@@ -773,7 +773,7 @@
               "height": 480
             }
           },
-          "viewCount": 1164,
+          "viewCount": 1181,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T12:00:00Z",
@@ -814,7 +814,7 @@
               "height": 720
             }
           },
-          "viewCount": 2252
+          "viewCount": 2257
         },
         {
           "videoId": "sL_Rcm4ETkU",
@@ -849,7 +849,7 @@
               "height": 720
             }
           },
-          "viewCount": 861
+          "viewCount": 859
         },
         {
           "videoId": "9IlZ47vuWQc",
@@ -884,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 1299
+          "viewCount": 1300
         },
         {
           "videoId": "GZhWyOkmeqk",
@@ -1100,7 +1100,7 @@
               "height": 720
             }
           },
-          "viewCount": 8423
+          "viewCount": 8432
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1161,7 +1161,7 @@
               "height": 720
             }
           },
-          "viewCount": 2163,
+          "viewCount": 2164,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T03:00:00Z",
@@ -1228,7 +1228,7 @@
               "height": 720
             }
           },
-          "viewCount": 4564,
+          "viewCount": 4622,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-26T23:00:00Z",
@@ -1411,7 +1411,7 @@
               "height": 720
             }
           },
-          "viewCount": 3345,
+          "viewCount": 3388,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T07:55:00Z",
@@ -1478,7 +1478,7 @@
               "height": 720
             }
           },
-          "viewCount": 3588,
+          "viewCount": 3603,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1746,40 +1746,40 @@
         }
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "X_NnLUTU-M8",
           "title": "ダメ出し動画反省ライブ【西岡事務局長】年末SP",
           "description": "",
-          "publishedAt": "2025-12-27T06:36:37Z",
+          "publishedAt": "2025-12-27T13:07:03Z",
           "channelTitle": "加藤てつお【再生の道】1st Gen.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/X_NnLUTU-M8/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/X_NnLUTU-M8/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/X_NnLUTU-M8/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/X_NnLUTU-M8/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/X_NnLUTU-M8/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/X_NnLUTU-M8/hqdefault.jpg",
               "width": 480,
               "height": 360
             }
           },
-          "viewCount": 459,
+          "viewCount": 825,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-27T12:00:00Z",
             "actualStartTime": "2025-12-27T11:59:35Z",
-            "concurrentViewers": 203
+            "actualEndTime": "2025-12-27T12:54:07Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
