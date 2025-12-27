@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-27T09:15:11.738Z",
+  "requestedAt": "2025-12-27T10:14:57.238Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10362,
+          "viewCount": 10384,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 15601,
+          "viewCount": 15627,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 27864,
+          "viewCount": 27943,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -206,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 1826,
+          "viewCount": 2372,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 6693,
+          "viewCount": 6688,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -465,7 +465,7 @@
               "height": 720
             }
           },
-          "viewCount": 8283,
+          "viewCount": 8282,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-20T10:00:00Z",
@@ -657,7 +657,7 @@
               "height": 720
             }
           },
-          "viewCount": 838,
+          "viewCount": 839,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T00:13:49Z",
@@ -693,7 +693,7 @@
               "height": 480
             }
           },
-          "viewCount": 585,
+          "viewCount": 586,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T00:54:16Z",
@@ -785,7 +785,7 @@
               "height": 720
             }
           },
-          "viewCount": 619
+          "viewCount": 631
         },
         {
           "videoId": "s91ABdMoxg8",
@@ -815,7 +815,7 @@
               "height": 480
             }
           },
-          "viewCount": 1141,
+          "viewCount": 1148,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T12:00:00Z",
@@ -856,7 +856,7 @@
               "height": 720
             }
           },
-          "viewCount": 2062
+          "viewCount": 2217
         },
         {
           "videoId": "sL_Rcm4ETkU",
@@ -1107,7 +1107,7 @@
               "height": 720
             }
           },
-          "viewCount": 3622
+          "viewCount": 3670
         },
         {
           "videoId": "IkEZVB7CDLM",
@@ -1142,7 +1142,7 @@
               "height": 720
             }
           },
-          "viewCount": 8380
+          "viewCount": 8393
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1270,7 +1270,7 @@
               "height": 720
             }
           },
-          "viewCount": 4037,
+          "viewCount": 4214,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-26T23:00:00Z",
@@ -1311,7 +1311,7 @@
               "height": 720
             }
           },
-          "viewCount": 9249,
+          "viewCount": 9246,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-21T13:00:00Z",
@@ -1453,7 +1453,7 @@
               "height": 720
             }
           },
-          "viewCount": 3346,
+          "viewCount": 3343,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T07:55:00Z",
@@ -1520,7 +1520,7 @@
               "height": 720
             }
           },
-          "viewCount": 3570,
+          "viewCount": 3588,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1762,7 +1762,7 @@
               "height": 720
             }
           },
-          "viewCount": 3258
+          "viewCount": 3272
         },
         {
           "videoId": "m1qsFLEHeDU",
@@ -1860,49 +1860,7 @@
           }
         }
       ],
-      "recentVideos": [
-        {
-          "videoId": "itZ-d_mBe1w",
-          "title": "和田さんと忘年ライブ",
-          "description": "",
-          "publishedAt": "2025-12-20T09:32:46Z",
-          "channelTitle": "加藤てつお【再生の道】1st Gen.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/itZ-d_mBe1w/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/itZ-d_mBe1w/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/itZ-d_mBe1w/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/itZ-d_mBe1w/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/itZ-d_mBe1w/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6522,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-20T08:40:44Z",
-            "actualStartTime": "2025-12-20T08:42:46Z",
-            "actualEndTime": "2025-12-20T09:27:01Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
