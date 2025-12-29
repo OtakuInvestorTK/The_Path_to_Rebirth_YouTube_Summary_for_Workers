@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-28T23:14:11.807Z",
+  "requestedAt": "2025-12-29T01:19:00.624Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "iB8XMuB38zk",
+          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2025.12.29) -再生の道-",
+          "description": "2025年、ラスト配信です！！\n\n****************************************************************\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2025-12-29T00:44:42Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iB8XMuB38zk/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iB8XMuB38zk/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iB8XMuB38zk/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iB8XMuB38zk/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iB8XMuB38zk/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2025-12-29T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "ghH7pruoS1U",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 10999,
+          "viewCount": 11014,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -98,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 16169,
+          "viewCount": 16198,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -139,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 29447,
+          "viewCount": 29487,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -206,7 +246,7 @@
               "height": 720
             }
           },
-          "viewCount": 3092
+          "viewCount": 3155
         },
         {
           "videoId": "v4RJxX1n4CQ",
@@ -241,7 +281,7 @@
               "height": 720
             }
           },
-          "viewCount": 5828,
+          "viewCount": 5852,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -308,7 +348,7 @@
               "height": 720
             }
           },
-          "viewCount": 6806,
+          "viewCount": 6810,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -425,7 +465,7 @@
               "height": 720
             }
           },
-          "viewCount": 3989
+          "viewCount": 4263
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -814,7 +854,7 @@
               "height": 720
             }
           },
-          "viewCount": 914
+          "viewCount": 931
         },
         {
           "videoId": "s91ABdMoxg8",
@@ -844,7 +884,7 @@
               "height": 480
             }
           },
-          "viewCount": 1258,
+          "viewCount": 1242,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T12:00:00Z",
@@ -885,7 +925,7 @@
               "height": 720
             }
           },
-          "viewCount": 2299
+          "viewCount": 2149
         },
         {
           "videoId": "sL_Rcm4ETkU",
@@ -920,7 +960,7 @@
               "height": 720
             }
           },
-          "viewCount": 724
+          "viewCount": 726
         },
         {
           "videoId": "9IlZ47vuWQc",
@@ -955,7 +995,7 @@
               "height": 720
             }
           },
-          "viewCount": 1328
+          "viewCount": 1333
         },
         {
           "videoId": "GZhWyOkmeqk",
@@ -990,7 +1030,7 @@
               "height": 720
             }
           },
-          "viewCount": 1131
+          "viewCount": 1132
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1101,7 +1141,7 @@
               "height": 720
             }
           },
-          "viewCount": 4073
+          "viewCount": 4075
         },
         {
           "videoId": "IkEZVB7CDLM",
@@ -1136,7 +1176,7 @@
               "height": 720
             }
           },
-          "viewCount": 8670
+          "viewCount": 8664
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1264,7 +1304,7 @@
               "height": 720
             }
           },
-          "viewCount": 6009,
+          "viewCount": 6055,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-26T23:00:00Z",
@@ -1406,7 +1446,7 @@
               "height": 720
             }
           },
-          "viewCount": 3458,
+          "viewCount": 3461,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T07:55:00Z",
@@ -1473,7 +1513,7 @@
               "height": 720
             }
           },
-          "viewCount": 3651,
+          "viewCount": 3657,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T11:00:00Z",
@@ -1766,7 +1806,7 @@
               "height": 360
             }
           },
-          "viewCount": 3082,
+          "viewCount": 3090,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-27T12:00:00Z",
