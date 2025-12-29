@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-29T09:24:58.525Z",
+  "requestedAt": "2025-12-29T10:17:38.200Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 11164,
+          "viewCount": 11170,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 16274,
+          "viewCount": 16271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T13:15:00Z",
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 29590,
+          "viewCount": 29661,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T12:00:00Z",
@@ -246,7 +246,7 @@
               "height": 720
             }
           },
-          "viewCount": 3323
+          "viewCount": 3342
         },
         {
           "videoId": "v4RJxX1n4CQ",
@@ -281,7 +281,7 @@
               "height": 720
             }
           },
-          "viewCount": 5961,
+          "viewCount": 5973,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -348,7 +348,7 @@
               "height": 720
             }
           },
-          "viewCount": 6816,
+          "viewCount": 6821,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -465,7 +465,7 @@
               "height": 720
             }
           },
-          "viewCount": 5761
+          "viewCount": 6006
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -616,7 +616,8 @@
         }
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "5JDbeKfVMko",
           "title": "やる気・元気・はるきチャンネル がライブ配信中！",
@@ -650,16 +651,14 @@
               "height": 720
             }
           },
-          "viewCount": 27,
+          "viewCount": 93,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
             "actualStartTime": "2025-12-29T09:10:01Z",
-            "concurrentViewers": 53
+            "actualEndTime": "2025-12-29T10:11:32Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "QqhTUXHZ5eY",
           "title": "やる気・元気・はるきチャンネル がライブ配信中！",
@@ -693,7 +692,7 @@
               "height": 720
             }
           },
-          "viewCount": 36,
+          "viewCount": 44,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:01:12Z",
@@ -810,7 +809,7 @@
               "height": 720
             }
           },
-          "viewCount": 847,
+          "viewCount": 848,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T00:13:49Z",
@@ -1009,7 +1008,7 @@
               "height": 720
             }
           },
-          "viewCount": 2150
+          "viewCount": 2272
         },
         {
           "videoId": "sL_Rcm4ETkU",
@@ -1044,7 +1043,7 @@
               "height": 720
             }
           },
-          "viewCount": 726
+          "viewCount": 727
         },
         {
           "videoId": "9IlZ47vuWQc",
@@ -1190,7 +1189,7 @@
               "height": 720
             }
           },
-          "viewCount": 4130
+          "viewCount": 4115
         },
         {
           "videoId": "IkEZVB7CDLM",
@@ -1225,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 8702
+          "viewCount": 8704
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1286,7 +1285,7 @@
               "height": 720
             }
           },
-          "viewCount": 2216,
+          "viewCount": 2217,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T03:00:00Z",
@@ -1353,7 +1352,7 @@
               "height": 720
             }
           },
-          "viewCount": 6173,
+          "viewCount": 6186,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-26T23:00:00Z",
@@ -1804,7 +1803,7 @@
               "height": 720
             }
           },
-          "viewCount": 3400
+          "viewCount": 3403
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1855,7 +1854,7 @@
               "height": 360
             }
           },
-          "viewCount": 3143,
+          "viewCount": 3144,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-27T12:00:00Z",
