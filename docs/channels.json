@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-29T22:14:52.563Z",
+  "requestedAt": "2025-12-29T23:14:14.149Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16141,
+          "viewCount": 16634,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 3514
+          "viewCount": 3522
         },
         {
           "videoId": "v4RJxX1n4CQ",
@@ -267,7 +267,7 @@
               "height": 720
             }
           },
-          "viewCount": 6841,
+          "viewCount": 6843,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 8711
+          "viewCount": 8748
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -541,36 +541,36 @@
           "videoId": "5JDbeKfVMko",
           "title": "やる気・元気・はるきチャンネル がライブ配信中！",
           "description": "",
-          "publishedAt": "2025-12-29T09:09:18Z",
+          "publishedAt": "2025-12-29T22:15:04Z",
           "channelTitle": "やる気・元気・はるきチャンネル",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/5JDbeKfVMko/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 955,
+          "viewCount": 962,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
@@ -1230,7 +1230,7 @@
               "height": 720
             }
           },
-          "viewCount": 6354,
+          "viewCount": 6357,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-26T23:00:00Z",
@@ -1681,7 +1681,7 @@
               "height": 720
             }
           },
-          "viewCount": 3418
+          "viewCount": 3417
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
