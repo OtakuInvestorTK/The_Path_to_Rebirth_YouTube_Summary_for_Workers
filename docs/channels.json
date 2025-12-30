@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-30T11:14:36.917Z",
+  "requestedAt": "2025-12-30T12:31:47.526Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 20997,
+          "viewCount": 21372,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 11402,
+          "viewCount": 11438,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 6163,
+          "viewCount": 6165,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -267,7 +267,7 @@
               "height": 720
             }
           },
-          "viewCount": 6859,
+          "viewCount": 6864,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 9630
+          "viewCount": 9918
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -570,7 +570,7 @@
               "height": 720
             }
           },
-          "viewCount": 1336,
+          "viewCount": 1412,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
@@ -845,7 +845,7 @@
               "height": 480
             }
           },
-          "viewCount": 1262,
+          "viewCount": 1263,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T12:00:00Z",
@@ -921,7 +921,7 @@
               "height": 720
             }
           },
-          "viewCount": 748
+          "viewCount": 750
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1088,7 +1088,7 @@
               "height": 480
             }
           },
-          "viewCount": 1622,
+          "viewCount": 1833,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-30T03:00:00Z",
@@ -1155,7 +1155,7 @@
               "height": 720
             }
           },
-          "viewCount": 6459,
+          "viewCount": 6470,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-26T23:00:00Z",
@@ -1297,7 +1297,7 @@
               "height": 720
             }
           },
-          "viewCount": 3533,
+          "viewCount": 3537,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T07:55:00Z",
@@ -1530,43 +1530,7 @@
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "dDOqfL5yCik",
-          "title": "善福寺川上流地下貯水池の問題に迫る！",
-          "description": "東京都杉並区にある善福寺川緑地に巨大なトンネルが作られ、子供達の遊び場ロケット公園がなくなる件。\n\nその理由を知っていますか？この問題について、なるべくフラットに、ニュートラルに解説しました。\n\nこれは、賛成、反対を促すためのものではなく、一人一人が、自分の町にも知らない間に起きうる(あるいはもう起こっている）事例として、考えるきっかけになっていただければ嬉しいです。\n\n#杉並区#善福寺川緑地#善福寺川上流地下貯水池#ロケット公園#都市計画決定",
-          "publishedAt": "2025-12-23T11:35:56Z",
-          "channelTitle": "増田よしひこ@再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/dDOqfL5yCik/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/dDOqfL5yCik/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/dDOqfL5yCik/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/dDOqfL5yCik/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/dDOqfL5yCik/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3427
-        }
-      ],
+      "recentVideos": [],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
     },
     {
@@ -1615,7 +1579,7 @@
               "height": 360
             }
           },
-          "viewCount": 3320,
+          "viewCount": 3335,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-27T12:00:00Z",
