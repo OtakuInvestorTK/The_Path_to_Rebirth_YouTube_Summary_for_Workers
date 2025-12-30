@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-30T03:23:28.077Z",
+  "requestedAt": "2025-12-30T04:34:37.729Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 18781,
+          "viewCount": 19165,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 11342,
+          "viewCount": 11366,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T12:00:00Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 3553
+          "viewCount": 3539
         },
         {
           "videoId": "v4RJxX1n4CQ",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 6118,
+          "viewCount": 6114,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -267,7 +267,7 @@
               "height": 720
             }
           },
-          "viewCount": 6846,
+          "viewCount": 6847,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T12:00:00Z",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 8982
+          "viewCount": 9042
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -570,7 +570,7 @@
               "height": 720
             }
           },
-          "viewCount": 1152,
+          "viewCount": 1169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
@@ -815,7 +815,7 @@
               "height": 720
             }
           },
-          "viewCount": 869
+          "viewCount": 870
         },
         {
           "videoId": "s91ABdMoxg8",
@@ -845,7 +845,7 @@
               "height": 480
             }
           },
-          "viewCount": 1259,
+          "viewCount": 1260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T12:00:00Z",
@@ -886,7 +886,7 @@
               "height": 720
             }
           },
-          "viewCount": 2278
+          "viewCount": 2279
         },
         {
           "videoId": "sL_Rcm4ETkU",
@@ -921,7 +921,7 @@
               "height": 720
             }
           },
-          "viewCount": 747
+          "viewCount": 745
         },
         {
           "videoId": "9IlZ47vuWQc",
@@ -1102,7 +1102,7 @@
               "height": 720
             }
           },
-          "viewCount": 8750
+          "viewCount": 8757
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1133,7 +1133,7 @@
         {
           "videoId": "5TmgJr8Orpk",
           "title": "【12/30 12:00配信】ご報告と御礼　天野こころのこころトーク#21",
-          "description": "5分ほど今年のご報告と御礼を申し上げます。",
+          "description": "10分ほど今年のご報告と御礼を申し上げます。",
           "publishedAt": "2025-12-30T03:19:08Z",
           "channelTitle": "天野こころ",
           "thumbnails": {
@@ -1156,60 +1156,14 @@
               "url": "https://i.ytimg.com/vi/5TmgJr8Orpk/sddefault.jpg",
               "width": 640,
               "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/5TmgJr8Orpk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
             }
           },
-          "viewCount": 135,
+          "viewCount": 345,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-30T03:00:00Z",
             "actualStartTime": "2025-12-30T03:02:10Z",
             "actualEndTime": "2025-12-30T03:16:11Z"
-          }
-        },
-        {
-          "videoId": "xQ1tI2QZ45w",
-          "title": "【12/23 12:00配信】天野こころのこころトーク#20",
-          "description": "【内容】\n・今週の活動報告\n・保守的か進歩的か？\n・年越しそばとおせち\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​\n\n▽ホームページ\nhttps://amano-cocoro.com/​\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/...​\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano​\n\ninstagram / ID : @cocoro_amano\n   / cocoro_amano  ​",
-          "publishedAt": "2025-12-23T04:15:34Z",
-          "channelTitle": "天野こころ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/xQ1tI2QZ45w/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/xQ1tI2QZ45w/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/xQ1tI2QZ45w/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/xQ1tI2QZ45w/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/xQ1tI2QZ45w/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2250,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-23T03:00:00Z",
-            "actualStartTime": "2025-12-23T02:58:24Z",
-            "actualEndTime": "2025-12-23T04:02:03Z"
           }
         }
       ],
@@ -1413,7 +1367,7 @@
               "height": 720
             }
           },
-          "viewCount": 3519,
+          "viewCount": 3523,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T07:55:00Z",
