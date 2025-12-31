@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2025-12-31T11:14:20.842Z",
+  "requestedAt": "2025-12-31T12:30:40.956Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6591
+          "viewCount": 7306
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 1261
+          "viewCount": 1437
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 4961
+          "viewCount": 5476
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -162,53 +162,12 @@
               "height": 720
             }
           },
-          "viewCount": 24170,
+          "viewCount": 24220,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
             "actualStartTime": "2025-12-29T12:00:52Z",
             "actualEndTime": "2025-12-29T12:56:29Z"
-          }
-        },
-        {
-          "videoId": "ghH7pruoS1U",
-          "title": "【未来のために、嫌われろ!!】前彦根市長/和田ひろゆきの政治エンジニアリング構想とは?",
-          "description": "【AI時代をどう生き抜くか!!】前彦根市長/和田ひろゆきがアドバイザーに就任!!メンバーに伝えたいメッセージとは?\nhttps://youtu.be/7vOk6fxiDDc\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-24T12:00:07Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ghH7pruoS1U/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ghH7pruoS1U/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ghH7pruoS1U/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ghH7pruoS1U/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ghH7pruoS1U/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 11590,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-24T12:00:00Z",
-            "actualStartTime": "2025-12-24T12:00:07Z",
-            "actualEndTime": "2025-12-24T12:32:39Z"
           }
         }
       ],
@@ -235,48 +194,49 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "L7k9qP1frUU",
           "title": "Personal is Political",
           "description": "来年をすっきりと迎えるために、悩みをそっと置いておくためだけの場を開きたいと思います。\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2025-12-31T09:47:30Z",
+          "publishedAt": "2025-12-31T12:14:14Z",
           "channelTitle": "奥村こうき | 再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/L7k9qP1frUU/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 989,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2025-12-31T11:30:25Z"
+            "status": "completed",
+            "scheduledStartTime": "2025-12-31T11:30:25Z",
+            "actualStartTime": "2025-12-31T11:32:57Z",
+            "actualEndTime": "2025-12-31T12:01:40Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "0ikXVpDRlZU",
           "title": "府中に来たら、街を綺麗にしている素敵な方々に出会いました。",
@@ -310,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 3754
+          "viewCount": 3755
         },
         {
           "videoId": "v4RJxX1n4CQ",
@@ -345,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 6223,
+          "viewCount": 6244,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -412,7 +372,7 @@
               "height": 720
             }
           },
-          "viewCount": 2468,
+          "viewCount": 2723,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -529,7 +489,7 @@
               "height": 720
             }
           },
-          "viewCount": 23224
+          "viewCount": 23852
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -782,7 +742,7 @@
               "height": 720
             }
           },
-          "viewCount": 889,
+          "viewCount": 898,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -1123,7 +1083,7 @@
               "height": 720
             }
           },
-          "viewCount": 2909,
+          "viewCount": 3223,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T03:05:00Z",
@@ -1190,7 +1150,7 @@
               "height": 720
             }
           },
-          "viewCount": 4243
+          "viewCount": 4247
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1246,7 +1206,7 @@
               "height": 480
             }
           },
-          "viewCount": 2584,
+          "viewCount": 2591,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-30T03:00:00Z",
@@ -1313,7 +1273,7 @@
               "height": 720
             }
           },
-          "viewCount": 6649,
+          "viewCount": 6646,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-26T23:00:00Z",
@@ -1737,7 +1697,7 @@
               "height": 360
             }
           },
-          "viewCount": 3505,
+          "viewCount": 3510,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-27T12:00:00Z",
