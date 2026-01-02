@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-02T11:13:57.006Z",
+  "requestedAt": "2026-01-02T12:30:10.559Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14140
+          "viewCount": 14280
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2866
+          "viewCount": 2906
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 10827
+          "viewCount": 10924
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 25030,
+          "viewCount": 25052,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 3572,
+          "viewCount": 3611,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -270,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 3900
+          "viewCount": 3901
         },
         {
           "videoId": "v4RJxX1n4CQ",
@@ -305,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 6341,
+          "viewCount": 6342,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -372,7 +372,7 @@
               "height": 720
             }
           },
-          "viewCount": 3845,
+          "viewCount": 3848,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -489,7 +489,7 @@
               "height": 720
             }
           },
-          "viewCount": 526
+          "viewCount": 553
         },
         {
           "videoId": "LiVo2koqiCw",
@@ -524,7 +524,7 @@
               "height": 720
             }
           },
-          "viewCount": 36068
+          "viewCount": 36290
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -777,7 +777,7 @@
               "height": 720
             }
           },
-          "viewCount": 1556,
+          "viewCount": 1570,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -969,7 +969,7 @@
               "height": 720
             }
           },
-          "viewCount": 4848,
+          "viewCount": 4856,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T03:05:00Z",
@@ -1061,7 +1061,7 @@
               "height": 720
             }
           },
-          "viewCount": 5711
+          "viewCount": 5819
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1091,7 +1091,7 @@
               "height": 480
             }
           },
-          "viewCount": 2775,
+          "viewCount": 2785,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-30T03:00:00Z",
@@ -1158,7 +1158,7 @@
               "height": 720
             }
           },
-          "viewCount": 6790,
+          "viewCount": 6799,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-26T23:00:00Z",
@@ -1341,7 +1341,43 @@
       },
       "channelId": "UCbnf2Gl6Pra9DPDeMBV2a3w",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "48mrlgzkC08",
+          "title": "謹賀新年 2026",
+          "description": "",
+          "publishedAt": "2026-01-02T11:44:55Z",
+          "channelTitle": "南貴大 再生の道 チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/48mrlgzkC08/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/48mrlgzkC08/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/48mrlgzkC08/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/48mrlgzkC08/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/48mrlgzkC08/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 108
+        }
+      ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
     },
     {
@@ -1540,7 +1576,7 @@
               "height": 360
             }
           },
-          "viewCount": 3596,
+          "viewCount": 3597,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-27T12:00:00Z",
