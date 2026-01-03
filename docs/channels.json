@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-02T23:14:24.526Z",
+  "requestedAt": "2026-01-03T01:10:05.476Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14982
+          "viewCount": 15031
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3163
+          "viewCount": 3171
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 11504
+          "viewCount": 11559
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 25264,
+          "viewCount": 25275,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 3883,
+          "viewCount": 3903,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -270,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 3941
+          "viewCount": 3943
         },
         {
           "videoId": "v4RJxX1n4CQ",
@@ -305,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 6353,
+          "viewCount": 6358,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-25T10:28:45Z",
@@ -372,7 +372,7 @@
               "height": 720
             }
           },
-          "viewCount": 3970,
+          "viewCount": 3986,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -489,7 +489,7 @@
               "height": 720
             }
           },
-          "viewCount": 785
+          "viewCount": 804
         },
         {
           "videoId": "LiVo2koqiCw",
@@ -710,7 +710,7 @@
               "height": 720
             }
           },
-          "viewCount": 1636,
+          "viewCount": 1637,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
@@ -777,7 +777,7 @@
               "height": 720
             }
           },
-          "viewCount": 1742,
+          "viewCount": 1764,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -969,7 +969,7 @@
               "height": 720
             }
           },
-          "viewCount": 5036,
+          "viewCount": 5103,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T03:05:00Z",
@@ -1061,7 +1061,7 @@
               "height": 720
             }
           },
-          "viewCount": 6429
+          "viewCount": 6529
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1124,49 +1124,7 @@
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "3B87G_OsAyI",
-          "title": "第26回ミートアップオンライン",
-          "description": "皆さま、こんばんは。\nもう年末ですね。\n\n明日今年最後のライブ配信をできたらと思います。\n【12/27土　朝8:00-8:30（予定）】\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・今年の振り返り\n・【共有】おすすめポッドキャスト番組「歴史を面白く学ぶコテンラジオ （COTEN RADIO）」\n・【おまけ】今週の今風ロシア語：「「круто」（クルータ）」＝「最高！」「すごい！」「かっこいい！」「イカしてる」",
-          "publishedAt": "2025-12-26T23:53:57Z",
-          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/3B87G_OsAyI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6835,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-26T23:00:00Z",
-            "actualStartTime": "2025-12-26T22:59:26Z",
-            "actualEndTime": "2025-12-26T23:50:06Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
     },
     {
@@ -1375,7 +1333,7 @@
               "height": 720
             }
           },
-          "viewCount": 835
+          "viewCount": 891
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1576,7 +1534,7 @@
               "height": 360
             }
           },
-          "viewCount": 3633,
+          "viewCount": 3636,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-27T12:00:00Z",
