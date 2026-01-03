@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-03T04:27:57.767Z",
+  "requestedAt": "2026-01-03T05:16:44.552Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 412
+          "viewCount": 944
         },
         {
           "videoId": "VDj-okRxFCo",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 15142
+          "viewCount": 15182
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 3233
+          "viewCount": 3244
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 11760
+          "viewCount": 11799
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -192,7 +192,7 @@
               "height": 720
             }
           },
-          "viewCount": 25371,
+          "viewCount": 25377,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -259,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 3960,
+          "viewCount": 3971,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -300,7 +300,7 @@
               "height": 720
             }
           },
-          "viewCount": 3959
+          "viewCount": 3965
         },
         {
           "videoId": "v4RJxX1n4CQ",
@@ -402,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 4040,
+          "viewCount": 4050,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -519,7 +519,7 @@
               "height": 720
             }
           },
-          "viewCount": 865
+          "viewCount": 896
         },
         {
           "videoId": "LiVo2koqiCw",
@@ -705,7 +705,8 @@
         }
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "zEeRONiQMj8",
           "title": "やる気・元気・はるきチャンネル がライブ配信中！",
@@ -739,16 +740,14 @@
               "height": 720
             }
           },
-          "viewCount": 4,
+          "viewCount": 16,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
             "actualStartTime": "2026-01-03T04:10:01Z",
-            "concurrentViewers": 2
+            "actualEndTime": "2026-01-03T04:50:19Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "qa4fJ7JivQo",
           "title": "やる気・元気・はるきチャンネル がライブ配信中！",
@@ -782,7 +781,7 @@
               "height": 720
             }
           },
-          "viewCount": 56,
+          "viewCount": 169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -823,7 +822,7 @@
               "height": 720
             }
           },
-          "viewCount": 1637,
+          "viewCount": 1638,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
@@ -890,7 +889,7 @@
               "height": 720
             }
           },
-          "viewCount": 1829,
+          "viewCount": 1838,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -947,7 +946,8 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "S7i9F67xD6M",
           "title": "【府中市】淳さんぽライブ【大國魂神社】",
@@ -981,16 +981,15 @@
               "height": 720
             }
           },
-          "viewCount": 108,
+          "viewCount": 246,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
             "actualStartTime": "2026-01-03T03:30:02Z",
-            "concurrentViewers": 20
+            "actualEndTime": "2026-01-03T04:28:41Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -1124,7 +1123,7 @@
               "height": 720
             }
           },
-          "viewCount": 5218,
+          "viewCount": 5246,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T03:05:00Z",
@@ -1216,7 +1215,7 @@
               "height": 720
             }
           },
-          "viewCount": 6661
+          "viewCount": 6713
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1488,7 +1487,7 @@
               "height": 720
             }
           },
-          "viewCount": 1006
+          "viewCount": 1031
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
