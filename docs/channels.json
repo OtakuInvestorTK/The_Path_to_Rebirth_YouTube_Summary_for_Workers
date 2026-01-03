@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-03T17:12:38.011Z",
+  "requestedAt": "2026-01-03T18:20:56.824Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 4501
+          "viewCount": 4598
         },
         {
           "videoId": "VDj-okRxFCo",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 15926
+          "viewCount": 15957
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 12402
+          "viewCount": 12436
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -259,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 4231,
+          "viewCount": 4279,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -300,7 +300,7 @@
               "height": 720
             }
           },
-          "viewCount": 4012
+          "viewCount": 4040
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -361,7 +361,7 @@
               "height": 720
             }
           },
-          "viewCount": 4176,
+          "viewCount": 4195,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -513,7 +513,7 @@
               "height": 720
             }
           },
-          "viewCount": 39008
+          "viewCount": 39171
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -699,7 +699,7 @@
               "height": 720
             }
           },
-          "viewCount": 220,
+          "viewCount": 218,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -740,7 +740,7 @@
               "height": 720
             }
           },
-          "viewCount": 564,
+          "viewCount": 562,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -781,7 +781,7 @@
               "height": 720
             }
           },
-          "viewCount": 1659,
+          "viewCount": 1658,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
@@ -911,36 +911,36 @@
           "videoId": "S7i9F67xD6M",
           "title": "【府中市】淳さんぽライブ【大國魂神社】",
           "description": "府中市大國魂神社のお正月の様子をお届けします",
-          "publishedAt": "2025-12-24T01:06:05Z",
+          "publishedAt": "2026-01-03T17:25:34Z",
           "channelTitle": "村越淳太(府中)",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1268,
+          "viewCount": 1280,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -1174,7 +1174,7 @@
               "height": 720
             }
           },
-          "viewCount": 7098
+          "viewCount": 7118
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1204,7 +1204,7 @@
               "height": 480
             }
           },
-          "viewCount": 2826,
+          "viewCount": 2825,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-30T03:00:00Z",
