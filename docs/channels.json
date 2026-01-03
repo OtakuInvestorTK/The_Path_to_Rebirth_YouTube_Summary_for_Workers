@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-03T22:13:59.585Z",
+  "requestedAt": "2026-01-03T23:14:06.710Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 4662
+          "viewCount": 4726
         },
         {
           "videoId": "VDj-okRxFCo",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 15995
+          "viewCount": 15963
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 3434
+          "viewCount": 3435
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 12493
+          "viewCount": 12504
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -192,7 +192,7 @@
               "height": 720
             }
           },
-          "viewCount": 25677,
+          "viewCount": 25700,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -259,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 4296,
+          "viewCount": 4301,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -361,7 +361,7 @@
               "height": 720
             }
           },
-          "viewCount": 4214,
+          "viewCount": 4226,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 1196
+          "viewCount": 1198
         },
         {
           "videoId": "LiVo2koqiCw",
@@ -667,8 +667,38 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "BPrtEKyvpRs",
+          "title": "【再生の道&タクドラの道】改めて箱根駅伝の様子をご覧下さい！",
+          "description": "",
+          "publishedAt": "2026-01-03T23:03:00Z",
+          "channelTitle": "やる気・元気・はるきチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BPrtEKyvpRs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BPrtEKyvpRs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BPrtEKyvpRs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BPrtEKyvpRs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 7
+        },
+        {
           "videoId": "zEeRONiQMj8",
-          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
+          "title": "【再生の道&タクドラの道】ネット環境が悪く、箱根駅伝ライブ配信出来ませんでした！",
           "description": "",
           "publishedAt": "2026-01-03T16:41:54Z",
           "channelTitle": "やる気・元気・はるきチャンネル",
@@ -699,7 +729,7 @@
               "height": 720
             }
           },
-          "viewCount": 237,
+          "viewCount": 245,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -709,7 +739,7 @@
         },
         {
           "videoId": "qa4fJ7JivQo",
-          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
+          "title": "【再生の道&タクドラの道】新年のご挨拶を箱根駅伝ゴールの大手町から！",
           "description": "",
           "publishedAt": "2026-01-03T03:21:10Z",
           "channelTitle": "やる気・元気・はるきチャンネル",
@@ -740,7 +770,7 @@
               "height": 720
             }
           },
-          "viewCount": 599,
+          "viewCount": 605,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -750,7 +780,7 @@
         },
         {
           "videoId": "5JDbeKfVMko",
-          "title": "やる気・元気・はるきチャンネル がライブ配信中！",
+          "title": "【再生の道&タクドラの道】",
           "description": "",
           "publishedAt": "2025-12-29T22:15:04Z",
           "channelTitle": "やる気・元気・はるきチャンネル",
@@ -848,7 +878,7 @@
               "height": 720
             }
           },
-          "viewCount": 1951,
+          "viewCount": 1953,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -940,7 +970,7 @@
               "height": 720
             }
           },
-          "viewCount": 1280,
+          "viewCount": 1281,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -1174,7 +1204,7 @@
               "height": 720
             }
           },
-          "viewCount": 7159
+          "viewCount": 7166
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1446,7 +1476,7 @@
               "height": 720
             }
           },
-          "viewCount": 1306
+          "viewCount": 1307
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
