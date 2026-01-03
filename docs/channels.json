@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-03T19:11:09.867Z",
+  "requestedAt": "2026-01-03T20:16:11.086Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 15969
+          "viewCount": 15980
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 3423
+          "viewCount": 3428
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 12436
+          "viewCount": 12474
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -259,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 4282,
+          "viewCount": 4287,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -361,7 +361,7 @@
               "height": 720
             }
           },
-          "viewCount": 4204,
+          "viewCount": 4215,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -513,7 +513,7 @@
               "height": 720
             }
           },
-          "viewCount": 39251
+          "viewCount": 39294
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -699,7 +699,7 @@
               "height": 720
             }
           },
-          "viewCount": 222,
+          "viewCount": 233,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -848,7 +848,7 @@
               "height": 720
             }
           },
-          "viewCount": 1945,
+          "viewCount": 1947,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -1174,7 +1174,7 @@
               "height": 720
             }
           },
-          "viewCount": 7123
+          "viewCount": 7137
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1204,7 +1204,7 @@
               "height": 480
             }
           },
-          "viewCount": 2830,
+          "viewCount": 2832,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-30T03:00:00Z",
@@ -1446,7 +1446,7 @@
               "height": 720
             }
           },
-          "viewCount": 1292
+          "viewCount": 1300
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
