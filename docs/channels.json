@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-03T06:23:04.824Z",
+  "requestedAt": "2026-01-03T07:15:00.700Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 1423
+          "viewCount": 1847
         },
         {
           "videoId": "VDj-okRxFCo",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 15221
+          "viewCount": 15271
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 3263
+          "viewCount": 3264
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 11871
+          "viewCount": 11902
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -192,7 +192,7 @@
               "height": 720
             }
           },
-          "viewCount": 25410,
+          "viewCount": 25428,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -259,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 3990,
+          "viewCount": 3995,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -300,48 +300,7 @@
               "height": 720
             }
           },
-          "viewCount": 3962
-        },
-        {
-          "videoId": "v4RJxX1n4CQ",
-          "title": "府中に来たら、街を綺麗にしている素敵な方々に出会いました。",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2025-12-27T06:50:42Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/v4RJxX1n4CQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/v4RJxX1n4CQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/v4RJxX1n4CQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/v4RJxX1n4CQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/v4RJxX1n4CQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6366,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-25T10:28:45Z",
-            "actualStartTime": "2025-12-27T06:25:13Z",
-            "actualEndTime": "2025-12-27T06:46:37Z"
-          }
+          "viewCount": 3970
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -519,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 947
+          "viewCount": 963
         },
         {
           "videoId": "LiVo2koqiCw",
@@ -554,7 +513,7 @@
               "height": 720
             }
           },
-          "viewCount": 37951
+          "viewCount": 37971
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -740,7 +699,7 @@
               "height": 720
             }
           },
-          "viewCount": 70,
+          "viewCount": 96,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -781,7 +740,7 @@
               "height": 720
             }
           },
-          "viewCount": 220,
+          "viewCount": 267,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -822,7 +781,7 @@
               "height": 720
             }
           },
-          "viewCount": 1639,
+          "viewCount": 1645,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
@@ -889,7 +848,7 @@
               "height": 720
             }
           },
-          "viewCount": 1851,
+          "viewCount": 1855,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -981,7 +940,7 @@
               "height": 720
             }
           },
-          "viewCount": 1151,
+          "viewCount": 1163,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -1215,7 +1174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6728
+          "viewCount": 6796
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1487,7 +1446,7 @@
               "height": 720
             }
           },
-          "viewCount": 1064
+          "viewCount": 1092
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1688,7 +1647,7 @@
               "height": 360
             }
           },
-          "viewCount": 3641,
+          "viewCount": 3643,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-27T12:00:00Z",
