@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-04T06:23:32.960Z",
+  "requestedAt": "2026-01-04T07:16:56.664Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 5101
+          "viewCount": 5158
         },
         {
           "videoId": "VDj-okRxFCo",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 16099
+          "viewCount": 16120
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 3470
+          "viewCount": 3471
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 12676
+          "viewCount": 12736
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -192,7 +192,7 @@
               "height": 720
             }
           },
-          "viewCount": 25770,
+          "viewCount": 25776,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T12:00:00Z",
@@ -259,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 4362,
+          "viewCount": 4368,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -326,7 +326,7 @@
               "height": 720
             }
           },
-          "viewCount": 4261,
+          "viewCount": 4294,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -443,7 +443,7 @@
               "height": 720
             }
           },
-          "viewCount": 1265
+          "viewCount": 1269
         },
         {
           "videoId": "LiVo2koqiCw",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 39403
+          "viewCount": 39443
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -554,7 +554,37 @@
         }
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "VqJd7mqCMqs",
+          "title": "2026年大予想？！ meetup 20260104",
+          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
+          "publishedAt": "2026-01-04T06:41:09Z",
+          "channelTitle": "弘田としやすCh",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VqJd7mqCMqs/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VqJd7mqCMqs/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VqJd7mqCMqs/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-04T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "弘田敏康,弘田としやす,ひろた敏康,ひろたとしやす"
     },
@@ -659,7 +689,7 @@
               "height": 480
             }
           },
-          "viewCount": 166
+          "viewCount": 194
         },
         {
           "videoId": "zEeRONiQMj8",
@@ -694,7 +724,7 @@
               "height": 720
             }
           },
-          "viewCount": 300,
+          "viewCount": 314,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -735,7 +765,7 @@
               "height": 720
             }
           },
-          "viewCount": 637,
+          "viewCount": 645,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -843,7 +873,7 @@
               "height": 720
             }
           },
-          "viewCount": 1965,
+          "viewCount": 1967,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -935,7 +965,7 @@
               "height": 720
             }
           },
-          "viewCount": 1357,
+          "viewCount": 1365,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -1077,7 +1107,7 @@
               "height": 720
             }
           },
-          "viewCount": 5516,
+          "viewCount": 5519,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T03:05:00Z",
@@ -1169,7 +1199,7 @@
               "height": 720
             }
           },
-          "viewCount": 7272
+          "viewCount": 7294
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1441,7 +1471,7 @@
               "height": 720
             }
           },
-          "viewCount": 1344
+          "viewCount": 1350
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
