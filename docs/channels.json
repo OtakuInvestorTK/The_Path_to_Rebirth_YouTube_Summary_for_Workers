@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-04T13:26:01.046Z",
+  "requestedAt": "2026-01-04T14:13:25.507Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 5501
+          "viewCount": 5524
         },
         {
           "videoId": "VDj-okRxFCo",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 16329
+          "viewCount": 16356
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 13017
+          "viewCount": 13032
         },
         {
           "videoId": "iB8XMuB38zk",
@@ -259,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 4428,
+          "viewCount": 4449,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -326,7 +326,7 @@
               "height": 720
             }
           },
-          "viewCount": 4343,
+          "viewCount": 4347,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -443,7 +443,7 @@
               "height": 720
             }
           },
-          "viewCount": 1371
+          "viewCount": 1385
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -519,7 +519,8 @@
         }
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "VqJd7mqCMqs",
           "title": "2026年大予想？！ meetup 20260104",
@@ -543,16 +544,15 @@
               "height": 360
             }
           },
-          "viewCount": 108,
+          "viewCount": 244,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
             "actualStartTime": "2026-01-04T13:02:51Z",
-            "concurrentViewers": 52
+            "actualEndTime": "2026-01-04T14:08:31Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "弘田敏康,弘田としやす,ひろた敏康,ひろたとしやす"
     },
     {
@@ -732,7 +732,7 @@
               "height": 720
             }
           },
-          "viewCount": 662,
+          "viewCount": 676,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -773,7 +773,7 @@
               "height": 720
             }
           },
-          "viewCount": 1662,
+          "viewCount": 1663,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-29T09:09:18Z",
@@ -840,7 +840,7 @@
               "height": 720
             }
           },
-          "viewCount": 1977,
+          "viewCount": 1973,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -932,7 +932,7 @@
               "height": 720
             }
           },
-          "viewCount": 1474,
+          "viewCount": 1483,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -1024,7 +1024,7 @@
               "height": 720
             }
           },
-          "viewCount": 352
+          "viewCount": 382
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1110,7 +1110,7 @@
               "height": 720
             }
           },
-          "viewCount": 5576,
+          "viewCount": 5584,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T03:05:00Z",
@@ -1202,7 +1202,7 @@
               "height": 720
             }
           },
-          "viewCount": 7412
+          "viewCount": 7429
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1474,7 +1474,7 @@
               "height": 720
             }
           },
-          "viewCount": 1390
+          "viewCount": 1393
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
