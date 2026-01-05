@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-05T18:24:30.951Z",
+  "requestedAt": "2026-01-05T19:16:40.557Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,47 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "emIXsAeT5T4",
+          "title": "緊急ライブ!!#2（奥村×青柳）",
+          "description": "再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-01-05T18:53:47Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 4441,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-01-05T13:07:33Z",
+            "actualStartTime": "2026-01-05T13:07:59Z",
+            "actualEndTime": "2026-01-05T13:29:40Z"
+          }
+        },
         {
           "videoId": "4O6-M10SwMI",
           "title": "新年あけましておめでとうございます!!緊急ライブ!!（奥村×青柳）",
@@ -57,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 7561,
+          "viewCount": 7668,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -98,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 3170
+          "viewCount": 3549
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -133,53 +174,12 @@
               "height": 720
             }
           },
-          "viewCount": 4461,
+          "viewCount": 4694,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
             "actualStartTime": "2026-01-05T13:30:32Z",
             "actualEndTime": "2026-01-05T13:38:50Z"
-          }
-        },
-        {
-          "videoId": "emIXsAeT5T4",
-          "title": "緊急ライブ!!#2（奥村×青柳）",
-          "description": "再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-01-05T13:07:34Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/emIXsAeT5T4/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4320,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-05T13:07:33Z",
-            "actualStartTime": "2026-01-05T13:07:59Z",
-            "actualEndTime": "2026-01-05T13:29:40Z"
           }
         },
         {
@@ -245,7 +245,7 @@
               "height": 720
             }
           },
-          "viewCount": 17197
+          "viewCount": 17217
         },
         {
           "videoId": "CFMLe8eGSGg",
@@ -315,7 +315,7 @@
               "height": 720
             }
           },
-          "viewCount": 13827
+          "viewCount": 13851
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -560,7 +560,7 @@
               "height": 720
             }
           },
-          "viewCount": 826
+          "viewCount": 838
         },
         {
           "videoId": "83EXyPRWn7A",
@@ -696,7 +696,7 @@
               "height": 360
             }
           },
-          "viewCount": 1259,
+          "viewCount": 1268,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -808,7 +808,7 @@
               "height": 480
             }
           },
-          "viewCount": 418
+          "viewCount": 419
         },
         {
           "videoId": "zEeRONiQMj8",
@@ -1084,7 +1084,7 @@
               "height": 720
             }
           },
-          "viewCount": 1569,
+          "viewCount": 1568,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -1297,7 +1297,7 @@
               "height": 720
             }
           },
-          "viewCount": 5742,
+          "viewCount": 5747,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T03:05:00Z",
@@ -1389,7 +1389,7 @@
               "height": 720
             }
           },
-          "viewCount": 7591
+          "viewCount": 7590
         },
         {
           "videoId": "5TmgJr8Orpk",
@@ -1419,7 +1419,7 @@
               "height": 480
             }
           },
-          "viewCount": 2867,
+          "viewCount": 2869,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-30T03:00:00Z",
@@ -1661,7 +1661,7 @@
               "height": 720
             }
           },
-          "viewCount": 1447
+          "viewCount": 1451
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1772,7 +1772,7 @@
               "height": 720
             }
           },
-          "viewCount": 1018,
+          "viewCount": 1027,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
