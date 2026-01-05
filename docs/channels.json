@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-05T05:31:35.178Z",
+  "requestedAt": "2026-01-05T06:30:16.890Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "eGItCISNKtY",
+          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.01.05) -再生の道-",
+          "description": "新年、明けましておめでとうございます！\n本年もどうぞよろしくお願いいたします！\n\nみっちースタンプはこちら↓\nhttps://store.line.me/stickershop/product/32403366/ja\n\n※引用情報\n・ReHacQ -リハック-【公式】より引用（許可済）\n【石丸新党は？記者会見】なぜテレ朝に激怒？謎だらけ新党の全容は？【ReHacQSP】\nhttps://www.youtube.com/live/lM0cVpbgv5w?si=34N90WnpKWTV6KfC\n\n【石丸伸二vs新代表候補者】再生の道・代表選考会【ReHacQ高橋弘樹】\nhttps://www.youtube.com/live/Vj7frt_IBTk?si=tgYMbW2LcIqjBlCP\n\n【石丸伸二vs新代表】再生の道・新代表発表記者会見　9月16日(火)【ReHacQ高橋弘樹】\nhttps://www.youtube.com/live/8Fa8H3xk5-U?si=J8aHxTAiXQ1jY3bx\n\n・石丸伸二と日本を動かそうチャンネルより引用（許可済）\n【葛飾区議会議員選挙】11/8 岩見なつよ マイク納め (応援弁士 再生の道メンバー) 再生の道 街頭演説 JR亀有駅南口 街宣 高画質・高音質・高民度【ライブ配信】\nhttps://www.youtube.com/live/F2xKS-3rd6Y?si=9QGyFj7caHoQwwzR\n\n****************************************************************\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-01-05T05:46:28Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eGItCISNKtY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eGItCISNKtY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eGItCISNKtY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eGItCISNKtY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eGItCISNKtY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-05T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "0CDcUwIZibs",
@@ -122,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 3589
+          "viewCount": 3588
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -259,7 +299,7 @@
               "height": 720
             }
           },
-          "viewCount": 4524,
+          "viewCount": 4517,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -326,7 +366,7 @@
               "height": 720
             }
           },
-          "viewCount": 4392,
+          "viewCount": 4408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -443,7 +483,7 @@
               "height": 720
             }
           },
-          "viewCount": 312
+          "viewCount": 383
         },
         {
           "videoId": "83EXyPRWn7A",
@@ -579,7 +619,7 @@
               "height": 360
             }
           },
-          "viewCount": 943,
+          "viewCount": 995,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -691,7 +731,7 @@
               "height": 480
             }
           },
-          "viewCount": 401
+          "viewCount": 400
         },
         {
           "videoId": "zEeRONiQMj8",
@@ -875,7 +915,7 @@
               "height": 720
             }
           },
-          "viewCount": 2005,
+          "viewCount": 2003,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -967,7 +1007,7 @@
               "height": 720
             }
           },
-          "viewCount": 1547,
+          "viewCount": 1551,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -1059,7 +1099,7 @@
               "height": 720
             }
           },
-          "viewCount": 749
+          "viewCount": 780
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1145,7 +1185,7 @@
               "height": 720
             }
           },
-          "viewCount": 5643,
+          "viewCount": 5664,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T03:05:00Z",
@@ -1267,7 +1307,7 @@
               "height": 480
             }
           },
-          "viewCount": 2861,
+          "viewCount": 2863,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-30T03:00:00Z",
