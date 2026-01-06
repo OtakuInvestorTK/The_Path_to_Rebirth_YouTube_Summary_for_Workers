@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-06T18:23:25.153Z",
+  "requestedAt": "2026-01-06T19:12:17.411Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9116
+          "viewCount": 9404
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7076,
+          "viewCount": 7090,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 11401,
+          "viewCount": 11409,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 14540
+          "viewCount": 14599
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 10549,
+          "viewCount": 10565,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -245,7 +245,7 @@
               "height": 480
             }
           },
-          "viewCount": 6543
+          "viewCount": 6560
         },
         {
           "videoId": "VDj-okRxFCo",
@@ -315,7 +315,7 @@
               "height": 720
             }
           },
-          "viewCount": 3832
+          "viewCount": 3842
         },
         {
           "videoId": "vS0-aFDWCoU",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 6202,
+          "viewCount": 6300,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -519,7 +519,7 @@
               "height": 720
             }
           },
-          "viewCount": 4522,
+          "viewCount": 4520,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -636,7 +636,7 @@
               "height": 720
             }
           },
-          "viewCount": 1040
+          "viewCount": 1054
         },
         {
           "videoId": "83EXyPRWn7A",
@@ -671,7 +671,7 @@
               "height": 720
             }
           },
-          "viewCount": 1485
+          "viewCount": 1486
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -884,7 +884,7 @@
               "height": 480
             }
           },
-          "viewCount": 509
+          "viewCount": 502
         },
         {
           "videoId": "zEeRONiQMj8",
@@ -960,7 +960,7 @@
               "height": 720
             }
           },
-          "viewCount": 823,
+          "viewCount": 812,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -1211,7 +1211,7 @@
               "height": 720
             }
           },
-          "viewCount": 47
+          "viewCount": 53
         },
         {
           "videoId": "T9NB4au3uqk",
@@ -1246,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 786
+          "viewCount": 797
         },
         {
           "videoId": "D8rAviYT0hE",
@@ -1430,36 +1430,36 @@
           "videoId": "1_wKOO7Ukec",
           "title": "【1/6 12:00配信】天野こころのこころトーク#22",
           "description": "今年もよろしくお願いします。",
-          "publishedAt": "2026-01-05T08:56:50Z",
+          "publishedAt": "2026-01-06T18:43:22Z",
           "channelTitle": "天野こころ",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1_wKOO7Ukec/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1166,
+          "viewCount": 1173,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T03:00:00Z",
@@ -1500,7 +1500,7 @@
               "height": 720
             }
           },
-          "viewCount": 7594
+          "viewCount": 7598
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1847,7 +1847,7 @@
               "height": 720
             }
           },
-          "viewCount": 6288,
+          "viewCount": 6331,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
