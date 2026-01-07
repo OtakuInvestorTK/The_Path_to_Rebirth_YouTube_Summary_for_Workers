@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-07T01:15:03.372Z",
+  "requestedAt": "2026-01-07T03:24:27.767Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11508
+          "viewCount": 12369
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7171,
+          "viewCount": 7222,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 11483,
+          "viewCount": 11524,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 14943
+          "viewCount": 15119
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 10822,
+          "viewCount": 10865,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -245,112 +245,7 @@
               "height": 480
             }
           },
-          "viewCount": 6542
-        },
-        {
-          "videoId": "VDj-okRxFCo",
-          "title": "【メンバー大集合!!】2025年、感謝の思いを込めて皆様へメッセージ!!",
-          "description": "再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-31T03:00:39Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/VDj-okRxFCo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/VDj-okRxFCo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/VDj-okRxFCo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/VDj-okRxFCo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/VDj-okRxFCo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 17724
-        },
-        {
-          "videoId": "CFMLe8eGSGg",
-          "title": "【Special総集編!!】2025年はSWNのスタート元年!!!",
-          "description": "再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-31T03:00:13Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/CFMLe8eGSGg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/CFMLe8eGSGg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/CFMLe8eGSGg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/CFMLe8eGSGg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/CFMLe8eGSGg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3850
-        },
-        {
-          "videoId": "vS0-aFDWCoU",
-          "title": "【議員公募】再生の道/全国公募について",
-          "description": "【全国公募】地方から日本を塗り替える。「再生の道」候補者を募集します。\n\n「このままの日本でいいのか？」 そんな危機感を持つあなたへ。\n\nいま、日本の地方議会は機能不全に陥っています。 無投票当選の増加、議員の高齢化、そしてアナログな政治。 この「負のスパイラル」を断ち切り、当たり前の「適時・全体最適」な判断ができる議会を取り戻すため、私たちは全国から新たな志を持つ仲間を募集します。\n\n▼応募詳細については近日中に公開いたします。\n※公募期間：2025年1月5日(月) 〜 1月18日(日)締切\n\n🚀 「再生の道」が約束する5つの強力なサポート\n政治家を目指す上での「お金」「知識」「発信」の壁を、私たちが壊します。\n\n【供託金を原則全額支援】 志がある方の経済的負担をゼロに。\n\n【AIによる政策立案支援】 最新のAI技術で、精度の高い課題分析と政策作りをサポート。\n\n【YouTube公式チャンネルの活用】 登録者11万人のプラットフォームであなたの声を届けます。\n\n【現役議員・首長による教育】 経験豊富なメンバーが、即戦力となるためのノウハウを伝授。\n\n【党議拘束なし・多選禁止】 組織の都合ではなく、地域のための「是々非々」の議論を。\n\n📋 選考プロセス\n透明性を重視し、日本初の「YouTube公開面接」を実施します。\n\n一次： エントリーシート選考\n\n二次： Web適性検査（Web-GAB）\n\n三次： YouTube LIVE 公開面接（東京にて対面実施） ※16〜24歳の若手世代も面接官として参加します。\n\n📍 求める人物像\n全国各地の地方議会議員を目指す方\n\n現状の政治に強い危機感を持ち、行動を起こしたい方\n\n「新陳代謝」を自ら体現し、原則2期8年で結果を出したい方\n\n「政治は、変えられる。」 経験の有無は問いません。あなたの挑戦が、この国の再生への第一歩になります。 たくさんのご応募、お待ちしております。\n\n#再生の道 #地方議員 #全国公募 #政治家 #地方創生 #日本再生\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2025-12-31T02:59:00Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/vS0-aFDWCoU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/vS0-aFDWCoU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/vS0-aFDWCoU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/vS0-aFDWCoU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/vS0-aFDWCoU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 14186
+          "viewCount": 6560
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -411,7 +306,7 @@
               "height": 720
             }
           },
-          "viewCount": 4622,
+          "viewCount": 4629,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-31T11:30:25Z",
@@ -478,7 +373,7 @@
               "height": 720
             }
           },
-          "viewCount": 6916,
+          "viewCount": 7207,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -519,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 4525,
+          "viewCount": 4526,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-23T09:37:59Z",
@@ -636,7 +531,7 @@
               "height": 720
             }
           },
-          "viewCount": 1106
+          "viewCount": 1121
         },
         {
           "videoId": "83EXyPRWn7A",
@@ -919,7 +814,7 @@
               "height": 720
             }
           },
-          "viewCount": 443,
+          "viewCount": 446,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -960,7 +855,7 @@
               "height": 720
             }
           },
-          "viewCount": 840,
+          "viewCount": 848,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -1027,7 +922,7 @@
               "height": 720
             }
           },
-          "viewCount": 2042,
+          "viewCount": 2045,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:23:14Z",
@@ -1119,7 +1014,7 @@
               "height": 720
             }
           },
-          "viewCount": 1559,
+          "viewCount": 1562,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -1211,7 +1106,7 @@
               "height": 720
             }
           },
-          "viewCount": 66
+          "viewCount": 68
         },
         {
           "videoId": "T9NB4au3uqk",
@@ -1246,7 +1141,7 @@
               "height": 720
             }
           },
-          "viewCount": 852
+          "viewCount": 911
         },
         {
           "videoId": "D8rAviYT0hE",
@@ -1281,7 +1176,7 @@
               "height": 720
             }
           },
-          "viewCount": 981
+          "viewCount": 983
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1459,7 +1354,7 @@
               "height": 720
             }
           },
-          "viewCount": 1234,
+          "viewCount": 1271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T03:00:00Z",
@@ -1500,7 +1395,7 @@
               "height": 720
             }
           },
-          "viewCount": 7598
+          "viewCount": 7614
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1847,7 +1742,7 @@
               "height": 720
             }
           },
-          "viewCount": 6663,
+          "viewCount": 6718,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
