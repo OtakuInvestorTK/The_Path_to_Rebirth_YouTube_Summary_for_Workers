@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-08T13:36:39.461Z",
+  "requestedAt": "2026-01-08T14:19:54.197Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16385
+          "viewCount": 16452
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7998,
+          "viewCount": 8006,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 12147,
+          "viewCount": 12151,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 17831
+          "viewCount": 17923
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 12800,
+          "viewCount": 12839,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -245,7 +245,7 @@
               "height": 480
             }
           },
-          "viewCount": 6719
+          "viewCount": 6734
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -331,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 8656,
+          "viewCount": 8665,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -448,7 +448,7 @@
               "height": 720
             }
           },
-          "viewCount": 118
+          "viewCount": 177
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -483,7 +483,7 @@
               "height": 720
             }
           },
-          "viewCount": 1481
+          "viewCount": 1486
         },
         {
           "videoId": "83EXyPRWn7A",
@@ -619,7 +619,7 @@
               "height": 360
             }
           },
-          "viewCount": 1350,
+          "viewCount": 1353,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -1051,7 +1051,7 @@
               "height": 720
             }
           },
-          "viewCount": 1129
+          "viewCount": 1142
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1324,7 +1324,8 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "nbchIAtVcBw",
           "title": "第27回ミートアップオンライン",
@@ -1358,16 +1359,15 @@
               "height": 720
             }
           },
-          "viewCount": 872,
+          "viewCount": 1311,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
             "actualStartTime": "2026-01-08T12:57:51Z",
-            "concurrentViewers": 542
+            "actualEndTime": "2026-01-08T13:38:55Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
     },
     {
@@ -1687,7 +1687,7 @@
               "height": 720
             }
           },
-          "viewCount": 7604,
+          "viewCount": 7613,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
