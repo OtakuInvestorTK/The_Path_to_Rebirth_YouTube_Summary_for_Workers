@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-08T11:16:06.557Z",
+  "requestedAt": "2026-01-08T12:33:48.132Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16136
+          "viewCount": 16274
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7936,
+          "viewCount": 7989,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 12101,
+          "viewCount": 12129,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 17554
+          "viewCount": 17723
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 12672,
+          "viewCount": 12763,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -245,7 +245,7 @@
               "height": 480
             }
           },
-          "viewCount": 6715
+          "viewCount": 6719
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -331,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 8610,
+          "viewCount": 8637,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -416,6 +416,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "wJ4qRrlRtiI",
+          "title": "棒きなこ",
+          "description": "昭和時代に駄菓子屋を席巻した、棒きなこです。",
+          "publishedAt": "2026-01-08T12:06:33Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 52
+        },
+        {
           "videoId": "gO7jrN3_jAQ",
           "title": "アメリカのベネズエラへの介入と国際法",
           "description": "アメリカのベネズエラへの介入について、国際法の視点から話しています。#木島 #ベネズエラ #トランプ大統領 #国際法 #紛争の平和的解決原則 #武力行使禁止原則 #不干渉原則",
@@ -448,7 +483,7 @@
               "height": 720
             }
           },
-          "viewCount": 1469
+          "viewCount": 1474
         },
         {
           "videoId": "83EXyPRWn7A",
@@ -584,7 +619,7 @@
               "height": 360
             }
           },
-          "viewCount": 1349,
+          "viewCount": 1353,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -889,7 +924,7 @@
               "height": 720
             }
           },
-          "viewCount": 1571,
+          "viewCount": 1572,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-24T01:06:04Z",
@@ -981,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 869
+          "viewCount": 1185
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1016,7 +1051,7 @@
               "height": 720
             }
           },
-          "viewCount": 1101
+          "viewCount": 1126
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1051,7 +1086,7 @@
               "height": 720
             }
           },
-          "viewCount": 171
+          "viewCount": 179
         },
         {
           "videoId": "T9NB4au3uqk",
@@ -1257,7 +1292,7 @@
               "height": 720
             }
           },
-          "viewCount": 1474,
+          "viewCount": 1481,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T03:00:00Z",
@@ -1645,7 +1680,7 @@
               "height": 720
             }
           },
-          "viewCount": 7570,
+          "viewCount": 7589,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
