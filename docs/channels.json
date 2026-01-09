@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-09T07:21:01.619Z",
+  "requestedAt": "2026-01-09T08:22:28.792Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3862
+          "viewCount": 4165
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 16948
+          "viewCount": 16974
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 8090,
+          "viewCount": 8095,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 18636
+          "viewCount": 18660
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13300,
+          "viewCount": 13339,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -280,7 +280,7 @@
               "height": 480
             }
           },
-          "viewCount": 6786
+          "viewCount": 6792
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -366,7 +366,7 @@
               "height": 720
             }
           },
-          "viewCount": 8751,
+          "viewCount": 8749,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -483,7 +483,7 @@
               "height": 720
             }
           },
-          "viewCount": 662
+          "viewCount": 687
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -1016,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 1674
+          "viewCount": 1681
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1051,7 +1051,7 @@
               "height": 720
             }
           },
-          "viewCount": 1168
+          "viewCount": 1171
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1359,7 +1359,7 @@
               "height": 720
             }
           },
-          "viewCount": 4444,
+          "viewCount": 4512,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1466,7 +1466,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "PwNb1RnW6WM",
+          "title": "街頭演説 喜多見駅",
+          "description": "【ご寄付が活動の糧となります💦】\n振込 https://forms.gle/azaawG4PHuDFrcx38\n選挙ﾄﾞｯﾄｺﾑ  https://go2senkyo.com/donate/flow/196111\n\n【自己紹介】https://go2senkyo.com/seijika/196111\n【略歴】\nBig4監査法人→投資銀行（日本興業銀行(出向)/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2025-12-22T14:14:39Z",
+          "channelTitle": "くれよしつぐ チャンネル【再生の道】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PwNb1RnW6WM/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PwNb1RnW6WM/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PwNb1RnW6WM/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PwNb1RnW6WM/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PwNb1RnW6WM/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 109,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2025-12-22T14:14:39Z",
+            "actualStartTime": "2026-01-09T07:51:56Z",
+            "concurrentViewers": 76
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "久禮義継,久禮よしつぐ,くれ義継,くれよしつぐ"
     },
@@ -1687,7 +1729,7 @@
               "height": 720
             }
           },
-          "viewCount": 7716,
+          "viewCount": 7734,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
