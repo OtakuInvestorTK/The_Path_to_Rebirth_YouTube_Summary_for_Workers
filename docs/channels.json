@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-09T12:32:53.736Z",
+  "requestedAt": "2026-01-09T13:33:54.453Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6006
+          "viewCount": 6621
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 17175
+          "viewCount": 17234
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 8140,
+          "viewCount": 8148,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12269,
+          "viewCount": 12272,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 18830
+          "viewCount": 18883
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13430,
+          "viewCount": 13451,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -280,7 +280,7 @@
               "height": 480
             }
           },
-          "viewCount": 6798
+          "viewCount": 6810
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -366,7 +366,7 @@
               "height": 720
             }
           },
-          "viewCount": 8772,
+          "viewCount": 8773,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -483,7 +483,7 @@
               "height": 720
             }
           },
-          "viewCount": 824
+          "viewCount": 844
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -518,7 +518,7 @@
               "height": 720
             }
           },
-          "viewCount": 1514
+          "viewCount": 1519
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -619,7 +619,7 @@
               "height": 360
             }
           },
-          "viewCount": 1365,
+          "viewCount": 1366,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -1056,7 +1056,7 @@
               "height": 720
             }
           },
-          "viewCount": 316
+          "viewCount": 346
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1091,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 1690
+          "viewCount": 1694
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1126,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 1185
+          "viewCount": 1186
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1367,7 +1367,7 @@
               "height": 720
             }
           },
-          "viewCount": 1510,
+          "viewCount": 1516,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T03:00:00Z",
@@ -1405,36 +1405,36 @@
           "videoId": "nbchIAtVcBw",
           "title": "第27回ミートアップオンライン",
           "description": "皆さま、こんばんは。\n新年、明けましておめでとうございます！\n2026年もどうぞよろしくお願いします。\n\n今週土曜朝は予定があるため、下記にて実施できたらと思います。\n\n【1/8 木　22:00-22:30（予定）】\n\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・2026年の抱負と目標\n・2026年始めたこととやめたこと（「取捨選択って難しい」について）\n・【おまけ】今週の今風ロシア語：「「круто」（クルータ）」＝「最高！」「すごい！」「かっこいい！」「イカしてる」",
-          "publishedAt": "2026-01-07T09:32:48Z",
+          "publishedAt": "2026-01-09T12:46:11Z",
           "channelTitle": "【再生の道】吉田あや　公式チャンネル",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 4957,
+          "viewCount": 5069,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1576,7 +1576,7 @@
               "height": 720
             }
           },
-          "viewCount": 3211,
+          "viewCount": 3442,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1768,7 +1768,7 @@
               "height": 720
             }
           },
-          "viewCount": 7782,
+          "viewCount": 7802,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
