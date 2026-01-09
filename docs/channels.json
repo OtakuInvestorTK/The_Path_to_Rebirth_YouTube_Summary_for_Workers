@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-09T11:14:52.351Z",
+  "requestedAt": "2026-01-09T12:32:53.736Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5372
+          "viewCount": 6006
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 17094
+          "viewCount": 17175
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 8128,
+          "viewCount": 8140,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12247,
+          "viewCount": 12269,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 18739
+          "viewCount": 18830
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13382,
+          "viewCount": 13430,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -366,7 +366,7 @@
               "height": 720
             }
           },
-          "viewCount": 8766,
+          "viewCount": 8772,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -483,7 +483,7 @@
               "height": 720
             }
           },
-          "viewCount": 779
+          "viewCount": 824
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -518,7 +518,7 @@
               "height": 720
             }
           },
-          "viewCount": 1516
+          "viewCount": 1514
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -619,7 +619,7 @@
               "height": 360
             }
           },
-          "viewCount": 1366,
+          "viewCount": 1365,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -981,7 +981,47 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "ZHn76zWYrFA",
+          "title": "出張先からLive配信in松江",
+          "description": "水都・松江。国宝・松江城の城下町として栄え、美しい宍道湖の景色や豊かな茶の湯文化が息づく、非常に風情ある街です。\n\n今回の配信は、やなぎさわが仕事で訪れている出張先からお届けします。現地の観光やグルメを体験する内容ではなく、あくまで出張先での空き時間を利用した配信となりますが、松江の空気感を共有しながら皆様と交流できれば幸いです。\n\nいつも温かい応援をいただき、本当にありがとうございます。皆様とのつながりを大切に、これからも配信を続けてまいります。\n\n【SNSアカウント情報】 \n■YouTube https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM \n■Twitter (X) https://x.com/marcie_nocturne \n■Instagram https://www.instagram.com/marcie_nocturne/\n\n🎙️ ストリーミングを始めたばかりですか、それともレベルアップを目指していますか？StreamYardをチェックして、$10の割引をゲット！😍 https://streamyard.com/pal/d/6288782636679168",
+          "publishedAt": "2026-01-09T11:22:44Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZHn76zWYrFA/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZHn76zWYrFA/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZHn76zWYrFA/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZHn76zWYrFA/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZHn76zWYrFA/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-12T10:30:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "OgNr8FyXHHQ",
@@ -1016,7 +1056,7 @@
               "height": 720
             }
           },
-          "viewCount": 263
+          "viewCount": 316
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1051,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 1683
+          "viewCount": 1690
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1086,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 1180
+          "viewCount": 1185
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1191,7 +1231,7 @@
               "height": 720
             }
           },
-          "viewCount": 1030
+          "viewCount": 1031
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1394,7 +1434,7 @@
               "height": 720
             }
           },
-          "viewCount": 4820,
+          "viewCount": 4957,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1536,7 +1576,7 @@
               "height": 720
             }
           },
-          "viewCount": 2989,
+          "viewCount": 3211,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1619,43 +1659,7 @@
       },
       "channelId": "UCbnf2Gl6Pra9DPDeMBV2a3w",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "48mrlgzkC08",
-          "title": "謹賀新年 2026",
-          "description": "",
-          "publishedAt": "2026-01-02T11:44:55Z",
-          "channelTitle": "南貴大 再生の道 チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/48mrlgzkC08/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/48mrlgzkC08/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/48mrlgzkC08/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/48mrlgzkC08/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/48mrlgzkC08/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1503
-        }
-      ],
+      "recentVideos": [],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
     },
     {
@@ -1764,7 +1768,7 @@
               "height": 720
             }
           },
-          "viewCount": 7750,
+          "viewCount": 7782,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
