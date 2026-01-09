@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-08T23:13:56.360Z",
+  "requestedAt": "2026-01-09T01:15:46.348Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "HEUwXujINVw",
+          "title": "【復活への道!?】前彦根市長/和田ひろゆきが再生の道のアドバイザーに就任!!メンバーに大切なメッセージを送る!!(part3)",
+          "description": "再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-01-09T00:36:44Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HEUwXujINVw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HEUwXujINVw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HEUwXujINVw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HEUwXujINVw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HEUwXujINVw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1070
+        },
         {
           "videoId": "0gsJJyARtVo",
           "title": "【復活への道!?】前彦根市長/和田ひろゆきが再生の道のアドバイザーに就任!!メンバーに大切なメッセージを送る!!(part3)",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 16746
+          "viewCount": 16795
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -92,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 8054,
+          "viewCount": 8064,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -133,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12206,
+          "viewCount": 12212,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -174,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 18340
+          "viewCount": 18399
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -209,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13094,
+          "viewCount": 13140,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -245,7 +280,7 @@
               "height": 480
             }
           },
-          "viewCount": 6764
+          "viewCount": 6770
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -331,7 +366,7 @@
               "height": 720
             }
           },
-          "viewCount": 8712,
+          "viewCount": 8711,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -448,7 +483,7 @@
               "height": 720
             }
           },
-          "viewCount": 419
+          "viewCount": 508
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -483,42 +518,7 @@
               "height": 720
             }
           },
-          "viewCount": 1503
-        },
-        {
-          "videoId": "83EXyPRWn7A",
-          "title": "謹賀新年",
-          "description": "明けましておめでとうございます。本年も宜しくお願いします。 #木島 #馬  #午年 #馬鹿 #趙高 #秦",
-          "publishedAt": "2026-01-02T00:23:04Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/83EXyPRWn7A/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/83EXyPRWn7A/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/83EXyPRWn7A/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/83EXyPRWn7A/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/83EXyPRWn7A/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1503
+          "viewCount": 1504
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -766,7 +766,7 @@
               "height": 720
             }
           },
-          "viewCount": 464,
+          "viewCount": 465,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -807,7 +807,7 @@
               "height": 720
             }
           },
-          "viewCount": 881,
+          "viewCount": 882,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-02T03:45:47Z",
@@ -1016,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 1440
+          "viewCount": 1453
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1051,7 +1051,7 @@
               "height": 720
             }
           },
-          "viewCount": 1154
+          "viewCount": 1165
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1086,7 +1086,7 @@
               "height": 720
             }
           },
-          "viewCount": 199
+          "viewCount": 203
         },
         {
           "videoId": "T9NB4au3uqk",
@@ -1292,7 +1292,7 @@
               "height": 720
             }
           },
-          "viewCount": 1498,
+          "viewCount": 1499,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T03:00:00Z",
@@ -1359,7 +1359,7 @@
               "height": 720
             }
           },
-          "viewCount": 3273,
+          "viewCount": 3658,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1687,7 +1687,7 @@
               "height": 720
             }
           },
-          "viewCount": 7700,
+          "viewCount": 7703,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
