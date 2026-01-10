@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-10T07:14:32.830Z",
+  "requestedAt": "2026-01-10T08:19:14.346Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12506
+          "viewCount": 12716
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 17613
+          "viewCount": 17614
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 8232,
+          "viewCount": 8250,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12335,
+          "viewCount": 12338,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 19360
+          "viewCount": 19394
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13795,
+          "viewCount": 13799,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 8843,
+          "viewCount": 8845,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -453,7 +453,7 @@
               "height": 720
             }
           },
-          "viewCount": 941
+          "viewCount": 944
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -488,7 +488,7 @@
               "height": 720
             }
           },
-          "viewCount": 1526
+          "viewCount": 1527
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -769,7 +769,43 @@
       },
       "channelId": "UCQ7TWZuas7xoJApDQYcPPwg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "Gnj4udecTJA",
+          "title": "たきぐち昭彦 & GG鈴木コラボ：GG鈴木さんからみたたきぐち昭彦の第一印象は？",
+          "description": "町田市で政治活動を行っているた、きぐち昭彦＠再生の道についてGG鈴木さんのチャンネルにきた質問、リクエストにお答えします。\nたきぐち昭彦公式ホームページ：https://akihikotakiguchi.com",
+          "publishedAt": "2026-01-10T08:00:29Z",
+          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Gnj4udecTJA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Gnj4udecTJA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Gnj4udecTJA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Gnj4udecTJA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Gnj4udecTJA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 208
+        }
+      ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
     },
     {
@@ -985,7 +1021,7 @@
               "height": 720
             }
           },
-          "viewCount": 725
+          "viewCount": 756
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1296,7 +1332,7 @@
               "height": 720
             }
           },
-          "viewCount": 1539,
+          "viewCount": 1544,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T03:00:00Z",
@@ -1363,7 +1399,7 @@
               "height": 720
             }
           },
-          "viewCount": 5801,
+          "viewCount": 5842,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1505,7 +1541,7 @@
               "height": 720
             }
           },
-          "viewCount": 3825,
+          "viewCount": 3907,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1697,7 +1733,7 @@
               "height": 720
             }
           },
-          "viewCount": 7907,
+          "viewCount": 7909,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
