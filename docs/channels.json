@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-10T13:25:33.476Z",
+  "requestedAt": "2026-01-10T14:13:57.946Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13354
+          "viewCount": 13533
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 17767
+          "viewCount": 17790
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 19544
+          "viewCount": 19594
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13846,
+          "viewCount": 13912,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 8854,
+          "viewCount": 8862,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -453,7 +453,7 @@
               "height": 720
             }
           },
-          "viewCount": 971
+          "viewCount": 975
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -488,7 +488,7 @@
               "height": 720
             }
           },
-          "viewCount": 1531
+          "viewCount": 1532
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -701,7 +701,7 @@
               "height": 480
             }
           },
-          "viewCount": 593
+          "viewCount": 597
         },
         {
           "videoId": "zEeRONiQMj8",
@@ -736,7 +736,7 @@
               "height": 720
             }
           },
-          "viewCount": 473,
+          "viewCount": 472,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -803,7 +803,7 @@
               "height": 720
             }
           },
-          "viewCount": 694
+          "viewCount": 809
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1021,7 +1021,7 @@
               "height": 720
             }
           },
-          "viewCount": 826
+          "viewCount": 819
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1056,7 +1056,7 @@
               "height": 720
             }
           },
-          "viewCount": 1744
+          "viewCount": 1746
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1091,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 1216
+          "viewCount": 1220
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1126,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 227
+          "viewCount": 232
         },
         {
           "videoId": "T9NB4au3uqk",
@@ -1161,7 +1161,7 @@
               "height": 720
             }
           },
-          "viewCount": 1078
+          "viewCount": 1079
         },
         {
           "videoId": "D8rAviYT0hE",
@@ -1399,7 +1399,7 @@
               "height": 720
             }
           },
-          "viewCount": 6078,
+          "viewCount": 6129,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1541,7 +1541,7 @@
               "height": 720
             }
           },
-          "viewCount": 4251,
+          "viewCount": 4303,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1698,7 +1698,47 @@
         }
       },
       "channelId": "UCvTw0PWaLJm-FGBRY7z51aA",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "2utCwsWWtRY",
+          "title": "中村 幸信×再生の道 がライブ配信中！",
+          "description": "",
+          "publishedAt": "2026-01-05T12:00:18Z",
+          "channelTitle": "中村 幸信×再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-12T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "qT0NXCmGBHk",
@@ -1733,7 +1773,7 @@
               "height": 720
             }
           },
-          "viewCount": 7921,
+          "viewCount": 7927,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
