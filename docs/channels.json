@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-10T14:13:57.946Z",
+  "requestedAt": "2026-01-10T15:14:20.500Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13533
+          "viewCount": 13721
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 17790
+          "viewCount": 17811
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 8272,
+          "viewCount": 8312,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 19594
+          "viewCount": 19648
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13912,
+          "viewCount": 13932,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 8862,
+          "viewCount": 8854,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -453,7 +453,7 @@
               "height": 720
             }
           },
-          "viewCount": 975
+          "viewCount": 971
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -589,7 +589,7 @@
               "height": 360
             }
           },
-          "viewCount": 1372,
+          "viewCount": 1373,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -736,7 +736,7 @@
               "height": 720
             }
           },
-          "viewCount": 472,
+          "viewCount": 474,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-03T03:57:45Z",
@@ -803,7 +803,7 @@
               "height": 720
             }
           },
-          "viewCount": 809
+          "viewCount": 823
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1021,7 +1021,7 @@
               "height": 720
             }
           },
-          "viewCount": 819
+          "viewCount": 831
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1056,7 +1056,7 @@
               "height": 720
             }
           },
-          "viewCount": 1746
+          "viewCount": 1764
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1332,7 +1332,7 @@
               "height": 720
             }
           },
-          "viewCount": 1545,
+          "viewCount": 1546,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T03:00:00Z",
@@ -1399,7 +1399,7 @@
               "height": 720
             }
           },
-          "viewCount": 6129,
+          "viewCount": 6169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1541,7 +1541,7 @@
               "height": 720
             }
           },
-          "viewCount": 4303,
+          "viewCount": 4340,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1701,8 +1701,8 @@
       "liveVideos": [
         {
           "videoId": "2utCwsWWtRY",
-          "title": "中村 幸信×再生の道 がライブ配信中！",
-          "description": "",
+          "title": "しゃべるば #002",
+          "description": "最近の政治、経済や近況、その他雑談。いろいろお話できれば。\nゆるく話をしていくので、軽い気持ちでお付き合いを！\n\nよろしければ、チャンネル登録・高評価ボタンお願いします！\n\n今週のテーマ予定（順次更新）\n1.ホームページの政策進捗\n2.公募について\n3.衆院選開始か（話さないかも）\n4.資産公開法について\n\n\n#再生の道 #中村幸信",
           "publishedAt": "2026-01-05T12:00:18Z",
           "channelTitle": "中村 幸信×再生の道",
           "thumbnails": {
@@ -1773,7 +1773,7 @@
               "height": 720
             }
           },
-          "viewCount": 7927,
+          "viewCount": 7935,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
