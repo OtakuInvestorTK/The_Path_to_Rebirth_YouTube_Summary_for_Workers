@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-10T22:14:22.498Z",
+  "requestedAt": "2026-01-10T23:14:08.984Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14354
+          "viewCount": 14399
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 17876
+          "viewCount": 17895
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12404,
+          "viewCount": 12410,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 19824
+          "viewCount": 19843
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13958,
+          "viewCount": 13977,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -672,38 +672,7 @@
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "BPrtEKyvpRs",
-          "title": "【再生の道&タクドラの道】改めて箱根駅伝の様子をご覧下さい！",
-          "description": "",
-          "publishedAt": "2026-01-03T23:03:00Z",
-          "channelTitle": "やる気・元気・はるきチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/BPrtEKyvpRs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/BPrtEKyvpRs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/BPrtEKyvpRs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/BPrtEKyvpRs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
-          },
-          "viewCount": 600
-        }
-      ],
+      "recentVideos": [],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
     },
     {
@@ -762,7 +731,7 @@
               "height": 720
             }
           },
-          "viewCount": 864
+          "viewCount": 870
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -938,7 +907,7 @@
               "height": 720
             }
           },
-          "viewCount": 927
+          "viewCount": 934
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1008,7 +977,7 @@
               "height": 720
             }
           },
-          "viewCount": 1231
+          "viewCount": 1232
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1043,7 +1012,7 @@
               "height": 720
             }
           },
-          "viewCount": 233
+          "viewCount": 234
         },
         {
           "videoId": "T9NB4au3uqk",
@@ -1078,7 +1047,7 @@
               "height": 720
             }
           },
-          "viewCount": 1085
+          "viewCount": 1086
         },
         {
           "videoId": "D8rAviYT0hE",
@@ -1113,7 +1082,7 @@
               "height": 720
             }
           },
-          "viewCount": 1038
+          "viewCount": 1039
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1316,7 +1285,7 @@
               "height": 720
             }
           },
-          "viewCount": 6299,
+          "viewCount": 6325,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1458,7 +1427,7 @@
               "height": 720
             }
           },
-          "viewCount": 4383,
+          "viewCount": 4386,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
