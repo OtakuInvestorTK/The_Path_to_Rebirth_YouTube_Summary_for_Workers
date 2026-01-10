@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-10T16:17:49.564Z",
+  "requestedAt": "2026-01-10T17:12:56.999Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13887
+          "viewCount": 14031
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12392,
+          "viewCount": 12393,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 19703
+          "viewCount": 19748
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13932,
+          "viewCount": 13923,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 8868,
+          "viewCount": 8870,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -453,7 +453,7 @@
               "height": 720
             }
           },
-          "viewCount": 982
+          "viewCount": 975
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -702,47 +702,6 @@
             }
           },
           "viewCount": 598
-        },
-        {
-          "videoId": "zEeRONiQMj8",
-          "title": "【再生の道&タクドラの道】ネット環境が悪く、箱根駅伝ライブ配信出来ませんでした！",
-          "description": "",
-          "publishedAt": "2026-01-03T16:41:54Z",
-          "channelTitle": "やる気・元気・はるきチャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/zEeRONiQMj8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/zEeRONiQMj8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/zEeRONiQMj8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/zEeRONiQMj8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/zEeRONiQMj8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 474,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-03T03:57:45Z",
-            "actualStartTime": "2026-01-03T04:10:01Z",
-            "actualEndTime": "2026-01-03T04:50:19Z"
-          }
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -803,7 +762,7 @@
               "height": 720
             }
           },
-          "viewCount": 848
+          "viewCount": 856
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1021,7 +980,7 @@
               "height": 720
             }
           },
-          "viewCount": 868
+          "viewCount": 872
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1056,7 +1015,7 @@
               "height": 720
             }
           },
-          "viewCount": 1746
+          "viewCount": 1766
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1091,7 +1050,7 @@
               "height": 720
             }
           },
-          "viewCount": 1220
+          "viewCount": 1224
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1126,7 +1085,7 @@
               "height": 720
             }
           },
-          "viewCount": 232
+          "viewCount": 233
         },
         {
           "videoId": "T9NB4au3uqk",
@@ -1161,7 +1120,7 @@
               "height": 720
             }
           },
-          "viewCount": 1079
+          "viewCount": 1080
         },
         {
           "videoId": "D8rAviYT0hE",
@@ -1399,7 +1358,7 @@
               "height": 720
             }
           },
-          "viewCount": 6211,
+          "viewCount": 6240,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1541,7 +1500,7 @@
               "height": 720
             }
           },
-          "viewCount": 4347,
+          "viewCount": 4355,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
