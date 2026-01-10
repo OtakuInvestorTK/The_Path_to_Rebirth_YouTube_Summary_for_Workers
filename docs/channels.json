@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-10T17:12:56.999Z",
+  "requestedAt": "2026-01-10T18:21:09.983Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14031
+          "viewCount": 14149
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 13923,
+          "viewCount": 13933,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 8870,
+          "viewCount": 8871,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -453,7 +453,7 @@
               "height": 720
             }
           },
-          "viewCount": 975
+          "viewCount": 990
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -762,7 +762,7 @@
               "height": 720
             }
           },
-          "viewCount": 856
+          "viewCount": 859
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -814,49 +814,7 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "S7i9F67xD6M",
-          "title": "【府中市】淳さんぽライブ【大國魂神社】",
-          "description": "府中市大國魂神社のお正月の様子をお届けします",
-          "publishedAt": "2026-01-03T17:25:34Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/S7i9F67xD6M/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1583,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2025-12-24T01:06:04Z",
-            "actualStartTime": "2026-01-03T03:30:02Z",
-            "actualEndTime": "2026-01-03T04:28:41Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -980,7 +938,7 @@
               "height": 720
             }
           },
-          "viewCount": 872
+          "viewCount": 869
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1015,7 +973,7 @@
               "height": 720
             }
           },
-          "viewCount": 1766
+          "viewCount": 1769
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1120,7 +1078,7 @@
               "height": 720
             }
           },
-          "viewCount": 1080
+          "viewCount": 1081
         },
         {
           "videoId": "D8rAviYT0hE",
@@ -1358,7 +1316,7 @@
               "height": 720
             }
           },
-          "viewCount": 6240,
+          "viewCount": 6259,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1500,7 +1458,7 @@
               "height": 720
             }
           },
-          "viewCount": 4355,
+          "viewCount": 4364,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1732,7 +1690,7 @@
               "height": 720
             }
           },
-          "viewCount": 7935,
+          "viewCount": 7945,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
