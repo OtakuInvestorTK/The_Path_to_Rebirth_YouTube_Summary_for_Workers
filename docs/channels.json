@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-11T22:14:38.696Z",
+  "requestedAt": "2026-01-11T23:14:24.411Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15785
+          "viewCount": 15825
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 18117
+          "viewCount": 18122
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12480,
+          "viewCount": 12483,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 20306
+          "viewCount": 20313
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 14443,
+          "viewCount": 14435,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -376,7 +376,7 @@
               "height": 720
             }
           },
-          "viewCount": 8929,
+          "viewCount": 8932,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -528,7 +528,7 @@
               "height": 720
             }
           },
-          "viewCount": 1542
+          "viewCount": 1543
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -771,7 +771,7 @@
               "height": 720
             }
           },
-          "viewCount": 2162
+          "viewCount": 2163
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -806,7 +806,7 @@
               "height": 720
             }
           },
-          "viewCount": 1941
+          "viewCount": 1943
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -982,7 +982,7 @@
               "height": 720
             }
           },
-          "viewCount": 268
+          "viewCount": 283
         },
         {
           "videoId": "OgNr8FyXHHQ",
@@ -1017,7 +1017,7 @@
               "height": 720
             }
           },
-          "viewCount": 1168
+          "viewCount": 1186
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1234,7 +1234,43 @@
       },
       "channelId": "UCk6haDaZ2Bpa3e6SMrHyCVg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "tbb15fBvSc0",
+          "title": "いわさん、中村まさとさんと糸島市政を語る",
+          "description": "---\nサブチャンネルをはじめました\nhttps://youtube.com/@challenger-iwasan?si=WA-V75GxDCz2Xiq7\n\n「チャレンジャーいわさんチャンネル」の名前で、71歳のいわさんが様々なアクティビティにチャレンジ中！\nチャンネル登録して新たな動画をお楽しみに！\n\n◆プロフィール\n大阪生まれ。\n1978年リクルート入社(26年間住まい情報事業)。49歳でリクルート退職後3社で勤務。\n2020年65歳で仕事を辞め、新設大学墨田区の「iU」に1期生として入学。3年生で退学。\n2025年「再生の道」1期生でエントリーし台東区で選出。東京都議会議員選挙に立候補したが当選ならず。\n2025年夏　次のチャレンジを模索中！",
+          "publishedAt": "2026-01-11T23:01:13Z",
+          "channelTitle": "いわさんチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tbb15fBvSc0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tbb15fBvSc0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tbb15fBvSc0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tbb15fBvSc0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tbb15fBvSc0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 17
+        }
+      ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
     },
     {
@@ -1360,7 +1396,7 @@
               "height": 720
             }
           },
-          "viewCount": 6641,
+          "viewCount": 6654,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1502,7 +1538,7 @@
               "height": 720
             }
           },
-          "viewCount": 4637,
+          "viewCount": 4638,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1734,7 +1770,7 @@
               "height": 720
             }
           },
-          "viewCount": 7969,
+          "viewCount": 7970,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:00Z",
@@ -1851,7 +1887,7 @@
               "height": 720
             }
           },
-          "viewCount": 1994,
+          "viewCount": 2185,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
