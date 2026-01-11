@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-11T16:17:57.102Z",
+  "requestedAt": "2026-01-11T17:12:56.558Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15549
+          "viewCount": 15637
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 18081
+          "viewCount": 18087
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 8422,
+          "viewCount": 8427,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12463,
+          "viewCount": 12464,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 20249
+          "viewCount": 20244
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -276,7 +276,47 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "7UKzZnNZ1-E",
+          "title": "【前編】奥村こうき 八丈島に還る【密着ドキュメンタリー】",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2026-01-11T15:26:48Z",
+          "channelTitle": "奥村こうき | 再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-12T13:15:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
@@ -453,7 +493,7 @@
               "height": 720
             }
           },
-          "viewCount": 1016
+          "viewCount": 1028
         },
         {
           "videoId": "gO7jrN3_jAQ",
@@ -488,7 +528,7 @@
               "height": 720
             }
           },
-          "viewCount": 1540
+          "viewCount": 1542
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -589,7 +629,7 @@
               "height": 360
             }
           },
-          "viewCount": 1379,
+          "viewCount": 1380,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -731,7 +771,7 @@
               "height": 720
             }
           },
-          "viewCount": 2111
+          "viewCount": 2138
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -1320,7 +1360,7 @@
               "height": 720
             }
           },
-          "viewCount": 6608,
+          "viewCount": 6632,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1462,7 +1502,7 @@
               "height": 720
             }
           },
-          "viewCount": 4606,
+          "viewCount": 4610,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1811,7 +1851,7 @@
               "height": 720
             }
           },
-          "viewCount": 1089,
+          "viewCount": 1313,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
