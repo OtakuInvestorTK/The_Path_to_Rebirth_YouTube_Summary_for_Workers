@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-11T11:12:49.405Z",
+  "requestedAt": "2026-01-11T12:29:47.887Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15154
+          "viewCount": 15235
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 18014
+          "viewCount": 18029
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 8377,
+          "viewCount": 8397,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 14216,
+          "viewCount": 14220,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 8904,
+          "viewCount": 8907,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T12:00:00Z",
@@ -589,7 +589,7 @@
               "height": 360
             }
           },
-          "viewCount": 1375,
+          "viewCount": 1377,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-04T13:00:00Z",
@@ -731,7 +731,7 @@
               "height": 720
             }
           },
-          "viewCount": 1292
+          "viewCount": 1602
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -766,7 +766,7 @@
               "height": 720
             }
           },
-          "viewCount": 1391
+          "viewCount": 1467
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -942,7 +942,7 @@
               "height": 720
             }
           },
-          "viewCount": 117
+          "viewCount": 160
         },
         {
           "videoId": "OgNr8FyXHHQ",
@@ -977,7 +977,7 @@
               "height": 720
             }
           },
-          "viewCount": 1080
+          "viewCount": 1103
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1012,7 +1012,7 @@
               "height": 720
             }
           },
-          "viewCount": 1887
+          "viewCount": 1890
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1117,7 +1117,7 @@
               "height": 720
             }
           },
-          "viewCount": 1092
+          "viewCount": 1093
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1320,7 +1320,7 @@
               "height": 720
             }
           },
-          "viewCount": 6528,
+          "viewCount": 6552,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1462,7 +1462,7 @@
               "height": 720
             }
           },
-          "viewCount": 4533,
+          "viewCount": 4561,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1781,7 +1781,7 @@
           "videoId": "Z5gVd81HFUA",
           "title": "神宮外苑再開発の隠されていた真実！",
           "description": "神宮外苑再開発は、明治神宮から話があがる前に、東京都と三井不動産が動いていた！これはなにを意味するのか？\n\n東京都都議会議員、原田あきらさんが入手した資料「森元首相との会議メモ」を公開しながら、驚愕のお話を伺いました。\n\nしかし、なぜメディアはこれを取り扱わないのか？？？",
-          "publishedAt": "2026-01-11T05:18:58Z",
+          "publishedAt": "2026-01-11T12:00:06Z",
           "channelTitle": "増田よしひこ@再生の道",
           "thumbnails": {
             "default": {
@@ -1810,10 +1810,11 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 175,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-11T12:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-01-11T12:00:00Z",
+            "actualStartTime": "2026-01-11T12:00:06Z"
           }
         }
       ],
