@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-12T04:44:27.678Z",
+  "requestedAt": "2026-01-12T05:24:46.601Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "2nUnt-3PZkQ",
+          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.01.12) -再生の道-",
+          "description": "公募はこちらから↓\nhttps://saiseinomichi-official.jp/kobo/\n\n****************************************************************\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-01-12T04:57:30Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-12T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "HEUwXujINVw",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 16046
+          "viewCount": 16076
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -92,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 18165
+          "viewCount": 18168
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -168,7 +208,7 @@
               "height": 720
             }
           },
-          "viewCount": 12491,
+          "viewCount": 12490,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -209,7 +249,7 @@
               "height": 720
             }
           },
-          "viewCount": 20371
+          "viewCount": 20410
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -244,7 +284,7 @@
               "height": 720
             }
           },
-          "viewCount": 14503,
+          "viewCount": 14547,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -704,7 +744,7 @@
               "height": 720
             }
           },
-          "viewCount": 2278
+          "viewCount": 2298
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -915,7 +955,7 @@
               "height": 720
             }
           },
-          "viewCount": 311
+          "viewCount": 325
         },
         {
           "videoId": "OgNr8FyXHHQ",
@@ -950,7 +990,7 @@
               "height": 720
             }
           },
-          "viewCount": 1224
+          "viewCount": 1226
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -985,7 +1025,7 @@
               "height": 720
             }
           },
-          "viewCount": 1891
+          "viewCount": 1892
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1020,7 +1060,7 @@
               "height": 720
             }
           },
-          "viewCount": 1248
+          "viewCount": 1250
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1201,7 +1241,7 @@
               "height": 720
             }
           },
-          "viewCount": 1338
+          "viewCount": 1587
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1329,7 +1369,7 @@
               "height": 720
             }
           },
-          "viewCount": 6694,
+          "viewCount": 6705,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1471,7 +1511,7 @@
               "height": 720
             }
           },
-          "viewCount": 4673,
+          "viewCount": 4674,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1790,7 +1830,7 @@
         {
           "videoId": "Z5gVd81HFUA",
           "title": "神宮外苑再開発の隠されていた真実！",
-          "description": "神宮外苑再開発は、明治神宮から話があがる前に、東京都と三井不動産が動いていた！これはなにを意味するのか？\n\n東京都都議会議員、原田あきらさんが入手した資料「森元首相との会議メモ」を公開しながら、驚愕のお話を伺いました。\n\nしかし、なぜメディアはこれを取り扱わないのか？？？",
+          "description": "神宮外苑再開発は、明治神宮から話があがる前に、東京都と三井不動産が動いていた！これはなにを意味するのか？\n\n東京都都議会議員、原田あきらさんが入手した資料「森元首相との会議メモ」を公開しながら、驚愕のお話を伺いました。\n\nしかし、なぜメディアはこれを取り扱わないのか？？？\n\n前回までの神宮外苑の動画も合わせてごらんください。\n１）神宮外苑再開発問題に斬り込む１：https://youtu.be/rIGc_oodhwo?si=iuTqPkV6xM-sPi-6\n２）神宮外苑再開発問題に斬り込む２：https://youtu.be/ERXiuQzt0yA?si=DjjQ8MTkR6Y2OICz\n３）神宮外苑再開発問題に斬り込む３：https://youtu.be/Jd4cZOUyTpI?si=U8z9AkBEQjvt2cRQ\n\n昨年秋に立ち上げた杉並区公認まちづくり団体、SMiLE〜杉並の未来を創る会\nイベントもいろいろ開催していますので、よろしければご参加ください。\n https://suginamismile.wixsite.com/smile",
           "publishedAt": "2026-01-11T12:00:06Z",
           "channelTitle": "増田よしひこ@再生の道",
           "thumbnails": {
@@ -1820,7 +1860,7 @@
               "height": 720
             }
           },
-          "viewCount": 3568,
+          "viewCount": 3719,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
