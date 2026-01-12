@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-12T07:22:27.465Z",
+  "requestedAt": "2026-01-12T08:24:41.635Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 16158
+          "viewCount": 16207
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -132,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 18206
+          "viewCount": 18211
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -167,7 +167,7 @@
               "height": 720
             }
           },
-          "viewCount": 8471,
+          "viewCount": 8473,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -208,7 +208,7 @@
               "height": 720
             }
           },
-          "viewCount": 12500,
+          "viewCount": 12502,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -249,7 +249,7 @@
               "height": 720
             }
           },
-          "viewCount": 20434
+          "viewCount": 20465
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -284,7 +284,7 @@
               "height": 720
             }
           },
-          "viewCount": 14547,
+          "viewCount": 14584,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -533,7 +533,7 @@
               "height": 720
             }
           },
-          "viewCount": 1039
+          "viewCount": 1040
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -712,6 +712,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "pMiYANUd3ck",
+          "title": "たきぐち昭彦 & GG鈴木コラボ：GG鈴木さんから、たきぐち昭彦へのメッセージ！",
+          "description": "町田市で政治活動を行っているた、きぐち昭彦＠再生の道についてGG鈴木さんのチャンネルにきた質問、リクエストにお答えします。\nたきぐち昭彦公式ホームページ：https://akihikotakiguchi.com",
+          "publishedAt": "2026-01-12T08:01:04Z",
+          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pMiYANUd3ck/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pMiYANUd3ck/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pMiYANUd3ck/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pMiYANUd3ck/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pMiYANUd3ck/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 19
+        },
+        {
           "videoId": "_DonbWBXMjE",
           "title": "たきぐち昭彦 & GG鈴木コラボ：GG鈴木さんからみた、たきぐち昭彦の仕事ぶりは？",
           "description": "町田市で政治活動を行っているた、きぐち昭彦＠再生の道についてGG鈴木さんのチャンネルにきた質問、リクエストにお答えします。\nたきぐち昭彦公式ホームページ：https://akihikotakiguchi.com",
@@ -744,7 +779,7 @@
               "height": 720
             }
           },
-          "viewCount": 2322
+          "viewCount": 2342
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -779,7 +814,7 @@
               "height": 720
             }
           },
-          "viewCount": 1983
+          "viewCount": 1989
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -955,7 +990,7 @@
               "height": 720
             }
           },
-          "viewCount": 325
+          "viewCount": 339
         },
         {
           "videoId": "OgNr8FyXHHQ",
@@ -990,7 +1025,7 @@
               "height": 720
             }
           },
-          "viewCount": 1259
+          "viewCount": 1276
         },
         {
           "videoId": "NXbu6JlgDQw",
@@ -1025,7 +1060,7 @@
               "height": 720
             }
           },
-          "viewCount": 1893
+          "viewCount": 1894
         },
         {
           "videoId": "meDdohAfP2Y",
@@ -1060,7 +1095,7 @@
               "height": 720
             }
           },
-          "viewCount": 1248
+          "viewCount": 1250
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1241,7 +1276,7 @@
               "height": 720
             }
           },
-          "viewCount": 2016
+          "viewCount": 2204
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1302,7 +1337,7 @@
               "height": 720
             }
           },
-          "viewCount": 1555,
+          "viewCount": 1556,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-06T03:00:00Z",
@@ -1369,7 +1404,7 @@
               "height": 720
             }
           },
-          "viewCount": 6710,
+          "viewCount": 6721,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1511,7 +1546,7 @@
               "height": 720
             }
           },
-          "viewCount": 4677,
+          "viewCount": 4679,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1860,7 +1895,7 @@
               "height": 720
             }
           },
-          "viewCount": 4045,
+          "viewCount": 4221,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
