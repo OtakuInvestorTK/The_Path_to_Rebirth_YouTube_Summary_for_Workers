@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-12T11:15:15.199Z",
+  "requestedAt": "2026-01-12T12:35:10.056Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,10 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 3193,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-12T12:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-01-12T12:00:00Z",
+            "actualStartTime": "2026-01-12T12:00:17Z",
+            "concurrentViewers": 1673
           }
         }
       ],
@@ -97,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 16380
+          "viewCount": 16475
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -132,7 +134,7 @@
               "height": 720
             }
           },
-          "viewCount": 18254
+          "viewCount": 18272
         },
         {
           "videoId": "emIXsAeT5T4",
@@ -167,7 +169,7 @@
               "height": 720
             }
           },
-          "viewCount": 8473,
+          "viewCount": 8497,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:07:33Z",
@@ -208,7 +210,7 @@
               "height": 720
             }
           },
-          "viewCount": 12511,
+          "viewCount": 12521,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T12:25:17Z",
@@ -249,7 +251,7 @@
               "height": 720
             }
           },
-          "viewCount": 20535
+          "viewCount": 20569
         },
         {
           "videoId": "guvK9LX24Fg",
@@ -284,7 +286,7 @@
               "height": 720
             }
           },
-          "viewCount": 14602,
+          "viewCount": 14596,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-05T13:30:00Z",
@@ -744,7 +746,7 @@
               "height": 720
             }
           },
-          "viewCount": 122
+          "viewCount": 155
         },
         {
           "videoId": "_DonbWBXMjE",
@@ -779,7 +781,7 @@
               "height": 720
             }
           },
-          "viewCount": 2366
+          "viewCount": 2382
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -814,7 +816,7 @@
               "height": 720
             }
           },
-          "viewCount": 1997
+          "viewCount": 2003
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -915,7 +917,8 @@
         }
       },
       "channelId": "UCmnx46pzvRWi4-Ae-Dqnq9A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "ZHn76zWYrFA",
           "title": "出張先からLive配信in松江",
@@ -949,16 +952,14 @@
               "height": 720
             }
           },
-          "viewCount": 144,
+          "viewCount": 250,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-12T10:30:00Z",
             "actualStartTime": "2026-01-12T10:30:13Z",
-            "concurrentViewers": 60
+            "actualEndTime": "2026-01-12T11:37:05Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "LE-xEXRPkYY",
           "title": "あなたの功績は引き継がれますか？属人経営の罠。 #shorts",
@@ -992,7 +993,7 @@
               "height": 720
             }
           },
-          "viewCount": 113
+          "viewCount": 161
         },
         {
           "videoId": "hwVopqlT5uQ",
@@ -1027,7 +1028,7 @@
               "height": 720
             }
           },
-          "viewCount": 339
+          "viewCount": 365
         },
         {
           "videoId": "OgNr8FyXHHQ",
@@ -1278,7 +1279,7 @@
               "height": 720
             }
           },
-          "viewCount": 2606
+          "viewCount": 2744
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1406,7 +1407,7 @@
               "height": 720
             }
           },
-          "viewCount": 6739,
+          "viewCount": 6761,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1548,7 +1549,7 @@
               "height": 720
             }
           },
-          "viewCount": 4701,
+          "viewCount": 4705,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1705,47 +1706,7 @@
         }
       },
       "channelId": "UCvTw0PWaLJm-FGBRY7z51aA",
-      "liveVideos": [
-        {
-          "videoId": "2utCwsWWtRY",
-          "title": "しゃべるば #002",
-          "description": "最近の政治、経済や近況、その他雑談。いろいろお話できれば。\nゆるく話をしていくので、軽い気持ちでお付き合いを！\n\nよろしければ、チャンネル登録・高評価ボタンお願いします！\n\n今週のテーマ予定（順次更新）\n1.ホームページの政策進捗\n2.公募について\n3.衆院選開始か（話さないかも）\n4.資産公開法について\n\n\n#再生の道 #中村幸信",
-          "publishedAt": "2026-01-05T12:00:18Z",
-          "channelTitle": "中村 幸信×再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/2utCwsWWtRY/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 0,
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-12T13:00:00Z"
-          }
-        }
-      ],
+      "liveVideos": [],
       "recentVideos": [
         {
           "videoId": "qT0NXCmGBHk",
@@ -1897,7 +1858,7 @@
               "height": 720
             }
           },
-          "viewCount": 4580,
+          "viewCount": 4687,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
