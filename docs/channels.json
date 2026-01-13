@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-13T03:23:26.300Z",
+  "requestedAt": "2026-01-13T04:35:08.034Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 24308,
+          "viewCount": 24925,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 20420
+          "viewCount": 21353
         },
         {
           "videoId": "HEUwXujINVw",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 17089
+          "viewCount": 17107
         },
         {
           "videoId": "0gsJJyARtVo",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 18554
+          "viewCount": 18564
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 5812,
+          "viewCount": 6183,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:15:00Z",
@@ -368,7 +368,47 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "cBFecfpGMpM",
+          "title": "インサイド 再生の道 国政部　もー全部見せちゃいます。",
+          "description": "再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nこの動画の本編\nhttps://youtu.be/jAqA0gvs46w\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n小林学\nhttps://www.youtube.com/@%E5%B0%8F%E6%9E%97%E5%AD%A6_%E5%86%8D%E7%94%9F%E3%81%AE%E9%81%93\n\n水野純也\n東京都在住、再生の道から国政を目指した63歳、4人家族。\n\nX   https://x.com/HAL_MIZ9\n選挙ドットコム　水野純也ページ　https://go2senkyo.com/seijika/196360\n\n全動画切り抜き自由ですが、悪意のある編集はご遠慮ください。",
+          "publishedAt": "2026-01-12T15:35:54Z",
+          "channelTitle": "水野 純也 @再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cBFecfpGMpM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cBFecfpGMpM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cBFecfpGMpM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cBFecfpGMpM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cBFecfpGMpM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 8,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-13T08:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
     },
@@ -453,7 +493,7 @@
               "height": 720
             }
           },
-          "viewCount": 1064
+          "viewCount": 1063
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -664,7 +704,7 @@
               "height": 720
             }
           },
-          "viewCount": 307
+          "viewCount": 317
         },
         {
           "videoId": "_DonbWBXMjE",
@@ -699,7 +739,7 @@
               "height": 720
             }
           },
-          "viewCount": 2408
+          "viewCount": 2413
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -870,7 +910,7 @@
               "height": 720
             }
           },
-          "viewCount": 540,
+          "viewCount": 550,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T10:30:00Z",
@@ -911,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 273
+          "viewCount": 291
         },
         {
           "videoId": "hwVopqlT5uQ",
@@ -946,7 +986,7 @@
               "height": 720
             }
           },
-          "viewCount": 382
+          "viewCount": 385
         },
         {
           "videoId": "OgNr8FyXHHQ",
@@ -1051,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 1260
+          "viewCount": 1261
         },
         {
           "videoId": "H2CJI4cf42I",
@@ -1197,7 +1237,7 @@
               "height": 720
             }
           },
-          "viewCount": 630
+          "viewCount": 812
         },
         {
           "videoId": "tbb15fBvSc0",
@@ -1232,7 +1272,7 @@
               "height": 720
             }
           },
-          "viewCount": 3215
+          "viewCount": 3254
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1258,50 +1298,49 @@
         }
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "1xjJUWrgPk8",
           "title": "【1/13 12:00配信】天野こころのこころトーク#23",
           "description": "今週の報告などお話します。\nいつも応援ありがとうございます！！\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​\n\n▽ホームページ\nhttps://amano-cocoro.com/​\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/...​\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano​",
-          "publishedAt": "2026-01-12T13:30:44Z",
+          "publishedAt": "2026-01-13T04:34:13Z",
           "channelTitle": "天野こころ",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1xjJUWrgPk8/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 462,
+          "viewCount": 1254,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-13T03:00:00Z",
             "actualStartTime": "2026-01-13T02:56:09Z",
-            "concurrentViewers": 305
+            "actualEndTime": "2026-01-13T04:09:54Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "1_wKOO7Ukec",
           "title": "【1/6 12:00配信】天野こころのこころトーク#22",
@@ -1402,7 +1441,7 @@
               "height": 720
             }
           },
-          "viewCount": 6817,
+          "viewCount": 6822,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1771,7 +1810,7 @@
               "height": 480
             }
           },
-          "viewCount": 2245,
+          "viewCount": 2289,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:00:00Z",
@@ -1812,7 +1851,7 @@
               "height": 720
             }
           },
-          "viewCount": 1110
+          "viewCount": 1423
         }
       ],
       "name": "中村幸信,中村のぶゆき,なかむら幸信,なかむらのぶゆき"
@@ -1923,7 +1962,7 @@
               "height": 720
             }
           },
-          "viewCount": 5566,
+          "viewCount": 5635,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
