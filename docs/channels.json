@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-14T01:18:01.509Z",
+  "requestedAt": "2026-01-14T03:42:25.031Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "ceAIoKC22Zc",
+          "title": "再生の道オンライン 【女子部屋トーク】再生の道に応募してからの１年。2025年を振り返り、今後を語り尽くす。",
+          "description": "#再生の道  #全国公募 #国政改革委員 #葛飾区議会議員 #天野こころ #岩見なつよ #福岡なつみ #吉田あや #女性の力 \n\n再生の道の女性メンバー4名が本音で語る！\n応募して一年。どんな気持ちだったのか？　何が変わったのか？\nそして今思うことは？",
+          "publishedAt": "2026-01-14T02:45:19Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ceAIoKC22Zc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ceAIoKC22Zc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ceAIoKC22Zc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ceAIoKC22Zc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ceAIoKC22Zc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-14T12:30:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "VidViB65TSY",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 12715
+          "viewCount": 13289
         },
         {
           "videoId": "2nUnt-3PZkQ",
@@ -92,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 31669,
+          "viewCount": 31952,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T12:00:00Z",
@@ -133,7 +173,7 @@
               "height": 720
             }
           },
-          "viewCount": 30873
+          "viewCount": 31282
         },
         {
           "videoId": "HEUwXujINVw",
@@ -168,7 +208,7 @@
               "height": 720
             }
           },
-          "viewCount": 18000
+          "viewCount": 18057
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -229,7 +269,7 @@
               "height": 720
             }
           },
-          "viewCount": 8803,
+          "viewCount": 8909,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:15:00Z",
@@ -296,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 6237,
+          "viewCount": 6565,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T12:00:00Z",
@@ -363,7 +403,7 @@
               "height": 720
             }
           },
-          "viewCount": 9310,
+          "viewCount": 9626,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T08:00:00Z",
@@ -666,7 +706,7 @@
               "height": 720
             }
           },
-          "viewCount": 983
+          "viewCount": 1004
         },
         {
           "videoId": "pMiYANUd3ck",
@@ -701,7 +741,7 @@
               "height": 720
             }
           },
-          "viewCount": 434
+          "viewCount": 438
         },
         {
           "videoId": "_DonbWBXMjE",
@@ -736,7 +776,7 @@
               "height": 720
             }
           },
-          "viewCount": 2461
+          "viewCount": 2467
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -771,7 +811,7 @@
               "height": 720
             }
           },
-          "viewCount": 2079
+          "viewCount": 2083
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -907,7 +947,7 @@
               "height": 720
             }
           },
-          "viewCount": 1120
+          "viewCount": 1123
         },
         {
           "videoId": "ZHn76zWYrFA",
@@ -937,7 +977,7 @@
               "height": 480
             }
           },
-          "viewCount": 943,
+          "viewCount": 1026,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T10:30:00Z",
@@ -978,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 342
+          "viewCount": 348
         },
         {
           "videoId": "hwVopqlT5uQ",
@@ -1013,7 +1053,7 @@
               "height": 720
             }
           },
-          "viewCount": 404
+          "viewCount": 405
         },
         {
           "videoId": "OgNr8FyXHHQ",
@@ -1118,7 +1158,7 @@
               "height": 720
             }
           },
-          "viewCount": 1263
+          "viewCount": 1264
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1229,7 +1269,7 @@
               "height": 720
             }
           },
-          "viewCount": 2175
+          "viewCount": 2230
         },
         {
           "videoId": "tbb15fBvSc0",
@@ -1264,7 +1304,7 @@
               "height": 720
             }
           },
-          "viewCount": 3747
+          "viewCount": 3806
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1325,7 +1365,7 @@
               "height": 720
             }
           },
-          "viewCount": 5220,
+          "viewCount": 5332,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T03:00:00Z",
@@ -1427,7 +1467,7 @@
               "height": 720
             }
           },
-          "viewCount": 6964,
+          "viewCount": 6974,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -1569,7 +1609,7 @@
               "height": 720
             }
           },
-          "viewCount": 4827,
+          "viewCount": 4829,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -1796,7 +1836,7 @@
               "height": 480
             }
           },
-          "viewCount": 2517,
+          "viewCount": 2534,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:00:00Z",
@@ -1837,7 +1877,7 @@
               "height": 720
             }
           },
-          "viewCount": 3862
+          "viewCount": 3928
         }
       ],
       "name": "中村幸信,中村のぶゆき,なかむら幸信,なかむらのぶゆき"
@@ -1948,7 +1988,7 @@
               "height": 720
             }
           },
-          "viewCount": 6479,
+          "viewCount": 6563,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
