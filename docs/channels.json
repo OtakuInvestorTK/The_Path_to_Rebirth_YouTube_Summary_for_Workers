@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-15T11:15:30.774Z",
+  "requestedAt": "2026-01-15T12:33:20.818Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8827
+          "viewCount": 10085
         },
         {
           "videoId": "ceAIoKC22Zc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 17708,
+          "viewCount": 18204,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:30:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 15275,
+          "viewCount": 15894,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6093
+          "viewCount": 6273
         },
         {
           "videoId": "k2GhHqNVD8M",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 5844
+          "viewCount": 6001
         },
         {
           "videoId": "6N84k8SyzvE",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 11186
+          "viewCount": 11753
         },
         {
           "videoId": "Ru2PvrZzzc4",
@@ -279,7 +279,7 @@
               "height": 720
             }
           },
-          "viewCount": 4067
+          "viewCount": 4147
         },
         {
           "videoId": "VidViB65TSY",
@@ -314,7 +314,7 @@
               "height": 720
             }
           },
-          "viewCount": 15261
+          "viewCount": 15312
         },
         {
           "videoId": "2nUnt-3PZkQ",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 34182,
+          "viewCount": 34247,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T12:00:00Z",
@@ -390,7 +390,7 @@
               "height": 720
             }
           },
-          "viewCount": 36282
+          "viewCount": 36419
         },
         {
           "videoId": "HEUwXujINVw",
@@ -425,7 +425,7 @@
               "height": 720
             }
           },
-          "viewCount": 18502
+          "viewCount": 18521
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -486,7 +486,7 @@
               "height": 720
             }
           },
-          "viewCount": 10599,
+          "viewCount": 10676,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:15:00Z",
@@ -553,7 +553,7 @@
               "height": 720
             }
           },
-          "viewCount": 7442,
+          "viewCount": 7460,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T12:00:00Z",
@@ -620,7 +620,7 @@
               "height": 720
             }
           },
-          "viewCount": 11934,
+          "viewCount": 12037,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T08:00:00Z",
@@ -678,43 +678,7 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "wJ4qRrlRtiI",
-          "title": "棒きなこ",
-          "description": "昭和時代に駄菓子屋を席巻した、棒きなこです。",
-          "publishedAt": "2026-01-08T12:06:33Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/wJ4qRrlRtiI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1147
-        }
-      ],
+      "recentVideos": [],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -923,7 +887,7 @@
               "height": 720
             }
           },
-          "viewCount": 713
+          "viewCount": 1052
         },
         {
           "videoId": "pHWdIe0WQuY",
@@ -958,7 +922,7 @@
               "height": 720
             }
           },
-          "viewCount": 857
+          "viewCount": 890
         },
         {
           "videoId": "NsLoOPm5RRI",
@@ -993,7 +957,7 @@
               "height": 720
             }
           },
-          "viewCount": 1899
+          "viewCount": 2050
         },
         {
           "videoId": "pMiYANUd3ck",
@@ -1028,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 462
+          "viewCount": 468
         },
         {
           "videoId": "_DonbWBXMjE",
@@ -1063,7 +1027,7 @@
               "height": 720
             }
           },
-          "viewCount": 2510
+          "viewCount": 2514
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -1234,7 +1198,7 @@
               "height": 720
             }
           },
-          "viewCount": 266
+          "viewCount": 347
         },
         {
           "videoId": "QC2BHhSFe_0",
@@ -1269,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 568
+          "viewCount": 571
         },
         {
           "videoId": "po7B-KT9JNM",
@@ -1304,7 +1268,7 @@
               "height": 720
             }
           },
-          "viewCount": 1431
+          "viewCount": 1432
         },
         {
           "videoId": "ZHn76zWYrFA",
@@ -1334,7 +1298,7 @@
               "height": 480
             }
           },
-          "viewCount": 1656,
+          "viewCount": 1678,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T10:30:00Z",
@@ -1375,7 +1339,7 @@
               "height": 720
             }
           },
-          "viewCount": 389
+          "viewCount": 396
         },
         {
           "videoId": "hwVopqlT5uQ",
@@ -1410,7 +1374,7 @@
               "height": 720
             }
           },
-          "viewCount": 419
+          "viewCount": 421
         },
         {
           "videoId": "OgNr8FyXHHQ",
@@ -1445,7 +1409,7 @@
               "height": 720
             }
           },
-          "viewCount": 1332
+          "viewCount": 1329
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1556,7 +1520,7 @@
               "height": 720
             }
           },
-          "viewCount": 2506
+          "viewCount": 2523
         },
         {
           "videoId": "tbb15fBvSc0",
@@ -1591,7 +1555,7 @@
               "height": 720
             }
           },
-          "viewCount": 4062
+          "viewCount": 4079
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1652,7 +1616,7 @@
               "height": 720
             }
           },
-          "viewCount": 6860,
+          "viewCount": 6919,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T03:00:00Z",
@@ -1719,7 +1683,7 @@
               "height": 720
             }
           },
-          "viewCount": 8435,
+          "viewCount": 8747,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T13:45:00Z",
@@ -1760,7 +1724,7 @@
               "height": 720
             }
           },
-          "viewCount": 7225,
+          "viewCount": 7236,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-08T13:00:00Z",
@@ -2129,7 +2093,7 @@
               "height": 480
             }
           },
-          "viewCount": 2635,
+          "viewCount": 2634,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:00:00Z",
@@ -2170,7 +2134,7 @@
               "height": 720
             }
           },
-          "viewCount": 4334
+          "viewCount": 4349
         }
       ],
       "name": "中村幸信,中村のぶゆき,なかむら幸信,なかむらのぶゆき"
@@ -2281,7 +2245,7 @@
               "height": 720
             }
           },
-          "viewCount": 6892,
+          "viewCount": 6912,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
