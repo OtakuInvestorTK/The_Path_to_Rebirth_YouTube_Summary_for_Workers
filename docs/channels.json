@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-16T07:20:08.461Z",
+  "requestedAt": "2026-01-16T08:21:53.683Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14962
+          "viewCount": 15138
         },
         {
           "videoId": "ceAIoKC22Zc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 21141,
+          "viewCount": 21276,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:30:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 18762,
+          "viewCount": 18953,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 8633
+          "viewCount": 8722
         },
         {
           "videoId": "k2GhHqNVD8M",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 7575
+          "viewCount": 7614
         },
         {
           "videoId": "6N84k8SyzvE",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 15849
+          "viewCount": 15872
         },
         {
           "videoId": "Ru2PvrZzzc4",
@@ -279,7 +279,7 @@
               "height": 720
             }
           },
-          "viewCount": 5284
+          "viewCount": 5339
         },
         {
           "videoId": "VidViB65TSY",
@@ -314,7 +314,7 @@
               "height": 720
             }
           },
-          "viewCount": 15848
+          "viewCount": 15852
         },
         {
           "videoId": "2nUnt-3PZkQ",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 34989,
+          "viewCount": 35000,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T12:00:00Z",
@@ -390,7 +390,7 @@
               "height": 720
             }
           },
-          "viewCount": 37938
+          "viewCount": 37977
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -451,7 +451,7 @@
               "height": 720
             }
           },
-          "viewCount": 11405,
+          "viewCount": 11439,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:15:00Z",
@@ -518,7 +518,7 @@
               "height": 720
             }
           },
-          "viewCount": 7664,
+          "viewCount": 7672,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T12:00:00Z",
@@ -585,7 +585,7 @@
               "height": 720
             }
           },
-          "viewCount": 12640,
+          "viewCount": 12678,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T08:00:00Z",
@@ -820,6 +820,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "OizcqvzcxO8",
+          "title": "石丸伸二が立ち上げた政治団体「再生の道」の町田市政対策委員、たきぐち昭彦の街頭スピーチの模様①（⑤まであるので順番に見てください）https://lit.link/akihikotakiguchi",
+          "description": "■このチャンネルについて\n石丸伸二が立ち上げた政治団体「再生の道」町田担当、たきぐち昭彦の公式チャンネルです。たきぐち昭彦の信条や政治活動状況を不定期で配信していきます。\n\n■メールアドレス\ninfo@akihikotakiguchi.com\n\n■ホームページ\nhttps://akihikotakiguchi.com\n\n■たきぐち昭彦へのご質問はこちら\nhttps://www.akihikotakiguchi.com/contact/\n\n■たきぐち昭彦ボランティへの登録はこちら\nhttps://www.akihikotakiguchi.com/volunteer/\n\n■たきぐち昭彦へのご支援はこちら\nhttps://www.akihikotakiguchi.com/support/\n\n■その他の情報\nX（旧Twitter）\nhttps://x.com/takiguchi55\n\nInstagram\nhttps://www.instagram.com/ike.takiguchi/\n\nTikTok\nhttps://www.tiktok.com/@akihiko.takiguchi2",
+          "publishedAt": "2026-01-16T08:00:28Z",
+          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OizcqvzcxO8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OizcqvzcxO8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OizcqvzcxO8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OizcqvzcxO8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OizcqvzcxO8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 288
+        },
+        {
           "videoId": "hVtlcVp0AFU",
           "title": "2025年12月28日 「再生の道」の議員第一号、岩見なつよさんが町田駅にてたきぐち昭彦を応援してくれました",
           "description": "■このチャンネルについて\n石丸伸二が立ち上げた政治団体「再生の道」町田担当、たきぐち昭彦の公式チャンネルです。たきぐち昭彦の信条や政治活動状況を不定期で配信していきます。\n\n■メールアドレス\ninfo@akihikotakiguchi.com\n\n■ホームページ\nhttps://akihikotakiguchi.com\n\n■たきぐち昭彦へのご質問はこちら\nhttps://www.akihikotakiguchi.com/contact/\n\n■たきぐち昭彦ボランティへの登録はこちら\nhttps://www.akihikotakiguchi.com/volunteer/\n\n■たきぐち昭彦へのご支援はこちら\nhttps://www.akihikotakiguchi.com/support/\n\n■その他の情報\nX（旧Twitter）\nhttps://x.com/takiguchi55\n\nInstagram\nhttps://www.instagram.com/ike.takiguchi/\n\nTikTok\nhttps://www.tiktok.com/@akihiko.takiguchi2",
@@ -852,7 +887,7 @@
               "height": 720
             }
           },
-          "viewCount": 2096
+          "viewCount": 2105
         },
         {
           "videoId": "pHWdIe0WQuY",
@@ -887,7 +922,7 @@
               "height": 720
             }
           },
-          "viewCount": 1354
+          "viewCount": 1385
         },
         {
           "videoId": "NsLoOPm5RRI",
@@ -922,7 +957,7 @@
               "height": 720
             }
           },
-          "viewCount": 2396
+          "viewCount": 2408
         },
         {
           "videoId": "pMiYANUd3ck",
@@ -992,7 +1027,7 @@
               "height": 720
             }
           },
-          "viewCount": 2540
+          "viewCount": 2543
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -1027,7 +1062,7 @@
               "height": 720
             }
           },
-          "viewCount": 2119
+          "viewCount": 2120
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1263,7 +1298,7 @@
               "height": 480
             }
           },
-          "viewCount": 1842,
+          "viewCount": 1851,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T10:30:00Z",
@@ -1374,7 +1409,7 @@
               "height": 720
             }
           },
-          "viewCount": 1334
+          "viewCount": 1335
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1485,7 +1520,7 @@
               "height": 720
             }
           },
-          "viewCount": 2598
+          "viewCount": 2606
         },
         {
           "videoId": "tbb15fBvSc0",
@@ -1520,7 +1555,7 @@
               "height": 720
             }
           },
-          "viewCount": 4195
+          "viewCount": 4194
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -1581,7 +1616,7 @@
               "height": 720
             }
           },
-          "viewCount": 4575,
+          "viewCount": 5195,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T03:00:00Z",
@@ -1622,7 +1657,7 @@
               "height": 720
             }
           },
-          "viewCount": 7394,
+          "viewCount": 7425,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T03:00:00Z",
@@ -1689,7 +1724,7 @@
               "height": 720
             }
           },
-          "viewCount": 10502,
+          "viewCount": 10569,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T13:45:00Z",
@@ -2140,7 +2175,7 @@
               "height": 720
             }
           },
-          "viewCount": 4444
+          "viewCount": 4455
         }
       ],
       "name": "中村幸信,中村のぶゆき,なかむら幸信,なかむらのぶゆき"
@@ -2251,7 +2286,7 @@
               "height": 720
             }
           },
-          "viewCount": 7043,
+          "viewCount": 7050,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
