@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-16T12:32:14.070Z",
+  "requestedAt": "2026-01-16T13:33:51.180Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "0v7ObSYJXXY",
           "title": "再生の道 国政部『基本方針その１・教育』解説",
@@ -56,15 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 134,
+          "viewCount": 2302,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-16T12:30:00Z",
-            "actualStartTime": "2026-01-16T12:30:06Z"
+            "actualStartTime": "2026-01-16T12:30:06Z",
+            "actualEndTime": "2026-01-16T12:42:44Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "-7P6dozuN78",
           "title": "【1周年記念】５分に凝縮。再生の道、激動の1年間",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 15695
+          "viewCount": 15922
         },
         {
           "videoId": "ceAIoKC22Zc",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 21783,
+          "viewCount": 21930,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:30:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 19936,
+          "viewCount": 20210,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:00:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 9122
+          "viewCount": 9261
         },
         {
           "videoId": "k2GhHqNVD8M",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 7763
+          "viewCount": 7822
         },
         {
           "videoId": "6N84k8SyzvE",
@@ -285,7 +285,7 @@
               "height": 720
             }
           },
-          "viewCount": 16328
+          "viewCount": 16420
         },
         {
           "videoId": "Ru2PvrZzzc4",
@@ -355,7 +355,7 @@
               "height": 720
             }
           },
-          "viewCount": 15995
+          "viewCount": 16071
         },
         {
           "videoId": "2nUnt-3PZkQ",
@@ -390,7 +390,7 @@
               "height": 720
             }
           },
-          "viewCount": 35103,
+          "viewCount": 35117,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T12:00:00Z",
@@ -431,7 +431,7 @@
               "height": 720
             }
           },
-          "viewCount": 38224
+          "viewCount": 38314
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -461,7 +461,7 @@
       "recentVideos": [
         {
           "videoId": "7UKzZnNZ1-E",
-          "title": "【前編】奥村こうき 八丈島に還る— 原点の場所【密着ドキュメンタリー】",
+          "title": "【前編】奥村こうき 八丈島に還る─ 原点の場所【密着ドキュメンタリー】",
           "description": "【HOTEL SUI】\nhttps://sui-hachijo.com/\n\n【Maple Music School】\nhttps://www.hachijo-photo.com/mms\n\n【八丈島の森を未来へつなぐ ヘゴと光るキノコの再生プロジェクト】\nhttps://camp-fire.jp/projects/909029/view?utm_source=line&utm_medium=social&utm_campaign=line_share_c_msg_projects_show\n\n【八丈島あしたば加工工場】\nhttps://ashitaba-hachijo.jimdosite.com\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
           "publishedAt": "2026-01-12T13:15:06Z",
           "channelTitle": "奥村こうき | 再生の道",
@@ -492,7 +492,7 @@
               "height": 720
             }
           },
-          "viewCount": 11581,
+          "viewCount": 11614,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:15:00Z",
@@ -559,7 +559,7 @@
               "height": 720
             }
           },
-          "viewCount": 7707,
+          "viewCount": 7719,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T12:00:00Z",
@@ -626,7 +626,7 @@
               "height": 720
             }
           },
-          "viewCount": 12756,
+          "viewCount": 12778,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T08:00:00Z",
@@ -893,7 +893,7 @@
               "height": 720
             }
           },
-          "viewCount": 1143
+          "viewCount": 1239
         },
         {
           "videoId": "hVtlcVp0AFU",
@@ -963,7 +963,7 @@
               "height": 720
             }
           },
-          "viewCount": 1412
+          "viewCount": 1417
         },
         {
           "videoId": "NsLoOPm5RRI",
@@ -1068,7 +1068,7 @@
               "height": 720
             }
           },
-          "viewCount": 2544
+          "viewCount": 2546
         },
         {
           "videoId": "Gnj4udecTJA",
@@ -1103,7 +1103,7 @@
               "height": 720
             }
           },
-          "viewCount": 2120
+          "viewCount": 2121
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1239,7 +1239,7 @@
               "height": 720
             }
           },
-          "viewCount": 269
+          "viewCount": 317
         },
         {
           "videoId": "5yZw9J8TiTo",
@@ -1274,7 +1274,7 @@
               "height": 720
             }
           },
-          "viewCount": 728
+          "viewCount": 723
         },
         {
           "videoId": "QC2BHhSFe_0",
@@ -1309,7 +1309,7 @@
               "height": 720
             }
           },
-          "viewCount": 792
+          "viewCount": 791
         },
         {
           "videoId": "po7B-KT9JNM",
@@ -1374,7 +1374,7 @@
               "height": 480
             }
           },
-          "viewCount": 1860,
+          "viewCount": 1859,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T10:30:00Z",
@@ -1561,7 +1561,7 @@
               "height": 720
             }
           },
-          "viewCount": 2618
+          "viewCount": 2622
         },
         {
           "videoId": "tbb15fBvSc0",
@@ -1657,7 +1657,7 @@
               "height": 720
             }
           },
-          "viewCount": 7401,
+          "viewCount": 7820,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T03:00:00Z",
@@ -1698,7 +1698,7 @@
               "height": 720
             }
           },
-          "viewCount": 7485,
+          "viewCount": 7491,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T03:00:00Z",
@@ -1765,53 +1765,12 @@
               "height": 720
             }
           },
-          "viewCount": 10881,
+          "viewCount": 10959,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T13:45:00Z",
             "actualStartTime": "2026-01-14T13:44:26Z",
             "actualEndTime": "2026-01-14T14:24:35Z"
-          }
-        },
-        {
-          "videoId": "nbchIAtVcBw",
-          "title": "第27回ミートアップオンライン",
-          "description": "皆さま、こんばんは。\n新年、明けましておめでとうございます！\n2026年もどうぞよろしくお願いします。\n\n今週土曜朝は予定があるため、下記にて実施できたらと思います。\n\n【1/8 木　22:00-22:30（予定）】\n\nぜひお立ち寄りください。\n\n＜お品書き（案）＞\n・2026年の抱負と目標\n・2026年始めたこととやめたこと（「取捨選択って難しい」について）\n・【おまけ】今週の今風ロシア語：「「круто」（クルータ）」＝「最高！」「すごい！」「かっこいい！」「イカしてる」",
-          "publishedAt": "2026-01-09T12:46:11Z",
-          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/nbchIAtVcBw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7294,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-08T13:00:00Z",
-            "actualStartTime": "2026-01-08T12:57:51Z",
-            "actualEndTime": "2026-01-08T13:38:55Z"
           }
         }
       ],
@@ -1948,7 +1907,7 @@
               "height": 720
             }
           },
-          "viewCount": 4921,
+          "viewCount": 4926,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-12-22T14:14:39Z",
@@ -2216,7 +2175,7 @@
               "height": 720
             }
           },
-          "viewCount": 4489
+          "viewCount": 4514
         }
       ],
       "name": "中村幸信,中村のぶゆき,なかむら幸信,なかむらのぶゆき"
@@ -2357,7 +2316,7 @@
               "height": 720
             }
           },
-          "viewCount": 7083,
+          "viewCount": 7084,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-11T12:00:00Z",
