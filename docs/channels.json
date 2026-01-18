@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-18T10:15:08.114Z",
+  "requestedAt": "2026-01-18T11:12:23.482Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 4863
+          "viewCount": 5051
         },
         {
           "videoId": "LDcFxCn8pn0",
@@ -132,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 9758
+          "viewCount": 9862
         },
         {
           "videoId": "VpO8xerXG4k",
@@ -167,7 +167,7 @@
               "height": 720
             }
           },
-          "viewCount": 12271,
+          "viewCount": 12320,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-17T05:00:00Z",
@@ -208,7 +208,7 @@
               "height": 720
             }
           },
-          "viewCount": 10821,
+          "viewCount": 10854,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T12:30:00Z",
@@ -249,7 +249,7 @@
               "height": 720
             }
           },
-          "viewCount": 18651
+          "viewCount": 18688
         },
         {
           "videoId": "ceAIoKC22Zc",
@@ -284,7 +284,7 @@
               "height": 720
             }
           },
-          "viewCount": 23924,
+          "viewCount": 23926,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:30:00Z",
@@ -325,7 +325,7 @@
               "height": 720
             }
           },
-          "viewCount": 22955,
+          "viewCount": 22982,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:00:00Z",
@@ -366,7 +366,7 @@
               "height": 720
             }
           },
-          "viewCount": 10982
+          "viewCount": 11000
         },
         {
           "videoId": "k2GhHqNVD8M",
@@ -401,7 +401,7 @@
               "height": 720
             }
           },
-          "viewCount": 8893
+          "viewCount": 8901
         },
         {
           "videoId": "6N84k8SyzvE",
@@ -436,7 +436,7 @@
               "height": 720
             }
           },
-          "viewCount": 17520
+          "viewCount": 17516
         },
         {
           "videoId": "Ru2PvrZzzc4",
@@ -471,7 +471,7 @@
               "height": 720
             }
           },
-          "viewCount": 6873
+          "viewCount": 6855
         },
         {
           "videoId": "VidViB65TSY",
@@ -541,7 +541,7 @@
               "height": 720
             }
           },
-          "viewCount": 35819,
+          "viewCount": 35820,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T12:00:00Z",
@@ -582,7 +582,7 @@
               "height": 720
             }
           },
-          "viewCount": 39607
+          "viewCount": 39641
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -643,7 +643,7 @@
               "height": 720
             }
           },
-          "viewCount": 12130,
+          "viewCount": 12146,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:15:00Z",
@@ -742,7 +742,8 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "jEZ69TcAqBw",
           "title": "ライブ配信　2026.1.18    19:30~  国政のこと",
@@ -776,14 +777,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 1399,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-18T10:30:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-01-18T10:30:00Z",
+            "actualStartTime": "2026-01-18T10:28:21Z",
+            "actualEndTime": "2026-01-18T10:57:35Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "cBFecfpGMpM",
           "title": "インサイド 再生の道 国政部　もー全部見せちゃいます。",
@@ -1084,7 +1085,7 @@
               "height": 720
             }
           },
-          "viewCount": 256
+          "viewCount": 415
         },
         {
           "videoId": "xcJ6PWpOmSw",
@@ -1119,7 +1120,7 @@
               "height": 720
             }
           },
-          "viewCount": 1129
+          "viewCount": 1138
         },
         {
           "videoId": "OizcqvzcxO8",
@@ -1154,7 +1155,7 @@
               "height": 720
             }
           },
-          "viewCount": 1940
+          "viewCount": 1970
         },
         {
           "videoId": "hVtlcVp0AFU",
@@ -1189,7 +1190,7 @@
               "height": 720
             }
           },
-          "viewCount": 2232
+          "viewCount": 2259
         },
         {
           "videoId": "pHWdIe0WQuY",
@@ -1294,7 +1295,7 @@
               "height": 720
             }
           },
-          "viewCount": 546
+          "viewCount": 552
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1430,7 +1431,7 @@
               "height": 720
             }
           },
-          "viewCount": 30
+          "viewCount": 40
         },
         {
           "videoId": "v7LpigHlFU0",
@@ -1465,7 +1466,7 @@
               "height": 720
             }
           },
-          "viewCount": 1766
+          "viewCount": 1774
         },
         {
           "videoId": "5yZw9J8TiTo",
@@ -1535,7 +1536,7 @@
               "height": 720
             }
           },
-          "viewCount": 908
+          "viewCount": 910
         },
         {
           "videoId": "po7B-KT9JNM",
@@ -1600,7 +1601,7 @@
               "height": 480
             }
           },
-          "viewCount": 1923,
+          "viewCount": 1924,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T10:30:00Z",
@@ -1752,7 +1753,7 @@
               "height": 720
             }
           },
-          "viewCount": 2688
+          "viewCount": 2687
         },
         {
           "videoId": "tbb15fBvSc0",
@@ -1848,7 +1849,7 @@
               "height": 720
             }
           },
-          "viewCount": 11108,
+          "viewCount": 11124,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T03:00:00Z",
@@ -1889,7 +1890,7 @@
               "height": 720
             }
           },
-          "viewCount": 7777,
+          "viewCount": 7781,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T03:00:00Z",
@@ -1956,7 +1957,7 @@
               "height": 720
             }
           },
-          "viewCount": 8848,
+          "viewCount": 8874,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T23:00:00Z",
@@ -1997,7 +1998,7 @@
               "height": 720
             }
           },
-          "viewCount": 12250,
+          "viewCount": 12255,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T13:45:00Z",
@@ -2447,36 +2448,36 @@
           "videoId": "k1L89b6N2po",
           "title": "ヨシヒコ・ライブSP with 横山はるきさん",
           "description": "今回のゲストは、再生の道のメンバー横山はるきさん。\n横山さんは、台東区・谷中育ちの「江戸っ子」気質な若手会計士です。\n普段は企業のM&A（合併・買収）を支える税理士・会計士としてバリバリ働くビジネスマンですが、\nその素顔はとても気さくで、難しい税金やお金の話を「誰にでもわかる言葉」で伝える名人です。\n参院選の時は、感情豊かな横山さんのスピーチに心動かされた方も多いはず。\nさて、今回は、どんな話が飛び出すか？\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→坪田こうすけ→小林学→宮田たかお→横山はるき→",
-          "publishedAt": "2026-01-16T11:52:50Z",
+          "publishedAt": "2026-01-18T10:29:53Z",
           "channelTitle": "増田よしひこ@再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/k1L89b6N2po/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/k1L89b6N2po/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/k1L89b6N2po/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/k1L89b6N2po/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/k1L89b6N2po/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 797,
+          "viewCount": 1362,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T09:00:00Z",
