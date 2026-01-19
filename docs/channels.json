@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-19T12:37:05.200Z",
+  "requestedAt": "2026-01-19T13:40:43.315Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,84 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "cL6Uzy9MPdU",
           "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.01.19) -再生の道-",
           "description": "公募はこちらから↓\nhttps://saiseinomichi-official.jp/kobo/\n\n公式サイトトップはこちらから↓\nhttps://saiseinomichi-official.jp/\n\n【前編】奥村こうき 八丈島に還る— 原点の場所【密着ドキュメンタリー】はこちらから↓\nhttps://youtu.be/7UKzZnNZ1-E?si=kPCyc_hY8Jnve8wT\n\n****************************************************************\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-01-18T06:36:33Z",
+          "publishedAt": "2026-01-19T13:25:12Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/cL6Uzy9MPdU/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 3667,
+          "viewCount": 7970,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-19T12:00:00Z",
             "actualStartTime": "2026-01-19T12:01:46Z",
-            "concurrentViewers": 1568
+            "actualEndTime": "2026-01-19T13:05:30Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
+        {
+          "videoId": "lk8Fq7x5R3c",
+          "title": "再生の道 天野こころ（国政対策委員東京2区）",
+          "description": "天野こころへの献金（選挙ドットコム）\nhttps://go2senkyo.com/seijika/196232\n\n再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n小林学\nhttps://www.youtube.com/@%E5%B0%8F%E6%9E%97%E5%AD%A6_%E5%86%8D%E7%94%9F%E3%81%AE%E9%81%93\n\n\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n#再生の道",
+          "publishedAt": "2026-01-19T13:09:00Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lk8Fq7x5R3c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lk8Fq7x5R3c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lk8Fq7x5R3c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lk8Fq7x5R3c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lk8Fq7x5R3c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 320
+        },
         {
           "videoId": "doqHAS2ABmk",
           "title": "【公募に関するお知らせ】全国公募/現職公募",
@@ -99,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 6327
+          "viewCount": 6381
         },
         {
           "videoId": "LDcFxCn8pn0",
@@ -134,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 11759
+          "viewCount": 11815
         },
         {
           "videoId": "VpO8xerXG4k",
@@ -169,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 12961,
+          "viewCount": 12978,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-17T05:00:00Z",
@@ -210,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 11528,
+          "viewCount": 11558,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T12:30:00Z",
@@ -251,7 +285,7 @@
               "height": 720
             }
           },
-          "viewCount": 19447
+          "viewCount": 19512
         },
         {
           "videoId": "ceAIoKC22Zc",
@@ -327,7 +361,7 @@
               "height": 720
             }
           },
-          "viewCount": 23557,
+          "viewCount": 23585,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:00:00Z",
@@ -368,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 11366
+          "viewCount": 11353
         },
         {
           "videoId": "k2GhHqNVD8M",
@@ -403,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 9073
+          "viewCount": 9109
         },
         {
           "videoId": "6N84k8SyzvE",
@@ -473,7 +507,7 @@
               "height": 720
             }
           },
-          "viewCount": 7107
+          "viewCount": 7130
         },
         {
           "videoId": "VidViB65TSY",
@@ -508,83 +542,7 @@
               "height": 720
             }
           },
-          "viewCount": 16985
-        },
-        {
-          "videoId": "2nUnt-3PZkQ",
-          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.01.12) -再生の道-",
-          "description": "公募はこちらから↓\nhttps://saiseinomichi-official.jp/kobo/\n\n公式サイトトップはこちらから↓\nhttps://saiseinomichi-official.jp/\n\n【前編】奥村こうき 八丈島に還る— 原点の場所【密着ドキュメンタリー】はこちらから↓\nhttps://youtu.be/7UKzZnNZ1-E?si=kPCyc_hY8Jnve8wT\n\n****************************************************************\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-01-12T13:15:48Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/2nUnt-3PZkQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 36111,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-12T12:00:00Z",
-            "actualStartTime": "2026-01-12T12:00:17Z",
-            "actualEndTime": "2026-01-12T13:04:23Z"
-          }
-        },
-        {
-          "videoId": "jAqA0gvs46w",
-          "title": "再生の道 国政部 始動します！",
-          "description": "再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n小林学\nhttps://www.youtube.com/@%E5%B0%8F%E6%9E%97%E5%AD%A6_%E5%86%8D%E7%94%9F%E3%81%AE%E9%81%93\n水野純也\nhttps://www.youtube.com/@mizuno_junya\n\n\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-01-12T13:01:27Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jAqA0gvs46w/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jAqA0gvs46w/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jAqA0gvs46w/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/jAqA0gvs46w/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/jAqA0gvs46w/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 40143
+          "viewCount": 16987
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -615,7 +573,7 @@
           "videoId": "ll6IpFHMY2M",
           "title": "【後編】奥村こうき 八丈島に還る─ 災害復興はいま─【密着ドキュメンタリー】",
           "description": "【八丈ビューホテル】（宮代さん）\nhttps://www.hachijo-v.co.jp/\n\n【月海】（よっきーさん）\nhttps://vacation-stay.jp/listings/265999\n\n【ガーデン荘】（えいこば）\nhttps://gardenso.jp/\n\n【聡福】（聡子さん）\nhttps://www.instagram.com/satofuku.nakanogo/\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2026-01-15T22:22:22Z",
+          "publishedAt": "2026-01-19T13:15:06Z",
           "channelTitle": "奥村こうき | 再生の道",
           "thumbnails": {
             "default": {
@@ -644,56 +602,15 @@
               "height": 720
             }
           },
-          "viewCount": 18,
+          "viewCount": 221,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-19T13:15:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-01-19T13:15:00Z",
+            "actualStartTime": "2026-01-19T13:15:06Z"
           }
         }
       ],
-      "recentVideos": [
-        {
-          "videoId": "7UKzZnNZ1-E",
-          "title": "【前編】奥村こうき 八丈島に還る─ 原点の場所【密着ドキュメンタリー】",
-          "description": "【HOTEL SUI】\nhttps://sui-hachijo.com/\n\n【Maple Music School】\nhttps://www.hachijo-photo.com/mms\n\n【八丈島の森を未来へつなぐ ヘゴと光るキノコの再生プロジェクト】\nhttps://camp-fire.jp/projects/909029/view?utm_source=line&utm_medium=social&utm_campaign=line_share_c_msg_projects_show\n\n【八丈島あしたば加工工場】\nhttps://ashitaba-hachijo.jimdosite.com\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2026-01-12T13:15:06Z",
-          "channelTitle": "奥村こうき | 再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/7UKzZnNZ1-E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 12455,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-12T13:15:00Z",
-            "actualStartTime": "2026-01-12T13:15:06Z",
-            "actualEndTime": "2026-01-12T13:49:19Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -752,7 +669,7 @@
               "height": 720
             }
           },
-          "viewCount": 7900,
+          "viewCount": 7904,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T12:00:00Z",
@@ -819,7 +736,7 @@
               "height": 720
             }
           },
-          "viewCount": 7479,
+          "viewCount": 7498,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T10:30:00Z",
@@ -1127,7 +1044,7 @@
               "height": 720
             }
           },
-          "viewCount": 1108
+          "viewCount": 1142
         },
         {
           "videoId": "7E2I6iICrVU",
@@ -1162,7 +1079,7 @@
               "height": 720
             }
           },
-          "viewCount": 1203
+          "viewCount": 1214
         },
         {
           "videoId": "xcJ6PWpOmSw",
@@ -1197,7 +1114,7 @@
               "height": 720
             }
           },
-          "viewCount": 1457
+          "viewCount": 1461
         },
         {
           "videoId": "OizcqvzcxO8",
@@ -1232,7 +1149,7 @@
               "height": 720
             }
           },
-          "viewCount": 2160
+          "viewCount": 2161
         },
         {
           "videoId": "hVtlcVp0AFU",
@@ -1302,7 +1219,7 @@
               "height": 720
             }
           },
-          "viewCount": 1493
+          "viewCount": 1494
         },
         {
           "videoId": "NsLoOPm5RRI",
@@ -1337,7 +1254,7 @@
               "height": 720
             }
           },
-          "viewCount": 2509
+          "viewCount": 2512
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1473,7 +1390,7 @@
               "height": 720
             }
           },
-          "viewCount": 24
+          "viewCount": 20
         },
         {
           "videoId": "fsUkz4Q6R-g",
@@ -1543,7 +1460,7 @@
               "height": 720
             }
           },
-          "viewCount": 1827
+          "viewCount": 1828
         },
         {
           "videoId": "5yZw9J8TiTo",
@@ -1613,7 +1530,7 @@
               "height": 720
             }
           },
-          "viewCount": 914
+          "viewCount": 915
         },
         {
           "videoId": "po7B-KT9JNM",
@@ -1851,7 +1768,7 @@
               "height": 480
             }
           },
-          "viewCount": 145
+          "viewCount": 344
         },
         {
           "videoId": "JwiMeG2rNYg",
@@ -1886,7 +1803,7 @@
               "height": 720
             }
           },
-          "viewCount": 11695,
+          "viewCount": 11740,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T03:00:00Z",
@@ -1927,7 +1844,7 @@
               "height": 720
             }
           },
-          "viewCount": 7863,
+          "viewCount": 7871,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T03:00:00Z",
@@ -2035,7 +1952,7 @@
               "height": 720
             }
           },
-          "viewCount": 12395,
+          "viewCount": 12419,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T13:45:00Z",
@@ -2292,7 +2209,8 @@
         }
       },
       "channelId": "UCvTw0PWaLJm-FGBRY7z51aA",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "pDYOoDmblaw",
           "title": "しゃべるば#003",
@@ -2319,21 +2237,16 @@
               "url": "https://i.ytimg.com/vi/pDYOoDmblaw/sddefault_live.jpg",
               "width": 640,
               "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/pDYOoDmblaw/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 280,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-19T13:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-01-19T13:00:00Z",
+            "actualStartTime": "2026-01-19T13:06:20Z",
+            "actualEndTime": "2026-01-19T13:33:46Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "2utCwsWWtRY",
           "title": "しゃべるば #002",
@@ -2514,7 +2427,7 @@
               "height": 720
             }
           },
-          "viewCount": 6836,
+          "viewCount": 6861,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T09:00:00Z",
@@ -2581,7 +2494,7 @@
               "height": 720
             }
           },
-          "viewCount": 3188,
+          "viewCount": 3240,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T12:00:00Z",
