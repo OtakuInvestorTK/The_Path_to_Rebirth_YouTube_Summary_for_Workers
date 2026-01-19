@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-19T11:17:35.533Z",
+  "requestedAt": "2026-01-19T12:37:05.200Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,10 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 3667,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-19T12:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-01-19T12:00:00Z",
+            "actualStartTime": "2026-01-19T12:01:46Z",
+            "concurrentViewers": 1568
           }
         }
       ],
@@ -97,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 6274
+          "viewCount": 6327
         },
         {
           "videoId": "LDcFxCn8pn0",
@@ -132,7 +134,7 @@
               "height": 720
             }
           },
-          "viewCount": 11701
+          "viewCount": 11759
         },
         {
           "videoId": "VpO8xerXG4k",
@@ -167,7 +169,7 @@
               "height": 720
             }
           },
-          "viewCount": 12896,
+          "viewCount": 12961,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-17T05:00:00Z",
@@ -208,7 +210,7 @@
               "height": 720
             }
           },
-          "viewCount": 11502,
+          "viewCount": 11528,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T12:30:00Z",
@@ -249,7 +251,7 @@
               "height": 720
             }
           },
-          "viewCount": 19443
+          "viewCount": 19447
         },
         {
           "videoId": "ceAIoKC22Zc",
@@ -284,7 +286,7 @@
               "height": 720
             }
           },
-          "viewCount": 24233,
+          "viewCount": 24246,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:30:00Z",
@@ -325,7 +327,7 @@
               "height": 720
             }
           },
-          "viewCount": 23531,
+          "viewCount": 23557,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:00:00Z",
@@ -436,7 +438,7 @@
               "height": 720
             }
           },
-          "viewCount": 17812
+          "viewCount": 17823
         },
         {
           "videoId": "Ru2PvrZzzc4",
@@ -471,7 +473,7 @@
               "height": 720
             }
           },
-          "viewCount": 7071
+          "viewCount": 7107
         },
         {
           "videoId": "VidViB65TSY",
@@ -506,7 +508,7 @@
               "height": 720
             }
           },
-          "viewCount": 16971
+          "viewCount": 16985
         },
         {
           "videoId": "2nUnt-3PZkQ",
@@ -541,7 +543,7 @@
               "height": 720
             }
           },
-          "viewCount": 36073,
+          "viewCount": 36111,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T12:00:00Z",
@@ -582,7 +584,7 @@
               "height": 720
             }
           },
-          "viewCount": 40087
+          "viewCount": 40143
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -608,7 +610,47 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "ll6IpFHMY2M",
+          "title": "【後編】奥村こうき 八丈島に還る─ 災害復興はいま─【密着ドキュメンタリー】",
+          "description": "【八丈ビューホテル】（宮代さん）\nhttps://www.hachijo-v.co.jp/\n\n【月海】（よっきーさん）\nhttps://vacation-stay.jp/listings/265999\n\n【ガーデン荘】（えいこば）\nhttps://gardenso.jp/\n\n【聡福】（聡子さん）\nhttps://www.instagram.com/satofuku.nakanogo/\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2026-01-15T22:22:22Z",
+          "channelTitle": "奥村こうき | 再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ll6IpFHMY2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ll6IpFHMY2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ll6IpFHMY2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ll6IpFHMY2M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ll6IpFHMY2M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 18,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-19T13:15:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "7UKzZnNZ1-E",
@@ -643,7 +685,7 @@
               "height": 720
             }
           },
-          "viewCount": 12454,
+          "viewCount": 12455,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:15:00Z",
@@ -777,7 +819,7 @@
               "height": 720
             }
           },
-          "viewCount": 7402,
+          "viewCount": 7479,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T10:30:00Z",
@@ -818,7 +860,7 @@
               "height": 720
             }
           },
-          "viewCount": 13131,
+          "viewCount": 13134,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T08:00:00Z",
@@ -1085,7 +1127,7 @@
               "height": 720
             }
           },
-          "viewCount": 1048
+          "viewCount": 1108
         },
         {
           "videoId": "7E2I6iICrVU",
@@ -1120,7 +1162,7 @@
               "height": 720
             }
           },
-          "viewCount": 1161
+          "viewCount": 1203
         },
         {
           "videoId": "xcJ6PWpOmSw",
@@ -1155,7 +1197,7 @@
               "height": 720
             }
           },
-          "viewCount": 1426
+          "viewCount": 1457
         },
         {
           "videoId": "OizcqvzcxO8",
@@ -1225,7 +1267,7 @@
               "height": 720
             }
           },
-          "viewCount": 2282
+          "viewCount": 2283
         },
         {
           "videoId": "pHWdIe0WQuY",
@@ -1431,7 +1473,7 @@
               "height": 720
             }
           },
-          "viewCount": 17
+          "viewCount": 24
         },
         {
           "videoId": "fsUkz4Q6R-g",
@@ -1466,7 +1508,7 @@
               "height": 720
             }
           },
-          "viewCount": 189
+          "viewCount": 191
         },
         {
           "videoId": "v7LpigHlFU0",
@@ -1636,7 +1678,7 @@
               "height": 480
             }
           },
-          "viewCount": 1932,
+          "viewCount": 1933,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T10:30:00Z",
@@ -1782,6 +1824,36 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "c8YOd9xzzqY",
+          "title": "天野こころ 国政対策委員（東京２区）",
+          "description": "▽選挙ドットコムページ(ご献金)\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころボランティア募集\nhttps://docs.google.com/forms/d/e/1FAIpQLSdBDiuDuiYDycoMyEqj0RRAB7SB_NcAoUQ1x7vZfA6Nv58MYQ/viewform\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​​\n\n▽ホームページ\nhttps://amano-cocoro.com\n\n\n▽再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n▽再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21",
+          "publishedAt": "2026-01-19T12:13:47Z",
+          "channelTitle": "天野こころ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c8YOd9xzzqY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c8YOd9xzzqY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c8YOd9xzzqY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c8YOd9xzzqY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 145
+        },
+        {
           "videoId": "JwiMeG2rNYg",
           "title": "【国政部】吉田.水野.小林.天野　緊急LIVE配信",
           "description": "▽再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n▽再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n▽天野こころボランティア募集\nhttps://docs.google.com/forms/d/e/1FAIpQLSdBDiuDuiYDycoMyEqj0RRAB7SB_NcAoUQ1x7vZfA6Nv58MYQ/viewform\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​​\n\n▽ホームページ\nhttps://amano-cocoro.com\n\n▽選挙ドットコムページ(ご献金)\nhttps://go2senkyo.com/seijika/196232",
@@ -1814,7 +1886,7 @@
               "height": 720
             }
           },
-          "viewCount": 11663,
+          "viewCount": 11695,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T03:00:00Z",
@@ -1922,7 +1994,7 @@
               "height": 720
             }
           },
-          "viewCount": 9406,
+          "viewCount": 9441,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T23:00:00Z",
@@ -2290,7 +2362,7 @@
               "height": 480
             }
           },
-          "viewCount": 2723,
+          "viewCount": 2724,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-12T13:00:00Z",
@@ -2442,7 +2514,7 @@
               "height": 720
             }
           },
-          "viewCount": 6776,
+          "viewCount": 6836,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T09:00:00Z",
@@ -2509,7 +2581,7 @@
               "height": 720
             }
           },
-          "viewCount": 3132,
+          "viewCount": 3188,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T12:00:00Z",
