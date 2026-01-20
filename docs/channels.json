@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-20T05:24:23.931Z",
+  "requestedAt": "2026-01-20T06:27:46.028Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "3Ppabbc3fNc",
+          "title": "【衆院選出馬を決意!! 】再生の道/天野こころが東京2区(中央区、台東区）で衆院選出馬の意向を固めました。",
+          "description": "再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-01-20T06:15:26Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3Ppabbc3fNc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3Ppabbc3fNc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3Ppabbc3fNc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3Ppabbc3fNc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3Ppabbc3fNc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 115
+        },
         {
           "videoId": "cL6Uzy9MPdU",
           "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.01.19) -再生の道-",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 20463,
+          "viewCount": 20812,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T12:00:00Z",
@@ -98,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3852
+          "viewCount": 4024
         },
         {
           "videoId": "doqHAS2ABmk",
@@ -133,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 6806
+          "viewCount": 6835
         },
         {
           "videoId": "LDcFxCn8pn0",
@@ -244,7 +279,7 @@
               "height": 720
             }
           },
-          "viewCount": 11799,
+          "viewCount": 11817,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T12:30:00Z",
@@ -320,7 +355,7 @@
               "height": 720
             }
           },
-          "viewCount": 24392,
+          "viewCount": 24406,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:30:00Z",
@@ -402,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 11485
+          "viewCount": 11489
         },
         {
           "videoId": "k2GhHqNVD8M",
@@ -437,7 +472,7 @@
               "height": 720
             }
           },
-          "viewCount": 9191
+          "viewCount": 9204
         },
         {
           "videoId": "6N84k8SyzvE",
@@ -472,7 +507,7 @@
               "height": 720
             }
           },
-          "viewCount": 17894
+          "viewCount": 17918
         },
         {
           "videoId": "Ru2PvrZzzc4",
@@ -507,7 +542,7 @@
               "height": 720
             }
           },
-          "viewCount": 7078
+          "viewCount": 7070
         },
         {
           "videoId": "VidViB65TSY",
@@ -542,7 +577,7 @@
               "height": 720
             }
           },
-          "viewCount": 17018
+          "viewCount": 17020
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -603,7 +638,7 @@
               "height": 720
             }
           },
-          "viewCount": 2743,
+          "viewCount": 2915,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:15:00Z",
@@ -670,7 +705,7 @@
               "height": 720
             }
           },
-          "viewCount": 7929,
+          "viewCount": 7930,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T12:00:00Z",
@@ -737,7 +772,7 @@
               "height": 720
             }
           },
-          "viewCount": 7688,
+          "viewCount": 7710,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T10:30:00Z",
@@ -778,7 +813,7 @@
               "height": 720
             }
           },
-          "viewCount": 13150,
+          "viewCount": 13149,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-13T08:00:00Z",
@@ -1045,7 +1080,7 @@
               "height": 720
             }
           },
-          "viewCount": 1462
+          "viewCount": 1489
         },
         {
           "videoId": "7E2I6iICrVU",
@@ -1080,7 +1115,7 @@
               "height": 720
             }
           },
-          "viewCount": 1343
+          "viewCount": 1346
         },
         {
           "videoId": "xcJ6PWpOmSw",
@@ -1115,7 +1150,7 @@
               "height": 720
             }
           },
-          "viewCount": 1521
+          "viewCount": 1530
         },
         {
           "videoId": "OizcqvzcxO8",
@@ -1150,7 +1185,7 @@
               "height": 720
             }
           },
-          "viewCount": 2191
+          "viewCount": 2196
         },
         {
           "videoId": "hVtlcVp0AFU",
@@ -1185,7 +1220,7 @@
               "height": 720
             }
           },
-          "viewCount": 2296
+          "viewCount": 2299
         },
         {
           "videoId": "pHWdIe0WQuY",
@@ -1220,7 +1255,7 @@
               "height": 720
             }
           },
-          "viewCount": 1500
+          "viewCount": 1501
         },
         {
           "videoId": "NsLoOPm5RRI",
@@ -1391,7 +1426,7 @@
               "height": 720
             }
           },
-          "viewCount": 76
+          "viewCount": 80
         },
         {
           "videoId": "fsUkz4Q6R-g",
@@ -1566,7 +1601,7 @@
               "height": 720
             }
           },
-          "viewCount": 1651
+          "viewCount": 1652
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1702,7 +1737,7 @@
               "height": 720
             }
           },
-          "viewCount": 1426
+          "viewCount": 1514
         },
         {
           "videoId": "JwiMeG2rNYg",
@@ -1737,7 +1772,7 @@
               "height": 720
             }
           },
-          "viewCount": 12026,
+          "viewCount": 12036,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T03:00:00Z",
@@ -1804,7 +1839,7 @@
               "height": 720
             }
           },
-          "viewCount": 9590,
+          "viewCount": 9587,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T23:00:00Z",
@@ -2137,7 +2172,7 @@
               "height": 720
             }
           },
-          "viewCount": 1810,
+          "viewCount": 1919,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:00:00Z",
@@ -2254,7 +2289,7 @@
               "height": 720
             }
           },
-          "viewCount": 7025,
+          "viewCount": 7043,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T09:00:00Z",
@@ -2321,7 +2356,7 @@
               "height": 720
             }
           },
-          "viewCount": 3640,
+          "viewCount": 3666,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T12:00:00Z",
