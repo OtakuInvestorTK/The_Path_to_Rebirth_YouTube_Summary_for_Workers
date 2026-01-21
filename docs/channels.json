@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-21T05:24:13.633Z",
+  "requestedAt": "2026-01-21T06:27:49.072Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 32788
+          "viewCount": 37380
         },
         {
           "videoId": "3Ppabbc3fNc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 38060
+          "viewCount": 42356
         },
         {
           "videoId": "cL6Uzy9MPdU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 24103,
+          "viewCount": 24288,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T12:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 6045
+          "viewCount": 6155
         },
         {
           "videoId": "doqHAS2ABmk",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 8125
+          "viewCount": 8221
         },
         {
           "videoId": "LDcFxCn8pn0",
@@ -238,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 12691
+          "viewCount": 12741
         },
         {
           "videoId": "VpO8xerXG4k",
@@ -314,7 +314,7 @@
               "height": 720
             }
           },
-          "viewCount": 12060,
+          "viewCount": 12081,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T12:30:00Z",
@@ -355,7 +355,7 @@
               "height": 720
             }
           },
-          "viewCount": 20184
+          "viewCount": 20231
         },
         {
           "videoId": "ceAIoKC22Zc",
@@ -431,153 +431,13 @@
               "height": 720
             }
           },
-          "viewCount": 24110,
+          "viewCount": 24141,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-14T12:00:00Z",
             "actualStartTime": "2026-01-14T12:00:06Z",
             "actualEndTime": "2026-01-14T12:18:17Z"
           }
-        },
-        {
-          "videoId": "lKFT7XR4QsQ",
-          "title": "【公募スケジュール】政治家公募中!!(再生の道)",
-          "description": "公募はこちらから↓\nhttps://saiseinomichi-official.jp/kobo/\n\n公式サイトトップはこちらから↓\nhttps://saiseinomichi-official.jp/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-01-14T06:01:57Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/lKFT7XR4QsQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/lKFT7XR4QsQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/lKFT7XR4QsQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/lKFT7XR4QsQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/lKFT7XR4QsQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 12013
-        },
-        {
-          "videoId": "k2GhHqNVD8M",
-          "title": "【なぜ再生の道がある?】政治家公募中!!(再生の道)",
-          "description": "公募はこちらから↓\nhttps://saiseinomichi-official.jp/kobo/\n\n公式サイトトップはこちらから↓\nhttps://saiseinomichi-official.jp/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-01-14T06:01:55Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/k2GhHqNVD8M/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/k2GhHqNVD8M/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/k2GhHqNVD8M/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/k2GhHqNVD8M/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/k2GhHqNVD8M/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 9566
-        },
-        {
-          "videoId": "6N84k8SyzvE",
-          "title": "【何を目指すの?】政治家公募中!!(再生の道)",
-          "description": "公募はこちらから↓\nhttps://saiseinomichi-official.jp/kobo/\n\n公式サイトトップはこちらから↓\nhttps://saiseinomichi-official.jp/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-01-14T06:01:52Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/6N84k8SyzvE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/6N84k8SyzvE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/6N84k8SyzvE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/6N84k8SyzvE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/6N84k8SyzvE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 18161
-        },
-        {
-          "videoId": "Ru2PvrZzzc4",
-          "title": "【入党のメリット!!】政治家公募中!!(再生の道)",
-          "description": "公募はこちらから↓\nhttps://saiseinomichi-official.jp/kobo/\n\n公式サイトトップはこちらから↓\nhttps://saiseinomichi-official.jp/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-01-14T06:01:49Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Ru2PvrZzzc4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Ru2PvrZzzc4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Ru2PvrZzzc4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Ru2PvrZzzc4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Ru2PvrZzzc4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7578
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -638,7 +498,7 @@
               "height": 720
             }
           },
-          "viewCount": 4645,
+          "viewCount": 4790,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:15:00Z",
@@ -705,7 +565,7 @@
               "height": 720
             }
           },
-          "viewCount": 7217,
+          "viewCount": 7547,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-20T12:15:00Z",
@@ -737,7 +597,47 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "qlMc4GteESk",
+          "title": "ライブ配信　2026.1.21    22:00~  おかげさまで2人擁立❗️献金コメント全部読みます。vol.01",
+          "description": "再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n小林学\nhttps://www.youtube.com/@%E5%B0%8F%E6%9E%97%E5%AD%A6_%E5%86%8D%E7%94%9F%E3%81%AE%E9%81%93\n\n#2026衆院選\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n#東京都在住、再生の道から国政を目指した63歳、4人家族。\n\nX   https://x.com/HAL_MIZ9\n\n全動画切り抜き自由ですが、悪意のある編集はご遠慮ください。",
+          "publishedAt": "2026-01-21T01:49:54Z",
+          "channelTitle": "水野 純也 @再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qlMc4GteESk/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qlMc4GteESk/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qlMc4GteESk/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qlMc4GteESk/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qlMc4GteESk/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-01-21T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "jEZ69TcAqBw",
@@ -1039,7 +939,7 @@
               "height": 720
             }
           },
-          "viewCount": 1343
+          "viewCount": 1414
         },
         {
           "videoId": "LGC5IgLnhC8",
@@ -1074,7 +974,7 @@
               "height": 720
             }
           },
-          "viewCount": 1762
+          "viewCount": 1772
         },
         {
           "videoId": "7E2I6iICrVU",
@@ -1109,7 +1009,7 @@
               "height": 720
             }
           },
-          "viewCount": 1432
+          "viewCount": 1436
         },
         {
           "videoId": "xcJ6PWpOmSw",
@@ -1144,7 +1044,7 @@
               "height": 720
             }
           },
-          "viewCount": 1596
+          "viewCount": 1597
         },
         {
           "videoId": "OizcqvzcxO8",
@@ -1179,7 +1079,7 @@
               "height": 720
             }
           },
-          "viewCount": 2219
+          "viewCount": 2221
         },
         {
           "videoId": "hVtlcVp0AFU",
@@ -1385,7 +1285,7 @@
               "height": 720
             }
           },
-          "viewCount": 396
+          "viewCount": 409
         },
         {
           "videoId": "3uhFznng8Hg",
@@ -1420,7 +1320,7 @@
               "height": 720
             }
           },
-          "viewCount": 116
+          "viewCount": 121
         },
         {
           "videoId": "fsUkz4Q6R-g",
@@ -1455,7 +1355,7 @@
               "height": 720
             }
           },
-          "viewCount": 219
+          "viewCount": 221
         },
         {
           "videoId": "v7LpigHlFU0",
@@ -1696,7 +1596,7 @@
               "height": 720
             }
           },
-          "viewCount": 2155
+          "viewCount": 2210
         },
         {
           "videoId": "JwiMeG2rNYg",
@@ -1731,7 +1631,7 @@
               "height": 720
             }
           },
-          "viewCount": 12569,
+          "viewCount": 12592,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T03:00:00Z",
@@ -1798,7 +1698,7 @@
               "height": 720
             }
           },
-          "viewCount": 9836,
+          "viewCount": 9875,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T23:00:00Z",
@@ -2131,7 +2031,7 @@
               "height": 720
             }
           },
-          "viewCount": 2877,
+          "viewCount": 2931,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:00:00Z",
@@ -2248,7 +2148,7 @@
               "height": 720
             }
           },
-          "viewCount": 7298,
+          "viewCount": 7340,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T09:00:00Z",
@@ -2315,7 +2215,7 @@
               "height": 720
             }
           },
-          "viewCount": 3997,
+          "viewCount": 4020,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T12:00:00Z",
