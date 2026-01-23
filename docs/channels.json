@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-23T12:34:52.812Z",
+  "requestedAt": "2026-01-23T13:38:07.645Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9800,
+          "viewCount": 10589,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T04:36:14Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 30501,
+          "viewCount": 31704,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T02:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 68911
+          "viewCount": 69056
         },
         {
           "videoId": "3Ppabbc3fNc",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 66784
+          "viewCount": 67235
         },
         {
           "videoId": "cL6Uzy9MPdU",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 26924,
+          "viewCount": 26941,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T12:00:00Z",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 8283
+          "viewCount": 8384
         },
         {
           "videoId": "doqHAS2ABmk",
@@ -355,7 +355,7 @@
               "height": 720
             }
           },
-          "viewCount": 13673,
+          "viewCount": 13681,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-17T05:00:00Z",
@@ -422,7 +422,7 @@
               "height": 720
             }
           },
-          "viewCount": 6166,
+          "viewCount": 6183,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:15:00Z",
@@ -489,7 +489,7 @@
               "height": 720
             }
           },
-          "viewCount": 9320,
+          "viewCount": 9327,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-20T12:15:00Z",
@@ -556,7 +556,7 @@
               "height": 720
             }
           },
-          "viewCount": 13920,
+          "viewCount": 13940,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-21T13:00:00Z",
@@ -597,7 +597,7 @@
               "height": 720
             }
           },
-          "viewCount": 8055,
+          "viewCount": 8059,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T10:30:00Z",
@@ -689,7 +689,7 @@
               "height": 720
             }
           },
-          "viewCount": 2181
+          "viewCount": 2166
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -900,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 1787
+          "viewCount": 1789
         },
         {
           "videoId": "LGC5IgLnhC8",
@@ -935,7 +935,7 @@
               "height": 720
             }
           },
-          "viewCount": 2011
+          "viewCount": 2010
         },
         {
           "videoId": "7E2I6iICrVU",
@@ -970,7 +970,7 @@
               "height": 720
             }
           },
-          "viewCount": 1508
+          "viewCount": 1504
         },
         {
           "videoId": "xcJ6PWpOmSw",
@@ -1141,7 +1141,7 @@
               "height": 720
             }
           },
-          "viewCount": 180
+          "viewCount": 200
         },
         {
           "videoId": "9OX4SmUaGik",
@@ -1176,7 +1176,7 @@
               "height": 720
             }
           },
-          "viewCount": 88
+          "viewCount": 90
         },
         {
           "videoId": "M27oR2mJJHU",
@@ -1211,7 +1211,7 @@
               "height": 720
             }
           },
-          "viewCount": 567
+          "viewCount": 572
         },
         {
           "videoId": "DBeHuron64U",
@@ -1246,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 606
+          "viewCount": 609
         },
         {
           "videoId": "3uhFznng8Hg",
@@ -1281,7 +1281,7 @@
               "height": 720
             }
           },
-          "viewCount": 154
+          "viewCount": 155
         },
         {
           "videoId": "fsUkz4Q6R-g",
@@ -1452,7 +1452,7 @@
               "height": 720
             }
           },
-          "viewCount": 5879
+          "viewCount": 6703
         },
         {
           "videoId": "1pLEImYrsMU",
@@ -1487,7 +1487,7 @@
               "height": 720
             }
           },
-          "viewCount": 27902
+          "viewCount": 28167
         },
         {
           "videoId": "RFmbvOqRfIc",
@@ -1522,7 +1522,7 @@
               "height": 720
             }
           },
-          "viewCount": 3102
+          "viewCount": 3154
         },
         {
           "videoId": "c8YOd9xzzqY",
@@ -1557,7 +1557,7 @@
               "height": 720
             }
           },
-          "viewCount": 2805
+          "viewCount": 2806
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1610,12 +1610,19 @@
               "url": "https://i.ytimg.com/vi/3hliEqD3NtY/sddefault_live.jpg",
               "width": 640,
               "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3hliEqD3NtY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 2277,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-23T13:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-01-23T13:00:00Z",
+            "actualStartTime": "2026-01-23T13:00:31Z",
+            "concurrentViewers": 1152
           }
         }
       ],
@@ -1653,7 +1660,7 @@
               "height": 720
             }
           },
-          "viewCount": 10278,
+          "viewCount": 10281,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-16T23:00:00Z",
@@ -1945,7 +1952,7 @@
               "height": 720
             }
           },
-          "viewCount": 3816,
+          "viewCount": 3818,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:00:00Z",
@@ -2129,7 +2136,7 @@
               "height": 720
             }
           },
-          "viewCount": 4404,
+          "viewCount": 4403,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T12:00:00Z",
