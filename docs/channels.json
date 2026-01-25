@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-25T11:13:05.186Z",
+  "requestedAt": "2026-01-25T12:30:58.508Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -25,7 +25,7 @@
       "liveVideos": [
         {
           "videoId": "aHicc43CGq8",
-          "title": "【再生の道】参院選公約解説ライブ　2026.1.25   22:00~",
+          "title": "【再生の道】衆院選公約解説ライブ　2026.1.25   22:00~",
           "description": "再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n小林学\nhttps://www.youtube.com/@%E5%B0%8F%E6%9E%97%E5%AD%A6_%E5%86%8D%E7%94%9F%E3%81%AE%E9%81%93\n水野純也\nhttps://www.youtube.com/@mizuno_junya\n\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n#再生の道",
           "publishedAt": "2026-01-25T07:43:03Z",
           "channelTitle": "再生の道",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 2394,
+          "viewCount": 3675,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T09:00:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 25009
+          "viewCount": 25884
         },
         {
           "videoId": "_vYSbqJcdKw",
@@ -173,7 +173,7 @@
               "height": 720
             }
           },
-          "viewCount": 26428
+          "viewCount": 26859
         },
         {
           "videoId": "SDlar__cUPU",
@@ -208,7 +208,7 @@
               "height": 720
             }
           },
-          "viewCount": 5508
+          "viewCount": 5555
         },
         {
           "videoId": "FbWGTEYE2p4",
@@ -243,7 +243,7 @@
               "height": 720
             }
           },
-          "viewCount": 5048
+          "viewCount": 5110
         },
         {
           "videoId": "lnEN6bI5BxM",
@@ -278,7 +278,7 @@
               "height": 720
             }
           },
-          "viewCount": 15734,
+          "viewCount": 15793,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T04:36:14Z",
@@ -319,7 +319,7 @@
               "height": 720
             }
           },
-          "viewCount": 38762,
+          "viewCount": 38863,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T02:00:00Z",
@@ -360,7 +360,7 @@
               "height": 720
             }
           },
-          "viewCount": 74230
+          "viewCount": 74356
         },
         {
           "videoId": "3Ppabbc3fNc",
@@ -395,7 +395,7 @@
               "height": 720
             }
           },
-          "viewCount": 71419
+          "viewCount": 71498
         },
         {
           "videoId": "cL6Uzy9MPdU",
@@ -430,7 +430,7 @@
               "height": 720
             }
           },
-          "viewCount": 27389,
+          "viewCount": 27393,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T12:00:00Z",
@@ -471,7 +471,7 @@
               "height": 720
             }
           },
-          "viewCount": 9236
+          "viewCount": 9250
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -497,7 +497,49 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "N5dnzPCrMKU",
+          "title": "東大生起業家と対談します！",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2026-01-25T10:59:04Z",
+          "channelTitle": "奥村こうき | 再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N5dnzPCrMKU/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N5dnzPCrMKU/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N5dnzPCrMKU/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/N5dnzPCrMKU/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/N5dnzPCrMKU/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 357,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-01-25T10:59:03Z",
+            "actualStartTime": "2026-01-25T12:02:27Z",
+            "concurrentViewers": 111
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "ll6IpFHMY2M",
@@ -532,7 +574,7 @@
               "height": 720
             }
           },
-          "viewCount": 6486,
+          "viewCount": 6502,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:15:00Z",
@@ -631,7 +673,8 @@
         }
       },
       "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "kV-fC7DkEH0",
           "title": "ライブ配信　2026.1.25    20:00~  献金コメント全部読みます。vol.02",
@@ -665,16 +708,14 @@
               "height": 720
             }
           },
-          "viewCount": 737,
+          "viewCount": 2553,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-25T11:00:00Z",
             "actualStartTime": "2026-01-25T11:02:17Z",
-            "concurrentViewers": 384
+            "actualEndTime": "2026-01-25T12:00:41Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "isIiLGcjsb4",
           "title": "ライブ配信　2026.1.21    22:00~  おかげさまで2人擁立❗️献金コメント全部読みます。vol.01",
@@ -708,7 +749,7 @@
               "height": 720
             }
           },
-          "viewCount": 14520,
+          "viewCount": 14526,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-21T13:00:00Z",
@@ -800,7 +841,7 @@
               "height": 720
             }
           },
-          "viewCount": 1687
+          "viewCount": 1852
         },
         {
           "videoId": "yVt-sTuNun8",
@@ -835,7 +876,7 @@
               "height": 720
             }
           },
-          "viewCount": 561
+          "viewCount": 551
         },
         {
           "videoId": "pCXBgVAnREM",
@@ -870,7 +911,7 @@
               "height": 720
             }
           },
-          "viewCount": 2384
+          "viewCount": 2395
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1081,7 +1122,7 @@
               "height": 720
             }
           },
-          "viewCount": 19
+          "viewCount": 246
         },
         {
           "videoId": "vilFkEQalwA",
@@ -1151,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 2100
+          "viewCount": 2113
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1287,7 +1328,7 @@
               "height": 720
             }
           },
-          "viewCount": 84
+          "viewCount": 90
         },
         {
           "videoId": "LDUOZODJDKQ",
@@ -1322,7 +1363,7 @@
               "height": 720
             }
           },
-          "viewCount": 712
+          "viewCount": 713
         },
         {
           "videoId": "9OX4SmUaGik",
@@ -1392,7 +1433,7 @@
               "height": 720
             }
           },
-          "viewCount": 689
+          "viewCount": 686
         },
         {
           "videoId": "DBeHuron64U",
@@ -1588,7 +1629,7 @@
               "height": 720
             }
           },
-          "viewCount": 8670,
+          "viewCount": 8836,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-24T11:30:00Z",
@@ -1680,7 +1721,7 @@
               "height": 720
             }
           },
-          "viewCount": 3958
+          "viewCount": 5102
         },
         {
           "videoId": "euLvIyMD9h4",
@@ -1715,7 +1756,7 @@
               "height": 720
             }
           },
-          "viewCount": 11935
+          "viewCount": 12244
         },
         {
           "videoId": "yuh2gtuyfqA",
@@ -1750,7 +1791,7 @@
               "height": 720
             }
           },
-          "viewCount": 20021
+          "viewCount": 20136
         },
         {
           "videoId": "1pLEImYrsMU",
@@ -1785,7 +1826,7 @@
               "height": 720
             }
           },
-          "viewCount": 31471
+          "viewCount": 31489
         },
         {
           "videoId": "RFmbvOqRfIc",
@@ -1820,7 +1861,7 @@
               "height": 720
             }
           },
-          "viewCount": 29291
+          "viewCount": 30626
         },
         {
           "videoId": "c8YOd9xzzqY",
@@ -1906,7 +1947,7 @@
               "height": 360
             }
           },
-          "viewCount": 3900
+          "viewCount": 3958
         },
         {
           "videoId": "3hliEqD3NtY",
@@ -1941,7 +1982,7 @@
               "height": 720
             }
           },
-          "viewCount": 10208,
+          "viewCount": 10233,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T13:00:00Z",
@@ -2381,49 +2422,7 @@
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "bR6_eYZ3xA8",
-          "title": "出生率日本一の島育ちが語る子育てのリアルと少子化【哲雄の部屋】",
-          "description": "4人育児のリアルから見えた「少子化が止まらない本当の理由」とは？\n\n再生の道・中村幸信さんをゲストに迎え、\n・なぜ4人も子どもを育てられるのか\n・今の日本で子どもが増えない構造的理由\n・お金よりも大きい“心理的ハードル”\n・親の覚悟と価値観が子育てに与える影響\nなどを赤裸々に語っていただきました。\n\nさらに後半では、加藤自身の離婚・養育費・連れ去り問題にも触れながら、\n「家庭」「制度」「社会」のズレについて本音トーク。\n\n✔ 子どもを持つことを迷っている方\n✔ 少子化はなぜ止まらないのか知りたい方\n✔ 家族のあり方を考えたい方\n\nには特に刺さる内容です。\n\n\n## 👨‍👩‍👧 ゲスト\n\n再生の道\n**中村幸信さん（4児の父）**\n\n------\nオフィシャルサイト\nhttps://tetsuo.tokyo/\n\nオフィシャルX\nhttps://x.com/Tetsuo_OMG\n\nオフィシャルInstagram\nhttps://www.instagram.com/katotetsuo_koenkai/\n\nオフィシャルTikTok\nhttps://www.tiktok.com/@katotetsuo_koenkai\n\n加藤てつおの政治活動を支えて頂く献金のお手続き\nhttps://go2senkyo.com/seijika/195922",
-          "publishedAt": "2026-01-18T12:00:06Z",
-          "channelTitle": "加藤てつお【再生の道】1st Gen.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/bR6_eYZ3xA8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/bR6_eYZ3xA8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/bR6_eYZ3xA8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/bR6_eYZ3xA8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/bR6_eYZ3xA8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4519,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-18T12:00:00Z",
-            "actualStartTime": "2026-01-18T12:00:06Z",
-            "actualEndTime": "2026-01-18T12:27:56Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
