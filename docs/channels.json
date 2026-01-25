@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-25T01:22:56.946Z",
+  "requestedAt": "2026-01-25T03:48:40.524Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 18709
+          "viewCount": 20316
         },
         {
           "videoId": "_vYSbqJcdKw",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 22184
+          "viewCount": 23423
         },
         {
           "videoId": "SDlar__cUPU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 5007
+          "viewCount": 5209
         },
         {
           "videoId": "FbWGTEYE2p4",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 4604
+          "viewCount": 4691
         },
         {
           "videoId": "lnEN6bI5BxM",
@@ -197,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 15324,
+          "viewCount": 15421,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T04:36:14Z",
@@ -238,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 38093,
+          "viewCount": 38257,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T02:00:00Z",
@@ -279,7 +279,7 @@
               "height": 720
             }
           },
-          "viewCount": 73525
+          "viewCount": 73676
         },
         {
           "videoId": "3Ppabbc3fNc",
@@ -314,7 +314,7 @@
               "height": 720
             }
           },
-          "viewCount": 71029
+          "viewCount": 71122
         },
         {
           "videoId": "cL6Uzy9MPdU",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 27309,
+          "viewCount": 27331,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T12:00:00Z",
@@ -390,7 +390,7 @@
               "height": 720
             }
           },
-          "viewCount": 9106
+          "viewCount": 9125
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -451,7 +451,7 @@
               "height": 720
             }
           },
-          "viewCount": 6405,
+          "viewCount": 6411,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:15:00Z",
@@ -585,7 +585,7 @@
               "height": 720
             }
           },
-          "viewCount": 14440,
+          "viewCount": 14444,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-21T13:00:00Z",
@@ -686,6 +686,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "P4khAEqS5fc",
+          "title": "生まれながらの上級国民",
+          "description": "作詞作曲：木島康雄 produced with AI\n#木島　#木島 #解散総選挙 #世襲政治",
+          "publishedAt": "2026-01-25T02:14:50Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P4khAEqS5fc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P4khAEqS5fc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P4khAEqS5fc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P4khAEqS5fc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P4khAEqS5fc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 204
+        },
+        {
           "videoId": "yVt-sTuNun8",
           "title": "内閣総理大臣の解散権の法的根拠",
           "description": "高市早苗総理によって衆議院が解散されましたが、内閣総理大臣の解散権の憲法上の法的根拠について話しています。#木島 #衆議院解散 #解散総選挙 # 高市早苗総理",
@@ -718,7 +753,7 @@
               "height": 720
             }
           },
-          "viewCount": 428
+          "viewCount": 466
         },
         {
           "videoId": "pCXBgVAnREM",
@@ -753,7 +788,7 @@
               "height": 720
             }
           },
-          "viewCount": 2292
+          "viewCount": 2335
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -964,7 +999,7 @@
               "height": 720
             }
           },
-          "viewCount": 1863
+          "viewCount": 1864
         },
         {
           "videoId": "LGC5IgLnhC8",
@@ -999,7 +1034,7 @@
               "height": 720
             }
           },
-          "viewCount": 2073
+          "viewCount": 2081
         },
         {
           "videoId": "7E2I6iICrVU",
@@ -1034,7 +1069,7 @@
               "height": 720
             }
           },
-          "viewCount": 1535
+          "viewCount": 1543
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1170,7 +1205,7 @@
               "height": 720
             }
           },
-          "viewCount": 670
+          "viewCount": 652
         },
         {
           "videoId": "9OX4SmUaGik",
@@ -1240,7 +1275,7 @@
               "height": 720
             }
           },
-          "viewCount": 682
+          "viewCount": 683
         },
         {
           "videoId": "DBeHuron64U",
@@ -1275,7 +1310,7 @@
               "height": 720
             }
           },
-          "viewCount": 625
+          "viewCount": 626
         },
         {
           "videoId": "3uhFznng8Hg",
@@ -1310,7 +1345,7 @@
               "height": 720
             }
           },
-          "viewCount": 166
+          "viewCount": 167
         },
         {
           "videoId": "fsUkz4Q6R-g",
@@ -1431,7 +1466,7 @@
               "height": 720
             }
           },
-          "viewCount": 7518,
+          "viewCount": 7902,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-24T11:30:00Z",
@@ -1491,6 +1526,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "euLvIyMD9h4",
+          "title": "勝ちどきと浅草にてご挨拶させていただきました。  #天野こころ #再生の道",
+          "description": "2026年1月24日（金）\n\n『私たちの当たり前の感覚を国会へ』\n\n国政対策委員 東京２区（中央区・台東区）\n\n\n▽選挙ドットコムページ(ご献金)\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころボランティア募集\nhttps://docs.google.com/forms/d/e/1FAIpQLSdBDiuDuiYDycoMyEqj0RRAB7SB_NcAoUQ1x7vZfA6Nv58MYQ/viewform\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​​\n\n▽ホームページ\nhttps://amano-cocoro.com\n\n\n▽再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n▽再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21",
+          "publishedAt": "2026-01-25T01:35:51Z",
+          "channelTitle": "天野こころ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 6760
+        },
+        {
           "videoId": "yuh2gtuyfqA",
           "title": "私たちの当たり前の感覚を国会へ｜ #再生の道 #天野こころ",
           "description": "『私たちの当たり前の感覚を国会へ』\n\n国政対策委員 東京２区（中央区・台東区）\n\n\n▽選挙ドットコムページ(ご献金)\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころボランティア募集\nhttps://docs.google.com/forms/d/e/1FAIpQLSdBDiuDuiYDycoMyEqj0RRAB7SB_NcAoUQ1x7vZfA6Nv58MYQ/viewform\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​​\n\n▽ホームページ\nhttps://amano-cocoro.com\n\n\n▽再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n▽再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21",
@@ -1523,12 +1593,12 @@
               "height": 720
             }
           },
-          "viewCount": 17810
+          "viewCount": 18305
         },
         {
           "videoId": "1pLEImYrsMU",
           "title": "勝ちどきにて朝のご挨拶。寒いですがご安全に！ #天野こころ #再生の道",
-          "description": "2026年1月22日（木）",
+          "description": "2026年1月22日（木）\n\n『私たちの当たり前の感覚を国会へ』\n\n国政対策委員 東京２区（中央区・台東区）\n\n\n▽選挙ドットコムページ(ご献金)\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころボランティア募集\nhttps://docs.google.com/forms/d/e/1FAIpQLSdBDiuDuiYDycoMyEqj0RRAB7SB_NcAoUQ1x7vZfA6Nv58MYQ/viewform\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​​\n\n▽ホームページ\nhttps://amano-cocoro.com\n\n\n▽再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n▽再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21",
           "publishedAt": "2026-01-22T07:32:24Z",
           "channelTitle": "天野こころ",
           "thumbnails": {
@@ -1558,7 +1628,7 @@
               "height": 720
             }
           },
-          "viewCount": 30034
+          "viewCount": 30084
         },
         {
           "videoId": "RFmbvOqRfIc",
@@ -1593,7 +1663,7 @@
               "height": 720
             }
           },
-          "viewCount": 21080
+          "viewCount": 22909
         },
         {
           "videoId": "c8YOd9xzzqY",
@@ -1628,7 +1698,7 @@
               "height": 720
             }
           },
-          "viewCount": 2868
+          "viewCount": 2869
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1679,7 +1749,7 @@
               "height": 360
             }
           },
-          "viewCount": 3474
+          "viewCount": 3578
         },
         {
           "videoId": "3hliEqD3NtY",
@@ -1714,7 +1784,7 @@
               "height": 720
             }
           },
-          "viewCount": 9983,
+          "viewCount": 10040,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T13:00:00Z",
@@ -2006,7 +2076,7 @@
               "height": 720
             }
           },
-          "viewCount": 4029,
+          "viewCount": 4031,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:00:00Z",
@@ -2163,7 +2233,7 @@
               "height": 720
             }
           },
-          "viewCount": 7685,
+          "viewCount": 7689,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T09:00:00Z",
@@ -2230,7 +2300,7 @@
               "height": 720
             }
           },
-          "viewCount": 4510,
+          "viewCount": 4514,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T12:00:00Z",
