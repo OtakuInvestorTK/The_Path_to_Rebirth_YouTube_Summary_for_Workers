@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-25T10:16:08.036Z",
+  "requestedAt": "2026-01-25T11:13:05.186Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 1570,
+          "viewCount": 2394,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T09:00:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 24341
+          "viewCount": 25009
         },
         {
           "videoId": "_vYSbqJcdKw",
@@ -173,7 +173,7 @@
               "height": 720
             }
           },
-          "viewCount": 26013
+          "viewCount": 26428
         },
         {
           "videoId": "SDlar__cUPU",
@@ -208,7 +208,7 @@
               "height": 720
             }
           },
-          "viewCount": 5477
+          "viewCount": 5508
         },
         {
           "videoId": "FbWGTEYE2p4",
@@ -243,7 +243,7 @@
               "height": 720
             }
           },
-          "viewCount": 4986
+          "viewCount": 5048
         },
         {
           "videoId": "lnEN6bI5BxM",
@@ -278,7 +278,7 @@
               "height": 720
             }
           },
-          "viewCount": 15682,
+          "viewCount": 15734,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T04:36:14Z",
@@ -319,7 +319,7 @@
               "height": 720
             }
           },
-          "viewCount": 38712,
+          "viewCount": 38762,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T02:00:00Z",
@@ -360,7 +360,7 @@
               "height": 720
             }
           },
-          "viewCount": 74150
+          "viewCount": 74230
         },
         {
           "videoId": "3Ppabbc3fNc",
@@ -395,7 +395,7 @@
               "height": 720
             }
           },
-          "viewCount": 71350
+          "viewCount": 71419
         },
         {
           "videoId": "cL6Uzy9MPdU",
@@ -430,7 +430,7 @@
               "height": 720
             }
           },
-          "viewCount": 27372,
+          "viewCount": 27389,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T12:00:00Z",
@@ -471,7 +471,7 @@
               "height": 720
             }
           },
-          "viewCount": 9215
+          "viewCount": 9236
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -532,7 +532,7 @@
               "height": 720
             }
           },
-          "viewCount": 6463,
+          "viewCount": 6486,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:15:00Z",
@@ -599,7 +599,7 @@
               "height": 720
             }
           },
-          "viewCount": 9535,
+          "viewCount": 9553,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-20T12:15:00Z",
@@ -665,10 +665,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 737,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-01-25T11:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-01-25T11:00:00Z",
+            "actualStartTime": "2026-01-25T11:02:17Z",
+            "concurrentViewers": 384
           }
         }
       ],
@@ -706,53 +708,12 @@
               "height": 720
             }
           },
-          "viewCount": 14484,
+          "viewCount": 14520,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-21T13:00:00Z",
             "actualStartTime": "2026-01-21T13:00:56Z",
             "actualEndTime": "2026-01-21T14:05:32Z"
-          }
-        },
-        {
-          "videoId": "jEZ69TcAqBw",
-          "title": "ライブ配信　2026.1.18    19:30~  国政のこと",
-          "description": "天野こころへの献金（選挙ドットコム）\nhttps://go2senkyo.com/seijika/196232\n\n再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n小林学\nhttps://www.youtube.com/@%E5%B0%8F%E6%9E%97%E5%AD%A6_%E5%86%8D%E7%94%9F%E3%81%AE%E9%81%93\n\n#2026衆院選\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n#東京都在住、再生の道から国政を目指した63歳、4人家族。\n\nX   https://x.com/HAL_MIZ9\n\n全動画切り抜き自由ですが、悪意のある編集はご遠慮ください。",
-          "publishedAt": "2026-01-18T11:12:54Z",
-          "channelTitle": "水野 純也 @再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jEZ69TcAqBw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jEZ69TcAqBw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jEZ69TcAqBw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/jEZ69TcAqBw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/jEZ69TcAqBw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 8126,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-18T10:30:00Z",
-            "actualStartTime": "2026-01-18T10:28:21Z",
-            "actualEndTime": "2026-01-18T10:57:35Z"
           }
         }
       ],
@@ -839,7 +800,7 @@
               "height": 720
             }
           },
-          "viewCount": 1560
+          "viewCount": 1687
         },
         {
           "videoId": "yVt-sTuNun8",
@@ -874,7 +835,7 @@
               "height": 720
             }
           },
-          "viewCount": 547
+          "viewCount": 561
         },
         {
           "videoId": "pCXBgVAnREM",
@@ -909,7 +870,7 @@
               "height": 720
             }
           },
-          "viewCount": 2355
+          "viewCount": 2384
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1087,6 +1048,41 @@
       "channelId": "UCQ7TWZuas7xoJApDQYcPPwg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "qxLpKQHFQNs",
+          "title": "政治団体「再生の道」の奥村代表が”たきぐち昭彦”の応援のため町田駅に来てくれました。",
+          "description": "■このチャンネルについて\n石丸伸二が立ち上げた政治団体「再生の道」町田担当、たきぐち昭彦の公式チャンネルです。たきぐち昭彦の信条や政治活動状況を不定期で配信していきます。\n\n■メールアドレス\ninfo@akihikotakiguchi.com\n\n■ホームページ\nhttps://akihikotakiguchi.com\n\n■たきぐち昭彦へのご質問はこちら\nhttps://www.akihikotakiguchi.com/contact/\n\n■たきぐち昭彦ボランティへの登録はこちら\nhttps://www.akihikotakiguchi.com/volunteer/\n\n■たきぐち昭彦へのご支援はこちら\nhttps://www.akihikotakiguchi.com/support/\n\n■その他の情報\nX（旧Twitter）\nhttps://x.com/takiguchi55\n\nInstagram\nhttps://www.instagram.com/ike.takiguchi/\n\nTikTok\nhttps://www.tiktok.com/@akihiko.takiguchi2",
+          "publishedAt": "2026-01-25T11:01:22Z",
+          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 19
+        },
         {
           "videoId": "vilFkEQalwA",
           "title": "石丸伸二が立ち上げた政治団体「再生の道」の町田市政対策委員、たきぐち昭彦の街頭スピーチの模様①（⑤まであるので順番に見てください）https://lit.link/akihikotakiguchi",
@@ -1291,7 +1287,7 @@
               "height": 720
             }
           },
-          "viewCount": 56
+          "viewCount": 84
         },
         {
           "videoId": "LDUOZODJDKQ",
@@ -1361,7 +1357,7 @@
               "height": 720
             }
           },
-          "viewCount": 123
+          "viewCount": 124
         },
         {
           "videoId": "M27oR2mJJHU",
@@ -1396,7 +1392,7 @@
               "height": 720
             }
           },
-          "viewCount": 684
+          "viewCount": 689
         },
         {
           "videoId": "DBeHuron64U",
@@ -1431,7 +1427,7 @@
               "height": 720
             }
           },
-          "viewCount": 626
+          "viewCount": 627
         },
         {
           "videoId": "3uhFznng8Hg",
@@ -1519,47 +1515,6 @@
       "channelId": "UCeE5CTgzM8Ly7TC4FZwy3pg",
       "liveVideos": [
         {
-          "videoId": "BlvQJ3ve8RI",
-          "title": "突撃横山さん！？【再生の道/えらやすひろ】",
-          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm\n\n自己紹介動画\nhttps://youtu.be/uqQ1X8BvtqQ",
-          "publishedAt": "2026-01-25T10:09:21Z",
-          "channelTitle": "恵良康寛(再生の道　足立区、中小企業診断士)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/BlvQJ3ve8RI/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/BlvQJ3ve8RI/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/BlvQJ3ve8RI/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/BlvQJ3ve8RI/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/BlvQJ3ve8RI/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 63,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2026-01-25T10:09:20Z",
-            "actualStartTime": "2026-01-25T10:10:06Z",
-            "concurrentViewers": 143
-          }
-        },
-        {
           "videoId": "chgVGy7VzZY",
           "title": "突撃横山さん！？【再生の道/えらやすひろ】",
           "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm\n\n自己紹介動画\nhttps://youtu.be/uqQ1X8BvtqQ",
@@ -1633,7 +1588,7 @@
               "height": 720
             }
           },
-          "viewCount": 8592,
+          "viewCount": 8670,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-24T11:30:00Z",
@@ -1725,7 +1680,7 @@
               "height": 720
             }
           },
-          "viewCount": 3334
+          "viewCount": 3958
         },
         {
           "videoId": "euLvIyMD9h4",
@@ -1760,7 +1715,7 @@
               "height": 720
             }
           },
-          "viewCount": 11686
+          "viewCount": 11935
         },
         {
           "videoId": "yuh2gtuyfqA",
@@ -1795,7 +1750,7 @@
               "height": 720
             }
           },
-          "viewCount": 19853
+          "viewCount": 20021
         },
         {
           "videoId": "1pLEImYrsMU",
@@ -1830,7 +1785,7 @@
               "height": 720
             }
           },
-          "viewCount": 31344
+          "viewCount": 31471
         },
         {
           "videoId": "RFmbvOqRfIc",
@@ -1865,7 +1820,7 @@
               "height": 720
             }
           },
-          "viewCount": 28438
+          "viewCount": 29291
         },
         {
           "videoId": "c8YOd9xzzqY",
@@ -1900,7 +1855,7 @@
               "height": 720
             }
           },
-          "viewCount": 2880
+          "viewCount": 2885
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1951,7 +1906,7 @@
               "height": 360
             }
           },
-          "viewCount": 3848
+          "viewCount": 3900
         },
         {
           "videoId": "3hliEqD3NtY",
@@ -1986,7 +1941,7 @@
               "height": 720
             }
           },
-          "viewCount": 10178,
+          "viewCount": 10208,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T13:00:00Z",
@@ -2278,7 +2233,7 @@
               "height": 720
             }
           },
-          "viewCount": 4044,
+          "viewCount": 4055,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-19T13:00:00Z",
@@ -2401,49 +2356,7 @@
           }
         }
       ],
-      "recentVideos": [
-        {
-          "videoId": "k1L89b6N2po",
-          "title": "ヨシヒコ・ライブSP with 横山はるきさん",
-          "description": "今回のゲストは、再生の道のメンバー横山はるきさん。\n横山さんは、台東区・谷中育ちの「江戸っ子」気質な若手会計士です。\n普段は企業のM&A（合併・買収）を支える税理士・会計士としてバリバリ働くビジネスマンですが、\nその素顔はとても気さくで、難しい税金やお金の話を「誰にでもわかる言葉」で伝える名人です。\n参院選の時は、感情豊かな横山さんのスピーチに心動かされた方も多いはず。\nさて、今回は、どんな話が飛び出すか？\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→坪田こうすけ→小林学→宮田たかお→横山はるき→",
-          "publishedAt": "2026-01-18T10:29:53Z",
-          "channelTitle": "増田よしひこ@再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/k1L89b6N2po/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7704,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-18T09:00:00Z",
-            "actualStartTime": "2026-01-18T08:59:00Z",
-            "actualEndTime": "2026-01-18T10:02:10Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
     },
     {
@@ -2502,7 +2415,7 @@
               "height": 720
             }
           },
-          "viewCount": 4521,
+          "viewCount": 4519,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-18T12:00:00Z",
