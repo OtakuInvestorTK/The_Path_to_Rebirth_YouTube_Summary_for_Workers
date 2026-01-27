@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-27T12:36:07.843Z",
+  "requestedAt": "2026-01-27T13:41:37.360Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 23642,
+          "viewCount": 23858,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 7926,
+          "viewCount": 7970,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T09:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 31274
+          "viewCount": 31352
         },
         {
           "videoId": "_vYSbqJcdKw",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 31386
+          "viewCount": 31471
         },
         {
           "videoId": "SDlar__cUPU",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 6167
+          "viewCount": 6189
         },
         {
           "videoId": "FbWGTEYE2p4",
@@ -279,7 +279,7 @@
               "height": 720
             }
           },
-          "viewCount": 16573,
+          "viewCount": 16595,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T04:36:14Z",
@@ -320,7 +320,7 @@
               "height": 720
             }
           },
-          "viewCount": 39711,
+          "viewCount": 39733,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T02:00:00Z",
@@ -387,7 +387,7 @@
               "height": 720
             }
           },
-          "viewCount": 5160,
+          "viewCount": 5209,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T10:59:03Z",
@@ -419,50 +419,49 @@
         }
       },
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "v7w1RzAkxGw",
           "title": "再生の道MC - 青柳みつやのYouTube Live!! #27",
           "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
-          "publishedAt": "2026-01-20T11:02:36Z",
+          "publishedAt": "2026-01-27T13:21:13Z",
           "channelTitle": "青柳みつや - 再生の道への挑戦",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/v7w1RzAkxGw/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 717,
+          "viewCount": 1296,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-01-27T12:00:00Z",
             "actualStartTime": "2026-01-27T12:01:51Z",
-            "concurrentViewers": 781
+            "actualEndTime": "2026-01-27T12:48:53Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "Y9tHR_v5awE",
           "title": "再生の道MC - 青柳みつやのYouTube Live!! #26",
@@ -496,7 +495,7 @@
               "height": 720
             }
           },
-          "viewCount": 9643,
+          "viewCount": 9651,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-20T12:15:00Z",
@@ -696,7 +695,7 @@
               "height": 720
             }
           },
-          "viewCount": 296
+          "viewCount": 297
         },
         {
           "videoId": "P4khAEqS5fc",
@@ -731,7 +730,7 @@
               "height": 720
             }
           },
-          "viewCount": 2701
+          "viewCount": 2708
         },
         {
           "videoId": "yVt-sTuNun8",
@@ -766,7 +765,7 @@
               "height": 720
             }
           },
-          "viewCount": 681
+          "viewCount": 684
         },
         {
           "videoId": "pCXBgVAnREM",
@@ -877,7 +876,39 @@
         }
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "YMV72GhnrQE",
+          "title": "ついに開幕　みんなで応援しよう！　meetup20260127",
+          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
+          "publishedAt": "2026-01-27T13:00:35Z",
+          "channelTitle": "弘田としやすCh",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YMV72GhnrQE/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YMV72GhnrQE/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YMV72GhnrQE/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 132,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-01-27T13:30:00Z",
+            "actualStartTime": "2026-01-27T13:28:45Z",
+            "concurrentViewers": 81
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "弘田敏康,弘田としやす,ひろた敏康,ひろたとしやす"
     },
@@ -1012,7 +1043,7 @@
               "height": 720
             }
           },
-          "viewCount": 2228
+          "viewCount": 2318
         },
         {
           "videoId": "qxLpKQHFQNs",
@@ -1047,7 +1078,7 @@
               "height": 720
             }
           },
-          "viewCount": 3882
+          "viewCount": 3925
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1183,7 +1214,7 @@
               "height": 720
             }
           },
-          "viewCount": 622
+          "viewCount": 631
         },
         {
           "videoId": "5renVsMhXMc",
@@ -1218,7 +1249,7 @@
               "height": 720
             }
           },
-          "viewCount": 328
+          "viewCount": 330
         },
         {
           "videoId": "plhPgZw72SI",
@@ -1288,7 +1319,7 @@
               "height": 720
             }
           },
-          "viewCount": 820
+          "viewCount": 821
         },
         {
           "videoId": "9OX4SmUaGik",
@@ -1444,7 +1475,7 @@
               "height": 720
             }
           },
-          "viewCount": 9486,
+          "viewCount": 9494,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-24T11:30:00Z",
@@ -1536,7 +1567,7 @@
               "height": 720
             }
           },
-          "viewCount": 1119
+          "viewCount": 1682
         },
         {
           "videoId": "0VrIql04aXo",
@@ -1571,7 +1602,7 @@
               "height": 720
             }
           },
-          "viewCount": 17876
+          "viewCount": 18078
         },
         {
           "videoId": "YLo3qSnmdWw",
@@ -1606,7 +1637,7 @@
               "height": 720
             }
           },
-          "viewCount": 12207
+          "viewCount": 12361
         },
         {
           "videoId": "aAXsfrF6yOQ",
@@ -1641,7 +1672,7 @@
               "height": 720
             }
           },
-          "viewCount": 6850
+          "viewCount": 6900
         },
         {
           "videoId": "QJ-0tSBWEDA",
@@ -1676,7 +1707,7 @@
               "height": 720
             }
           },
-          "viewCount": 13036
+          "viewCount": 13051
         },
         {
           "videoId": "euLvIyMD9h4",
@@ -1711,7 +1742,7 @@
               "height": 720
             }
           },
-          "viewCount": 14469
+          "viewCount": 14498
         },
         {
           "videoId": "yuh2gtuyfqA",
@@ -1746,7 +1777,7 @@
               "height": 720
             }
           },
-          "viewCount": 26198
+          "viewCount": 26210
         },
         {
           "videoId": "1pLEImYrsMU",
@@ -1781,7 +1812,7 @@
               "height": 720
             }
           },
-          "viewCount": 31933
+          "viewCount": 31938
         },
         {
           "videoId": "RFmbvOqRfIc",
@@ -1816,7 +1847,7 @@
               "height": 720
             }
           },
-          "viewCount": 56178
+          "viewCount": 56191
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1845,6 +1876,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "Ld28FdU5N_4",
+          "title": "【再生の道】吉田あや　公式チャンネル がライブ配信中！",
+          "description": "",
+          "publishedAt": "2026-01-27T13:00:16Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ld28FdU5N_4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ld28FdU5N_4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ld28FdU5N_4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ld28FdU5N_4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ld28FdU5N_4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 2001,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2025-05-28T01:50:56Z",
+            "actualStartTime": "2026-01-27T12:45:26Z",
+            "actualEndTime": "2026-01-27T12:55:06Z"
+          }
+        },
+        {
           "videoId": "o80_5i_IxEk",
           "title": "【再生の道】吉田あや｜自己紹介動画",
           "description": "皆さん、こんにちは。\n再生の道・吉田あやです。\n自己紹介動画、ぜひご覧ください。",
@@ -1867,7 +1939,7 @@
               "height": 360
             }
           },
-          "viewCount": 5322
+          "viewCount": 5364
         },
         {
           "videoId": "3hliEqD3NtY",
@@ -1902,7 +1974,7 @@
               "height": 720
             }
           },
-          "viewCount": 10790,
+          "viewCount": 10816,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T13:00:00Z",
@@ -2244,7 +2316,7 @@
               "height": 720
             }
           },
-          "viewCount": 5579,
+          "viewCount": 5612,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T03:30:00Z",
