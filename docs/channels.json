@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-30T01:25:57.267Z",
+  "requestedAt": "2026-01-30T04:03:42.297Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 28376,
+          "viewCount": 28440,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 8843,
+          "viewCount": 8848,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T09:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 33083
+          "viewCount": 33149
         },
         {
           "videoId": "_vYSbqJcdKw",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 33539
+          "viewCount": 33616
         },
         {
           "videoId": "SDlar__cUPU",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 6502
+          "viewCount": 6519
         },
         {
           "videoId": "FbWGTEYE2p4",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 6301
+          "viewCount": 6312
         },
         {
           "videoId": "lnEN6bI5BxM",
@@ -279,53 +279,12 @@
               "height": 720
             }
           },
-          "viewCount": 17171,
+          "viewCount": 17195,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T04:36:14Z",
             "actualStartTime": "2026-01-23T04:36:31Z",
             "actualEndTime": "2026-01-23T04:41:11Z"
-          }
-        },
-        {
-          "videoId": "O2bPuYGFXXo",
-          "title": "【再生の道】2026.1.23 記者会見 〜衆院選についての発表　　11:00~",
-          "description": "再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n小林学\nhttps://www.youtube.com/@%E5%B0%8F%E6%9E%97%E5%AD%A6_%E5%86%8D%E7%94%9F%E3%81%AE%E9%81%93\n水野純也\nhttps://www.youtube.com/@mizuno_junya\n\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n#再生の道",
-          "publishedAt": "2026-01-23T02:58:10Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/O2bPuYGFXXo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/O2bPuYGFXXo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/O2bPuYGFXXo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/O2bPuYGFXXo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/O2bPuYGFXXo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 40211,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-23T02:00:00Z",
-            "actualStartTime": "2026-01-23T02:00:11Z",
-            "actualEndTime": "2026-01-23T02:46:29Z"
           }
         }
       ],
@@ -387,7 +346,7 @@
               "height": 720
             }
           },
-          "viewCount": 5638,
+          "viewCount": 5651,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T10:59:03Z",
@@ -454,7 +413,7 @@
               "height": 720
             }
           },
-          "viewCount": 10384,
+          "viewCount": 10451,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T12:00:00Z",
@@ -521,7 +480,7 @@
               "height": 720
             }
           },
-          "viewCount": 6440,
+          "viewCount": 6442,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T11:00:00Z",
@@ -581,6 +540,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "-NCtBc6ds-U",
+          "title": "恋する好色選挙法テーマソング   作詞作曲：木島康雄 produced with AI",
+          "description": "",
+          "publishedAt": "2026-01-30T01:39:46Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 256,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-01-30T01:39:24Z",
+            "actualStartTime": "2026-01-30T01:39:46Z",
+            "actualEndTime": "2026-01-30T01:43:40Z"
+          }
+        },
+        {
           "videoId": "KxQk2SbidRk",
           "title": "大河ドラマ「秀吉兄弟！」第4回「桶狭間！」と比較検証",
           "description": "大河ドラマ「秀吉兄弟！」第4回「桶狭間！」は、ひねりはあったものの、信長が今川義元の居場所を知って奇襲攻撃をかけたという伝統的なストーリーでしたが、「信長公記」を素直に解釈した私の小説と比較検証してみました。#木島 #桶狭間の戦い #信長公記 #秀吉兄弟！",
@@ -618,7 +618,7 @@
         {
           "videoId": "P4khAEqS5fc",
           "title": "生まれながらの上級国民",
-          "description": "作詞作曲：木島康雄 produced with AI\n#木島　#木島 #解散総選挙 #世襲政治",
+          "description": "作詞作曲：木島康雄 produced with AI\n#木島 #解散総選挙 #世襲政治",
           "publishedAt": "2026-01-25T02:14:50Z",
           "channelTitle": "木島康雄　弁護士",
           "thumbnails": {
@@ -648,7 +648,7 @@
               "height": 720
             }
           },
-          "viewCount": 2836
+          "viewCount": 2844
         },
         {
           "videoId": "yVt-sTuNun8",
@@ -683,7 +683,7 @@
               "height": 720
             }
           },
-          "viewCount": 696
+          "viewCount": 698
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -784,7 +784,7 @@
               "height": 360
             }
           },
-          "viewCount": 2793,
+          "viewCount": 2814,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T13:30:00Z",
@@ -926,7 +926,7 @@
               "height": 720
             }
           },
-          "viewCount": 4200
+          "viewCount": 4311
         },
         {
           "videoId": "qxLpKQHFQNs",
@@ -961,7 +961,7 @@
               "height": 720
             }
           },
-          "viewCount": 4439
+          "viewCount": 4442
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1097,7 +1097,7 @@
               "height": 720
             }
           },
-          "viewCount": 345
+          "viewCount": 363
         },
         {
           "videoId": "jfb-zRg-16E",
@@ -1132,7 +1132,7 @@
               "height": 720
             }
           },
-          "viewCount": 674
+          "viewCount": 715
         },
         {
           "videoId": "d8DW9yVyuJY",
@@ -1167,7 +1167,7 @@
               "height": 720
             }
           },
-          "viewCount": 736
+          "viewCount": 737
         },
         {
           "videoId": "5renVsMhXMc",
@@ -1202,7 +1202,7 @@
               "height": 720
             }
           },
-          "viewCount": 524
+          "viewCount": 525
         },
         {
           "videoId": "plhPgZw72SI",
@@ -1358,7 +1358,7 @@
               "height": 720
             }
           },
-          "viewCount": 9788,
+          "viewCount": 9796,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-24T11:30:00Z",
@@ -1418,6 +1418,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "FjiiK_StQQI",
+          "title": "今週末、街頭演説会開催決定しました！天野こころを見にきてください！",
+          "description": "今週末（1/31.2/1）の街頭演説スケジュールが決まりました。\n暖かい格好で天野こころを見に来てください！\n\nシェアお願いします！！\n\n#天野こころ #再生の道 #中央区 #台東区 #街頭演説 \n#衆院選2026",
+          "publishedAt": "2026-01-30T03:12:02Z",
+          "channelTitle": "天野こころ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 4173
+        },
+        {
           "videoId": "o_1QLVVp55o",
           "title": "衆院選3日目。本日も朝8時から中央区、台東区で多くの方にご挨拶させていただきました",
           "description": "選挙戦3日目。\n毎日朝8時から20時まで中央区、台東区の多くの場所で多くの方にご挨拶させていただいています。\n\n「応援してるよ！」とお声かけいただけることも多くなりとても嬉しいです！\n最後まで全力の走り切ります！\n\nシェアお願いします！！\n\n#天野こころ #再生の道 #中央区 #台東区 #街頭演説 \n#衆院選2026",
@@ -1450,7 +1485,7 @@
               "height": 720
             }
           },
-          "viewCount": 9537
+          "viewCount": 9989
         },
         {
           "videoId": "L207-q794GA",
@@ -1485,7 +1520,7 @@
               "height": 720
             }
           },
-          "viewCount": 6371
+          "viewCount": 6404
         },
         {
           "videoId": "0VrIql04aXo",
@@ -1520,7 +1555,7 @@
               "height": 720
             }
           },
-          "viewCount": 19910
+          "viewCount": 19988
         },
         {
           "videoId": "YLo3qSnmdWw",
@@ -1555,7 +1590,7 @@
               "height": 720
             }
           },
-          "viewCount": 13887
+          "viewCount": 13955
         },
         {
           "videoId": "aAXsfrF6yOQ",
@@ -1625,7 +1660,7 @@
               "height": 720
             }
           },
-          "viewCount": 13573
+          "viewCount": 13612
         },
         {
           "videoId": "euLvIyMD9h4",
@@ -1660,7 +1695,7 @@
               "height": 720
             }
           },
-          "viewCount": 14849
+          "viewCount": 14857
         },
         {
           "videoId": "yuh2gtuyfqA",
@@ -1695,7 +1730,7 @@
               "height": 720
             }
           },
-          "viewCount": 27414
+          "viewCount": 27478
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1756,7 +1791,7 @@
               "height": 720
             }
           },
-          "viewCount": 6498
+          "viewCount": 6690
         },
         {
           "videoId": "diR9n1BZiOc",
@@ -1791,7 +1826,7 @@
               "height": 720
             }
           },
-          "viewCount": 15763
+          "viewCount": 15959
         },
         {
           "videoId": "Ld28FdU5N_4",
@@ -1826,7 +1861,7 @@
               "height": 720
             }
           },
-          "viewCount": 14851,
+          "viewCount": 14929,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-05-28T01:50:56Z",
@@ -1857,7 +1892,7 @@
               "height": 360
             }
           },
-          "viewCount": 6844
+          "viewCount": 6898
         },
         {
           "videoId": "3hliEqD3NtY",
@@ -1892,7 +1927,7 @@
               "height": 720
             }
           },
-          "viewCount": 11161,
+          "viewCount": 11183,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-23T13:00:00Z",
@@ -2234,7 +2269,7 @@
               "height": 720
             }
           },
-          "viewCount": 6066,
+          "viewCount": 6071,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T03:30:00Z",
