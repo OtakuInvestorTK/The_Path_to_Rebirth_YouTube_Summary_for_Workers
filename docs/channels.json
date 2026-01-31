@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-31T11:15:39.085Z",
+  "requestedAt": "2026-01-31T12:34:14.289Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 29133,
+          "viewCount": 29168,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 9120,
+          "viewCount": 9124,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T09:00:00Z",
@@ -232,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 10717,
+          "viewCount": 10738,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T12:00:00Z",
@@ -391,7 +391,7 @@
               "height": 720
             }
           },
-          "viewCount": 1402,
+          "viewCount": 1434,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-30T01:39:24Z",
@@ -568,7 +568,7 @@
               "height": 360
             }
           },
-          "viewCount": 2955,
+          "viewCount": 2957,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T13:30:00Z",
@@ -710,7 +710,7 @@
               "height": 720
             }
           },
-          "viewCount": 5013
+          "viewCount": 5028
         },
         {
           "videoId": "qxLpKQHFQNs",
@@ -745,7 +745,7 @@
               "height": 720
             }
           },
-          "viewCount": 4513
+          "viewCount": 4519
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -916,7 +916,7 @@
               "height": 720
             }
           },
-          "viewCount": 532
+          "viewCount": 552
         },
         {
           "videoId": "jfb-zRg-16E",
@@ -1108,49 +1108,7 @@
       },
       "channelId": "UCeE5CTgzM8Ly7TC4FZwy3pg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "Fue7Ivn1uxI",
-          "title": "久々配信【再生の道/えらやすひろ】",
-          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm\n\n自己紹介動画\nhttps://youtu.be/uqQ1X8BvtqQ",
-          "publishedAt": "2026-01-24T12:25:41Z",
-          "channelTitle": "恵良康寛(再生の道　足立区、中小企業診断士)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Fue7Ivn1uxI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Fue7Ivn1uxI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Fue7Ivn1uxI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Fue7Ivn1uxI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Fue7Ivn1uxI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 9917,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-24T11:30:00Z",
-            "actualStartTime": "2026-01-24T11:41:23Z",
-            "actualEndTime": "2026-01-24T12:13:58Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "恵良康寛,恵良やすひろ,えら康寛,えらやすひろ"
     },
     {
@@ -1234,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 5040
+          "viewCount": 5668
         },
         {
           "videoId": "FjiiK_StQQI",
@@ -1269,7 +1227,7 @@
               "height": 720
             }
           },
-          "viewCount": 21433
+          "viewCount": 21537
         },
         {
           "videoId": "o_1QLVVp55o",
@@ -1304,7 +1262,7 @@
               "height": 720
             }
           },
-          "viewCount": 11764
+          "viewCount": 11784
         },
         {
           "videoId": "L207-q794GA",
@@ -1339,7 +1297,7 @@
               "height": 720
             }
           },
-          "viewCount": 6769
+          "viewCount": 6790
         },
         {
           "videoId": "0VrIql04aXo",
@@ -1374,7 +1332,7 @@
               "height": 720
             }
           },
-          "viewCount": 20433
+          "viewCount": 20437
         },
         {
           "videoId": "YLo3qSnmdWw",
@@ -1409,7 +1367,7 @@
               "height": 720
             }
           },
-          "viewCount": 14320
+          "viewCount": 14324
         },
         {
           "videoId": "aAXsfrF6yOQ",
@@ -1444,7 +1402,7 @@
               "height": 720
             }
           },
-          "viewCount": 8301
+          "viewCount": 8311
         },
         {
           "videoId": "QJ-0tSBWEDA",
@@ -1514,7 +1472,7 @@
               "height": 720
             }
           },
-          "viewCount": 14952
+          "viewCount": 14958
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1542,6 +1500,47 @@
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "zeuHaDF7yKg",
+          "title": "第31回ミートアップオンライン",
+          "description": "オプチャ立ち上げました！\n\nどなたでも参加できるオープンチャット「吉田あやの教育を最優先」\nhttps://ourl.jp/FlH2J",
+          "publishedAt": "2026-01-31T11:26:30Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zeuHaDF7yKg/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zeuHaDF7yKg/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zeuHaDF7yKg/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zeuHaDF7yKg/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zeuHaDF7yKg/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 4195,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-01-31T11:25:00Z",
+            "actualStartTime": "2026-01-31T11:27:52Z",
+            "actualEndTime": "2026-01-31T12:11:09Z"
+          }
+        },
         {
           "videoId": "WBtPYOegxGE",
           "title": "【再生の道】吉田あや　公式チャンネル がライブ配信中！",
@@ -1575,7 +1574,7 @@
               "height": 720
             }
           },
-          "viewCount": 328,
+          "viewCount": 1008,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -1616,7 +1615,7 @@
               "height": 720
             }
           },
-          "viewCount": 7704
+          "viewCount": 7718
         },
         {
           "videoId": "diR9n1BZiOc",
@@ -1651,7 +1650,7 @@
               "height": 720
             }
           },
-          "viewCount": 17936
+          "viewCount": 17987
         },
         {
           "videoId": "Ld28FdU5N_4",
@@ -1686,7 +1685,7 @@
               "height": 720
             }
           },
-          "viewCount": 15601,
+          "viewCount": 15623,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-05-28T01:50:56Z",
