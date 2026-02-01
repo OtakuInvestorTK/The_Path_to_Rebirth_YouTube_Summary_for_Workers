@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-01T10:19:18.846Z",
+  "requestedAt": "2026-02-01T11:17:02.059Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "i3N2ADt5TDw",
+          "title": "【LIVE配信】衆議院議員選挙　東京18区　吉田あや 選挙戦前半報告",
+          "description": "再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n小林学\nhttps://www.youtube.com/@%E5%B0%8F%E6%9E%97%E5%AD%A6_%E5%86%8D%E7%94%9F%E3%81%AE%E9%81%93\n水野純也\nhttps://www.youtube.com/@mizuno_junya\n\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n#再生の道",
+          "publishedAt": "2026-02-01T10:48:30Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-02-01T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "Rdt8Tv747ok",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 29503,
+          "viewCount": 29557,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T12:00:00Z",
@@ -124,7 +164,7 @@
               "height": 720
             }
           },
-          "viewCount": 5751,
+          "viewCount": 5752,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T10:59:03Z",
@@ -258,7 +298,7 @@
               "height": 720
             }
           },
-          "viewCount": 6501,
+          "viewCount": 6500,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T11:00:00Z",
@@ -350,7 +390,7 @@
               "height": 720
             }
           },
-          "viewCount": 1545,
+          "viewCount": 1555,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-30T01:39:24Z",
@@ -634,42 +674,7 @@
               "height": 720
             }
           },
-          "viewCount": 5068
-        },
-        {
-          "videoId": "qxLpKQHFQNs",
-          "title": "政治団体「再生の道」の奥村代表が”たきぐち昭彦”の応援のため町田駅に来てくれました。",
-          "description": "■このチャンネルについて\n石丸伸二が立ち上げた政治団体「再生の道」町田担当、たきぐち昭彦の公式チャンネルです。たきぐち昭彦の信条や政治活動状況を不定期で配信していきます。\n\n■メールアドレス\ninfo@akihikotakiguchi.com\n\n■ホームページ\nhttps://akihikotakiguchi.com\n\n■たきぐち昭彦へのご質問はこちら\nhttps://www.akihikotakiguchi.com/contact/\n\n■たきぐち昭彦ボランティへの登録はこちら\nhttps://www.akihikotakiguchi.com/volunteer/\n\n■たきぐち昭彦へのご支援はこちら\nhttps://www.akihikotakiguchi.com/support/\n\n■その他の情報\nX（旧Twitter）\nhttps://x.com/takiguchi55\n\nInstagram\nhttps://www.instagram.com/ike.takiguchi/\n\nTikTok\nhttps://www.tiktok.com/@akihiko.takiguchi2",
-          "publishedAt": "2026-01-25T11:01:22Z",
-          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/qxLpKQHFQNs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4547
+          "viewCount": 5072
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -804,10 +809,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 148,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-02-01T10:30:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-02-01T10:30:00Z",
+            "actualStartTime": "2026-02-01T10:30:17Z",
+            "concurrentViewers": 57
           }
         }
       ],
@@ -845,7 +852,7 @@
               "height": 720
             }
           },
-          "viewCount": 37
+          "viewCount": 53
         },
         {
           "videoId": "v-_qw3Bb3do",
@@ -985,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 780
+          "viewCount": 782
         },
         {
           "videoId": "5renVsMhXMc",
@@ -1020,7 +1027,7 @@
               "height": 720
             }
           },
-          "viewCount": 539
+          "viewCount": 542
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1156,7 +1163,7 @@
               "height": 720
             }
           },
-          "viewCount": 2938
+          "viewCount": 3122
         },
         {
           "videoId": "l6SVNKYsMZU",
@@ -1191,7 +1198,7 @@
               "height": 720
             }
           },
-          "viewCount": 8901
+          "viewCount": 8937
         },
         {
           "videoId": "FjiiK_StQQI",
@@ -1226,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 22188
+          "viewCount": 22216
         },
         {
           "videoId": "o_1QLVVp55o",
@@ -1261,7 +1268,7 @@
               "height": 720
             }
           },
-          "viewCount": 13701
+          "viewCount": 13745
         },
         {
           "videoId": "L207-q794GA",
@@ -1296,7 +1303,7 @@
               "height": 720
             }
           },
-          "viewCount": 6891
+          "viewCount": 6898
         },
         {
           "videoId": "0VrIql04aXo",
@@ -1331,7 +1338,7 @@
               "height": 720
             }
           },
-          "viewCount": 20598
+          "viewCount": 20603
         },
         {
           "videoId": "YLo3qSnmdWw",
@@ -1462,7 +1469,7 @@
               "height": 720
             }
           },
-          "viewCount": 2437
+          "viewCount": 3321
         },
         {
           "videoId": "zeuHaDF7yKg",
@@ -1497,7 +1504,7 @@
               "height": 720
             }
           },
-          "viewCount": 18366,
+          "viewCount": 18606,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:25:00Z",
@@ -1538,7 +1545,7 @@
               "height": 720
             }
           },
-          "viewCount": 3196,
+          "viewCount": 3217,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -1579,7 +1586,7 @@
               "height": 720
             }
           },
-          "viewCount": 8062
+          "viewCount": 8091
         },
         {
           "videoId": "diR9n1BZiOc",
@@ -1614,7 +1621,7 @@
               "height": 720
             }
           },
-          "viewCount": 18681
+          "viewCount": 18693
         },
         {
           "videoId": "Ld28FdU5N_4",
