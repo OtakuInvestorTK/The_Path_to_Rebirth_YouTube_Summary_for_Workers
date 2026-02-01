@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-01-31T23:16:38.569Z",
+  "requestedAt": "2026-02-01T01:50:19.825Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 29377,
+          "viewCount": 29419,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 9171,
+          "viewCount": 9181,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T09:00:00Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 5732,
+          "viewCount": 5733,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T10:59:03Z",
@@ -232,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 10764,
+          "viewCount": 10765,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T12:00:00Z",
@@ -391,7 +391,7 @@
               "height": 720
             }
           },
-          "viewCount": 1507,
+          "viewCount": 1517,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-30T01:39:24Z",
@@ -467,7 +467,7 @@
               "height": 720
             }
           },
-          "viewCount": 2993
+          "viewCount": 2995
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -568,7 +568,7 @@
               "height": 360
             }
           },
-          "viewCount": 2965,
+          "viewCount": 2966,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T13:30:00Z",
@@ -916,7 +916,7 @@
               "height": 720
             }
           },
-          "viewCount": 598
+          "viewCount": 602
         },
         {
           "videoId": "jfb-zRg-16E",
@@ -986,7 +986,7 @@
               "height": 720
             }
           },
-          "viewCount": 777
+          "viewCount": 778
         },
         {
           "videoId": "5renVsMhXMc",
@@ -1021,7 +1021,7 @@
               "height": 720
             }
           },
-          "viewCount": 536
+          "viewCount": 537
         },
         {
           "videoId": "plhPgZw72SI",
@@ -1160,6 +1160,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "b8GoJD_bW0I",
+          "title": "2月1日（日）天野こころ街頭演説開催します！ #天野こころ #衆院選2026",
+          "description": "2月1日（日）の街頭演説スケジュールです。\n\n11:00-11:30 勝どき駅交差点\n13:00-13:30 銀座四丁目交差点\n15:00-15:30 浅草 雷門\n\n暖かい格好で天野こころを見に来てください！\nシェアお願いします！！\n\n#天野こころ #再生の道 #中央区 #台東区 #街頭演説 #衆院選2026",
+          "publishedAt": "2026-01-31T23:28:15Z",
+          "channelTitle": "天野こころ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b8GoJD_bW0I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b8GoJD_bW0I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b8GoJD_bW0I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/b8GoJD_bW0I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/b8GoJD_bW0I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1087
+        },
+        {
           "videoId": "l6SVNKYsMZU",
           "title": "1月31日（土）天野こころ街頭演説開催します！",
           "description": "1月31日（土）の街頭演説スケジュールです。\n\n11:00-11:30 JR上野公園口\n13:00-13:30 銀座四丁目交差点\n15:30-16:00 数寄屋橋交差点\n\n暖かい格好で天野こころを見に来てください！\nシェアお願いします！！\n\n#天野こころ #再生の道 #中央区 #台東区 #街頭演説 \n#衆院選2026",
@@ -1192,7 +1227,7 @@
               "height": 720
             }
           },
-          "viewCount": 8419
+          "viewCount": 8585
         },
         {
           "videoId": "FjiiK_StQQI",
@@ -1227,7 +1262,7 @@
               "height": 720
             }
           },
-          "viewCount": 21923
+          "viewCount": 21981
         },
         {
           "videoId": "o_1QLVVp55o",
@@ -1262,7 +1297,7 @@
               "height": 720
             }
           },
-          "viewCount": 11978
+          "viewCount": 12187
         },
         {
           "videoId": "L207-q794GA",
@@ -1297,7 +1332,7 @@
               "height": 720
             }
           },
-          "viewCount": 6843
+          "viewCount": 6850
         },
         {
           "videoId": "0VrIql04aXo",
@@ -1332,7 +1367,7 @@
               "height": 720
             }
           },
-          "viewCount": 20555
+          "viewCount": 20569
         },
         {
           "videoId": "YLo3qSnmdWw",
@@ -1367,7 +1402,7 @@
               "height": 720
             }
           },
-          "viewCount": 14382
+          "viewCount": 14387
         },
         {
           "videoId": "aAXsfrF6yOQ",
@@ -1402,7 +1437,7 @@
               "height": 720
             }
           },
-          "viewCount": 8328
+          "viewCount": 8333
         },
         {
           "videoId": "QJ-0tSBWEDA",
@@ -1437,42 +1472,7 @@
               "height": 720
             }
           },
-          "viewCount": 13872
-        },
-        {
-          "videoId": "euLvIyMD9h4",
-          "title": "勝ちどきと浅草にてご挨拶させていただきました。  #天野こころ #再生の道",
-          "description": "2026年1月24日（金）\n\n『私たちの当たり前の感覚を国会へ』\n\n国政対策委員 東京２区（中央区・台東区）\n\n\n▽選挙ドットコムページ(ご献金)\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころボランティア募集\nhttps://docs.google.com/forms/d/e/1FAIpQLSdBDiuDuiYDycoMyEqj0RRAB7SB_NcAoUQ1x7vZfA6Nv58MYQ/viewform\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​​\n\n▽ホームページ\nhttps://amano-cocoro.com\n\n\n▽再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n▽再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21",
-          "publishedAt": "2026-01-25T01:35:51Z",
-          "channelTitle": "天野こころ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/euLvIyMD9h4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 14981
+          "viewCount": 13875
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1533,7 +1533,7 @@
               "height": 720
             }
           },
-          "viewCount": 14744,
+          "viewCount": 16011,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:25:00Z",
@@ -1574,7 +1574,7 @@
               "height": 720
             }
           },
-          "viewCount": 2748,
+          "viewCount": 2886,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -1615,7 +1615,7 @@
               "height": 720
             }
           },
-          "viewCount": 7909
+          "viewCount": 7950
         },
         {
           "videoId": "diR9n1BZiOc",
@@ -1650,7 +1650,7 @@
               "height": 720
             }
           },
-          "viewCount": 18404
+          "viewCount": 18452
         },
         {
           "videoId": "Ld28FdU5N_4",
@@ -1685,7 +1685,7 @@
               "height": 720
             }
           },
-          "viewCount": 15734,
+          "viewCount": 15742,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-05-28T01:50:56Z",
@@ -2027,7 +2027,7 @@
               "height": 720
             }
           },
-          "viewCount": 6195,
+          "viewCount": 6201,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T03:30:00Z",
