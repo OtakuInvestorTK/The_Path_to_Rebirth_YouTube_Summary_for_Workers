@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-01T12:36:02.423Z",
+  "requestedAt": "2026-02-01T13:38:33.908Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "i3N2ADt5TDw",
           "title": "【LIVE配信】衆議院議員選挙　東京18区　吉田あや 選挙戦前半報告",
           "description": "再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n吉田あや\nhttps://www.youtube.com/@UC-gXn6aDzde6hcUucwALegw \n天野こころ\nhttps://www.youtube.com/@amano-kokoro\n\n\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n#再生の道",
-          "publishedAt": "2026-02-01T10:48:30Z",
+          "publishedAt": "2026-02-01T13:04:36Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/i3N2ADt5TDw/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 3968,
+          "viewCount": 6195,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-02-01T12:00:00Z",
             "actualStartTime": "2026-02-01T11:52:16Z",
-            "concurrentViewers": 1671
+            "actualEndTime": "2026-02-01T12:40:40Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "Rdt8Tv747ok",
           "title": "【LIVE配信】SWN×町田の課題徹底討議 拡大SP (2026.01.26) -再生の道-",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 29576,
+          "viewCount": 29611,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T12:00:00Z",
@@ -166,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 5752,
+          "viewCount": 5757,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-25T10:59:03Z",
@@ -350,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 1556,
+          "viewCount": 1576,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-30T01:39:24Z",
@@ -770,7 +769,7 @@
               "height": 720
             }
           },
-          "viewCount": 312,
+          "viewCount": 410,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T10:30:00Z",
@@ -811,7 +810,7 @@
               "height": 720
             }
           },
-          "viewCount": 72
+          "viewCount": 92
         },
         {
           "videoId": "v-_qw3Bb3do",
@@ -846,7 +845,7 @@
               "height": 720
             }
           },
-          "viewCount": 649
+          "viewCount": 656
         },
         {
           "videoId": "RWO8zXfHvBw",
@@ -1122,7 +1121,7 @@
               "height": 720
             }
           },
-          "viewCount": 3276
+          "viewCount": 3488
         },
         {
           "videoId": "l6SVNKYsMZU",
@@ -1157,7 +1156,7 @@
               "height": 720
             }
           },
-          "viewCount": 9000
+          "viewCount": 9049
         },
         {
           "videoId": "FjiiK_StQQI",
@@ -1192,7 +1191,7 @@
               "height": 720
             }
           },
-          "viewCount": 22282
+          "viewCount": 22320
         },
         {
           "videoId": "o_1QLVVp55o",
@@ -1227,7 +1226,7 @@
               "height": 720
             }
           },
-          "viewCount": 13836
+          "viewCount": 13918
         },
         {
           "videoId": "L207-q794GA",
@@ -1262,7 +1261,7 @@
               "height": 720
             }
           },
-          "viewCount": 6900
+          "viewCount": 6908
         },
         {
           "videoId": "0VrIql04aXo",
@@ -1297,7 +1296,7 @@
               "height": 720
             }
           },
-          "viewCount": 20615
+          "viewCount": 20623
         },
         {
           "videoId": "YLo3qSnmdWw",
@@ -1332,7 +1331,7 @@
               "height": 720
             }
           },
-          "viewCount": 14422
+          "viewCount": 14429
         },
         {
           "videoId": "aAXsfrF6yOQ",
@@ -1428,7 +1427,7 @@
               "height": 720
             }
           },
-          "viewCount": 4360
+          "viewCount": 5232
         },
         {
           "videoId": "zeuHaDF7yKg",
@@ -1463,7 +1462,7 @@
               "height": 720
             }
           },
-          "viewCount": 18813,
+          "viewCount": 18987,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:25:00Z",
@@ -1504,7 +1503,7 @@
               "height": 720
             }
           },
-          "viewCount": 3261,
+          "viewCount": 3283,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -1545,7 +1544,7 @@
               "height": 720
             }
           },
-          "viewCount": 8130
+          "viewCount": 8176
         },
         {
           "videoId": "diR9n1BZiOc",
@@ -1580,7 +1579,7 @@
               "height": 720
             }
           },
-          "viewCount": 18722
+          "viewCount": 18759
         },
         {
           "videoId": "Ld28FdU5N_4",
@@ -1957,7 +1956,7 @@
               "height": 720
             }
           },
-          "viewCount": 6233,
+          "viewCount": 6236,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T03:30:00Z",
