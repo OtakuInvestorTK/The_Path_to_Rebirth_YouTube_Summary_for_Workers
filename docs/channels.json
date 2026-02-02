@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-02T05:59:24.290Z",
+  "requestedAt": "2026-02-02T07:09:48.731Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 1295
+          "viewCount": 1538
         },
         {
           "videoId": "t0r5F0iNHp0",
@@ -132,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 2694
+          "viewCount": 3243
         },
         {
           "videoId": "E-awCsgSVW8",
@@ -167,7 +167,7 @@
               "height": 720
             }
           },
-          "viewCount": 3728
+          "viewCount": 4255
         },
         {
           "videoId": "i3N2ADt5TDw",
@@ -202,7 +202,7 @@
               "height": 720
             }
           },
-          "viewCount": 20781,
+          "viewCount": 21199,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T12:00:00Z",
@@ -335,7 +335,7 @@
               "height": 720
             }
           },
-          "viewCount": 10827,
+          "viewCount": 10833,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T12:00:00Z",
@@ -452,48 +452,13 @@
               "height": 720
             }
           },
-          "viewCount": 1634,
+          "viewCount": 1638,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-30T01:39:24Z",
             "actualStartTime": "2026-01-30T01:39:46Z",
             "actualEndTime": "2026-01-30T01:43:40Z"
           }
-        },
-        {
-          "videoId": "KxQk2SbidRk",
-          "title": "大河ドラマ「秀吉兄弟！」第4回「桶狭間！」と比較検証",
-          "description": "大河ドラマ「秀吉兄弟！」第4回「桶狭間！」は、ひねりはあったものの、信長が今川義元の居場所を知って奇襲攻撃をかけたという伝統的なストーリーでしたが、「信長公記」を素直に解釈した私の小説と比較検証してみました。#木島 #桶狭間の戦い #信長公記 #秀吉兄弟！",
-          "publishedAt": "2026-01-26T06:12:00Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/KxQk2SbidRk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/KxQk2SbidRk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/KxQk2SbidRk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/KxQk2SbidRk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/KxQk2SbidRk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 387
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -594,7 +559,7 @@
               "height": 360
             }
           },
-          "viewCount": 2993,
+          "viewCount": 2995,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T13:30:00Z",
@@ -736,7 +701,7 @@
               "height": 720
             }
           },
-          "viewCount": 5102
+          "viewCount": 5103
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -872,7 +837,7 @@
               "height": 720
             }
           },
-          "viewCount": 806,
+          "viewCount": 826,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T10:30:00Z",
@@ -913,7 +878,7 @@
               "height": 720
             }
           },
-          "viewCount": 178
+          "viewCount": 179
         },
         {
           "videoId": "v-_qw3Bb3do",
@@ -1224,7 +1189,7 @@
               "height": 720
             }
           },
-          "viewCount": 4415
+          "viewCount": 4429
         },
         {
           "videoId": "l6SVNKYsMZU",
@@ -1259,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 9302
+          "viewCount": 9317
         },
         {
           "videoId": "FjiiK_StQQI",
@@ -1364,7 +1329,7 @@
               "height": 720
             }
           },
-          "viewCount": 6955
+          "viewCount": 6963
         },
         {
           "videoId": "0VrIql04aXo",
@@ -1399,7 +1364,7 @@
               "height": 720
             }
           },
-          "viewCount": 20708
+          "viewCount": 20710
         },
         {
           "videoId": "YLo3qSnmdWw",
@@ -1495,7 +1460,7 @@
               "height": 720
             }
           },
-          "viewCount": 10045
+          "viewCount": 10359
         },
         {
           "videoId": "zeuHaDF7yKg",
@@ -1530,7 +1495,7 @@
               "height": 720
             }
           },
-          "viewCount": 20814,
+          "viewCount": 20913,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:25:00Z",
@@ -1571,7 +1536,7 @@
               "height": 720
             }
           },
-          "viewCount": 3364,
+          "viewCount": 3367,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -1612,7 +1577,7 @@
               "height": 720
             }
           },
-          "viewCount": 8382
+          "viewCount": 8401
         },
         {
           "videoId": "diR9n1BZiOc",
@@ -1647,7 +1612,7 @@
               "height": 720
             }
           },
-          "viewCount": 19122
+          "viewCount": 19168
         },
         {
           "videoId": "Ld28FdU5N_4",
@@ -1990,49 +1955,7 @@
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "JxuHsARE6tw",
-          "title": "ヨシヒコ・ライブSP with 中村幸信さん",
-          "description": "再生の道の仲間、中村幸信さんをゲストにお迎えします。\n中村さんは、鹿児島県の離島、徳之島出身。徳之島は、日本一高い合計特殊出生率を記録した「子宝の島」として有名ですが、中村さんもお子様が４人！\n\n趣味は、音楽（ロック、ヒップ・ホップ）、マンガ、NBA、映画、お笑い、ビジネス・政治などということで、どこを攻めても面白そうですね。\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→坪田こうすけ→小林学→宮田たかお→横山はるき→中村幸信→",
-          "publishedAt": "2026-01-26T06:36:15Z",
-          "channelTitle": "増田よしひこ@再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JxuHsARE6tw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JxuHsARE6tw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JxuHsARE6tw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/JxuHsARE6tw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/JxuHsARE6tw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6263,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-26T03:30:00Z",
-            "actualStartTime": "2026-01-26T03:29:16Z",
-            "actualEndTime": "2026-01-26T04:32:57Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
     },
     {
