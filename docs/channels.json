@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-02T13:58:05.185Z",
+  "requestedAt": "2026-02-02T14:42:07.511Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7097,
+          "viewCount": 9450,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-02T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 2979
+          "viewCount": 3253
         },
         {
           "videoId": "NBoy_iB-T64",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3162
+          "viewCount": 3379
         },
         {
           "videoId": "t0r5F0iNHp0",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 6482
+          "viewCount": 6931
         },
         {
           "videoId": "E-awCsgSVW8",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 6887
+          "viewCount": 7372
         },
         {
           "videoId": "i3N2ADt5TDw",
@@ -238,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 23499,
+          "viewCount": 23746,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T12:00:00Z",
@@ -279,7 +279,7 @@
               "height": 720
             }
           },
-          "viewCount": 29880,
+          "viewCount": 29912,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-26T12:00:00Z",
@@ -371,7 +371,7 @@
               "height": 720
             }
           },
-          "viewCount": 10841,
+          "viewCount": 10845,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T12:00:00Z",
@@ -872,7 +872,7 @@
               "height": 720
             }
           },
-          "viewCount": 1089,
+          "viewCount": 1116,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T10:30:00Z",
@@ -1189,7 +1189,7 @@
               "height": 720
             }
           },
-          "viewCount": 3411
+          "viewCount": 3709
         },
         {
           "videoId": "b8GoJD_bW0I",
@@ -1224,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 4555
+          "viewCount": 4582
         },
         {
           "videoId": "l6SVNKYsMZU",
@@ -1259,7 +1259,7 @@
               "height": 720
             }
           },
-          "viewCount": 9401
+          "viewCount": 9416
         },
         {
           "videoId": "FjiiK_StQQI",
@@ -1294,7 +1294,7 @@
               "height": 720
             }
           },
-          "viewCount": 22723
+          "viewCount": 22828
         },
         {
           "videoId": "o_1QLVVp55o",
@@ -1329,7 +1329,7 @@
               "height": 720
             }
           },
-          "viewCount": 14322
+          "viewCount": 14349
         },
         {
           "videoId": "L207-q794GA",
@@ -1364,7 +1364,7 @@
               "height": 720
             }
           },
-          "viewCount": 6980
+          "viewCount": 6986
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1392,6 +1392,41 @@
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "P5lt3tDERcM",
+          "title": "2/3（火）街宣予定（東京18区/吉田あや）概要欄のオープンチャット是非ご参考下さい！",
+          "description": "「東京18区/吉田あや応援オープンチャット」\nhttps://line.me/ti/g2/mCLZl3LpZRA4EqL2YVz6NkopBvv59A9JcExqsQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+          "publishedAt": "2026-02-02T14:29:48Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P5lt3tDERcM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P5lt3tDERcM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P5lt3tDERcM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P5lt3tDERcM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P5lt3tDERcM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 654
+        },
         {
           "videoId": "RhPPwrJsaUk",
           "title": "教育を最優先（東京18区/吉田あや）オープンチャット是非ご参加ください！",
@@ -1425,7 +1460,7 @@
               "height": 720
             }
           },
-          "viewCount": 1353
+          "viewCount": 1562
         },
         {
           "videoId": "Cw5J1HBLEro",
@@ -1460,7 +1495,7 @@
               "height": 720
             }
           },
-          "viewCount": 11596
+          "viewCount": 11739
         },
         {
           "videoId": "zeuHaDF7yKg",
@@ -1495,7 +1530,7 @@
               "height": 720
             }
           },
-          "viewCount": 21727,
+          "viewCount": 21819,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:25:00Z",
@@ -1536,7 +1571,7 @@
               "height": 720
             }
           },
-          "viewCount": 3405,
+          "viewCount": 3446,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -1577,7 +1612,7 @@
               "height": 720
             }
           },
-          "viewCount": 8449
+          "viewCount": 8458
         },
         {
           "videoId": "diR9n1BZiOc",
@@ -1612,7 +1647,7 @@
               "height": 720
             }
           },
-          "viewCount": 19214
+          "viewCount": 19221
         },
         {
           "videoId": "Ld28FdU5N_4",
@@ -1647,7 +1682,7 @@
               "height": 720
             }
           },
-          "viewCount": 15820,
+          "viewCount": 15829,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-05-28T01:50:56Z",
@@ -1885,31 +1920,36 @@
           "videoId": "0n7IQp63RHY",
           "title": "しゃべるば#004",
           "description": "最近の政治、経済や近況、その他雑談。いろいろお話できれば。\nゆるく話をしていくので、軽い気持ちでお付き合いを！\n\nよろしければ、チャンネル登録・高評価ボタンお願いします！\n\n今週のテーマ予定※随時更新\n1.寄附に関するご連絡\n2.再生の道のメンバーとの動画について\n3.SNS等の情報の捉え方\n4.消費税減税すると飲食店が苦しくなるって本当？\n5.じゃあ、社会保険料削減がいいのか？\n6.Taka×石丸伸二 Boosters後編について\n\n#再生の道 #中村幸信 ＃政治 ＃経済 ＃税 ＃Taka #ONEOKROCK #石丸伸二",
-          "publishedAt": "2026-01-18T13:59:10Z",
+          "publishedAt": "2026-02-02T13:58:14Z",
           "channelTitle": "中村 幸信×再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/sddefault.jpg",
               "width": 640,
               "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0n7IQp63RHY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
-          "viewCount": 654,
+          "viewCount": 829,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-02T13:00:00Z",
