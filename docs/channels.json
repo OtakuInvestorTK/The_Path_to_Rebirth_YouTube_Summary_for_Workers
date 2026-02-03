@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-03T10:33:44.369Z",
+  "requestedAt": "2026-02-03T11:29:31.165Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5105
+          "viewCount": 5939
         },
         {
           "videoId": "R_v8k5wV7q8",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2267
+          "viewCount": 2594
         },
         {
           "videoId": "X81ZVupqOJ4",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 4471
+          "viewCount": 4841
         },
         {
           "videoId": "1AGkAeYBQ54",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 3507
+          "viewCount": 3837
         },
         {
           "videoId": "fDOGD7ElxDk",
@@ -197,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 5612
+          "viewCount": 6211
         },
         {
           "videoId": "pC0kvyEBCH4",
@@ -232,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 19237,
+          "viewCount": 19395,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-02T12:00:00Z",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 4241
+          "viewCount": 4280
         },
         {
           "videoId": "NBoy_iB-T64",
@@ -308,7 +308,7 @@
               "height": 720
             }
           },
-          "viewCount": 4640
+          "viewCount": 4685
         },
         {
           "videoId": "t0r5F0iNHp0",
@@ -343,7 +343,7 @@
               "height": 720
             }
           },
-          "viewCount": 9208
+          "viewCount": 9236
         },
         {
           "videoId": "E-awCsgSVW8",
@@ -378,7 +378,7 @@
               "height": 720
             }
           },
-          "viewCount": 12263
+          "viewCount": 12454
         },
         {
           "videoId": "i3N2ADt5TDw",
@@ -413,7 +413,7 @@
               "height": 720
             }
           },
-          "viewCount": 25347,
+          "viewCount": 25400,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T12:00:00Z",
@@ -470,47 +470,7 @@
         }
       },
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [
-        {
-          "videoId": "uWoJo34K7Zg",
-          "title": "再生の道MC - 青柳みつやのYouTube Live!! #27",
-          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
-          "publishedAt": "2026-01-27T11:04:02Z",
-          "channelTitle": "青柳みつや - 再生の道への挑戦",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/uWoJo34K7Zg/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/uWoJo34K7Zg/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/uWoJo34K7Zg/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/uWoJo34K7Zg/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/uWoJo34K7Zg/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 0,
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-02-03T12:30:00Z"
-          }
-        }
-      ],
+      "liveVideos": [],
       "recentVideos": [
         {
           "videoId": "v7w1RzAkxGw",
@@ -545,7 +505,7 @@
               "height": 720
             }
           },
-          "viewCount": 10873,
+          "viewCount": 10876,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T12:00:00Z",
@@ -662,7 +622,7 @@
               "height": 720
             }
           },
-          "viewCount": 1691,
+          "viewCount": 1692,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-30T01:39:24Z",
@@ -769,7 +729,7 @@
               "height": 360
             }
           },
-          "viewCount": 3009,
+          "viewCount": 3010,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-27T13:30:00Z",
@@ -1011,7 +971,7 @@
               "height": 720
             }
           },
-          "viewCount": 220
+          "viewCount": 234
         },
         {
           "videoId": "xSM_-SNyppk",
@@ -1081,7 +1041,7 @@
               "height": 720
             }
           },
-          "viewCount": 1421,
+          "viewCount": 1433,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T10:30:00Z",
@@ -1157,7 +1117,7 @@
               "height": 720
             }
           },
-          "viewCount": 692
+          "viewCount": 694
         },
         {
           "videoId": "RWO8zXfHvBw",
@@ -1227,7 +1187,7 @@
               "height": 720
             }
           },
-          "viewCount": 1023
+          "viewCount": 1022
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1363,7 +1323,7 @@
               "height": 720
             }
           },
-          "viewCount": 532
+          "viewCount": 796
         },
         {
           "videoId": "tJOtK9s8OXs",
@@ -1398,7 +1358,7 @@
               "height": 720
             }
           },
-          "viewCount": 7064
+          "viewCount": 7189
         },
         {
           "videoId": "b8GoJD_bW0I",
@@ -1433,7 +1393,7 @@
               "height": 720
             }
           },
-          "viewCount": 4882
+          "viewCount": 4911
         },
         {
           "videoId": "l6SVNKYsMZU",
@@ -1539,41 +1499,6 @@
             }
           },
           "viewCount": 14413
-        },
-        {
-          "videoId": "L207-q794GA",
-          "title": "衆院選2026に「東京２区（中央区・台東区）」にて立候補しました！ #天野こころ #再生の道",
-          "description": "『私たちの当たり前の感覚を国会へ』\n\n第51回衆議院議員選挙\n衆議院議員候補 東京２区（中央区・台東区）\n\n\n▽選挙ドットコムページ(ご献金)\nhttps://go2senkyo.com/seijika/196232\n\n▽天野こころボランティア募集\nhttps://docs.google.com/forms/d/e/1FAIpQLSdBDiuDuiYDycoMyEqj0RRAB7SB_NcAoUQ1x7vZfA6Nv58MYQ/viewform\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​​\n\n▽ホームページ\nhttps://amano-cocoro.com\n\n\n▽再生の道　国政部 HP\nhttps://saiseinomichi-official.jp/national-politics/\n\n▽再生の道　国政部への献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21",
-          "publishedAt": "2026-01-27T11:20:58Z",
-          "channelTitle": "天野こころ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/L207-q794GA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/L207-q794GA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/L207-q794GA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/L207-q794GA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/L207-q794GA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7049
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1599,7 +1524,42 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "GWs6_kqFvKo",
+          "title": "祝！初めて他党の方とコラボ配信！選挙中なのにあれやこれや語り合っちゃうぞスペシャル！",
+          "description": "どうぞお楽しみに！\n\n\n＃再生の道\n＃吉田あや",
+          "publishedAt": "2026-02-03T10:42:38Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GWs6_kqFvKo/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GWs6_kqFvKo/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GWs6_kqFvKo/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GWs6_kqFvKo/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-02-03T12:45:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "bNNOst2e2Dw",
@@ -1634,7 +1594,7 @@
               "height": 720
             }
           },
-          "viewCount": 2393
+          "viewCount": 2466
         },
         {
           "videoId": "P5lt3tDERcM",
@@ -1669,7 +1629,7 @@
               "height": 720
             }
           },
-          "viewCount": 8509
+          "viewCount": 8854
         },
         {
           "videoId": "RhPPwrJsaUk",
@@ -1704,7 +1664,7 @@
               "height": 720
             }
           },
-          "viewCount": 5393
+          "viewCount": 5588
         },
         {
           "videoId": "Cw5J1HBLEro",
@@ -1739,7 +1699,7 @@
               "height": 720
             }
           },
-          "viewCount": 13019
+          "viewCount": 13086
         },
         {
           "videoId": "zeuHaDF7yKg",
@@ -1774,7 +1734,7 @@
               "height": 720
             }
           },
-          "viewCount": 22592,
+          "viewCount": 22650,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:25:00Z",
@@ -1815,7 +1775,7 @@
               "height": 720
             }
           },
-          "viewCount": 3544,
+          "viewCount": 3541,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -1856,7 +1816,7 @@
               "height": 720
             }
           },
-          "viewCount": 8607
+          "viewCount": 8611
         },
         {
           "videoId": "diR9n1BZiOc",
@@ -1891,7 +1851,7 @@
               "height": 720
             }
           },
-          "viewCount": 19391
+          "viewCount": 19401
         },
         {
           "videoId": "Ld28FdU5N_4",
@@ -2193,7 +2153,7 @@
               "height": 720
             }
           },
-          "viewCount": 2866,
+          "viewCount": 2894,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-02T13:00:00Z",
