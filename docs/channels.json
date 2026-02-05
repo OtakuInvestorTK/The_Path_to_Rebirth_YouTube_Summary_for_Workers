@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-05T08:35:26.126Z",
+  "requestedAt": "2026-02-05T09:37:50.275Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 10354
+          "viewCount": 11207
         },
         {
           "videoId": "FgtTBJ7VFcg",
@@ -132,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 10439
+          "viewCount": 10704
         },
         {
           "videoId": "wKulEi_0uLA",
@@ -167,7 +167,7 @@
               "height": 720
             }
           },
-          "viewCount": 20968
+          "viewCount": 21026
         },
         {
           "videoId": "R_v8k5wV7q8",
@@ -202,7 +202,7 @@
               "height": 720
             }
           },
-          "viewCount": 7583
+          "viewCount": 7631
         },
         {
           "videoId": "X81ZVupqOJ4",
@@ -237,7 +237,7 @@
               "height": 720
             }
           },
-          "viewCount": 21103
+          "viewCount": 21274
         },
         {
           "videoId": "1AGkAeYBQ54",
@@ -272,7 +272,7 @@
               "height": 720
             }
           },
-          "viewCount": 9026
+          "viewCount": 9088
         },
         {
           "videoId": "fDOGD7ElxDk",
@@ -307,7 +307,7 @@
               "height": 720
             }
           },
-          "viewCount": 17629
+          "viewCount": 17676
         },
         {
           "videoId": "pC0kvyEBCH4",
@@ -342,7 +342,7 @@
               "height": 720
             }
           },
-          "viewCount": 21024,
+          "viewCount": 21036,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-02T12:00:00Z",
@@ -383,7 +383,7 @@
               "height": 720
             }
           },
-          "viewCount": 4782
+          "viewCount": 4798
         },
         {
           "videoId": "NBoy_iB-T64",
@@ -418,7 +418,7 @@
               "height": 720
             }
           },
-          "viewCount": 5385
+          "viewCount": 5394
         },
         {
           "videoId": "t0r5F0iNHp0",
@@ -488,7 +488,7 @@
               "height": 720
             }
           },
-          "viewCount": 16136
+          "viewCount": 16166
         },
         {
           "videoId": "i3N2ADt5TDw",
@@ -523,7 +523,7 @@
               "height": 720
             }
           },
-          "viewCount": 26458,
+          "viewCount": 26478,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T12:00:00Z",
@@ -615,7 +615,7 @@
               "height": 720
             }
           },
-          "viewCount": 6694,
+          "viewCount": 6713,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-03T12:00:00Z",
@@ -700,6 +700,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "6YUSvI6gmsA",
+          "title": "雷門前の行列のできるラーメン屋さん「鴨to葱」#木島 #雷門 #鴨to葱",
+          "description": "",
+          "publishedAt": "2026-02-05T09:17:19Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6YUSvI6gmsA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6YUSvI6gmsA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6YUSvI6gmsA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6YUSvI6gmsA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6YUSvI6gmsA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 288
+        },
+        {
           "videoId": "vROsMzq0ECc",
           "title": "日本弁護士連合会の会長選挙",
           "description": "",
@@ -732,7 +767,7 @@
               "height": 720
             }
           },
-          "viewCount": 220
+          "viewCount": 250
         },
         {
           "videoId": "z1h3wv7DWIw",
@@ -767,7 +802,7 @@
               "height": 720
             }
           },
-          "viewCount": 4463
+          "viewCount": 4535
         },
         {
           "videoId": "hJCTCEMwpbo",
@@ -802,7 +837,7 @@
               "height": 720
             }
           },
-          "viewCount": 669
+          "viewCount": 675
         },
         {
           "videoId": "-NCtBc6ds-U",
@@ -837,7 +872,7 @@
               "height": 720
             }
           },
-          "viewCount": 1797,
+          "viewCount": 1800,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-30T01:39:24Z",
@@ -1054,7 +1089,7 @@
               "height": 720
             }
           },
-          "viewCount": 353
+          "viewCount": 744
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1158,6 +1193,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "dbdPZ5MXC_s",
+          "title": "【首長の孤独を救う】行政改革を断行するための「最強の武器」とは？ #shorts",
+          "description": "行政のトップとして、日々孤独な決断を強いられていませんか？\n本動画では、首長を周囲の批判から守り、改革を加速させる唯一の武器「決断の盾」について解説します。\n個人の思い込みを、外部プロ人材の知見で「揺るぎない戦略」へと昇華させる方法とは。\n\n### 孤独な戦いを終わらせる「決断の盾」の正体\n\n首長は常に孤独な決断を迫られます。これまではリーダーの「勘」や「情熱」で押し切れた場面も、現代の複雑な社会、議会や反対勢力からの感情的な批判の前では、それだけでは通用しなくなっています。\n今、リーダーに求められているのは、ビジョンを論理で武装させる「知見の支柱」です。\n外部プロ人材がもたらす客観的なエビデンスと高度な専門知識。これこそが、あなたの決断を単なる「思い込み」から「最強の戦略」へと変える盾となります。\nこの盾は守るためだけのものではありません。数値を裏付けとしたロジックは、圧倒的な説得力を持ち、改革を断行するための「攻撃兵器」にもなり得るのです。\n\n### 公式リンク・SNS\n\nさらに詳しい情報や最新の活動については、こちらをチェックしてください。\n・公式サイト：https://sites.google.com/view/yanagisawa-takayuki/\n・YouTube：https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\n・Twitter：https://x.com/marcie_nocturne\n・Instagram：https://www.instagram.com/marcie_nocturne/\n・TikTok：https://www.tiktok.com/@marcie_nocturne\n\n### タイムスタンプ\n\n0:00 リーダーはなぜこれほど孤独なのか\n0:17 決断の瞬間に隣には誰もいない\n0:37 勘と情熱だけで守りきれない現代の壁\n0:55 ビジョンを武装させる論理の支柱\n1:11 外部プロ人材の知見が最強の盾となる\n1:28 これは防御ではない。改革のための攻撃兵器だ\n1:46 あなたはその手に「揺るぎない盾」を持っているか\n\n#首長 #リーダーシップ #行政改革 #プロ人材 #意思決定 #地方自治体 #経営戦略 #DX #政治 #shorts",
+          "publishedAt": "2026-02-05T09:01:04Z",
+          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dbdPZ5MXC_s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dbdPZ5MXC_s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dbdPZ5MXC_s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dbdPZ5MXC_s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dbdPZ5MXC_s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 154
+        },
+        {
           "videoId": "Y7tGLG6HrVM",
           "title": "【衝撃】なぜあなたのビジョンは現場で消えるのか？その残酷な真実と突破口。 #shorts",
           "description": "素晴らしいビジョンが現場で「ノイズ」になっていませんか？理想と現実の乖離を生む最大の原因は「解像度の不足」です。本動画では、ビジョンを確実に実行に移すための「実行の仕様書」と「翻訳」の重要性を解説します。\n\n### 組織の壁を突破する「構造的な橋渡し」\n\n高遠なビジョンも、曖昧なままでは現場の防衛本能によってブロックされてしまいます。リーダーに必要なのは、熱量を論理へ、パッションを設計図へと変換するプロセスです。\n\n1. 課題の棚卸し：曖昧な不安を具体的な数値へ。\n2. 権限の定義：誰が何を決定するかを明確に。\n3. 外部プロ人材の活用：客観的な視点での「翻訳作業」。\n\nスローガンを掲げるのはもう終わり。今日から、現場が迷いなく動ける「仕様書」を作り始めましょう。\n\n### タイムスタンプ\n\n0:00 ビジョンが現場に届かない理由\n0:17 最大の原因「解像度の不足」\n0:34 現場の防衛本能と無意識のブロック\n0:51 熱量を「論理」へ変換する翻訳作業\n1:05 目指すべきは「実行の仕様書」\n1:20 具体的な2つのポイント：数値と権限\n1:37 翻訳の専門部隊（外部プロ人材）の役割\n1:52 構造的な橋渡しで人を動かす\n2:05 あなたの想いは「設計図」になっているか？\n\n### 公式リンク & SNS\n\n最新情報やコンサルティングのご相談はこちらから。\n・公式サイト：https://sites.google.com/view/yanagisawa-takayuki/\n・YouTube：https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\n・Twitter：https://x.com/marcie_nocturne\n・Instagram：https://www.instagram.com/marcie_nocturne/\n・TikTok：https://www.tiktok.com/@marcie_nocturne\n\n#リーダーシップ #組織開発 #ビジョン #マネジメント #DX #経営戦略 #組織改革 #プロ人材 #ビジネススキル #YouTubeショート",
@@ -1190,7 +1260,7 @@
               "height": 720
             }
           },
-          "viewCount": 934
+          "viewCount": 935
         },
         {
           "videoId": "FhDTAbPMDQM",
@@ -1225,7 +1295,7 @@
               "height": 720
             }
           },
-          "viewCount": 1103
+          "viewCount": 1109
         },
         {
           "videoId": "xSM_-SNyppk",
@@ -1260,7 +1330,7 @@
               "height": 720
             }
           },
-          "viewCount": 551
+          "viewCount": 557
         },
         {
           "videoId": "vgbHOZQiYWY",
@@ -1372,41 +1442,6 @@
             }
           },
           "viewCount": 703
-        },
-        {
-          "videoId": "RWO8zXfHvBw",
-          "title": "正論だけでは勝てない。あなたの決断を守る「決断の盾」を手に入れろ #shorts",
-          "description": "新しいことに挑戦しようとすると、必ず現れる「感情的な反対」。正論だけでは突破できないその高い壁を、どうやって乗り越えればいいのか。客観的なデータと論理であなたの志を守り抜く唯一の武器、それが「決断の盾」です。\n\n変革を志すリーダーの前に立ちはだかるのは、いつの時代も「なんとなく不安」「前例がない」といった感情論。これに対抗するには、個人の熱意だけでなく、誰にも否定させない「動かぬ証拠」が必要です。\n\n本動画では、EBPM（根拠に基づく政策立案）の真の意味を解説します。\n予算が住民の幸福にどう繋がるかをロジックモデルで証明する。それは単なる事務処理ではなく、リーダーが政治的生命をかけて実行すべき正義を周囲に納得させるための「証明書」なのです。\n\nあなたの組織には、いざという時にあなたを守ってくれる数字がありますか？準備ができていないなら、今すぐ証拠立案戦略を始めましょう。\n\n0:00 感情的な反対を沈黙させる武器\n0:17 変革を阻む「感情論」という壁\n0:33 孤独な決断を支える「決断の盾」\n0:51 批判を無力化する「ロジックモデル」\n1:09 EBPMの真の定義：正義の実行仕様書\n1:25 最終確認：あなたを守る数字はありますか？\n\n公式サイト：https://sites.google.com/view/yanagisawa-takayuki/\nYouTube：https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\nTwitter：https://x.com/marcie_nocturne\nInstagram：https://www.instagram.com/marcie_nocturne/\nTikTok：https://www.tiktok.com/@marcie_nocturne\n\n#EBPM #リーダーシップ #意思決定 #ロジックモデル #組織改革 #データ活用 #証拠立案戦略 #shorts",
-          "publishedAt": "2026-01-29T09:00:43Z",
-          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/RWO8zXfHvBw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/RWO8zXfHvBw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/RWO8zXfHvBw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/RWO8zXfHvBw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/RWO8zXfHvBw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 673
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1537,7 +1572,7 @@
               "height": 480
             }
           },
-          "viewCount": 840
+          "viewCount": 860
         },
         {
           "videoId": "YHJUiBLVwds",
@@ -1572,7 +1607,7 @@
               "height": 720
             }
           },
-          "viewCount": 4756
+          "viewCount": 4786
         },
         {
           "videoId": "zKtXNI8sK1I",
@@ -1607,7 +1642,7 @@
               "height": 720
             }
           },
-          "viewCount": 3425
+          "viewCount": 3437
         },
         {
           "videoId": "tJOtK9s8OXs",
@@ -1642,7 +1677,7 @@
               "height": 720
             }
           },
-          "viewCount": 9178
+          "viewCount": 9216
         },
         {
           "videoId": "b8GoJD_bW0I",
@@ -1712,7 +1747,7 @@
               "height": 720
             }
           },
-          "viewCount": 9565
+          "viewCount": 9567
         },
         {
           "videoId": "FjiiK_StQQI",
@@ -1747,7 +1782,7 @@
               "height": 720
             }
           },
-          "viewCount": 23511
+          "viewCount": 23516
         },
         {
           "videoId": "o_1QLVVp55o",
@@ -1843,7 +1878,7 @@
               "height": 720
             }
           },
-          "viewCount": 3789
+          "viewCount": 4061
         },
         {
           "videoId": "W2aZ8vT-gZg",
@@ -1878,7 +1913,7 @@
               "height": 720
             }
           },
-          "viewCount": 16399
+          "viewCount": 16491
         },
         {
           "videoId": "GWs6_kqFvKo",
@@ -1913,7 +1948,7 @@
               "height": 720
             }
           },
-          "viewCount": 31410,
+          "viewCount": 31456,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-03T12:45:00Z",
@@ -1954,7 +1989,7 @@
               "height": 720
             }
           },
-          "viewCount": 14762
+          "viewCount": 14814
         },
         {
           "videoId": "bNNOst2e2Dw",
@@ -1989,7 +2024,7 @@
               "height": 720
             }
           },
-          "viewCount": 4684
+          "viewCount": 4709
         },
         {
           "videoId": "P5lt3tDERcM",
@@ -2024,7 +2059,7 @@
               "height": 720
             }
           },
-          "viewCount": 11806
+          "viewCount": 11829
         },
         {
           "videoId": "RhPPwrJsaUk",
@@ -2059,7 +2094,7 @@
               "height": 720
             }
           },
-          "viewCount": 7954
+          "viewCount": 7961
         },
         {
           "videoId": "Cw5J1HBLEro",
@@ -2094,7 +2129,7 @@
               "height": 720
             }
           },
-          "viewCount": 14701
+          "viewCount": 14740
         },
         {
           "videoId": "zeuHaDF7yKg",
@@ -2129,7 +2164,7 @@
               "height": 720
             }
           },
-          "viewCount": 23354,
+          "viewCount": 23381,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:25:00Z",
@@ -2170,7 +2205,7 @@
               "height": 720
             }
           },
-          "viewCount": 3803,
+          "viewCount": 3810,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -2437,7 +2472,7 @@
               "height": 720
             }
           },
-          "viewCount": 3359,
+          "viewCount": 3363,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-02T13:00:00Z",
