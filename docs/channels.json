@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-06T01:27:28.781Z",
+  "requestedAt": "2026-02-06T04:09:17.473Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "3N5j_zMovR0",
+          "title": "【天野こころ】私たちの当たり前を国会へ！(衆院選 東京2区候補)",
+          "description": "再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-02-06T03:43:17Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3N5j_zMovR0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3N5j_zMovR0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3N5j_zMovR0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3N5j_zMovR0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3N5j_zMovR0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 844
+        },
         {
           "videoId": "Qa_MjxjNeSY",
           "title": "【LIVE 吉田あや】衆議院議員選挙　東京18区　選挙戦残り２日　武蔵野市 小金井市 西東京市",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 12156,
+          "viewCount": 12715,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-05T12:00:00Z",
@@ -98,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 24463
+          "viewCount": 25319
         },
         {
           "videoId": "FgtTBJ7VFcg",
@@ -133,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12189
+          "viewCount": 12270
         },
         {
           "videoId": "wKulEi_0uLA",
@@ -168,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 22297
+          "viewCount": 22418
         },
         {
           "videoId": "R_v8k5wV7q8",
@@ -203,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 8399
+          "viewCount": 8545
         },
         {
           "videoId": "X81ZVupqOJ4",
@@ -238,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 23813
+          "viewCount": 23976
         },
         {
           "videoId": "1AGkAeYBQ54",
@@ -273,7 +308,7 @@
               "height": 720
             }
           },
-          "viewCount": 10074
+          "viewCount": 10068
         },
         {
           "videoId": "fDOGD7ElxDk",
@@ -308,7 +343,7 @@
               "height": 720
             }
           },
-          "viewCount": 18460
+          "viewCount": 18541
         },
         {
           "videoId": "pC0kvyEBCH4",
@@ -343,7 +378,7 @@
               "height": 720
             }
           },
-          "viewCount": 21195,
+          "viewCount": 21215,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-02T12:00:00Z",
@@ -384,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 4928
+          "viewCount": 4938
         },
         {
           "videoId": "NBoy_iB-T64",
@@ -419,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 5604
+          "viewCount": 5626
         },
         {
           "videoId": "t0r5F0iNHp0",
@@ -454,7 +489,7 @@
               "height": 720
             }
           },
-          "viewCount": 10859
+          "viewCount": 11016
         },
         {
           "videoId": "E-awCsgSVW8",
@@ -489,7 +524,7 @@
               "height": 720
             }
           },
-          "viewCount": 16607
+          "viewCount": 16886
         },
         {
           "videoId": "i3N2ADt5TDw",
@@ -524,7 +559,7 @@
               "height": 720
             }
           },
-          "viewCount": 26636,
+          "viewCount": 26653,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-01T12:00:00Z",
@@ -616,7 +651,7 @@
               "height": 720
             }
           },
-          "viewCount": 6848,
+          "viewCount": 6861,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-03T12:00:00Z",
@@ -733,7 +768,7 @@
               "height": 720
             }
           },
-          "viewCount": 1864
+          "viewCount": 1916
         },
         {
           "videoId": "vROsMzq0ECc",
@@ -768,7 +803,7 @@
               "height": 720
             }
           },
-          "viewCount": 481
+          "viewCount": 493
         },
         {
           "videoId": "z1h3wv7DWIw",
@@ -803,7 +838,7 @@
               "height": 720
             }
           },
-          "viewCount": 4860
+          "viewCount": 4911
         },
         {
           "videoId": "hJCTCEMwpbo",
@@ -838,48 +873,7 @@
               "height": 720
             }
           },
-          "viewCount": 847
-        },
-        {
-          "videoId": "-NCtBc6ds-U",
-          "title": "恋する好色選挙法テーマソング   作詞作曲：木島康雄 produced with AI",
-          "description": "",
-          "publishedAt": "2026-01-30T01:39:46Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/-NCtBc6ds-U/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1818,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-01-30T01:39:24Z",
-            "actualStartTime": "2026-01-30T01:39:46Z",
-            "actualEndTime": "2026-01-30T01:43:40Z"
-          }
+          "viewCount": 852
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1090,7 +1084,7 @@
               "height": 720
             }
           },
-          "viewCount": 2566
+          "viewCount": 2758
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1226,7 +1220,7 @@
               "height": 720
             }
           },
-          "viewCount": 1157
+          "viewCount": 1154
         },
         {
           "videoId": "Y7tGLG6HrVM",
@@ -1261,7 +1255,7 @@
               "height": 720
             }
           },
-          "viewCount": 1186
+          "viewCount": 1207
         },
         {
           "videoId": "FhDTAbPMDQM",
@@ -1546,6 +1540,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "pOKtDtPsbCY",
+          "title": "私たちの当たり前の感覚を国会へ｜ #天野こころ",
+          "description": "再生の道 天野こころです。\n中央区で結婚し、出産し、2歳の男の子を育てながら活動しています。\n\n土木技術者として、海外の現場で現場監督をしてまいりました。\nその後、数字で評価される世界に身を置きたく総合不動産会社で営業 東京一位、トップセールスとして活躍してまいりました。\n\n現場の感覚があります。\n民間の当たり前の感覚を国会に持ち込みたくて今回立候補しました。\n\n#天野こころ #東京2区 #東京2区は天野こころ",
+          "publishedAt": "2026-02-06T03:37:12Z",
+          "channelTitle": "天野こころ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pOKtDtPsbCY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pOKtDtPsbCY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pOKtDtPsbCY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pOKtDtPsbCY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pOKtDtPsbCY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 3401
+        },
+        {
           "videoId": "FefrnK17XdY",
           "title": "2月7日（土）街頭演説開催決定！ #天野こころ",
           "description": "2月7日（土）街頭演説を開催決定！\n\n場所：銀座四丁目交差点\n時間：15:30-\n\n街頭演説終了後も東京2区選挙区内にてギリギリまで選挙活動続けますが、マイク納めはこちら銀座四丁目となります。\n\n都知事選時の東京駅丸の内口、都議選時の赤羽駅の様に多くの方にお集まりいただけると嬉しいです☺🟣\n\n残り2日となった衆院選、全力で駆け抜けます！！\n\n#天野こころ #東京2区 #東京2区は天野こころ",
@@ -1578,7 +1607,7 @@
               "height": 720
             }
           },
-          "viewCount": 3885
+          "viewCount": 4242
         },
         {
           "videoId": "4zbAoNY5m7g",
@@ -1608,7 +1637,7 @@
               "height": 480
             }
           },
-          "viewCount": 1086
+          "viewCount": 1112
         },
         {
           "videoId": "YHJUiBLVwds",
@@ -1643,7 +1672,7 @@
               "height": 720
             }
           },
-          "viewCount": 5156
+          "viewCount": 5222
         },
         {
           "videoId": "zKtXNI8sK1I",
@@ -1678,7 +1707,7 @@
               "height": 720
             }
           },
-          "viewCount": 3589
+          "viewCount": 3608
         },
         {
           "videoId": "tJOtK9s8OXs",
@@ -1713,7 +1742,7 @@
               "height": 720
             }
           },
-          "viewCount": 9456
+          "viewCount": 9509
         },
         {
           "videoId": "b8GoJD_bW0I",
@@ -1748,7 +1777,7 @@
               "height": 720
             }
           },
-          "viewCount": 5174
+          "viewCount": 5183
         },
         {
           "videoId": "l6SVNKYsMZU",
@@ -1783,42 +1812,7 @@
               "height": 720
             }
           },
-          "viewCount": 9586
-        },
-        {
-          "videoId": "FjiiK_StQQI",
-          "title": "今週末、街頭演説会開催決定しました！天野こころを見にきてください！",
-          "description": "今週末（1/31.2/1）の街頭演説スケジュールが決まりました。\n暖かい格好で天野こころを見に来てください！\n\nシェアお願いします！！\n\n#天野こころ #再生の道 #中央区 #台東区 #街頭演説 \n#衆院選2026",
-          "publishedAt": "2026-01-30T03:12:02Z",
-          "channelTitle": "天野こころ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/FjiiK_StQQI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 23685
+          "viewCount": 9589
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1879,7 +1873,7 @@
               "height": 720
             }
           },
-          "viewCount": 2796
+          "viewCount": 4122
         },
         {
           "videoId": "13YmSy2g9EM",
@@ -1914,7 +1908,7 @@
               "height": 720
             }
           },
-          "viewCount": 7979
+          "viewCount": 8640
         },
         {
           "videoId": "W2aZ8vT-gZg",
@@ -1949,7 +1943,7 @@
               "height": 720
             }
           },
-          "viewCount": 17828
+          "viewCount": 17944
         },
         {
           "videoId": "GWs6_kqFvKo",
@@ -1984,7 +1978,7 @@
               "height": 720
             }
           },
-          "viewCount": 32438,
+          "viewCount": 32574,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-03T12:45:00Z",
@@ -2025,7 +2019,7 @@
               "height": 720
             }
           },
-          "viewCount": 15454
+          "viewCount": 15538
         },
         {
           "videoId": "bNNOst2e2Dw",
@@ -2060,7 +2054,7 @@
               "height": 720
             }
           },
-          "viewCount": 4944
+          "viewCount": 4973
         },
         {
           "videoId": "P5lt3tDERcM",
@@ -2095,7 +2089,7 @@
               "height": 720
             }
           },
-          "viewCount": 12046
+          "viewCount": 12050
         },
         {
           "videoId": "RhPPwrJsaUk",
@@ -2130,7 +2124,7 @@
               "height": 720
             }
           },
-          "viewCount": 8153
+          "viewCount": 8166
         },
         {
           "videoId": "Cw5J1HBLEro",
@@ -2165,7 +2159,7 @@
               "height": 720
             }
           },
-          "viewCount": 15052
+          "viewCount": 15117
         },
         {
           "videoId": "zeuHaDF7yKg",
@@ -2200,7 +2194,7 @@
               "height": 720
             }
           },
-          "viewCount": 23466,
+          "viewCount": 23492,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:25:00Z",
@@ -2241,7 +2235,7 @@
               "height": 720
             }
           },
-          "viewCount": 3878,
+          "viewCount": 3885,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-01-31T11:02:05Z",
@@ -2590,7 +2584,8 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "-4TcP0JJNug",
           "title": "ヨシヒコ・ライブSP with 山下こういちさん",
@@ -2624,14 +2619,15 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 859,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-02-06T03:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-02-06T03:00:00Z",
+            "actualStartTime": "2026-02-06T02:59:16Z",
+            "actualEndTime": "2026-02-06T04:03:00Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
     },
     {
