@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-14T05:40:03.852Z",
+  "requestedAt": "2026-02-14T06:36:46.293Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2086
+          "viewCount": 2324
         },
         {
           "videoId": "7O8CQmm9qf4",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6127
+          "viewCount": 6287
         },
         {
           "videoId": "3UTyv4qaTXI",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 5248
+          "viewCount": 5332
         },
         {
           "videoId": "vdaSitTOFTs",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 5092
+          "viewCount": 5119
         },
         {
           "videoId": "OiQ1RxRfIZc",
@@ -197,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 18150
+          "viewCount": 18201
         },
         {
           "videoId": "I8H_Y6gHqCQ",
@@ -232,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 40844,
+          "viewCount": 40866,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-09T12:00:00Z",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 28154,
+          "viewCount": 28158,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-07T12:00:00Z",
@@ -309,7 +309,7 @@
               "height": 480
             }
           },
-          "viewCount": 7291
+          "viewCount": 7290
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -370,7 +370,7 @@
               "height": 720
             }
           },
-          "viewCount": 7098,
+          "viewCount": 7099,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-07T14:41:19Z",
@@ -504,7 +504,7 @@
               "height": 720
             }
           },
-          "viewCount": 4053,
+          "viewCount": 4055,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-10T11:00:00Z",
@@ -596,7 +596,7 @@
               "height": 720
             }
           },
-          "viewCount": 290
+          "viewCount": 314
         },
         {
           "videoId": "RnWR8VofgS0",
@@ -631,7 +631,7 @@
               "height": 720
             }
           },
-          "viewCount": 8158
+          "viewCount": 10634
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -810,6 +810,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "WGjC1ORCj94",
+          "title": "たきぐち昭彦、選挙活動最後の日の意気込みを語ります。",
+          "description": "■このチャンネルについて\n石丸伸二が立ち上げた政治団体「再生の道」町田担当、たきぐち昭彦の公式チャンネルです。たきぐち昭彦の信条や政治活動状況を不定期で配信していきます。\n\n■メールアドレス\ninfo@akihikotakiguchi.com\n\n■ホームページ\nhttps://akihikotakiguchi.com\n\n■たきぐち昭彦へのご質問はこちら\nhttps://www.akihikotakiguchi.com/contact/\n\n■たきぐち昭彦ボランティへの登録はこちら\nhttps://www.akihikotakiguchi.com/volunteer/\n\n■たきぐち昭彦へのご支援はこちら\nhttps://www.akihikotakiguchi.com/support/\n\n■その他の情報\nX（旧Twitter）\nhttps://x.com/takiguchi55\n\nInstagram\nhttps://www.instagram.com/ike.takiguchi/\n\nTikTok\nhttps://www.tiktok.com/@akihiko.takiguchi2",
+          "publishedAt": "2026-02-14T06:00:34Z",
+          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WGjC1ORCj94/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WGjC1ORCj94/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WGjC1ORCj94/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WGjC1ORCj94/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WGjC1ORCj94/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 516
+        },
+        {
           "videoId": "FPyiEkamGIg",
           "title": "たきぐち昭彦と再生の道の仲間たち、活動ダイジェスト！",
           "description": "■このチャンネルについて\n石丸伸二が立ち上げた政治団体「再生の道」町田担当、たきぐち昭彦の公式チャンネルです。たきぐち昭彦の信条や政治活動状況を不定期で配信していきます。\n\n■メールアドレス\ninfo@akihikotakiguchi.com\n\n■ホームページ\nhttps://akihikotakiguchi.com\n\n■たきぐち昭彦へのご質問はこちら\nhttps://www.akihikotakiguchi.com/contact/\n\n■たきぐち昭彦ボランティへの登録はこちら\nhttps://www.akihikotakiguchi.com/volunteer/\n\n■たきぐち昭彦へのご支援はこちら\nhttps://www.akihikotakiguchi.com/support/\n\n■その他の情報\nX（旧Twitter）\nhttps://x.com/takiguchi55\n\nInstagram\nhttps://www.instagram.com/ike.takiguchi/\n\nTikTok\nhttps://www.tiktok.com/@akihiko.takiguchi2",
@@ -842,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 735
+          "viewCount": 854
         },
         {
           "videoId": "PsdIjfVV7a4",
@@ -877,7 +912,7 @@
               "height": 720
             }
           },
-          "viewCount": 846
+          "viewCount": 951
         },
         {
           "videoId": "z0PQajVA4po",
@@ -912,7 +947,7 @@
               "height": 720
             }
           },
-          "viewCount": 1984
+          "viewCount": 2010
         },
         {
           "videoId": "J3MWgsAk9DY",
@@ -947,7 +982,7 @@
               "height": 720
             }
           },
-          "viewCount": 2656
+          "viewCount": 2730
         },
         {
           "videoId": "Zzj5B6NbtDo",
@@ -982,7 +1017,7 @@
               "height": 720
             }
           },
-          "viewCount": 1731
+          "viewCount": 1752
         },
         {
           "videoId": "zPA2aHQJKVM",
@@ -1017,7 +1052,7 @@
               "height": 720
             }
           },
-          "viewCount": 1566
+          "viewCount": 1604
         },
         {
           "videoId": "8LCV0QpeNQ8",
@@ -1052,7 +1087,7 @@
               "height": 720
             }
           },
-          "viewCount": 2679
+          "viewCount": 2699
         },
         {
           "videoId": "PHcV6sZsSUk",
@@ -1087,7 +1122,7 @@
               "height": 720
             }
           },
-          "viewCount": 3368
+          "viewCount": 3371
         },
         {
           "videoId": "mH6eS0lvRhQ",
@@ -1122,7 +1157,7 @@
               "height": 720
             }
           },
-          "viewCount": 3528
+          "viewCount": 3564
         },
         {
           "videoId": "QIAy3ww3RII",
@@ -1157,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 3233
+          "viewCount": 3254
         },
         {
           "videoId": "p8AccZe3wbA",
@@ -1192,7 +1227,7 @@
               "height": 720
             }
           },
-          "viewCount": 2913
+          "viewCount": 2931
         },
         {
           "videoId": "dKPzaGfrmSU",
@@ -1297,7 +1332,7 @@
               "height": 720
             }
           },
-          "viewCount": 2482
+          "viewCount": 2496
         },
         {
           "videoId": "2gSjeCWmNTI",
@@ -1332,7 +1367,7 @@
               "height": 720
             }
           },
-          "viewCount": 2250
+          "viewCount": 2255
         },
         {
           "videoId": "KLSVrJ7Lp2w",
@@ -1402,7 +1437,7 @@
               "height": 720
             }
           },
-          "viewCount": 9033
+          "viewCount": 9027
         },
         {
           "videoId": "3FtT1a6YDEM",
@@ -1437,7 +1472,7 @@
               "height": 720
             }
           },
-          "viewCount": 6563
+          "viewCount": 6566
         },
         {
           "videoId": "UFRIqvKbQhw",
@@ -1472,37 +1507,7 @@
               "height": 720
             }
           },
-          "viewCount": 2252
-        },
-        {
-          "videoId": "UIwPFrte1zI",
-          "title": "再生の道、たきぐち昭彦からのご挨拶。政治を目指した理由と三つの挑戦！",
-          "description": "■このチャンネルについて\n石丸伸二が立ち上げた政治団体「再生の道」町田担当、たきぐち昭彦の公式チャンネルです。たきぐち昭彦の信条や政治活動状況を不定期で配信していきます。\n\n■メールアドレス\ninfo@akihikotakiguchi.com\n\n■ホームページ\nhttps://akihikotakiguchi.com\n\n■たきぐち昭彦へのご質問はこちら\nhttps://www.akihikotakiguchi.com/contact/\n\n■たきぐち昭彦ボランティへの登録はこちら\nhttps://www.akihikotakiguchi.com/volunteer/\n\n■たきぐち昭彦へのご支援はこちら\nhttps://www.akihikotakiguchi.com/support/\n\n■その他の情報\nX（旧Twitter）\nhttps://x.com/takiguchi55\n\nInstagram\nhttps://www.instagram.com/ike.takiguchi/\n\nTikTok\nhttps://www.tiktok.com/@akihiko.takiguchi2",
-          "publishedAt": "2026-02-08T02:30:21Z",
-          "channelTitle": "たきぐち昭彦【再生の道】 公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/UIwPFrte1zI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/UIwPFrte1zI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/UIwPFrte1zI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/UIwPFrte1zI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
-          },
-          "viewCount": 4802
+          "viewCount": 2250
         }
       ],
       "name": "瀧口昭彦,瀧口あきひこ,たきぐち昭彦,たきぐちあきひこ"
@@ -1708,7 +1713,7 @@
               "height": 720
             }
           },
-          "viewCount": 397
+          "viewCount": 408
         },
         {
           "videoId": "b7BEMwGVwdI",
@@ -1778,7 +1783,7 @@
               "height": 720
             }
           },
-          "viewCount": 470
+          "viewCount": 472
         },
         {
           "videoId": "AHA2Qkl4LCQ",
@@ -1949,7 +1954,7 @@
               "height": 720
             }
           },
-          "viewCount": 9352
+          "viewCount": 9361
         },
         {
           "videoId": "RYR6cezworo",
@@ -2019,7 +2024,7 @@
               "height": 720
             }
           },
-          "viewCount": 1615
+          "viewCount": 1616
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -2080,7 +2085,7 @@
               "height": 720
             }
           },
-          "viewCount": 14399,
+          "viewCount": 14591,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-13T12:00:00Z",
@@ -2238,42 +2243,7 @@
               "height": 720
             }
           },
-          "viewCount": 8385
-        },
-        {
-          "videoId": "qcm5LL6LL7o",
-          "title": "今日18:30~も参戦！？再生の熱い弁士・弘田としやすさんから応援メッセージを頂きました！",
-          "description": "弘田としやすさんから応援メッセージを頂きました！\n\n熱い上にどんな人にも臆さず飛び込んでいける弘田さん。\nチャレンジ精神に驚かされることばかり。\n\n応援感謝です！\n\n弘田としやすさんのyoutube\n@toshiyasu_hirota \n\n#再生の道 \n#弘田としやす\n#吉田あや",
-          "publishedAt": "2026-02-07T06:00:44Z",
-          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/qcm5LL6LL7o/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/qcm5LL6LL7o/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/qcm5LL6LL7o/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/qcm5LL6LL7o/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/qcm5LL6LL7o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 9901
+          "viewCount": 8386
         }
       ],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
