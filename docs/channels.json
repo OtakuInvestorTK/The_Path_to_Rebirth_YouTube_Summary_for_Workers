@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-23T08:41:12.840Z",
+  "requestedAt": "2026-02-23T09:47:51.544Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "Rtj5CfZyRRY",
+          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.02.23) -再生の道-",
+          "description": "サポーター制度\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-02-23T08:50:00Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-02-23T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "JNz95usAViA",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 7259
+          "viewCount": 7290
         },
         {
           "videoId": "Lm4pr2PMX24",
@@ -92,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 9560
+          "viewCount": 9580
         },
         {
           "videoId": "N-rrugjDd08",
@@ -127,7 +167,7 @@
               "height": 720
             }
           },
-          "viewCount": 7948
+          "viewCount": 8000
         },
         {
           "videoId": "deCr-xHPq3Y",
@@ -162,7 +202,7 @@
               "height": 720
             }
           },
-          "viewCount": 12354
+          "viewCount": 12377
         },
         {
           "videoId": "SFVOrbKYaAg",
@@ -232,7 +272,7 @@
               "height": 720
             }
           },
-          "viewCount": 23383,
+          "viewCount": 23409,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-16T12:00:00Z",
@@ -401,7 +441,7 @@
               "height": 480
             }
           },
-          "viewCount": 8513,
+          "viewCount": 8514,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:12:17Z",
@@ -518,7 +558,7 @@
               "height": 720
             }
           },
-          "viewCount": 4196
+          "viewCount": 4197
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -747,6 +787,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "PI4YOOSdii0",
+          "title": "甲州街道側道清掃活動",
+          "description": "府中市インフラ管理ボランティア制度による市道の清掃活動です。\n雑草によって歩行者の通行空間が50cm程減少していたので、府中市から借りている鎌を使用して雑草を除去しました。",
+          "publishedAt": "2026-02-23T09:35:21Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 57
+        },
+        {
           "videoId": "A9VReIAkCzo",
           "title": "2月22日(日)白糸台小学校通学路清掃活動",
           "description": "2月22日(日)は朝9時30分から14時頃まで朝日町二丁目アパート集会室でまんぷく子ども食堂のお手伝いをしていました。\n白糸台小学校の通学路で雑草が公道にはみ出していた箇所を見つけました。\n平日のうちに地権者の方に「日曜日に民地に入って雑草を処理する」旨の許可を貰い、子ども食堂のお手伝いの後に清掃活動を行いました。",
@@ -779,7 +854,7 @@
               "height": 720
             }
           },
-          "viewCount": 1473
+          "viewCount": 1516
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -865,7 +940,7 @@
               "height": 720
             }
           },
-          "viewCount": 253
+          "viewCount": 300
         },
         {
           "videoId": "A-T3iW8ACwY",
@@ -935,7 +1010,7 @@
               "height": 720
             }
           },
-          "viewCount": 330
+          "viewCount": 331
         },
         {
           "videoId": "TJ-wSRpK4FM",
@@ -970,7 +1045,7 @@
               "height": 720
             }
           },
-          "viewCount": 423
+          "viewCount": 427
         },
         {
           "videoId": "1tdqiJ6-t5k",
@@ -1046,42 +1121,7 @@
               "height": 720
             }
           },
-          "viewCount": 469
-        },
-        {
-          "videoId": "HCooyJSS9Do",
-          "title": "「死んだ目」で去る若手職員。自治体消滅を招く組織のバグとは？ #shorts",
-          "description": "今の自治体が消滅の危機にあることをご存知ですか？これは単なる人手不足ではなく、労働市場から「役所」という組織そのものが拒絶されているという深刻な警告です。若手職員の離職率はわずか9年で2.7倍に。かつての安定した職場というイメージは、今や崩れ去っています。\n\n### 役所の「OS」を書き換え、自走するシステムへ\n\n志を持って入庁した若者が、なぜ「死んだ目」をして去っていくのか。その原因は、個人の熱意や根性に依存し続ける「組織のバグ」にあります。行政サービスという重要なインフラを維持するためには、精神論を捨て、優秀な人材が知性を発揮できる「選ばれる場」へと再定義しなければなりません。\n\n本動画では、地域消滅の予兆としての労働市場の反応と、今すぐ取り組むべき組織構造の転換について解説します。\n負の遺産を次世代に残さないために、あなたなら何をしますか？ぜひコメント欄で意見を聞かせてください。\n\n### 関連リンク\n\n公式サイト：https://sites.google.com/view/yanagisawa-takayuki/\nYouTube：https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM\nTwitter：https://x.com/marcie_nocturne\nInstagram：https://www.instagram.com/marcie_nocturne/\nTikTok：https://www.tiktok.com/@marcie_nocturne\n\n### タイムスタンプ\n\n0:00 地域消滅の予兆\n0:19 労働市場からの「拒絶」\n0:36 若手職員離職率2.7倍の衝撃\n0:54 なぜ若者は去るのか\n1:11 組織のバグ：精神論への依存\n1:34 組織のOSを書き換えろ\n1:50 自走するシステムへの転換\n\n#地方自治体 #公務員 #離職率 #組織改革 #地域消滅 #働き方改革 #行政 #キャリア #shorts #警告",
-          "publishedAt": "2026-02-16T09:00:20Z",
-          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/HCooyJSS9Do/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/HCooyJSS9Do/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/HCooyJSS9Do/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/HCooyJSS9Do/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/HCooyJSS9Do/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1268
+          "viewCount": 468
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1162,7 +1202,7 @@
               "height": 480
             }
           },
-          "viewCount": 10921,
+          "viewCount": 11009,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-20T09:15:00Z",
@@ -1541,7 +1581,7 @@
               "height": 480
             }
           },
-          "viewCount": 5126,
+          "viewCount": 5128,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-16T13:00:00Z",
@@ -1633,7 +1673,7 @@
               "height": 720
             }
           },
-          "viewCount": 3602,
+          "viewCount": 3614,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-19T12:00:00Z",
