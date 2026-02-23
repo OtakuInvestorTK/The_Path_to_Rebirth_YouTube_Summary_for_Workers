@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-23T14:04:16.472Z",
+  "requestedAt": "2026-02-23T15:39:59.266Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6364,
+          "viewCount": 10135,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 7393
+          "viewCount": 7397
         },
         {
           "videoId": "Lm4pr2PMX24",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 9694
+          "viewCount": 9735
         },
         {
           "videoId": "N-rrugjDd08",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 8082
+          "viewCount": 8128
         },
         {
           "videoId": "deCr-xHPq3Y",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 12465
+          "viewCount": 12508
         },
         {
           "videoId": "SFVOrbKYaAg",
@@ -238,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 7860
+          "viewCount": 7879
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -264,7 +264,8 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "-OsGFP1E2A0",
           "title": "奥村こうきがみっちーを語る！コミュニケーションのあるべき姿とは",
@@ -298,15 +299,14 @@
               "height": 720
             }
           },
-          "viewCount": 759,
+          "viewCount": 1481,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
-            "actualStartTime": "2026-02-23T13:15:06Z"
+            "actualStartTime": "2026-02-23T13:15:06Z",
+            "actualEndTime": "2026-02-23T14:29:54Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "MEwEc_4fK0A",
           "title": "奥村こうき | 再生の道 代表 がライブ配信中！",
@@ -340,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 8806,
+          "viewCount": 8824,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T06:56:15Z",
@@ -402,7 +402,7 @@
               "height": 480
             }
           },
-          "viewCount": 8527,
+          "viewCount": 8560,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:12:17Z",
@@ -630,7 +630,7 @@
               "height": 720
             }
           },
-          "viewCount": 378,
+          "viewCount": 568,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -822,7 +822,7 @@
               "height": 720
             }
           },
-          "viewCount": 1443
+          "viewCount": 1842
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -857,7 +857,7 @@
               "height": 720
             }
           },
-          "viewCount": 1661
+          "viewCount": 1686
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -943,7 +943,7 @@
               "height": 720
             }
           },
-          "viewCount": 323
+          "viewCount": 340
         },
         {
           "videoId": "A-T3iW8ACwY",
@@ -978,7 +978,7 @@
               "height": 720
             }
           },
-          "viewCount": 1250
+          "viewCount": 1249
         },
         {
           "videoId": "Nqiqf9kXXUU",
@@ -1048,7 +1048,7 @@
               "height": 720
             }
           },
-          "viewCount": 432
+          "viewCount": 434
         },
         {
           "videoId": "1tdqiJ6-t5k",
@@ -1205,7 +1205,7 @@
               "height": 480
             }
           },
-          "viewCount": 11185,
+          "viewCount": 11259,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-20T09:15:00Z",
@@ -1589,7 +1589,7 @@
               "height": 720
             }
           },
-          "viewCount": 864,
+          "viewCount": 1289,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1681,7 +1681,7 @@
               "height": 720
             }
           },
-          "viewCount": 3635,
+          "viewCount": 3643,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-19T12:00:00Z",
