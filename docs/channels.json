@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-25T12:51:36.863Z",
+  "requestedAt": "2026-02-25T14:06:12.274Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6520
+          "viewCount": 7379
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 4960
+          "viewCount": 5357
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 19376,
+          "viewCount": 19397,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 7858
+          "viewCount": 7878
         },
         {
           "videoId": "Lm4pr2PMX24",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 10197
+          "viewCount": 10208
         },
         {
           "videoId": "N-rrugjDd08",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 13050
+          "viewCount": 13067
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -334,7 +334,7 @@
               "height": 720
             }
           },
-          "viewCount": 6422,
+          "viewCount": 6458,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -396,7 +396,7 @@
               "height": 480
             }
           },
-          "viewCount": 7327,
+          "viewCount": 7387,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -513,7 +513,7 @@
               "height": 720
             }
           },
-          "viewCount": 4409
+          "viewCount": 4417
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -624,7 +624,7 @@
               "height": 720
             }
           },
-          "viewCount": 2640,
+          "viewCount": 2664,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -816,7 +816,7 @@
               "height": 720
             }
           },
-          "viewCount": 9903
+          "viewCount": 9985
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -851,7 +851,7 @@
               "height": 720
             }
           },
-          "viewCount": 2027
+          "viewCount": 2045
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -937,7 +937,7 @@
               "height": 720
             }
           },
-          "viewCount": 407
+          "viewCount": 404
         },
         {
           "videoId": "A-T3iW8ACwY",
@@ -1088,7 +1088,7 @@
               "height": 480
             }
           },
-          "viewCount": 12569,
+          "viewCount": 12629,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-20T09:15:00Z",
@@ -1430,7 +1430,7 @@
               "height": 720
             }
           },
-          "viewCount": 3304,
+          "viewCount": 3314,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1487,7 +1487,8 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "NanmK4ZKyDY",
           "title": "日本を元気にするヒントがここにある！緑がもたらす７つの力〜防災、健康、経済、イノベーション",
@@ -1521,15 +1522,14 @@
               "height": 720
             }
           },
-          "viewCount": 154,
+          "viewCount": 346,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
-            "actualStartTime": "2026-02-25T12:30:06Z"
+            "actualStartTime": "2026-02-25T12:30:06Z",
+            "actualEndTime": "2026-02-25T12:56:44Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "O_KEEWF6GA0",
           "title": "エイジズムは恥ずかしいこと。ヨシヒコ・ライブ VOL. 17",
@@ -1563,7 +1563,7 @@
               "height": 720
             }
           },
-          "viewCount": 3688,
+          "viewCount": 3692,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-19T12:00:00Z",
