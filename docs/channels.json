@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-25T11:36:02.736Z",
+  "requestedAt": "2026-02-25T12:51:36.863Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5503
+          "viewCount": 6520
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 4627
+          "viewCount": 4960
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 19296,
+          "viewCount": 19376,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 7828
+          "viewCount": 7858
         },
         {
           "videoId": "Lm4pr2PMX24",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 10179
+          "viewCount": 10197
         },
         {
           "videoId": "N-rrugjDd08",
@@ -238,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 8456
+          "viewCount": 8482
         },
         {
           "videoId": "deCr-xHPq3Y",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 12966
+          "viewCount": 13050
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -334,7 +334,7 @@
               "height": 720
             }
           },
-          "viewCount": 6367,
+          "viewCount": 6422,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -396,7 +396,7 @@
               "height": 480
             }
           },
-          "viewCount": 7221,
+          "viewCount": 7327,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -513,7 +513,7 @@
               "height": 720
             }
           },
-          "viewCount": 4395
+          "viewCount": 4409
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -624,7 +624,7 @@
               "height": 720
             }
           },
-          "viewCount": 2626,
+          "viewCount": 2640,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -816,7 +816,7 @@
               "height": 720
             }
           },
-          "viewCount": 9756
+          "viewCount": 9903
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -851,7 +851,7 @@
               "height": 720
             }
           },
-          "viewCount": 2024
+          "viewCount": 2027
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -937,7 +937,7 @@
               "height": 720
             }
           },
-          "viewCount": 406
+          "viewCount": 407
         },
         {
           "videoId": "A-T3iW8ACwY",
@@ -1007,7 +1007,7 @@
               "height": 720
             }
           },
-          "viewCount": 346
+          "viewCount": 347
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1088,7 +1088,7 @@
               "height": 480
             }
           },
-          "viewCount": 12522,
+          "viewCount": 12569,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-20T09:15:00Z",
@@ -1430,7 +1430,7 @@
               "height": 720
             }
           },
-          "viewCount": 3292,
+          "viewCount": 3304,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1492,7 +1492,7 @@
           "videoId": "NanmK4ZKyDY",
           "title": "日本を元気にするヒントがここにある！緑がもたらす７つの力〜防災、健康、経済、イノベーション",
           "description": "緑や樹木というと、景観の美しさという「なんとなくいいもの」と思われがちですが、いやいや、とんでもない。この樹木の力をあなどってはいけないとわたしは思います。日本を元気にするヒントがここにあると確信しています。\n\n＃樹冠被覆率\n＃杉並区",
-          "publishedAt": "2026-02-24T01:05:32Z",
+          "publishedAt": "2026-02-25T12:30:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -1521,10 +1521,11 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 154,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-02-25T12:30:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-02-25T12:30:00Z",
+            "actualStartTime": "2026-02-25T12:30:06Z"
           }
         }
       ],
