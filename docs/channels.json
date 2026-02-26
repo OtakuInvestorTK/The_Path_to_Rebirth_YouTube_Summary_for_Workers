@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-26T12:52:21.595Z",
+  "requestedAt": "2026-02-26T14:06:15.145Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 835
+          "viewCount": 1432
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 12737
+          "viewCount": 12996
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 8012
+          "viewCount": 8152
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -224,7 +224,7 @@
               "height": 720
             }
           },
-          "viewCount": 6705,
+          "viewCount": 6760,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -286,7 +286,7 @@
               "height": 480
             }
           },
-          "viewCount": 8004,
+          "viewCount": 8041,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 2737,
+          "viewCount": 2746,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -670,7 +670,7 @@
               "height": 720
             }
           },
-          "viewCount": 15177
+          "viewCount": 15206
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -705,7 +705,7 @@
               "height": 720
             }
           },
-          "viewCount": 2160
+          "viewCount": 2172
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -791,7 +791,7 @@
               "height": 720
             }
           },
-          "viewCount": 420
+          "viewCount": 421
         },
         {
           "videoId": "A-T3iW8ACwY",
@@ -912,7 +912,7 @@
               "height": 720
             }
           },
-          "viewCount": 1000,
+          "viewCount": 1410,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -953,7 +953,7 @@
               "height": 720
             }
           },
-          "viewCount": 1407,
+          "viewCount": 1640,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -989,7 +989,7 @@
               "height": 480
             }
           },
-          "viewCount": 12910,
+          "viewCount": 12929,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-20T09:15:00Z",
@@ -1331,7 +1331,7 @@
               "height": 720
             }
           },
-          "viewCount": 3388,
+          "viewCount": 3397,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1388,50 +1388,49 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "6DsGxxIqf18",
           "title": "緑のない街で育った子どもはどういう大人になるんだろう？ヨシヒコ・ライブVOL. 18",
-          "description": "今週は忙しかったなあ。いろいろなイベントをしたり、動画を作ったり。\nそんな話をシェアできればと思っています。",
-          "publishedAt": "2026-02-26T00:33:22Z",
+          "description": "今週は忙しかったなあ。いろいろなイベントをしたり、動画を作ったり。\nそんな話をシェアできればと思っています。\n\nイベントの詳細はこちらから\n SMiLE: https://suginamismile.wixsite.com/smile",
+          "publishedAt": "2026-02-26T13:14:19Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 380,
+          "viewCount": 559,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
             "actualStartTime": "2026-02-26T11:59:44Z",
-            "concurrentViewers": 117
+            "actualEndTime": "2026-02-26T12:53:44Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "NanmK4ZKyDY",
           "title": "日本を元気にするヒントがここにある！緑がもたらす７つの力〜防災、健康、経済、イノベーション",
@@ -1465,53 +1464,12 @@
               "height": 720
             }
           },
-          "viewCount": 1597,
+          "viewCount": 1671,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
             "actualStartTime": "2026-02-25T12:30:06Z",
             "actualEndTime": "2026-02-25T12:56:44Z"
-          }
-        },
-        {
-          "videoId": "O_KEEWF6GA0",
-          "title": "エイジズムは恥ずかしいこと。ヨシヒコ・ライブ VOL. 17",
-          "description": "最初はちょこっと、ワイン初心者向けに、ワイン・ミニミニミニミニ講座\n\nそれから、今週のヨシヒコ〜　活動報告\nよろしければ、ゆるりゆるりと、ワイン片手に遊びにきてください。\n\nSMiLE ~すぎなみの未来を創る会\nhttps://suginamismile.wixsite.com/smile",
-          "publishedAt": "2026-02-19T12:58:18Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/O_KEEWF6GA0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/O_KEEWF6GA0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/O_KEEWF6GA0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/O_KEEWF6GA0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/O_KEEWF6GA0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3723,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-19T12:00:00Z",
-            "actualStartTime": "2026-02-19T12:00:01Z",
-            "actualEndTime": "2026-02-19T12:47:51Z"
           }
         }
       ],
