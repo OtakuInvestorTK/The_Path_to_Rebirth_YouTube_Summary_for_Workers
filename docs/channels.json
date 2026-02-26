@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-25T23:23:01.505Z",
+  "requestedAt": "2026-02-26T01:28:13.576Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10318
+          "viewCount": 10724
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6792
+          "viewCount": 7040
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 19567,
+          "viewCount": 19607,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 7995
+          "viewCount": 7998
         },
         {
           "videoId": "Lm4pr2PMX24",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 10224
+          "viewCount": 10249
         },
         {
           "videoId": "N-rrugjDd08",
@@ -238,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 8584
+          "viewCount": 8586
         },
         {
           "videoId": "deCr-xHPq3Y",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 13174
+          "viewCount": 13193
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -334,7 +334,7 @@
               "height": 720
             }
           },
-          "viewCount": 6585,
+          "viewCount": 6614,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -396,7 +396,7 @@
               "height": 480
             }
           },
-          "viewCount": 7503,
+          "viewCount": 7588,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -624,7 +624,7 @@
               "height": 720
             }
           },
-          "viewCount": 2706,
+          "viewCount": 2713,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -816,7 +816,7 @@
               "height": 720
             }
           },
-          "viewCount": 12448
+          "viewCount": 13290
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -851,7 +851,7 @@
               "height": 720
             }
           },
-          "viewCount": 2098
+          "viewCount": 2105
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1430,7 +1430,7 @@
               "height": 720
             }
           },
-          "viewCount": 3357,
+          "viewCount": 3362,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1487,7 +1487,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "6DsGxxIqf18",
+          "title": "緑のない街で育った子どもはどういう大人になるんだろう？ヨシヒコ・ライブVOL. 18",
+          "description": "今週は忙しかったなあ。いろいろなイベントをしたり、動画を作ったり。\nそんな話をシェアできればと思っています。",
+          "publishedAt": "2026-02-26T00:33:22Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-02-26T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "NanmK4ZKyDY",
@@ -1522,7 +1562,7 @@
               "height": 720
             }
           },
-          "viewCount": 819,
+          "viewCount": 989,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
@@ -1563,7 +1603,7 @@
               "height": 720
             }
           },
-          "viewCount": 3706,
+          "viewCount": 3708,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-19T12:00:00Z",
