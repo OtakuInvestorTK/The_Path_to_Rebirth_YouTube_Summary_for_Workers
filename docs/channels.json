@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-26T09:42:06.769Z",
+  "requestedAt": "2026-02-26T10:39:06.142Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12061
+          "viewCount": 12238
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7698
+          "viewCount": 7789
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 19727,
+          "viewCount": 19749,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 8077
+          "viewCount": 8087
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 6688,
+          "viewCount": 6720,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -291,7 +291,7 @@
               "height": 480
             }
           },
-          "viewCount": 7885,
+          "viewCount": 7926,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -483,7 +483,7 @@
               "height": 720
             }
           },
-          "viewCount": 2738,
+          "viewCount": 2745,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -675,7 +675,7 @@
               "height": 720
             }
           },
-          "viewCount": 15042
+          "viewCount": 15036
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -885,6 +885,47 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "MiK0BrCVd_o",
+          "title": "第一回事業を見てみよう会【えらやすひろ】",
+          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
+          "publishedAt": "2026-02-26T10:35:48Z",
+          "channelTitle": "恵良康寛(足立区、中小企業診断士)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 817,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-02-26T10:00:00Z",
+            "actualStartTime": "2026-02-26T10:01:24Z",
+            "actualEndTime": "2026-02-26T10:31:35Z"
+          }
+        },
+        {
           "videoId": "IALqGupHWGE",
           "title": "チームみらいさんと南阿蘇村と統計の話【えらやすひろ】",
           "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
@@ -912,7 +953,7 @@
               "height": 480
             }
           },
-          "viewCount": 12869,
+          "viewCount": 12871,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-20T09:15:00Z",
@@ -1254,7 +1295,7 @@
               "height": 720
             }
           },
-          "viewCount": 3379,
+          "viewCount": 3381,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1386,7 +1427,7 @@
               "height": 720
             }
           },
-          "viewCount": 1418,
+          "viewCount": 1481,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
@@ -1427,7 +1468,7 @@
               "height": 720
             }
           },
-          "viewCount": 3718,
+          "viewCount": 3719,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-19T12:00:00Z",
