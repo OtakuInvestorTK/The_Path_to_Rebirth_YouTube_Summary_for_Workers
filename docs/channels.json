@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-26T01:28:13.576Z",
+  "requestedAt": "2026-02-26T04:10:42.092Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10724
+          "viewCount": 11157
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7040
+          "viewCount": 7299
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 19607,
+          "viewCount": 19651,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 7998
+          "viewCount": 8017
         },
         {
           "videoId": "Lm4pr2PMX24",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 10249
+          "viewCount": 10263
         },
         {
           "videoId": "N-rrugjDd08",
@@ -238,7 +238,7 @@
               "height": 720
             }
           },
-          "viewCount": 8586
+          "viewCount": 8610
         },
         {
           "videoId": "deCr-xHPq3Y",
@@ -273,7 +273,7 @@
               "height": 720
             }
           },
-          "viewCount": 13193
+          "viewCount": 13224
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -334,7 +334,7 @@
               "height": 720
             }
           },
-          "viewCount": 6614,
+          "viewCount": 6636,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -396,7 +396,7 @@
               "height": 480
             }
           },
-          "viewCount": 7588,
+          "viewCount": 7679,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -479,43 +479,7 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "6DOP-VZJo8w",
-          "title": "上司と部下",
-          "description": "",
-          "publishedAt": "2026-02-19T02:49:54Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/6DOP-VZJo8w/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/6DOP-VZJo8w/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/6DOP-VZJo8w/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/6DOP-VZJo8w/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/6DOP-VZJo8w/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4452
-        }
-      ],
+      "recentVideos": [],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -624,7 +588,7 @@
               "height": 720
             }
           },
-          "viewCount": 2713,
+          "viewCount": 2723,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -816,7 +780,7 @@
               "height": 720
             }
           },
-          "viewCount": 13290
+          "viewCount": 13827
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -851,7 +815,7 @@
               "height": 720
             }
           },
-          "viewCount": 2105
+          "viewCount": 2119
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -937,7 +901,7 @@
               "height": 720
             }
           },
-          "viewCount": 410
+          "viewCount": 412
         },
         {
           "videoId": "A-T3iW8ACwY",
@@ -972,7 +936,7 @@
               "height": 720
             }
           },
-          "viewCount": 1261
+          "viewCount": 1262
         },
         {
           "videoId": "Nqiqf9kXXUU",
@@ -1088,7 +1052,7 @@
               "height": 480
             }
           },
-          "viewCount": 12800,
+          "viewCount": 12831,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-20T09:15:00Z",
@@ -1430,7 +1394,7 @@
               "height": 720
             }
           },
-          "viewCount": 3362,
+          "viewCount": 3361,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1562,7 +1526,7 @@
               "height": 720
             }
           },
-          "viewCount": 989,
+          "viewCount": 1169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
