@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-27T20:21:29.386Z",
+  "requestedAt": "2026-02-27T21:23:40.361Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 6888
+          "viewCount": 6905
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 15557
+          "viewCount": 15556
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 9943
+          "viewCount": 9953
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 20110,
+          "viewCount": 20106,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -286,7 +286,7 @@
               "height": 480
             }
           },
-          "viewCount": 8372,
+          "viewCount": 8373,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -918,7 +918,7 @@
               "height": 720
             }
           },
-          "viewCount": 2406,
+          "viewCount": 2414,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -1387,7 +1387,7 @@
               "height": 720
             }
           },
-          "viewCount": 1478,
+          "viewCount": 1476,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
@@ -1428,7 +1428,7 @@
               "height": 720
             }
           },
-          "viewCount": 2216,
+          "viewCount": 2219,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
