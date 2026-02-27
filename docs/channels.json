@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-27T09:34:25.699Z",
+  "requestedAt": "2026-02-27T10:31:15.960Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 6021
+          "viewCount": 6123
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 14702
+          "viewCount": 14775
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 9283
+          "viewCount": 9346
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 20009,
+          "viewCount": 20012,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -224,7 +224,7 @@
               "height": 720
             }
           },
-          "viewCount": 6858,
+          "viewCount": 6852,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -286,7 +286,7 @@
               "height": 480
             }
           },
-          "viewCount": 8297,
+          "viewCount": 8306,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 2782,
+          "viewCount": 2783,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -670,7 +670,7 @@
               "height": 720
             }
           },
-          "viewCount": 15881
+          "viewCount": 16028
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -705,7 +705,7 @@
               "height": 720
             }
           },
-          "viewCount": 2187
+          "viewCount": 2197
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -791,7 +791,7 @@
               "height": 720
             }
           },
-          "viewCount": 428
+          "viewCount": 430
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -877,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 2834,
+          "viewCount": 2862,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -924,42 +924,6 @@
             "scheduledStartTime": "2026-02-26T10:00:00Z",
             "actualStartTime": "2026-02-26T10:01:24Z",
             "actualEndTime": "2026-02-26T10:31:35Z"
-          }
-        },
-        {
-          "videoId": "IALqGupHWGE",
-          "title": "チームみらいさんと南阿蘇村と統計の話【えらやすひろ】",
-          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
-          "publishedAt": "2026-02-20T09:37:57Z",
-          "channelTitle": "恵良康寛(足立区、中小企業診断士)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/IALqGupHWGE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/IALqGupHWGE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/IALqGupHWGE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/IALqGupHWGE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
-          },
-          "viewCount": 12986,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-20T09:15:00Z",
-            "actualStartTime": "2026-02-20T09:19:37Z",
-            "actualEndTime": "2026-02-20T09:34:59Z"
           }
         }
       ],
@@ -1423,7 +1387,7 @@
               "height": 720
             }
           },
-          "viewCount": 1319,
+          "viewCount": 1342,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
