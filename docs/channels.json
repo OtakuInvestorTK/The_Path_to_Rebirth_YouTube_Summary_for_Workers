@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-27T22:17:16.202Z",
+  "requestedAt": "2026-02-27T23:18:49.265Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 6927
+          "viewCount": 6950
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 15609
+          "viewCount": 15644
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 9977
+          "viewCount": 10024
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 20112,
+          "viewCount": 20132,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -286,7 +286,7 @@
               "height": 480
             }
           },
-          "viewCount": 8374,
+          "viewCount": 8381,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 2885,
+          "viewCount": 2900,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -877,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 3067,
+          "viewCount": 3083,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -918,7 +918,7 @@
               "height": 720
             }
           },
-          "viewCount": 2422,
+          "viewCount": 2439,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -1027,12 +1027,19 @@
               "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/sddefault_live.jpg",
               "width": 640,
               "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 920,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-02-27T23:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-02-27T23:00:00Z",
+            "actualStartTime": "2026-02-27T22:58:26Z",
+            "concurrentViewers": 681
           }
         }
       ],
