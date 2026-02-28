@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-28T16:19:28.820Z",
+  "requestedAt": "2026-02-28T17:14:48.788Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 7572
+          "viewCount": 7604
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 16342
+          "viewCount": 16439
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 10689
+          "viewCount": 10728
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 2998,
+          "viewCount": 3031,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -670,7 +670,7 @@
               "height": 720
             }
           },
-          "viewCount": 16184
+          "viewCount": 16190
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -705,7 +705,7 @@
               "height": 720
             }
           },
-          "viewCount": 2225
+          "viewCount": 2226
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -877,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 3174,
+          "viewCount": 3185,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -918,7 +918,7 @@
               "height": 720
             }
           },
-          "viewCount": 2520,
+          "viewCount": 2533,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -1035,7 +1035,7 @@
               "height": 720
             }
           },
-          "viewCount": 12137,
+          "viewCount": 12328,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
