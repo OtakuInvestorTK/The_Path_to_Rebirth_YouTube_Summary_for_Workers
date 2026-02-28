@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-27T23:18:49.265Z",
+  "requestedAt": "2026-02-28T01:20:46.213Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 6950
+          "viewCount": 7025
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 15644
+          "viewCount": 15759
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 10024
+          "viewCount": 10118
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 20132,
+          "viewCount": 20151,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 2900,
+          "viewCount": 2901,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -670,7 +670,7 @@
               "height": 720
             }
           },
-          "viewCount": 16085
+          "viewCount": 16098
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -705,7 +705,7 @@
               "height": 720
             }
           },
-          "viewCount": 2215
+          "viewCount": 2217
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -877,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 3083,
+          "viewCount": 3095,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -918,7 +918,7 @@
               "height": 720
             }
           },
-          "viewCount": 2439,
+          "viewCount": 2468,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -1000,50 +1000,50 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "QxSzHsAYeOc",
           "title": "第33回ミートアップオンライン",
           "description": "皆様、こんにちは。\n以下にてライブ配信できたらと思います。\n\n2月28日（土）8:00-8:30\n\n朝早いですが、お時間あればぜひお立ち寄りください。",
-          "publishedAt": "2026-02-27T06:14:14Z",
+          "publishedAt": "2026-02-27T23:50:57Z",
           "channelTitle": "【再生の道】吉田あや　公式チャンネル",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 920,
+          "viewCount": 3506,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
             "actualStartTime": "2026-02-27T22:58:26Z",
-            "concurrentViewers": 681
+            "actualEndTime": "2026-02-27T23:47:27Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
     },
     {
@@ -1302,7 +1302,7 @@
               "height": 720
             }
           },
-          "viewCount": 3447,
+          "viewCount": 3452,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1394,7 +1394,7 @@
               "height": 720
             }
           },
-          "viewCount": 1489,
+          "viewCount": 1508,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
@@ -1435,7 +1435,7 @@
               "height": 720
             }
           },
-          "viewCount": 2219,
+          "viewCount": 2233,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
