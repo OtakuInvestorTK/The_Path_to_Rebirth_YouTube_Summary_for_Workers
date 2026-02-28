@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-02-28T18:24:27.136Z",
+  "requestedAt": "2026-02-28T19:16:27.601Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 7635
+          "viewCount": 7648
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 10757
+          "viewCount": 10766
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 20248,
+          "viewCount": 20265,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 3031,
+          "viewCount": 3077,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -705,7 +705,7 @@
               "height": 720
             }
           },
-          "viewCount": 2224
+          "viewCount": 2226
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -877,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 3187,
+          "viewCount": 3188,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -1035,7 +1035,7 @@
               "height": 720
             }
           },
-          "viewCount": 12474,
+          "viewCount": 12536,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1302,7 +1302,7 @@
               "height": 720
             }
           },
-          "viewCount": 3468,
+          "viewCount": 3469,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
