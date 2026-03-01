@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-01T06:38:08.589Z",
+  "requestedAt": "2026-03-01T07:28:51.731Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 7729
+          "viewCount": 7755
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 16686
+          "viewCount": 16702
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 10894
+          "viewCount": 10914
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 20318,
+          "viewCount": 20316,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -286,7 +286,7 @@
               "height": 480
             }
           },
-          "viewCount": 8449,
+          "viewCount": 8453,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -670,7 +670,7 @@
               "height": 720
             }
           },
-          "viewCount": 16223
+          "viewCount": 16227
         },
         {
           "videoId": "A9VReIAkCzo",
@@ -705,7 +705,7 @@
               "height": 720
             }
           },
-          "viewCount": 2224
+          "viewCount": 2226
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -791,7 +791,7 @@
               "height": 720
             }
           },
-          "viewCount": 447
+          "viewCount": 452
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -877,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 3206,
+          "viewCount": 3205,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -918,7 +918,7 @@
               "height": 720
             }
           },
-          "viewCount": 2557,
+          "viewCount": 2560,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -1035,7 +1035,7 @@
               "height": 720
             }
           },
-          "viewCount": 13986,
+          "viewCount": 14102,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1435,7 +1435,7 @@
               "height": 720
             }
           },
-          "viewCount": 2416,
+          "viewCount": 2427,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
