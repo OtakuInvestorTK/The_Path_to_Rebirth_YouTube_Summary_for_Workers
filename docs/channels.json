@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-01T22:17:39.473Z",
+  "requestedAt": "2026-03-01T23:17:37.711Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 7920
+          "viewCount": 7918
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 17068
+          "viewCount": 17087
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -224,7 +224,7 @@
               "height": 720
             }
           },
-          "viewCount": 7321,
+          "viewCount": 7283,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 3125,
+          "viewCount": 3124,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -637,6 +637,41 @@
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "Nv9_mfYHePU",
+          "title": "車返団地入口交差点付近の清掃活動",
+          "description": "甲州街道車返団地入口交差点付近にある一方通行の市道で雑草の処理を行いました。\n４m程の幅員のうち0.5〜1mが雑草で通れない状況で、車と歩行者・自転車の側方余裕がない事故危険箇所となっていました。",
+          "publishedAt": "2026-03-01T23:15:26Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1
+        },
         {
           "videoId": "PI4YOOSdii0",
           "title": "甲州街道側道清掃活動",
@@ -964,7 +999,7 @@
               "height": 720
             }
           },
-          "viewCount": 15499,
+          "viewCount": 15517,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
