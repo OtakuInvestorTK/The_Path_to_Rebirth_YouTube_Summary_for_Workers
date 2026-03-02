@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-02T12:42:36.927Z",
+  "requestedAt": "2026-03-02T13:56:16.208Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "gavope0T7kI",
           "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.03.02) -再生の道-",
           "description": "サポーター制度\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-03-02T10:40:16Z",
+          "publishedAt": "2026-03-02T13:54:13Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/gavope0T7kI/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/gavope0T7kI/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/gavope0T7kI/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/gavope0T7kI/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/gavope0T7kI/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 2433,
+          "viewCount": 4313,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
             "actualStartTime": "2026-03-02T12:02:11Z",
-            "concurrentViewers": 1255
+            "actualEndTime": "2026-03-02T13:11:40Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "-Y_SChvuB3U",
           "title": "【再生の道＊討論会】葛飾区の令和8年度予算に物申す！",
@@ -94,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8061
+          "viewCount": 8076
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -164,48 +163,7 @@
               "height": 720
             }
           },
-          "viewCount": 11156
-        },
-        {
-          "videoId": "Rtj5CfZyRRY",
-          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.02.23) -再生の道-",
-          "description": "サポーター制度\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-02-23T13:19:42Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Rtj5CfZyRRY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 20516,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-23T12:00:00Z",
-            "actualStartTime": "2026-02-23T12:01:41Z",
-            "actualEndTime": "2026-02-23T13:03:32Z"
-          }
+          "viewCount": 11177
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -232,49 +190,7 @@
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "-OsGFP1E2A0",
-          "title": "奥村こうきがみっちーを語る！コミュニケーションのあるべき姿とは",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2026-02-23T13:15:06Z",
-          "channelTitle": "奥村こうき | 再生の道 代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-OsGFP1E2A0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-OsGFP1E2A0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-OsGFP1E2A0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/-OsGFP1E2A0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/-OsGFP1E2A0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7355,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-23T13:15:00Z",
-            "actualStartTime": "2026-02-23T13:15:06Z",
-            "actualEndTime": "2026-02-23T14:29:54Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -520,7 +436,7 @@
               "height": 720
             }
           },
-          "viewCount": 3130,
+          "viewCount": 3133,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -712,7 +628,7 @@
               "height": 720
             }
           },
-          "viewCount": 2127
+          "viewCount": 2229
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -848,7 +764,7 @@
               "height": 720
             }
           },
-          "viewCount": 3242,
+          "viewCount": 3245,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -1006,7 +922,7 @@
               "height": 720
             }
           },
-          "viewCount": 16051,
+          "viewCount": 16103,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1239,49 +1155,7 @@
       },
       "channelId": "UCvTw0PWaLJm-FGBRY7z51aA",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "z4SHOdvhYEM",
-          "title": "しゃべるば#006",
-          "description": "最近の政治、経済や近況、その他雑談。いろいろお話できれば。\nゆるく話をしていくので、軽い気持ちでお付き合いを！\n\nよろしければ、チャンネル登録・高評価ボタンお願いします！\n\n今週のテーマ予定※随時更新\n1.読書について\n2.芦屋市市長の退職金の辞退について\nhttps://www.kobe-np.co.jp/news/hanshin/202602/0020033341.shtml\n\n#再生の道 #中村幸信 ＃政治 ＃経済 ＃税",
-          "publishedAt": "2026-02-23T13:47:20Z",
-          "channelTitle": "中村 幸信×再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/z4SHOdvhYEM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/z4SHOdvhYEM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/z4SHOdvhYEM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/z4SHOdvhYEM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/z4SHOdvhYEM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3488,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-23T13:00:00Z",
-            "actualStartTime": "2026-02-23T13:04:01Z",
-            "actualEndTime": "2026-02-23T13:36:59Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "中村幸信,中村のぶゆき,なかむら幸信,なかむらのぶゆき"
     },
     {
@@ -1365,7 +1239,7 @@
               "height": 720
             }
           },
-          "viewCount": 1678,
+          "viewCount": 1686,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
