@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-02T10:37:52.521Z",
+  "requestedAt": "2026-03-02T11:27:59.032Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "gavope0T7kI",
+          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.03.02) -再生の道-",
+          "description": "サポーター制度\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-03-02T10:40:16Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gavope0T7kI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-02T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "-Y_SChvuB3U",
@@ -52,7 +92,7 @@
               "height": 480
             }
           },
-          "viewCount": 7986
+          "viewCount": 8027
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -87,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 17271
+          "viewCount": 17281
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -157,7 +197,7 @@
               "height": 720
             }
           },
-          "viewCount": 20481,
+          "viewCount": 20482,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -224,7 +264,7 @@
               "height": 720
             }
           },
-          "viewCount": 7330,
+          "viewCount": 7352,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -286,7 +326,7 @@
               "height": 480
             }
           },
-          "viewCount": 8501,
+          "viewCount": 8499,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -670,7 +710,7 @@
               "height": 720
             }
           },
-          "viewCount": 1936
+          "viewCount": 2034
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -806,7 +846,7 @@
               "height": 720
             }
           },
-          "viewCount": 3241,
+          "viewCount": 3242,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -847,7 +887,7 @@
               "height": 720
             }
           },
-          "viewCount": 2607,
+          "viewCount": 2608,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -964,7 +1004,7 @@
               "height": 720
             }
           },
-          "viewCount": 15979,
+          "viewCount": 16008,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
