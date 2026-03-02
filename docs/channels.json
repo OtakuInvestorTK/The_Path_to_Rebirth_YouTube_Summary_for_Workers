@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-02T08:36:28.352Z",
+  "requestedAt": "2026-03-02T09:40:56.750Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -87,7 +87,7 @@
               "height": 720
             }
           },
-          "viewCount": 17218
+          "viewCount": 17254
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -122,7 +122,7 @@
               "height": 720
             }
           },
-          "viewCount": 11091
+          "viewCount": 11120
         },
         {
           "videoId": "Rtj5CfZyRRY",
@@ -157,7 +157,7 @@
               "height": 720
             }
           },
-          "viewCount": 20463,
+          "viewCount": 20481,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T12:00:00Z",
@@ -224,7 +224,7 @@
               "height": 720
             }
           },
-          "viewCount": 7330,
+          "viewCount": 7317,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -286,7 +286,7 @@
               "height": 480
             }
           },
-          "viewCount": 8494,
+          "viewCount": 8496,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -478,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 3128,
+          "viewCount": 3129,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:15:00Z",
@@ -670,42 +670,7 @@
               "height": 720
             }
           },
-          "viewCount": 1754
-        },
-        {
-          "videoId": "PI4YOOSdii0",
-          "title": "甲州街道側道清掃活動",
-          "description": "府中市インフラ管理ボランティア制度による市道の清掃活動です。\n雑草によって歩行者の通行空間が50cm程減少していたので、府中市から借りている鎌を使用して雑草を除去しました。",
-          "publishedAt": "2026-02-23T09:35:21Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/PI4YOOSdii0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 16308
+          "viewCount": 1834
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -999,7 +964,7 @@
               "height": 720
             }
           },
-          "viewCount": 15868,
+          "viewCount": 15935,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1266,7 +1231,7 @@
               "height": 720
             }
           },
-          "viewCount": 3485,
+          "viewCount": 3486,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-23T13:00:00Z",
@@ -1358,7 +1323,7 @@
               "height": 720
             }
           },
-          "viewCount": 1674,
+          "viewCount": 1678,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
