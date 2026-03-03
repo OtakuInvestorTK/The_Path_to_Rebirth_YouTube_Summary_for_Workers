@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-03T08:33:17.626Z",
+  "requestedAt": "2026-03-03T09:35:17.818Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11191,
+          "viewCount": 11350,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -93,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8178
+          "viewCount": 8183
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -128,7 +128,7 @@
               "height": 720
             }
           },
-          "viewCount": 17601
+          "viewCount": 17611
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -163,7 +163,7 @@
               "height": 720
             }
           },
-          "viewCount": 11358
+          "viewCount": 11367
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -244,7 +244,7 @@
               "height": 480
             }
           },
-          "viewCount": 8554,
+          "viewCount": 8556,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -586,7 +586,7 @@
               "height": 720
             }
           },
-          "viewCount": 2865
+          "viewCount": 2901
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -687,8 +687,128 @@
         }
       },
       "channelId": "UCeE5CTgzM8Ly7TC4FZwy3pg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "iXqBIzdXSV4",
+          "title": "【対談企画】牧之原市議会議員/議員チェッカー考案石山さん×恵良康寛",
+          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\n石山かずみのXはこちら\nhttps://x.com/ishiyamakazumi\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
+          "publishedAt": "2026-03-03T09:34:50Z",
+          "channelTitle": "恵良康寛(足立区、中小企業診断士)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-09T13:00:00Z"
+          }
+        },
+        {
+          "videoId": "8WL5PTTWjiE",
+          "title": "【対談企画】牧之原市議会議員/議員チェッカー考案石山さん×恵良康寛",
+          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
+          "publishedAt": "2026-03-03T08:39:26Z",
+          "channelTitle": "恵良康寛(足立区、中小企業診断士)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8WL5PTTWjiE/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8WL5PTTWjiE/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8WL5PTTWjiE/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8WL5PTTWjiE/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8WL5PTTWjiE/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-09T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
+        {
+          "videoId": "ZHX2fRHmfDc",
+          "title": "zoom対談用",
+          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
+          "publishedAt": "2026-03-03T08:57:06Z",
+          "channelTitle": "恵良康寛(足立区、中小企業診断士)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZHX2fRHmfDc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZHX2fRHmfDc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZHX2fRHmfDc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZHX2fRHmfDc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZHX2fRHmfDc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 302,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-03-03T08:56:56Z",
+            "actualStartTime": "2026-03-03T08:52:09Z",
+            "actualEndTime": "2026-03-03T08:54:31Z"
+          }
+        },
         {
           "videoId": "AnVU0SruBj0",
           "title": "カタログギフトとか、関税とか、消費税とか、国会とか【えらやすひろ】",
@@ -722,7 +842,7 @@
               "height": 720
             }
           },
-          "viewCount": 3268,
+          "viewCount": 3269,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -763,7 +883,7 @@
               "height": 720
             }
           },
-          "viewCount": 2617,
+          "viewCount": 2618,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -880,7 +1000,7 @@
               "height": 720
             }
           },
-          "viewCount": 16480,
+          "viewCount": 16500,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1197,7 +1317,7 @@
               "height": 720
             }
           },
-          "viewCount": 1705,
+          "viewCount": 1707,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
