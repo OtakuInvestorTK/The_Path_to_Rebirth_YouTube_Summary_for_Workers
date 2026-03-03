@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-02T23:19:39.722Z",
+  "requestedAt": "2026-03-03T01:43:35.468Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9062,
+          "viewCount": 9834,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -93,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8133
+          "viewCount": 8135
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -128,7 +128,7 @@
               "height": 720
             }
           },
-          "viewCount": 17467
+          "viewCount": 17518
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -163,7 +163,7 @@
               "height": 720
             }
           },
-          "viewCount": 11255
+          "viewCount": 11281
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -214,42 +214,7 @@
         }
       },
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [
-        {
-          "videoId": "RPYmPxw0IOA",
-          "title": "青柳みつやのYouTube Live!! #31",
-          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
-          "publishedAt": "2026-02-23T23:21:41Z",
-          "channelTitle": "青柳みつや",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/RPYmPxw0IOA/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/RPYmPxw0IOA/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/RPYmPxw0IOA/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/RPYmPxw0IOA/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            }
-          },
-          "viewCount": 0,
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-03-03T12:00:00Z"
-          }
-        }
-      ],
+      "liveVideos": [],
       "recentVideos": [
         {
           "videoId": "1JgPPD0x4E0",
@@ -663,7 +628,7 @@
               "height": 720
             }
           },
-          "viewCount": 2602
+          "viewCount": 2690
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -799,7 +764,7 @@
               "height": 720
             }
           },
-          "viewCount": 3256,
+          "viewCount": 3259,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -957,7 +922,7 @@
               "height": 720
             }
           },
-          "viewCount": 16300,
+          "viewCount": 16345,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1274,7 +1239,7 @@
               "height": 720
             }
           },
-          "viewCount": 1692,
+          "viewCount": 1693,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
@@ -1315,7 +1280,7 @@
               "height": 720
             }
           },
-          "viewCount": 2524,
+          "viewCount": 2525,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
