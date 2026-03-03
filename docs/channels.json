@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-03T01:43:35.468Z",
+  "requestedAt": "2026-03-03T04:09:43.505Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9834,
+          "viewCount": 10402,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -93,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8135
+          "viewCount": 8157
         },
         {
           "videoId": "bA8B_zIwQL0",
@@ -128,7 +128,7 @@
               "height": 720
             }
           },
-          "viewCount": 17518
+          "viewCount": 17544
         },
         {
           "videoId": "-_mBH6pR-jc",
@@ -163,7 +163,7 @@
               "height": 720
             }
           },
-          "viewCount": 11281
+          "viewCount": 11320
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -244,7 +244,7 @@
               "height": 480
             }
           },
-          "viewCount": 8522,
+          "viewCount": 8541,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-24T12:00:00Z",
@@ -402,49 +402,7 @@
       },
       "channelId": "UC1ECnQViCoRI4Va4vylj--A",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "4hO0N2lEPPw",
-          "title": "1か月の振り返り meetup20260223",
-          "description": "【弘田としやす】\n再生の道 1st generation\n東京生まれ東京育ち\n3児の父\n\nコンサル&診療所経営&医大医局外部アドバイザー&FP&その他諸々\n\n草野球、日本酒（唎酒師です）、家族をこよなく愛する普通のおっさんです。\n\n世の中のニュースについての個人的な見解と皆さんからの質問になんとなく答えてみる時間です。\n今日の日本酒についてもお話させていただきます。\n\nX\nx.com/toshiyasuhirota\n\n弘田としやすオフィシャルサイト\ntoshiyasuhirota.com\n\nTikTok (弘田としやす後援会）\ntiktok.com/@_518802\n\n#再生の道 #弘田としやす #弘田敏康 #唎酒師 #日本酒好きと繋がりたい #新宿区",
-          "publishedAt": "2026-02-24T02:41:27Z",
-          "channelTitle": "弘田としやすCh",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/4hO0N2lEPPw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/4hO0N2lEPPw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/4hO0N2lEPPw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/4hO0N2lEPPw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/4hO0N2lEPPw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3133,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-23T13:15:00Z",
-            "actualStartTime": "2026-02-23T13:06:33Z",
-            "actualEndTime": "2026-02-23T14:02:13Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "弘田敏康,弘田としやす,ひろた敏康,ひろたとしやす"
     },
     {
@@ -628,7 +586,7 @@
               "height": 720
             }
           },
-          "viewCount": 2690
+          "viewCount": 2739
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -764,7 +722,7 @@
               "height": 720
             }
           },
-          "viewCount": 3259,
+          "viewCount": 3266,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -805,7 +763,7 @@
               "height": 720
             }
           },
-          "viewCount": 2613,
+          "viewCount": 2616,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -922,7 +880,7 @@
               "height": 720
             }
           },
-          "viewCount": 16345,
+          "viewCount": 16395,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1239,7 +1197,7 @@
               "height": 720
             }
           },
-          "viewCount": 1693,
+          "viewCount": 1698,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
@@ -1280,7 +1238,7 @@
               "height": 720
             }
           },
-          "viewCount": 2525,
+          "viewCount": 2531,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-25T12:30:00Z",
