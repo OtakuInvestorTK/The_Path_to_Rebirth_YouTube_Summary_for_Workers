@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-04T13:53:10.636Z",
+  "requestedAt": "2026-03-04T14:34:15.300Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14049,
+          "viewCount": 14105,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -93,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8404
+          "viewCount": 8426
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 1384
+          "viewCount": 1520
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -209,7 +209,7 @@
               "height": 480
             }
           },
-          "viewCount": 13131,
+          "viewCount": 13262,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 2946
+          "viewCount": 3054
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -586,7 +586,7 @@
               "height": 720
             }
           },
-          "viewCount": 4935
+          "viewCount": 4999
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 17022,
+          "viewCount": 17036,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
