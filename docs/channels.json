@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-04T21:28:16.329Z",
+  "requestedAt": "2026-03-04T22:25:20.682Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14365,
+          "viewCount": 14381,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -93,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8469
+          "viewCount": 8470
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 2043
+          "viewCount": 2074
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -209,7 +209,7 @@
               "height": 480
             }
           },
-          "viewCount": 13976,
+          "viewCount": 14022,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 3355
+          "viewCount": 3366
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -586,7 +586,7 @@
               "height": 720
             }
           },
-          "viewCount": 5378
+          "viewCount": 5403
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -762,7 +762,7 @@
               "height": 720
             }
           },
-          "viewCount": 3347,
+          "viewCount": 3351,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -803,7 +803,7 @@
               "height": 720
             }
           },
-          "viewCount": 2668,
+          "viewCount": 2671,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -1202,7 +1202,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "SKVpTujpZAo",
+          "title": "xxxxxxxxx ヨシヒコ・ライブ Vol. 19",
+          "description": "いろいろありすぎて、なにを話そうか、まだまとまっていませんが。",
+          "publishedAt": "2026-03-04T22:10:20Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-05T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "6DsGxxIqf18",
