@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-04T11:25:28.392Z",
+  "requestedAt": "2026-03-04T12:41:31.149Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13887,
+          "viewCount": 13978,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -93,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8387
+          "viewCount": 8399
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 909
+          "viewCount": 1195
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -209,7 +209,7 @@
               "height": 480
             }
           },
-          "viewCount": 12592,
+          "viewCount": 12844,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 2665
+          "viewCount": 2824
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -586,7 +586,7 @@
               "height": 720
             }
           },
-          "viewCount": 4724
+          "viewCount": 4826
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -762,7 +762,7 @@
               "height": 720
             }
           },
-          "viewCount": 3329,
+          "viewCount": 3332,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 16956,
+          "viewCount": 16998,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1243,47 +1243,6 @@
             "scheduledStartTime": "2026-02-26T12:00:00Z",
             "actualStartTime": "2026-02-26T11:59:44Z",
             "actualEndTime": "2026-02-26T12:53:44Z"
-          }
-        },
-        {
-          "videoId": "NanmK4ZKyDY",
-          "title": "日本を元気にするヒントがここにある！緑がもたらす７つの力〜防災、健康、経済、イノベーション",
-          "description": "緑や樹木というと、景観の美しさという「なんとなくいいもの」と思われがちですが、いやいや、とんでもない。この樹木の力をあなどってはいけないとわたしは思います。日本を元気にするヒントがここにあると確信しています。\n\n＃樹冠被覆率\n＃杉並区",
-          "publishedAt": "2026-02-25T12:30:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NanmK4ZKyDY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NanmK4ZKyDY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NanmK4ZKyDY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/NanmK4ZKyDY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/NanmK4ZKyDY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2574,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-25T12:30:00Z",
-            "actualStartTime": "2026-02-25T12:30:06Z",
-            "actualEndTime": "2026-02-25T12:56:44Z"
           }
         }
       ],
