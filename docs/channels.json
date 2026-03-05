@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-05T07:37:35.122Z",
+  "requestedAt": "2026-03-05T08:33:34.419Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -93,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8516
+          "viewCount": 8520
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 2569
+          "viewCount": 2640
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -209,7 +209,7 @@
               "height": 480
             }
           },
-          "viewCount": 14629,
+          "viewCount": 14702,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 3905
+          "viewCount": 3950
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -762,7 +762,7 @@
               "height": 720
             }
           },
-          "viewCount": 3360,
+          "viewCount": 3359,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:35:00Z",
@@ -803,7 +803,7 @@
               "height": 720
             }
           },
-          "viewCount": 2681,
+          "viewCount": 2682,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T10:00:00Z",
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 17228,
+          "viewCount": 17251,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1277,7 +1277,7 @@
               "height": 720
             }
           },
-          "viewCount": 1759,
+          "viewCount": 1764,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-26T12:00:00Z",
