@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-05T12:44:12.410Z",
+  "requestedAt": "2026-03-05T13:57:39.643Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14762,
+          "viewCount": 14790,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 1188
+          "viewCount": 1336
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 2929
+          "viewCount": 2975
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -214,7 +214,7 @@
               "height": 480
             }
           },
-          "viewCount": 15070,
+          "viewCount": 15169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -255,7 +255,7 @@
               "height": 720
             }
           },
-          "viewCount": 4142
+          "viewCount": 4218
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -842,7 +842,7 @@
               "height": 720
             }
           },
-          "viewCount": 17271,
+          "viewCount": 17315,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1124,89 +1124,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
-        {
-          "videoId": "SKVpTujpZAo",
-          "title": "xxxxxxxxx ヨシヒコ・ライブ Vol. 19",
-          "description": "いろいろありすぎて、なにを話そうか、まだまとまっていませんが。",
-          "publishedAt": "2026-03-04T22:10:20Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 826,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2026-03-05T12:00:00Z",
-            "actualStartTime": "2026-03-05T12:00:25Z",
-            "concurrentViewers": 376
-          }
-        }
-      ],
+      "liveVideos": [],
       "recentVideos": [
         {
-          "videoId": "6DsGxxIqf18",
-          "title": "緑のない街で育った子どもはどういう大人になるんだろう？ヨシヒコ・ライブVOL. 18",
-          "description": "今週は忙しかったなあ。いろいろなイベントをしたり、動画を作ったり。\nそんな話をシェアできればと思っています。\n\nイベントの詳細はこちらから\n SMiLE: https://suginamismile.wixsite.com/smile",
-          "publishedAt": "2026-02-26T13:14:19Z",
+          "videoId": "SKVpTujpZAo",
+          "title": "青柳さんとのこととか。ヨシヒコ・ライブ Vol. 19",
+          "description": "いろいろありすぎて、なにを話そうか、まだまとまっていませんが。\n\nSMiLE ~ YouTube https://www.youtube.com/@suginami-smile\nWebサイト　https://suginamismile.wixsite.com/smile\nお話会の情報もWebサイトからみてくださいね。",
+          "publishedAt": "2026-03-05T13:10:17Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/default.jpg",
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/6DsGxxIqf18/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/SKVpTujpZAo/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1772,
+          "viewCount": 1376,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2026-02-26T12:00:00Z",
-            "actualStartTime": "2026-02-26T11:59:44Z",
-            "actualEndTime": "2026-02-26T12:53:44Z"
+            "scheduledStartTime": "2026-03-05T12:00:00Z",
+            "actualStartTime": "2026-03-05T12:00:25Z",
+            "actualEndTime": "2026-03-05T12:48:37Z"
           }
         }
       ],
