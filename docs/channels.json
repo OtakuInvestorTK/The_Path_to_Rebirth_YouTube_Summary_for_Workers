@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-05T10:32:53.174Z",
+  "requestedAt": "2026-03-05T11:28:45.200Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14686,
+          "viewCount": 14722,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -93,7 +93,7 @@
               "height": 480
             }
           },
-          "viewCount": 8533
+          "viewCount": 8538
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 791
+          "viewCount": 931
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -214,7 +214,7 @@
               "height": 720
             }
           },
-          "viewCount": 2776
+          "viewCount": 2858
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -244,7 +244,7 @@
               "height": 480
             }
           },
-          "viewCount": 14868,
+          "viewCount": 14952,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -285,7 +285,7 @@
               "height": 720
             }
           },
-          "viewCount": 4062
+          "viewCount": 4097
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -621,7 +621,7 @@
               "height": 720
             }
           },
-          "viewCount": 5519
+          "viewCount": 5553
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -803,47 +803,6 @@
             "scheduledStartTime": "2026-02-26T10:35:00Z",
             "actualStartTime": "2026-02-26T10:38:19Z",
             "actualEndTime": "2026-02-26T11:28:34Z"
-          }
-        },
-        {
-          "videoId": "MiK0BrCVd_o",
-          "title": "第一回事業を見てみよう会【えらやすひろ】",
-          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
-          "publishedAt": "2026-02-26T10:35:48Z",
-          "channelTitle": "恵良康寛(足立区、中小企業診断士)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/MiK0BrCVd_o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2686,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-26T10:00:00Z",
-            "actualStartTime": "2026-02-26T10:01:24Z",
-            "actualEndTime": "2026-02-26T10:31:35Z"
           }
         }
       ],
