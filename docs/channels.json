@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-06T09:32:13.310Z",
+  "requestedAt": "2026-03-06T10:28:32.056Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15088,
+          "viewCount": 15110,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 367
+          "viewCount": 699
         },
         {
           "videoId": "43SgXsyupso",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 2432
+          "viewCount": 2502
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -219,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 3514
+          "viewCount": 3545
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -249,7 +249,7 @@
               "height": 480
             }
           },
-          "viewCount": 15740,
+          "viewCount": 15739,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -290,7 +290,7 @@
               "height": 720
             }
           },
-          "viewCount": 4858
+          "viewCount": 4885
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -626,7 +626,7 @@
               "height": 720
             }
           },
-          "viewCount": 5662
+          "viewCount": 5656
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -877,7 +877,7 @@
               "height": 720
             }
           },
-          "viewCount": 17475,
+          "viewCount": 17488,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-27T23:00:00Z",
@@ -1234,7 +1234,7 @@
               "height": 720
             }
           },
-          "viewCount": 5387,
+          "viewCount": 5459,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
