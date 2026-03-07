@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-06T23:21:42.516Z",
+  "requestedAt": "2026-03-07T01:24:02.793Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15275,
+          "viewCount": 15288,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 1550
+          "viewCount": 1602
         },
         {
           "videoId": "43SgXsyupso",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 2923
+          "viewCount": 2958
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -219,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 3761
+          "viewCount": 3799
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -249,7 +249,7 @@
               "height": 480
             }
           },
-          "viewCount": 15978,
+          "viewCount": 15981,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -290,7 +290,7 @@
               "height": 720
             }
           },
-          "viewCount": 5062
+          "viewCount": 5084
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -843,49 +843,7 @@
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "QxSzHsAYeOc",
-          "title": "第33回ミートアップオンライン",
-          "description": "皆様、こんにちは。\n以下にてライブ配信できたらと思います。\n\n2月28日（土）8:00-8:30\n\n朝早いですが、お時間あればぜひお立ち寄りください。",
-          "publishedAt": "2026-02-27T23:50:57Z",
-          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/QxSzHsAYeOc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 17576,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-27T23:00:00Z",
-            "actualStartTime": "2026-02-27T22:58:26Z",
-            "actualEndTime": "2026-02-27T23:47:27Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
     },
     {
@@ -1194,7 +1152,7 @@
               "height": 720
             }
           },
-          "viewCount": 681,
+          "viewCount": 784,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
@@ -1235,7 +1193,7 @@
               "height": 720
             }
           },
-          "viewCount": 6091,
+          "viewCount": 6131,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
