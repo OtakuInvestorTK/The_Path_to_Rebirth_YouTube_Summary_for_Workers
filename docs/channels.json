@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-07T05:35:59.940Z",
+  "requestedAt": "2026-03-07T06:32:03.710Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15322,
+          "viewCount": 15346,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 1765
+          "viewCount": 1803
         },
         {
           "videoId": "43SgXsyupso",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 3078
+          "viewCount": 3091
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -219,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 3879
+          "viewCount": 3902
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -249,7 +249,7 @@
               "height": 480
             }
           },
-          "viewCount": 16053,
+          "viewCount": 16060,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -290,7 +290,7 @@
               "height": 720
             }
           },
-          "viewCount": 5209
+          "viewCount": 5235
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -591,7 +591,8 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "lNnObAf9f38",
           "title": "【府中市】淳さんぽライブ【押立〜車返団地】",
@@ -625,16 +626,14 @@
               "height": 720
             }
           },
-          "viewCount": 71,
+          "viewCount": 240,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
             "actualStartTime": "2026-03-07T04:58:11Z",
-            "concurrentViewers": 54
+            "actualEndTime": "2026-03-07T06:14:05Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "Nv9_mfYHePU",
           "title": "車返団地入口交差点付近の清掃活動",
@@ -1194,7 +1193,7 @@
               "height": 720
             }
           },
-          "viewCount": 940,
+          "viewCount": 975,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
@@ -1235,7 +1234,7 @@
               "height": 720
             }
           },
-          "viewCount": 6226,
+          "viewCount": 6249,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
