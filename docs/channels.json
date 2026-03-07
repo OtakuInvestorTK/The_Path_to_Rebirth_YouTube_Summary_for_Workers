@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-07T13:34:25.551Z",
+  "requestedAt": "2026-03-07T14:18:33.298Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 942
+          "viewCount": 1024
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -219,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 3219
+          "viewCount": 3226
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -254,7 +254,7 @@
               "height": 720
             }
           },
-          "viewCount": 4010
+          "viewCount": 4015
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -284,7 +284,7 @@
               "height": 480
             }
           },
-          "viewCount": 16158,
+          "viewCount": 16175,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -325,7 +325,7 @@
               "height": 720
             }
           },
-          "viewCount": 5507
+          "viewCount": 5511
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -661,7 +661,7 @@
               "height": 720
             }
           },
-          "viewCount": 2466,
+          "viewCount": 2468,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
@@ -702,7 +702,7 @@
               "height": 720
             }
           },
-          "viewCount": 5714
+          "viewCount": 5717
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1268,7 +1268,7 @@
               "height": 720
             }
           },
-          "viewCount": 1113,
+          "viewCount": 1128,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
