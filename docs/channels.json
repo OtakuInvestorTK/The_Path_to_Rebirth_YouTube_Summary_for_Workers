@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-07T04:57:06.567Z",
+  "requestedAt": "2026-03-07T05:35:59.940Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 1738
+          "viewCount": 1765
         },
         {
           "videoId": "43SgXsyupso",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 3062
+          "viewCount": 3078
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -249,7 +249,7 @@
               "height": 480
             }
           },
-          "viewCount": 16038,
+          "viewCount": 16053,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -290,7 +290,7 @@
               "height": 720
             }
           },
-          "viewCount": 5186
+          "viewCount": 5209
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -591,7 +591,49 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "lNnObAf9f38",
+          "title": "【府中市】淳さんぽライブ【押立〜車返団地】",
+          "description": "府中市の車返団地や押立町の緑地を散歩しながら雑談する配信です",
+          "publishedAt": "2026-01-18T00:02:49Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lNnObAf9f38/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lNnObAf9f38/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lNnObAf9f38/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lNnObAf9f38/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lNnObAf9f38/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 71,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-03-07T05:00:00Z",
+            "actualStartTime": "2026-03-07T04:58:11Z",
+            "concurrentViewers": 54
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "Nv9_mfYHePU",
@@ -626,7 +668,7 @@
               "height": 720
             }
           },
-          "viewCount": 5693
+          "viewCount": 5694
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1152,7 +1194,7 @@
               "height": 720
             }
           },
-          "viewCount": 925,
+          "viewCount": 940,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
@@ -1193,7 +1235,7 @@
               "height": 720
             }
           },
-          "viewCount": 6204,
+          "viewCount": 6226,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
