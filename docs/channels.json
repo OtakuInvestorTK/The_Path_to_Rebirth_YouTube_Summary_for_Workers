@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-08T09:23:26.828Z",
+  "requestedAt": "2026-03-08T10:19:10.492Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15571,
+          "viewCount": 15600,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-02T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 1116
+          "viewCount": 1195
         },
         {
           "videoId": "HcdCjLqA324",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 1626
+          "viewCount": 1651
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -219,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 2143
+          "viewCount": 2146
         },
         {
           "videoId": "43SgXsyupso",
@@ -254,7 +254,7 @@
               "height": 720
             }
           },
-          "viewCount": 3487
+          "viewCount": 3496
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -289,7 +289,7 @@
               "height": 720
             }
           },
-          "viewCount": 4201
+          "viewCount": 4199
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -319,7 +319,7 @@
               "height": 480
             }
           },
-          "viewCount": 16340,
+          "viewCount": 16347,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -360,7 +360,7 @@
               "height": 720
             }
           },
-          "viewCount": 5717
+          "viewCount": 5762
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -696,7 +696,7 @@
               "height": 720
             }
           },
-          "viewCount": 2838,
+          "viewCount": 2893,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
@@ -737,7 +737,7 @@
               "height": 720
             }
           },
-          "viewCount": 5833
+          "viewCount": 5903
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1262,10 +1262,51 @@
               "height": 720
             }
           },
+          "viewCount": 507,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-03-08T10:00:00Z",
+            "actualStartTime": "2026-03-08T09:58:56Z",
+            "concurrentViewers": 347
+          }
+        },
+        {
+          "videoId": "uf2I45voMBI",
+          "title": "っっっっb",
+          "description": "b",
+          "publishedAt": "2026-03-08T09:55:09Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uf2I45voMBI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uf2I45voMBI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uf2I45voMBI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uf2I45voMBI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uf2I45voMBI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "viewCount": 0,
           "liveStreaming": {
             "status": "upcoming",
-            "scheduledStartTime": "2026-03-08T10:00:00Z"
+            "scheduledStartTime": "2026-03-08T11:00:00Z"
           }
         }
       ],
@@ -1303,7 +1344,7 @@
               "height": 720
             }
           },
-          "viewCount": 1243,
+          "viewCount": 1265,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
@@ -1344,7 +1385,7 @@
               "height": 720
             }
           },
-          "viewCount": 6629,
+          "viewCount": 6669,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
