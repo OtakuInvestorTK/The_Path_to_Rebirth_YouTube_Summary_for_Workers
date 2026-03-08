@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-08T11:16:15.446Z",
+  "requestedAt": "2026-03-08T12:35:08.777Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 1230
+          "viewCount": 1295
         },
         {
           "videoId": "HcdCjLqA324",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 1670
+          "viewCount": 1696
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -219,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 2146
+          "viewCount": 2181
         },
         {
           "videoId": "43SgXsyupso",
@@ -254,7 +254,7 @@
               "height": 720
             }
           },
-          "viewCount": 3507
+          "viewCount": 3515
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -289,7 +289,7 @@
               "height": 720
             }
           },
-          "viewCount": 4199
+          "viewCount": 4241
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -319,7 +319,7 @@
               "height": 480
             }
           },
-          "viewCount": 16347,
+          "viewCount": 16384,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -696,7 +696,7 @@
               "height": 720
             }
           },
-          "viewCount": 2915,
+          "viewCount": 2950,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
@@ -737,7 +737,7 @@
               "height": 720
             }
           },
-          "viewCount": 5856
+          "viewCount": 5908
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1228,82 +1228,42 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
-        {
-          "videoId": "uf2I45voMBI",
-          "title": "っっっっb",
-          "description": "b",
-          "publishedAt": "2026-03-08T09:55:09Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/uf2I45voMBI/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/uf2I45voMBI/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/uf2I45voMBI/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/uf2I45voMBI/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/uf2I45voMBI/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 0,
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-03-08T11:00:00Z"
-          }
-        }
-      ],
+      "liveVideos": [],
       "recentVideos": [
         {
           "videoId": "pJiL5Uf-15s",
           "title": "ヨシヒコ・ライブSP with 南 貴大さん",
           "description": "再生の道のメンバー、南 貴大さんをお迎えしてお話を根掘り葉掘り聞いていきます。\nドイツの暮らしと日本の暮らしの比較や、ドイツ人の奥様とのエピソード。\nそして、南さんの現在をお聞きします。\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→坪田こうすけ→小林学→宮田たかお→横山はるき→中村幸信→山下こういち→加藤てつお→南 貴大",
-          "publishedAt": "2026-03-07T12:09:44Z",
+          "publishedAt": "2026-03-08T11:29:41Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/pJiL5Uf-15s/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1162,
+          "viewCount": 1899,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1344,7 +1304,7 @@
               "height": 720
             }
           },
-          "viewCount": 1263,
+          "viewCount": 1265,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
