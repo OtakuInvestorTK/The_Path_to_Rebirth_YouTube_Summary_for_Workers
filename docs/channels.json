@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-08T22:17:28.024Z",
+  "requestedAt": "2026-03-08T23:18:01.387Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 1727
+          "viewCount": 1747
         },
         {
           "videoId": "HcdCjLqA324",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 1902
+          "viewCount": 1927
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -219,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 2304
+          "viewCount": 2320
         },
         {
           "videoId": "43SgXsyupso",
@@ -254,7 +254,7 @@
               "height": 720
             }
           },
-          "viewCount": 3588
+          "viewCount": 3596
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -289,7 +289,7 @@
               "height": 720
             }
           },
-          "viewCount": 4279
+          "viewCount": 4285
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -319,7 +319,7 @@
               "height": 480
             }
           },
-          "viewCount": 16449,
+          "viewCount": 16450,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -360,7 +360,7 @@
               "height": 720
             }
           },
-          "viewCount": 5825
+          "viewCount": 5832
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -696,48 +696,13 @@
               "height": 720
             }
           },
-          "viewCount": 3042,
+          "viewCount": 3043,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
             "actualStartTime": "2026-03-07T04:58:11Z",
             "actualEndTime": "2026-03-07T06:14:05Z"
           }
-        },
-        {
-          "videoId": "Nv9_mfYHePU",
-          "title": "車返団地入口交差点付近の清掃活動",
-          "description": "甲州街道車返団地入口交差点付近にある一方通行の市道で雑草の処理を行いました。\n４m程の幅員のうち0.5〜1mが雑草で通れない状況で、車と歩行者・自転車の側方余裕がない事故危険箇所となっていました。",
-          "publishedAt": "2026-03-01T23:15:26Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Nv9_mfYHePU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6086
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1263,7 +1228,7 @@
               "height": 720
             }
           },
-          "viewCount": 3530,
+          "viewCount": 3622,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
