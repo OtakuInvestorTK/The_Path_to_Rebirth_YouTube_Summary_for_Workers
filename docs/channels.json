@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-09T08:37:07.552Z",
+  "requestedAt": "2026-03-09T09:41:54.140Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "5P5VByM_DC0",
+          "title": "【LIVE配信】SAISEI WEEKLY NEWS (2026.03.09) -再生の道-",
+          "description": "サポーター制度\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-03-09T08:55:23Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5P5VByM_DC0/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5P5VByM_DC0/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5P5VByM_DC0/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5P5VByM_DC0/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5P5VByM_DC0/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-09T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "gavope0T7kI",
@@ -117,6 +157,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "VWWfCbM8kOg",
+          "title": "【都庁PJマッピング実地調査!!】突撃インタビューしました",
+          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
+          "publishedAt": "2026-03-09T09:00:00Z",
+          "channelTitle": "青柳みつや",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VWWfCbM8kOg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VWWfCbM8kOg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VWWfCbM8kOg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VWWfCbM8kOg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VWWfCbM8kOg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 133
+        },
+        {
           "videoId": "hXITleRZMJU",
           "title": "【大学生に聞く！】政治参加実態調査!!⑤",
           "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
@@ -149,7 +224,7 @@
               "height": 720
             }
           },
-          "viewCount": 1906
+          "viewCount": 1915
         },
         {
           "videoId": "HcdCjLqA324",
@@ -184,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 2068
+          "viewCount": 2096
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -219,7 +294,7 @@
               "height": 720
             }
           },
-          "viewCount": 2382
+          "viewCount": 2381
         },
         {
           "videoId": "43SgXsyupso",
@@ -254,7 +329,7 @@
               "height": 720
             }
           },
-          "viewCount": 3699
+          "viewCount": 3696
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -289,7 +364,7 @@
               "height": 720
             }
           },
-          "viewCount": 4310
+          "viewCount": 4304
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -319,7 +394,7 @@
               "height": 480
             }
           },
-          "viewCount": 16501,
+          "viewCount": 16500,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -360,7 +435,7 @@
               "height": 720
             }
           },
-          "viewCount": 5890
+          "viewCount": 5896
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -696,7 +771,7 @@
               "height": 720
             }
           },
-          "viewCount": 3079,
+          "viewCount": 3095,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
@@ -1228,7 +1303,7 @@
               "height": 720
             }
           },
-          "viewCount": 4458,
+          "viewCount": 4517,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1269,7 +1344,7 @@
               "height": 720
             }
           },
-          "viewCount": 1324,
+          "viewCount": 1325,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
@@ -1310,7 +1385,7 @@
               "height": 720
             }
           },
-          "viewCount": 6819,
+          "viewCount": 6831,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
