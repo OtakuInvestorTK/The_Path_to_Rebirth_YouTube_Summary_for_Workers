@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-09T16:51:33.371Z",
+  "requestedAt": "2026-03-09T17:42:05.777Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7365,
+          "viewCount": 7883,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 982
+          "viewCount": 1026
         },
         {
           "videoId": "hXITleRZMJU",
@@ -354,7 +354,7 @@
               "height": 480
             }
           },
-          "viewCount": 16545,
+          "viewCount": 16580,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -873,7 +873,7 @@
               "height": 720
             }
           },
-          "viewCount": 1626,
+          "viewCount": 1750,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1215,7 +1215,7 @@
               "height": 720
             }
           },
-          "viewCount": 1273,
+          "viewCount": 1373,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1307,7 +1307,7 @@
               "height": 720
             }
           },
-          "viewCount": 4907,
+          "viewCount": 4918,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1348,7 +1348,7 @@
               "height": 720
             }
           },
-          "viewCount": 1336,
+          "viewCount": 1347,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
@@ -1389,7 +1389,7 @@
               "height": 720
             }
           },
-          "viewCount": 6859,
+          "viewCount": 6864,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
