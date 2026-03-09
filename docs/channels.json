@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-09T14:01:29.157Z",
+  "requestedAt": "2026-03-09T15:52:48.620Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4157,
+          "viewCount": 6861,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 704
+          "viewCount": 918
         },
         {
           "videoId": "hXITleRZMJU",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 2007
+          "viewCount": 2030
         },
         {
           "videoId": "HcdCjLqA324",
@@ -219,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 2204
+          "viewCount": 2229
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -254,7 +254,7 @@
               "height": 720
             }
           },
-          "viewCount": 2399
+          "viewCount": 2409
         },
         {
           "videoId": "43SgXsyupso",
@@ -289,7 +289,7 @@
               "height": 720
             }
           },
-          "viewCount": 3719
+          "viewCount": 3733
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -324,7 +324,7 @@
               "height": 720
             }
           },
-          "viewCount": 4330
+          "viewCount": 4331
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -395,7 +395,7 @@
               "height": 720
             }
           },
-          "viewCount": 5994
+          "viewCount": 5991
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -731,7 +731,7 @@
               "height": 720
             }
           },
-          "viewCount": 3117,
+          "viewCount": 3120,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
@@ -838,50 +838,50 @@
         }
       },
       "channelId": "UCeE5CTgzM8Ly7TC4FZwy3pg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "iXqBIzdXSV4",
           "title": "【対談企画】牧之原市議会議員/議員チェッカー考案石山さん×恵良康寛",
           "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\n石山かずみさんのXはこちら\nhttps://x.com/ishiyamakazumi\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
-          "publishedAt": "2026-03-03T09:34:50Z",
+          "publishedAt": "2026-03-09T14:27:53Z",
           "channelTitle": "恵良康寛(足立区、中小企業診断士)",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 723,
+          "viewCount": 1427,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
             "actualStartTime": "2026-03-09T13:03:49Z",
-            "concurrentViewers": 229
+            "actualEndTime": "2026-03-09T14:07:32Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "恵良康寛,恵良やすひろ,えら康寛,えらやすひろ"
     },
     {
@@ -1215,7 +1215,7 @@
               "height": 720
             }
           },
-          "viewCount": 318,
+          "viewCount": 1120,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1307,7 +1307,7 @@
               "height": 720
             }
           },
-          "viewCount": 4796,
+          "viewCount": 4890,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1348,7 +1348,7 @@
               "height": 720
             }
           },
-          "viewCount": 1336,
+          "viewCount": 1334,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
