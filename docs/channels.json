@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-10T10:33:02.281Z",
+  "requestedAt": "2026-03-10T11:27:59.529Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10879,
+          "viewCount": 10992,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -117,6 +117,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "9kQU0k_PUgo",
+          "title": "青柳みつやのライブ配信前ルーティン(3月10日)",
+          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
+          "publishedAt": "2026-03-10T11:10:00Z",
+          "channelTitle": "青柳みつや",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 240
+        },
+        {
           "videoId": "0ZeAfHE2LtE",
           "title": "【理想の政治家とは】成田修造氏が経営論を語る",
           "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
@@ -149,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 646
+          "viewCount": 812
         },
         {
           "videoId": "VWWfCbM8kOg",
@@ -184,7 +219,7 @@
               "height": 720
             }
           },
-          "viewCount": 1503
+          "viewCount": 1544
         },
         {
           "videoId": "hXITleRZMJU",
@@ -219,7 +254,7 @@
               "height": 720
             }
           },
-          "viewCount": 2121
+          "viewCount": 2120
         },
         {
           "videoId": "HcdCjLqA324",
@@ -254,7 +289,7 @@
               "height": 720
             }
           },
-          "viewCount": 2366
+          "viewCount": 2380
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -289,7 +324,7 @@
               "height": 720
             }
           },
-          "viewCount": 2480
+          "viewCount": 2487
         },
         {
           "videoId": "43SgXsyupso",
@@ -324,7 +359,7 @@
               "height": 720
             }
           },
-          "viewCount": 3784
+          "viewCount": 3787
         },
         {
           "videoId": "Ikv1ChuNYcU",
@@ -359,7 +394,7 @@
               "height": 720
             }
           },
-          "viewCount": 4348
+          "viewCount": 4351
         },
         {
           "videoId": "RPYmPxw0IOA",
@@ -389,7 +424,7 @@
               "height": 480
             }
           },
-          "viewCount": 16664,
+          "viewCount": 16678,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-03T12:00:00Z",
@@ -430,7 +465,7 @@
               "height": 720
             }
           },
-          "viewCount": 6230
+          "viewCount": 6275
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -766,7 +801,7 @@
               "height": 720
             }
           },
-          "viewCount": 3134,
+          "viewCount": 3132,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
@@ -908,7 +943,7 @@
               "height": 720
             }
           },
-          "viewCount": 4104,
+          "viewCount": 4165,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1250,7 +1285,7 @@
               "height": 720
             }
           },
-          "viewCount": 2836,
+          "viewCount": 2896,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1342,7 +1377,7 @@
               "height": 720
             }
           },
-          "viewCount": 5251,
+          "viewCount": 5293,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1383,7 +1418,7 @@
               "height": 720
             }
           },
-          "viewCount": 1367,
+          "viewCount": 1369,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
@@ -1424,7 +1459,7 @@
               "height": 720
             }
           },
-          "viewCount": 6902,
+          "viewCount": 6907,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
