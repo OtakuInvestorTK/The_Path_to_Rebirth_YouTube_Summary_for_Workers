@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-11T10:32:52.932Z",
+  "requestedAt": "2026-03-11T11:28:08.697Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11864,
+          "viewCount": 11898,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 373
+          "viewCount": 525
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -179,7 +179,7 @@
               "height": 480
             }
           },
-          "viewCount": 6039,
+          "viewCount": 6090,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
@@ -220,7 +220,7 @@
               "height": 720
             }
           },
-          "viewCount": 4850
+          "viewCount": 4888
         },
         {
           "videoId": "0ZeAfHE2LtE",
@@ -255,7 +255,7 @@
               "height": 720
             }
           },
-          "viewCount": 2000
+          "viewCount": 2029
         },
         {
           "videoId": "VWWfCbM8kOg",
@@ -290,7 +290,7 @@
               "height": 720
             }
           },
-          "viewCount": 1781
+          "viewCount": 1783
         },
         {
           "videoId": "hXITleRZMJU",
@@ -325,7 +325,7 @@
               "height": 720
             }
           },
-          "viewCount": 2231
+          "viewCount": 2230
         },
         {
           "videoId": "HcdCjLqA324",
@@ -360,7 +360,7 @@
               "height": 720
             }
           },
-          "viewCount": 2537
+          "viewCount": 2540
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -395,7 +395,7 @@
               "height": 720
             }
           },
-          "viewCount": 2539
+          "viewCount": 2552
         },
         {
           "videoId": "43SgXsyupso",
@@ -430,7 +430,7 @@
               "height": 720
             }
           },
-          "viewCount": 3821
+          "viewCount": 3823
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -908,7 +908,7 @@
               "height": 720
             }
           },
-          "viewCount": 6494,
+          "viewCount": 6511,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1250,7 +1250,7 @@
               "height": 720
             }
           },
-          "viewCount": 3324,
+          "viewCount": 3340,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1342,7 +1342,7 @@
               "height": 720
             }
           },
-          "viewCount": 5505,
+          "viewCount": 5498,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1383,7 +1383,7 @@
               "height": 720
             }
           },
-          "viewCount": 1384,
+          "viewCount": 1387,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-06T13:00:00Z",
@@ -1456,7 +1456,8 @@
         }
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "7WP-Kx3CCow",
           "title": "【暴露】政治を動かす最短ルート。1人でも成功する陳情の全手順【加藤てつお】",
@@ -1490,15 +1491,15 @@
               "height": 720
             }
           },
-          "viewCount": 8,
+          "viewCount": 145,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
-            "actualStartTime": "2026-03-11T10:30:05Z"
+            "actualStartTime": "2026-03-11T10:30:05Z",
+            "actualEndTime": "2026-03-11T10:46:22Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
