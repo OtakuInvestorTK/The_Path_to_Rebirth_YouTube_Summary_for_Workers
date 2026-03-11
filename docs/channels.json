@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-11T12:44:11.168Z",
+  "requestedAt": "2026-03-11T14:01:44.381Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11946,
+          "viewCount": 12003,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -89,7 +89,8 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "K7ZStKL8lOk",
           "title": "今週のイベントと再生の道コミュニティ構想",
@@ -123,16 +124,15 @@
               "height": 720
             }
           },
-          "viewCount": 1082,
+          "viewCount": 1777,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-03-11T12:00:19Z",
             "actualStartTime": "2026-03-11T12:00:35Z",
-            "concurrentViewers": 507
+            "actualEndTime": "2026-03-11T13:42:21Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 657
+          "viewCount": 832
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -221,7 +221,7 @@
               "height": 480
             }
           },
-          "viewCount": 6145,
+          "viewCount": 6211,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
@@ -262,7 +262,7 @@
               "height": 720
             }
           },
-          "viewCount": 4959
+          "viewCount": 5073
         },
         {
           "videoId": "0ZeAfHE2LtE",
@@ -297,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 2059
+          "viewCount": 2078
         },
         {
           "videoId": "VWWfCbM8kOg",
@@ -332,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 1797
+          "viewCount": 1811
         },
         {
           "videoId": "hXITleRZMJU",
@@ -367,7 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 2244
+          "viewCount": 2247
         },
         {
           "videoId": "HcdCjLqA324",
@@ -402,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 2540
+          "viewCount": 2554
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -437,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 2552
+          "viewCount": 2558
         },
         {
           "videoId": "43SgXsyupso",
@@ -472,7 +472,7 @@
               "height": 720
             }
           },
-          "viewCount": 3823
+          "viewCount": 3838
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -1384,7 +1384,7 @@
               "height": 720
             }
           },
-          "viewCount": 5526,
+          "viewCount": 5536,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1466,7 +1466,7 @@
               "height": 720
             }
           },
-          "viewCount": 6938,
+          "viewCount": 6939,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
@@ -1533,7 +1533,7 @@
               "height": 720
             }
           },
-          "viewCount": 279,
+          "viewCount": 427,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
