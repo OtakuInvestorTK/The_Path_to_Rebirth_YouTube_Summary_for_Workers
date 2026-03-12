@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-11T23:19:33.091Z",
+  "requestedAt": "2026-03-12T01:24:22.571Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12137,
+          "viewCount": 12166,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 4260,
+          "viewCount": 4624,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T12:00:19Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 1060
+          "viewCount": 1112
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -221,7 +221,7 @@
               "height": 480
             }
           },
-          "viewCount": 6359,
+          "viewCount": 6378,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
@@ -262,7 +262,7 @@
               "height": 720
             }
           },
-          "viewCount": 5295
+          "viewCount": 5307
         },
         {
           "videoId": "0ZeAfHE2LtE",
@@ -332,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 1853
+          "viewCount": 1855
         },
         {
           "videoId": "hXITleRZMJU",
@@ -402,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 2563
+          "viewCount": 2562
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -437,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 2568
+          "viewCount": 2573
         },
         {
           "videoId": "43SgXsyupso",
@@ -950,7 +950,7 @@
               "height": 720
             }
           },
-          "viewCount": 6657,
+          "viewCount": 6659,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1292,7 +1292,7 @@
               "height": 720
             }
           },
-          "viewCount": 3410,
+          "viewCount": 3416,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1349,7 +1349,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "Xt4avmg0Yho",
+          "title": "ヨシヒコ・ライブ vol.20",
+          "description": "",
+          "publishedAt": "2026-03-12T00:20:35Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-12T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "pJiL5Uf-15s",
@@ -1533,7 +1573,7 @@
               "height": 720
             }
           },
-          "viewCount": 963,
+          "viewCount": 1106,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
