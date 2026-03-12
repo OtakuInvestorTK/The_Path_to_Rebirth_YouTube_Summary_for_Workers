@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-12T01:24:22.571Z",
+  "requestedAt": "2026-03-12T04:08:21.008Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12166,
+          "viewCount": 12186,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 4624,
+          "viewCount": 4991,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T12:00:19Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 1112
+          "viewCount": 1207
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -221,7 +221,7 @@
               "height": 480
             }
           },
-          "viewCount": 6378,
+          "viewCount": 6408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
@@ -262,7 +262,7 @@
               "height": 720
             }
           },
-          "viewCount": 5307
+          "viewCount": 5407
         },
         {
           "videoId": "0ZeAfHE2LtE",
@@ -297,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 2188
+          "viewCount": 2238
         },
         {
           "videoId": "VWWfCbM8kOg",
@@ -332,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 1855
+          "viewCount": 1865
         },
         {
           "videoId": "hXITleRZMJU",
@@ -367,7 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 2262
+          "viewCount": 2259
         },
         {
           "videoId": "HcdCjLqA324",
@@ -402,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 2562
+          "viewCount": 2565
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -437,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 2573
+          "viewCount": 2572
         },
         {
           "videoId": "43SgXsyupso",
@@ -472,7 +472,7 @@
               "height": 720
             }
           },
-          "viewCount": 3854
+          "viewCount": 3855
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -549,7 +549,43 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "DsHV5x4ikno",
+          "title": "石油などの資源について",
+          "description": "イラン情勢でガソリン価格が値上がりしますが、石油などの資源に関する入門書としてご紹介します。\n#のりしゃけ弁当 #イラン #ホルムズ海峡 #トランプ大統領 #シェール革命 #シェール革命 #メタンハイドレート",
+          "publishedAt": "2026-03-12T01:28:24Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DsHV5x4ikno/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DsHV5x4ikno/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DsHV5x4ikno/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DsHV5x4ikno/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DsHV5x4ikno/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 92
+        }
+      ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -808,7 +844,7 @@
               "height": 720
             }
           },
-          "viewCount": 3125,
+          "viewCount": 3126,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-07T05:00:00Z",
@@ -950,7 +986,7 @@
               "height": 720
             }
           },
-          "viewCount": 6659,
+          "viewCount": 6690,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1292,7 +1328,7 @@
               "height": 720
             }
           },
-          "viewCount": 3416,
+          "viewCount": 3434,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1424,7 +1460,7 @@
               "height": 720
             }
           },
-          "viewCount": 5574,
+          "viewCount": 5582,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1506,7 +1542,7 @@
               "height": 720
             }
           },
-          "viewCount": 6941,
+          "viewCount": 6942,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
@@ -1573,7 +1609,7 @@
               "height": 720
             }
           },
-          "viewCount": 1106,
+          "viewCount": 1280,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
