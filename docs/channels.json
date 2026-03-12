@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-12T11:27:41.701Z",
+  "requestedAt": "2026-03-12T12:43:54.868Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2731
+          "viewCount": 4238
         },
         {
           "videoId": "5P5VByM_DC0",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 12292,
+          "viewCount": 12333,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 5542,
+          "viewCount": 5629,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T12:00:19Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 1412
+          "viewCount": 1461
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -256,7 +256,7 @@
               "height": 480
             }
           },
-          "viewCount": 6491,
+          "viewCount": 6490,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
@@ -297,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 5523
+          "viewCount": 5561
         },
         {
           "videoId": "0ZeAfHE2LtE",
@@ -332,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 2343
+          "viewCount": 2362
         },
         {
           "videoId": "VWWfCbM8kOg",
@@ -367,7 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 1890
+          "viewCount": 1894
         },
         {
           "videoId": "hXITleRZMJU",
@@ -402,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 2284
+          "viewCount": 2287
         },
         {
           "videoId": "HcdCjLqA324",
@@ -437,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 2574
+          "viewCount": 2585
         },
         {
           "videoId": "TdLov9tB-yo",
@@ -583,7 +583,7 @@
               "height": 720
             }
           },
-          "viewCount": 405
+          "viewCount": 436
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -986,7 +986,7 @@
               "height": 720
             }
           },
-          "viewCount": 6747,
+          "viewCount": 6755,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1328,7 +1328,7 @@
               "height": 720
             }
           },
-          "viewCount": 3513,
+          "viewCount": 3531,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1385,7 +1385,8 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Xt4avmg0Yho",
           "title": "ヨシヒコ・ライブ vol.20",
@@ -1419,14 +1420,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 592,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-03-12T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-03-12T12:00:00Z",
+            "actualStartTime": "2026-03-12T11:59:51Z",
+            "actualEndTime": "2026-03-12T12:43:42Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "pJiL5Uf-15s",
           "title": "ヨシヒコ・ライブSP with 南 貴大さん",
@@ -1460,7 +1461,7 @@
               "height": 720
             }
           },
-          "viewCount": 5609,
+          "viewCount": 5616,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1542,7 +1543,7 @@
               "height": 720
             }
           },
-          "viewCount": 6944,
+          "viewCount": 6949,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-05T12:00:00Z",
@@ -1609,7 +1610,7 @@
               "height": 720
             }
           },
-          "viewCount": 1715,
+          "viewCount": 1783,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
