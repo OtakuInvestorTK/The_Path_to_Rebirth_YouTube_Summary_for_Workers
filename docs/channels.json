@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-13T12:42:57.882Z",
+  "requestedAt": "2026-03-13T13:55:56.840Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5615
+          "viewCount": 7047
         },
         {
           "videoId": "KoC0a81hplQ",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 10604
+          "viewCount": 10678
         },
         {
           "videoId": "5P5VByM_DC0",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 6196,
+          "viewCount": 6219,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T12:00:19Z",
@@ -261,7 +261,7 @@
               "height": 720
             }
           },
-          "viewCount": 1678
+          "viewCount": 1676
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -332,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 5775
+          "viewCount": 5774
         },
         {
           "videoId": "0ZeAfHE2LtE",
@@ -367,7 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 2611
+          "viewCount": 2616
         },
         {
           "videoId": "VWWfCbM8kOg",
@@ -402,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 1933
+          "viewCount": 1939
         },
         {
           "videoId": "hXITleRZMJU",
@@ -437,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 2343
+          "viewCount": 2347
         },
         {
           "videoId": "HcdCjLqA324",
@@ -472,7 +472,7 @@
               "height": 720
             }
           },
-          "viewCount": 2642
+          "viewCount": 2648
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -583,7 +583,7 @@
               "height": 720
             }
           },
-          "viewCount": 728
+          "viewCount": 740
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -986,7 +986,7 @@
               "height": 720
             }
           },
-          "viewCount": 6864,
+          "viewCount": 6873,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1363,7 +1363,7 @@
               "height": 720
             }
           },
-          "viewCount": 3620,
+          "viewCount": 3625,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1455,7 +1455,7 @@
               "height": 720
             }
           },
-          "viewCount": 2006,
+          "viewCount": 2032,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-12T12:00:00Z",
@@ -1496,53 +1496,12 @@
               "height": 720
             }
           },
-          "viewCount": 5666,
+          "viewCount": 5667,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
             "actualStartTime": "2026-03-08T09:58:56Z",
             "actualEndTime": "2026-03-08T11:05:09Z"
-          }
-        },
-        {
-          "videoId": "j8zV7g8n_PM",
-          "title": "樹冠被覆率（じゅかんひふくりつ）ってなに？",
-          "description": "樹冠被覆率（じゅかんひふくりつ）とは、まちの緑の日傘率のことです。よけいにわからない？？？（笑）\n\nまあ、その樹冠被覆率、世界基準で見ても、明らかに東京は低い。\nただでさえ低いのに、いまでもどんどん伐採されている。\n杉並区は、減少率No.1 。誇れないNo.１です。\n「経済優先」で樹木を切ってきたツケは、わたしたち国民の幸福度に影響しているのではないかと思う。\nぜひご一緒に考えていきましょう。",
-          "publishedAt": "2026-03-06T13:00:26Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/j8zV7g8n_PM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/j8zV7g8n_PM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/j8zV7g8n_PM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/j8zV7g8n_PM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/j8zV7g8n_PM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1425,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-06T13:00:00Z",
-            "actualStartTime": "2026-03-06T13:00:26Z",
-            "actualEndTime": "2026-03-06T13:30:42Z"
           }
         }
       ],
@@ -1604,7 +1563,7 @@
               "height": 720
             }
           },
-          "viewCount": 2490,
+          "viewCount": 2517,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
