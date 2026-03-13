@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-13T22:22:27.629Z",
+  "requestedAt": "2026-03-13T23:21:34.102Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11175
+          "viewCount": 11396
         },
         {
           "videoId": "KoC0a81hplQ",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 11061
+          "viewCount": 11098
         },
         {
           "videoId": "5P5VByM_DC0",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 12576,
+          "viewCount": 12580,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 6312,
+          "viewCount": 6321,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T12:00:19Z",
@@ -261,7 +261,7 @@
               "height": 720
             }
           },
-          "viewCount": 1722
+          "viewCount": 1721
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -291,7 +291,7 @@
               "height": 480
             }
           },
-          "viewCount": 6662,
+          "viewCount": 6663,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
@@ -367,7 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 2667
+          "viewCount": 2665
         },
         {
           "videoId": "VWWfCbM8kOg",
@@ -437,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 2359
+          "viewCount": 2360
         },
         {
           "videoId": "HcdCjLqA324",
@@ -472,7 +472,7 @@
               "height": 720
             }
           },
-          "viewCount": 2659
+          "viewCount": 2662
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -986,7 +986,7 @@
               "height": 720
             }
           },
-          "viewCount": 6908,
+          "viewCount": 6907,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1095,12 +1095,19 @@
               "url": "https://i.ytimg.com/vi/uufpMzTGVlk/sddefault_live.jpg",
               "width": 640,
               "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uufpMzTGVlk/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 782,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-03-13T23:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-03-13T23:00:00Z",
+            "actualStartTime": "2026-03-13T23:00:26Z",
+            "concurrentViewers": 574
           }
         }
       ],
@@ -1455,7 +1462,7 @@
               "height": 720
             }
           },
-          "viewCount": 2087,
+          "viewCount": 2094,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-12T12:00:00Z",
