@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-14T18:29:19.323Z",
+  "requestedAt": "2026-03-14T19:22:12.929Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2847
+          "viewCount": 2889
         },
         {
           "videoId": "52vDWVrhykQ",
@@ -296,7 +296,7 @@
               "height": 720
             }
           },
-          "viewCount": 1253
+          "viewCount": 1264
         },
         {
           "videoId": "AORYAbttWfk",
@@ -331,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 1781
+          "viewCount": 1787
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -361,7 +361,7 @@
               "height": 480
             }
           },
-          "viewCount": 6702,
+          "viewCount": 6705,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
@@ -402,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 5902
+          "viewCount": 5905
         },
         {
           "videoId": "0ZeAfHE2LtE",
@@ -437,7 +437,7 @@
               "height": 720
             }
           },
-          "viewCount": 2758
+          "viewCount": 2759
         },
         {
           "videoId": "VWWfCbM8kOg",
@@ -472,7 +472,7 @@
               "height": 720
             }
           },
-          "viewCount": 1986
+          "viewCount": 1988
         },
         {
           "videoId": "hXITleRZMJU",
@@ -618,7 +618,7 @@
               "height": 720
             }
           },
-          "viewCount": 859
+          "viewCount": 864
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -845,49 +845,7 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "lNnObAf9f38",
-          "title": "【府中市】淳さんぽライブ【押立〜車返団地】",
-          "description": "府中市の車返団地や押立町の緑地を散歩しながら雑談する配信です",
-          "publishedAt": "2026-03-07T18:47:54Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/lNnObAf9f38/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/lNnObAf9f38/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/lNnObAf9f38/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/lNnObAf9f38/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/lNnObAf9f38/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3139,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-07T05:00:00Z",
-            "actualStartTime": "2026-03-07T04:58:11Z",
-            "actualEndTime": "2026-03-07T06:14:05Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -1138,7 +1096,7 @@
               "height": 720
             }
           },
-          "viewCount": 5437,
+          "viewCount": 5460,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1538,7 +1496,7 @@
               "height": 720
             }
           },
-          "viewCount": 5713,
+          "viewCount": 5720,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-08T10:00:00Z",
@@ -1605,7 +1563,7 @@
               "height": 720
             }
           },
-          "viewCount": 2719,
+          "viewCount": 2720,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
