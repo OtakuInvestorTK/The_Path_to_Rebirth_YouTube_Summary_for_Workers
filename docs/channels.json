@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-16T11:50:20.423Z",
+  "requestedAt": "2026-03-16T12:57:16.755Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "L2UDD8rgUM8",
           "title": "【みっちーの部屋】再生の道アドバイザー和田裕行 (2026.03.16) -再生の道-",
@@ -56,14 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 3127,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-03-16T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-03-16T12:00:00Z",
+            "actualStartTime": "2026-03-16T12:00:22Z",
+            "actualEndTime": "2026-03-16T12:55:37Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "dI1ie-DXsZM",
           "title": "【これでいいのか杉並の財政②】世田谷区と比べてわかった\"衝撃の事実とは\"(増田よしひこ×水野純也)",
@@ -97,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 4416
+          "viewCount": 4449
         },
         {
           "videoId": "52vDWVrhykQ",
@@ -132,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 18281
+          "viewCount": 18337
         },
         {
           "videoId": "KoC0a81hplQ",
@@ -202,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 13007,
+          "viewCount": 13020,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -269,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 6734,
+          "viewCount": 6746,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T12:00:19Z",
@@ -336,7 +337,7 @@
               "height": 720
             }
           },
-          "viewCount": 1757
+          "viewCount": 1765
         },
         {
           "videoId": "AORYAbttWfk",
@@ -477,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 2823
+          "viewCount": 2831
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -899,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 220
+          "viewCount": 320
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -985,7 +986,7 @@
               "height": 720
             }
           },
-          "viewCount": 7091,
+          "viewCount": 7097,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1102,7 +1103,7 @@
               "height": 720
             }
           },
-          "viewCount": 6513,
+          "viewCount": 6558,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1334,7 +1335,47 @@
         }
       },
       "channelId": "UCvTw0PWaLJm-FGBRY7z51aA",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "5YlcCuN1xGM",
+          "title": "しゃべるば　#008",
+          "description": "最近の政治、経済や近況、その他雑談。いろいろお話できれば。\nゆるく話をしていくので、軽い気持ちでお付き合いを！\n\nよろしければ、チャンネル登録・高評価ボタンお願いします！\n\n今週のテーマ予定※随時更新\n1.3/15イベントについて（公会計も）\n2.ホームページ作成について\n3.読書について\n\n\n#再生の道 #中村幸信 ＃政治 ＃経済 ＃税",
+          "publishedAt": "2026-03-16T12:55:23Z",
+          "channelTitle": "中村 幸信×再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5YlcCuN1xGM/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5YlcCuN1xGM/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5YlcCuN1xGM/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5YlcCuN1xGM/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5YlcCuN1xGM/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-16T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "C2TFAtFEyNQ",
@@ -1461,7 +1502,7 @@
               "height": 720
             }
           },
-          "viewCount": 2299,
+          "viewCount": 2303,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-12T12:00:00Z",
@@ -1528,7 +1569,7 @@
               "height": 720
             }
           },
-          "viewCount": 2774,
+          "viewCount": 2778,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
