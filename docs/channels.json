@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-16T10:58:24.757Z",
+  "requestedAt": "2026-03-16T11:50:20.423Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "L2UDD8rgUM8",
+          "title": "【みっちーの部屋】再生の道アドバイザー和田裕行 (2026.03.16) -再生の道-",
+          "description": "サポーター制度\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-03-16T11:28:11Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L2UDD8rgUM8/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L2UDD8rgUM8/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L2UDD8rgUM8/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/L2UDD8rgUM8/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/L2UDD8rgUM8/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-16T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "dI1ie-DXsZM",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 4390
+          "viewCount": 4416
         },
         {
           "videoId": "52vDWVrhykQ",
@@ -92,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 18209
+          "viewCount": 18281
         },
         {
           "videoId": "KoC0a81hplQ",
@@ -127,7 +167,7 @@
               "height": 720
             }
           },
-          "viewCount": 11985
+          "viewCount": 11990
         },
         {
           "videoId": "5P5VByM_DC0",
@@ -162,7 +202,7 @@
               "height": 720
             }
           },
-          "viewCount": 13004,
+          "viewCount": 13007,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:00:00Z",
@@ -296,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 1734
+          "viewCount": 1757
         },
         {
           "videoId": "AORYAbttWfk",
@@ -331,7 +371,7 @@
               "height": 720
             }
           },
-          "viewCount": 1872
+          "viewCount": 1880
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -859,7 +899,7 @@
               "height": 720
             }
           },
-          "viewCount": 163
+          "viewCount": 220
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -945,7 +985,7 @@
               "height": 720
             }
           },
-          "viewCount": 7084,
+          "viewCount": 7091,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T13:00:00Z",
@@ -1062,7 +1102,7 @@
               "height": 720
             }
           },
-          "viewCount": 6476,
+          "viewCount": 6513,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1421,7 +1461,7 @@
               "height": 720
             }
           },
-          "viewCount": 2298,
+          "viewCount": 2299,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-12T12:00:00Z",
@@ -1488,7 +1528,7 @@
               "height": 720
             }
           },
-          "viewCount": 2773,
+          "viewCount": 2774,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
