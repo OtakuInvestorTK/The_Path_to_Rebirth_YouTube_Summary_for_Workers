@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-16T14:20:07.056Z",
+  "requestedAt": "2026-03-16T15:59:31.181Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5049,
+          "viewCount": 7338,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 4488
+          "viewCount": 4511
         },
         {
           "videoId": "52vDWVrhykQ",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 18430
+          "viewCount": 18536
         },
         {
           "videoId": "KoC0a81hplQ",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12027
+          "viewCount": 12049
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -331,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 1880
+          "viewCount": 1895
         },
         {
           "videoId": "ff9JAcuqyn8",
@@ -361,7 +361,7 @@
               "height": 480
             }
           },
-          "viewCount": 6782,
+          "viewCount": 6797,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
@@ -859,7 +859,7 @@
               "height": 720
             }
           },
-          "viewCount": 383
+          "viewCount": 451
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -911,49 +911,7 @@
       },
       "channelId": "UCeE5CTgzM8Ly7TC4FZwy3pg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "iXqBIzdXSV4",
-          "title": "【対談企画】牧之原市議会議員/議員チェッカー考案石山さん×恵良康寛",
-          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\n石山かずみさんのXはこちら\nhttps://x.com/ishiyamakazumi\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
-          "publishedAt": "2026-03-09T14:27:53Z",
-          "channelTitle": "恵良康寛(足立区、中小企業診断士)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/iXqBIzdXSV4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7098,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-09T13:00:00Z",
-            "actualStartTime": "2026-03-09T13:03:49Z",
-            "actualEndTime": "2026-03-09T14:07:32Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "恵良康寛,恵良やすひろ,えら康寛,えらやすひろ"
     },
     {
@@ -1298,8 +1256,8 @@
       "recentVideos": [
         {
           "videoId": "TdCdDoOL7IU",
-          "title": "中村 幸信×再生の道 がライブ配信中！",
-          "description": "",
+          "title": "しゃべるば #008",
+          "description": "最近の政治、経済や近況、その他雑談。いろいろお話できれば。\nゆるく話をしていくので、軽い気持ちでお付き合いを！\n\nよろしければ、チャンネル登録・高評価ボタンお願いします！\n\n今週のテーマ予定※随時更新\n1.3/15イベントと公会計について\n2.確定申告について\n3.読書について\n4.ホームページについて\n\n\n#再生の道 #中村幸信 ＃政治 ＃経済 ＃税",
           "publishedAt": "2026-03-16T14:04:30Z",
           "channelTitle": "中村 幸信×再生の道",
           "thumbnails": {
@@ -1329,7 +1287,7 @@
               "height": 720
             }
           },
-          "viewCount": 916,
+          "viewCount": 1292,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
@@ -1421,7 +1379,7 @@
               "height": 720
             }
           },
-          "viewCount": 2304,
+          "viewCount": 2306,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-12T12:00:00Z",
@@ -1488,7 +1446,7 @@
               "height": 720
             }
           },
-          "viewCount": 2782,
+          "viewCount": 2786,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-11T10:30:00Z",
