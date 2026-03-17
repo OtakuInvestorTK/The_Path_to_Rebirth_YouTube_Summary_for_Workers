@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-17T10:43:31.960Z",
+  "requestedAt": "2026-03-17T11:39:09.324Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13500,
+          "viewCount": 13669,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 4703
+          "viewCount": 4720
         },
         {
           "videoId": "52vDWVrhykQ",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 19215
+          "viewCount": 19262
         },
         {
           "videoId": "KoC0a81hplQ",
@@ -361,48 +361,13 @@
               "height": 480
             }
           },
-          "viewCount": 6836,
+          "viewCount": 6834,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-10T12:00:00Z",
             "actualStartTime": "2026-03-10T12:01:57Z",
             "actualEndTime": "2026-03-10T13:06:43Z"
           }
-        },
-        {
-          "videoId": "9kQU0k_PUgo",
-          "title": "青柳みつやのライブ配信前ルーティン(3月10日)",
-          "description": "西岡さんとの対談はこちら↓\nhttps://youtu.be/-YT4BTQcMXs?si=TynAdHXPA0kvBoss\n\n【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
-          "publishedAt": "2026-03-10T11:10:00Z",
-          "channelTitle": "青柳みつや",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/9kQU0k_PUgo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6108
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -824,7 +789,7 @@
               "height": 720
             }
           },
-          "viewCount": 240
+          "viewCount": 336
         },
         {
           "videoId": "reNc9zavcGQ",
@@ -859,7 +824,7 @@
               "height": 720
             }
           },
-          "viewCount": 790
+          "viewCount": 807
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1020,7 +985,7 @@
               "height": 720
             }
           },
-          "viewCount": 6842,
+          "viewCount": 6843,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1287,7 +1252,7 @@
               "height": 720
             }
           },
-          "viewCount": 2999,
+          "viewCount": 3043,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
