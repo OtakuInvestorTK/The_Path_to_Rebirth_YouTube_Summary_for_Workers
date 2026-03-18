@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-18T12:56:53.709Z",
+  "requestedAt": "2026-03-18T14:20:53.071Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15757,
+          "viewCount": 15883,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 20373
+          "viewCount": 20420
         },
         {
           "videoId": "KoC0a81hplQ",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12243
+          "viewCount": 12245
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -178,23 +178,24 @@
       "channelTitle": "奥村こうき | 再生の道 代表",
       "channelThumbnails": {
         "default": {
-          "url": "https://yt3.ggpht.com/db1XO4Iutr2A38dMVT9sMRK50XVUEPeupO0-ZM7cthLWTR4Onab4vbNybtLAXu2q2FMHjAbkJg=s88-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/OQ6d9ezJi_VO4941zgqF8KAsv9fQ3WXTF8YvohdXSl8OEZoqsRDVr0hAXBt2Xi4ptRhIzbm0Lw=s88-c-k-c0x00ffffff-no-rj",
           "width": 88,
           "height": 88
         },
         "medium": {
-          "url": "https://yt3.ggpht.com/db1XO4Iutr2A38dMVT9sMRK50XVUEPeupO0-ZM7cthLWTR4Onab4vbNybtLAXu2q2FMHjAbkJg=s240-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/OQ6d9ezJi_VO4941zgqF8KAsv9fQ3WXTF8YvohdXSl8OEZoqsRDVr0hAXBt2Xi4ptRhIzbm0Lw=s240-c-k-c0x00ffffff-no-rj",
           "width": 240,
           "height": 240
         },
         "high": {
-          "url": "https://yt3.ggpht.com/db1XO4Iutr2A38dMVT9sMRK50XVUEPeupO0-ZM7cthLWTR4Onab4vbNybtLAXu2q2FMHjAbkJg=s800-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/OQ6d9ezJi_VO4941zgqF8KAsv9fQ3WXTF8YvohdXSl8OEZoqsRDVr0hAXBt2Xi4ptRhIzbm0Lw=s800-c-k-c0x00ffffff-no-rj",
           "width": 800,
           "height": 800
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "KZyGr-VUmzw",
           "title": "MEET UP！ 奥村こうき",
@@ -228,55 +229,12 @@
               "height": 720
             }
           },
-          "viewCount": 661,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2026-03-18T12:35:36Z",
-            "actualStartTime": "2026-03-18T12:35:55Z",
-            "concurrentViewers": 358
-          }
-        }
-      ],
-      "recentVideos": [
-        {
-          "videoId": "K7ZStKL8lOk",
-          "title": "今週のイベントと再生の道コミュニティ構想",
-          "description": "ここ最近、いろいろ考えていました。\n\nAIペンギン みっちー と歩む、新しい民主主義。\nそして、これから始めたい 「再生の道コミュニティ構想」 のこと。\nそのあたりも、少しお話しできたらと思います。\n\n今週はイベントが目白押し。\n15日のサポーターイベントでは、みっちーも初登場予定です。\n\nぜひお楽しみに！\n\n【今週のイベント】\n■ 3月13日（金）\nZ ERA FES 2026\nZ世代向け500名規模のイベントに登壇します。\n https://zerafes.com/#uservoice\n\n■ 3月15日（日）\nサポーター全国イベント（東京＋オンライン）\nキックオフイベントを開催します。\nAIペンギン「みっちー」も初登場予定です。\n https://saiseinomichi-official.jp/supporter/\n\n\n【今回ご紹介した本】\n◾️人口減少社会のデザイン\nhttps://amzn.asia/d/0eyroNfm\n\n◾️コンヴィヴィアル・シティ\nhttps://amzn.asia/d/04ETtkds\n\n◾️コンヴィヴィアル・テクノロジー\nhttps://amzn.asia/d/07EeQTrW\n\n◾️コンヴィヴィアリティのための道具\nhttps://amzn.asia/d/0fe0rQpb\n\n◾️スマートシティとキノコとブッダ\nhttps://amzn.asia/d/0eJ9Nd3g\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2026-03-11T14:11:25Z",
-          "channelTitle": "奥村こうき | 再生の道 代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/K7ZStKL8lOk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/K7ZStKL8lOk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/K7ZStKL8lOk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/K7ZStKL8lOk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/K7ZStKL8lOk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6831,
+          "viewCount": 1384,
           "liveStreaming": {
             "status": "completed",
-            "scheduledStartTime": "2026-03-11T12:00:19Z",
-            "actualStartTime": "2026-03-11T12:00:35Z",
-            "actualEndTime": "2026-03-11T13:42:21Z"
+            "scheduledStartTime": "2026-03-18T12:35:36Z",
+            "actualStartTime": "2026-03-18T12:35:55Z",
+            "actualEndTime": "2026-03-18T13:37:33Z"
           }
         }
       ],
@@ -333,7 +291,7 @@
               "height": 480
             }
           },
-          "viewCount": 5771,
+          "viewCount": 5826,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -374,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 1933
+          "viewCount": 1932
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -796,7 +754,7 @@
               "height": 720
             }
           },
-          "viewCount": 387
+          "viewCount": 445
         },
         {
           "videoId": "50Ets2WJ1cw",
@@ -831,7 +789,7 @@
               "height": 720
             }
           },
-          "viewCount": 998
+          "viewCount": 1008
         },
         {
           "videoId": "reNc9zavcGQ",
@@ -866,7 +824,7 @@
               "height": 720
             }
           },
-          "viewCount": 1117
+          "viewCount": 1134
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1027,7 +985,7 @@
               "height": 720
             }
           },
-          "viewCount": 7217,
+          "viewCount": 7262,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1294,7 +1252,7 @@
               "height": 720
             }
           },
-          "viewCount": 3552,
+          "viewCount": 3595,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
