@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-18T14:20:53.071Z",
+  "requestedAt": "2026-03-18T16:03:50.448Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15883,
+          "viewCount": 15952,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 4906
+          "viewCount": 4927
         },
         {
           "videoId": "52vDWVrhykQ",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 20420
+          "viewCount": 20478
         },
         {
           "videoId": "KoC0a81hplQ",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 12245
+          "viewCount": 12256
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -200,36 +200,36 @@
           "videoId": "KZyGr-VUmzw",
           "title": "MEET UP！ 奥村こうき",
           "description": "テーマ：「再生の道コミュニティでやりたいこと」\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2026-03-18T12:35:37Z",
+          "publishedAt": "2026-03-18T15:04:30Z",
           "channelTitle": "奥村こうき | 再生の道 代表",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KZyGr-VUmzw/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1384,
+          "viewCount": 2432,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -291,7 +291,7 @@
               "height": 480
             }
           },
-          "viewCount": 5826,
+          "viewCount": 5875,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -332,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 1932
+          "viewCount": 1948
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -443,7 +443,7 @@
               "height": 720
             }
           },
-          "viewCount": 909
+          "viewCount": 910
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -754,7 +754,7 @@
               "height": 720
             }
           },
-          "viewCount": 445
+          "viewCount": 447
         },
         {
           "videoId": "50Ets2WJ1cw",
@@ -789,7 +789,7 @@
               "height": 720
             }
           },
-          "viewCount": 1008
+          "viewCount": 1009
         },
         {
           "videoId": "reNc9zavcGQ",
@@ -824,7 +824,7 @@
               "height": 720
             }
           },
-          "viewCount": 1134
+          "viewCount": 1142
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -985,7 +985,7 @@
               "height": 720
             }
           },
-          "viewCount": 7262,
+          "viewCount": 7311,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1252,7 +1252,7 @@
               "height": 720
             }
           },
-          "viewCount": 3595,
+          "viewCount": 3597,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
@@ -1344,7 +1344,7 @@
               "height": 720
             }
           },
-          "viewCount": 2364,
+          "viewCount": 2366,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-12T12:00:00Z",
