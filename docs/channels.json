@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-19T12:51:33.996Z",
+  "requestedAt": "2026-03-19T14:04:45.833Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16360,
+          "viewCount": 16408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 5068,
+          "viewCount": 5151,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -256,7 +256,7 @@
               "height": 480
             }
           },
-          "viewCount": 6110,
+          "viewCount": 6123,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -297,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 1978
+          "viewCount": 1976
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -683,7 +683,7 @@
               "height": 720
             }
           },
-          "viewCount": 218
+          "viewCount": 251
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -753,7 +753,7 @@
               "height": 720
             }
           },
-          "viewCount": 1266
+          "viewCount": 1267
         },
         {
           "videoId": "reNc9zavcGQ",
@@ -788,7 +788,7 @@
               "height": 720
             }
           },
-          "viewCount": 1309
+          "viewCount": 1310
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -949,7 +949,7 @@
               "height": 720
             }
           },
-          "viewCount": 7468,
+          "viewCount": 7488,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1116,7 +1116,7 @@
               "height": 720
             }
           },
-          "viewCount": 773,
+          "viewCount": 1418,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1258,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 3785,
+          "viewCount": 3797,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
@@ -1390,53 +1390,12 @@
               "height": 720
             }
           },
-          "viewCount": 352,
+          "viewCount": 486,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
             "actualStartTime": "2026-03-19T11:59:37Z",
             "actualEndTime": "2026-03-19T12:49:07Z"
-          }
-        },
-        {
-          "videoId": "Xt4avmg0Yho",
-          "title": "《公開業務連絡》（笑）マヨさんNYの樹木事情教えてください。ヨシヒコ・ライブ vol.20",
-          "description": "今週のワインはまたまたイタリアのアパッシュメント。\n\n南さんとのお話や、SMiLEでのお話会での様子をお伝えします。\n今度、対談予定のmayomayoiさんに、公開業務連絡してしまいました（笑）\n\n\nSMiLE〜すぎなみの未来を創る会〜\nぜひ一緒に活動しませんか？\n🌳今後のイベント▶▶\nhttps://suginamismile.wixsite.com/smile\n\n🌲LINE▶▶\nhttps://line.me/R/ti/p/@726slzcz\n\n🌳Instagram▶▶\nhttps://www.instagram.com/smile_de_suginami?igsh=aWE3MHp1NTEzdmQy&utm_source=qr\n\n🌲Facebook▶▶\nhttps://www.facebook.com/share/1FM51cVdR3/?mibextid=wwXIfr",
-          "publishedAt": "2026-03-12T13:05:58Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Xt4avmg0Yho/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2380,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-12T12:00:00Z",
-            "actualStartTime": "2026-03-12T11:59:51Z",
-            "actualEndTime": "2026-03-12T12:43:42Z"
           }
         }
       ],
