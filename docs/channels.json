@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-19T11:30:42.958Z",
+  "requestedAt": "2026-03-19T12:51:33.996Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16331,
+          "viewCount": 16360,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 20895
+          "viewCount": 20922
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 4987,
+          "viewCount": 5068,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -256,7 +256,7 @@
               "height": 480
             }
           },
-          "viewCount": 6101,
+          "viewCount": 6110,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -297,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 1971
+          "viewCount": 1978
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -683,7 +683,7 @@
               "height": 720
             }
           },
-          "viewCount": 160
+          "viewCount": 218
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -718,7 +718,7 @@
               "height": 720
             }
           },
-          "viewCount": 809
+          "viewCount": 813
         },
         {
           "videoId": "50Ets2WJ1cw",
@@ -753,7 +753,7 @@
               "height": 720
             }
           },
-          "viewCount": 1247
+          "viewCount": 1266
         },
         {
           "videoId": "reNc9zavcGQ",
@@ -788,7 +788,7 @@
               "height": 720
             }
           },
-          "viewCount": 1308
+          "viewCount": 1309
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -949,7 +949,7 @@
               "height": 720
             }
           },
-          "viewCount": 7459,
+          "viewCount": 7468,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1116,7 +1116,7 @@
               "height": 720
             }
           },
-          "viewCount": 200,
+          "viewCount": 773,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1354,7 +1354,9 @@
             "status": "upcoming",
             "scheduledStartTime": "2026-03-20T03:00:00Z"
           }
-        },
+        }
+      ],
+      "recentVideos": [
         {
           "videoId": "wAbkxMfqIXA",
           "title": "みっちーお願い🙏ヨシヒコ・ライブ Vol. 21",
@@ -1388,14 +1390,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 352,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-03-19T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-03-19T12:00:00Z",
+            "actualStartTime": "2026-03-19T11:59:37Z",
+            "actualEndTime": "2026-03-19T12:49:07Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "Xt4avmg0Yho",
           "title": "《公開業務連絡》（笑）マヨさんNYの樹木事情教えてください。ヨシヒコ・ライブ vol.20",
@@ -1429,7 +1431,7 @@
               "height": 720
             }
           },
-          "viewCount": 2378,
+          "viewCount": 2380,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-12T12:00:00Z",
