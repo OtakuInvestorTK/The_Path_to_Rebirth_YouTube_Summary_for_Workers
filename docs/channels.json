@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-20T13:57:23.482Z",
+  "requestedAt": "2026-03-20T14:41:35.698Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16685,
+          "viewCount": 16701,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 5706,
+          "viewCount": 5725,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 2898
+          "viewCount": 2982
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -683,7 +683,7 @@
               "height": 720
             }
           },
-          "viewCount": 267
+          "viewCount": 320
         },
         {
           "videoId": "PkDI5U96RsE",
@@ -718,7 +718,7 @@
               "height": 720
             }
           },
-          "viewCount": 449
+          "viewCount": 445
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -753,7 +753,7 @@
               "height": 720
             }
           },
-          "viewCount": 866
+          "viewCount": 868
         },
         {
           "videoId": "50Ets2WJ1cw",
@@ -949,7 +949,42 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "ai7lBdUKlU4",
+          "title": "第35回ミートアップオンライン",
+          "description": "皆様、こんにちは。\n今週末は以下にてライブ配信予定です。\n\n3月22日（日）19:45-20:45\n\n土曜朝ではなく、日曜夜となります。\nお時間ある方はぜひお立ち寄りいただけたら嬉しいです。",
+          "publishedAt": "2026-03-20T14:32:49Z",
+          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ai7lBdUKlU4/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ai7lBdUKlU4/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ai7lBdUKlU4/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ai7lBdUKlU4/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-22T10:45:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "uufpMzTGVlk",
@@ -1151,7 +1186,7 @@
               "height": 720
             }
           },
-          "viewCount": 4954,
+          "viewCount": 5028,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1385,7 +1420,7 @@
               "height": 720
             }
           },
-          "viewCount": 2760,
+          "viewCount": 2835,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1426,7 +1461,7 @@
               "height": 720
             }
           },
-          "viewCount": 1563,
+          "viewCount": 1570,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
