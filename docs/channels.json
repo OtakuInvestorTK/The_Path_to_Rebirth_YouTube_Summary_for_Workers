@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-19T23:24:22.459Z",
+  "requestedAt": "2026-03-20T01:29:20.850Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16504,
+          "viewCount": 16530,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5023
+          "viewCount": 5031
         },
         {
           "videoId": "52vDWVrhykQ",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 21109
+          "viewCount": 21153
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 5404,
+          "viewCount": 5438,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -229,6 +229,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "ZAMbw-uH1W4",
+          "title": "【東京大解剖#1】データとファクトで巨大都市に挑む!!(青柳みつや)",
+          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
+          "publishedAt": "2026-03-20T00:02:51Z",
+          "channelTitle": "青柳みつや",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZAMbw-uH1W4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZAMbw-uH1W4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZAMbw-uH1W4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZAMbw-uH1W4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZAMbw-uH1W4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 463
+        },
+        {
           "videoId": "adwREJ1kdfY",
           "title": "青柳みつやのYouTube Live!! #33",
           "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
@@ -256,7 +291,7 @@
               "height": 480
             }
           },
-          "viewCount": 6169,
+          "viewCount": 6177,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -683,7 +718,7 @@
               "height": 720
             }
           },
-          "viewCount": 359
+          "viewCount": 383
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -949,7 +984,7 @@
               "height": 720
             }
           },
-          "viewCount": 7522,
+          "viewCount": 7525,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-13T23:00:00Z",
@@ -1116,7 +1151,7 @@
               "height": 720
             }
           },
-          "viewCount": 3443,
+          "viewCount": 3778,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1258,7 +1293,7 @@
               "height": 720
             }
           },
-          "viewCount": 3815,
+          "viewCount": 3817,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
@@ -1361,36 +1396,36 @@
           "videoId": "wAbkxMfqIXA",
           "title": "みっちーお願い🙏ヨシヒコ・ライブ Vol. 21",
           "description": "今週もいろいろありました。\n大きいところでは、サポーターイベント。\nすごい熱気でした。まるまるまるやさんも登場して盛り上がっていましたし、なんと言ってもAIペンギンみっちーのお披露目。そのあたりの話とかなんとか。\n\n今宵もワイン片手に遊びにいらしてください。（ワインじゃなくてもオッケーです😉）",
-          "publishedAt": "2026-03-19T00:11:40Z",
+          "publishedAt": "2026-03-20T01:12:13Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/wAbkxMfqIXA/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1089,
+          "viewCount": 1191,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
