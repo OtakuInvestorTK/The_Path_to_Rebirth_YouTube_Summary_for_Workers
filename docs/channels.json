@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-21T19:18:52.210Z",
+  "requestedAt": "2026-03-21T20:19:10.498Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 4211
+          "viewCount": 4245
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -221,7 +221,7 @@
               "height": 480
             }
           },
-          "viewCount": 6261,
+          "viewCount": 6264,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -338,7 +338,7 @@
               "height": 720
             }
           },
-          "viewCount": 1804
+          "viewCount": 1880
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -684,7 +684,7 @@
               "height": 720
             }
           },
-          "viewCount": 542
+          "viewCount": 540
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -789,7 +789,7 @@
               "height": 720
             }
           },
-          "viewCount": 1323
+          "viewCount": 1324
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1110,7 +1110,7 @@
               "height": 720
             }
           },
-          "viewCount": 5824,
+          "viewCount": 5855,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1344,7 +1344,7 @@
               "height": 720
             }
           },
-          "viewCount": 3640,
+          "viewCount": 3642,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1385,7 +1385,7 @@
               "height": 720
             }
           },
-          "viewCount": 1815,
+          "viewCount": 1829,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
