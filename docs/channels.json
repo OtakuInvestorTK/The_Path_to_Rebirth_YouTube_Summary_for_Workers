@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-20T23:23:14.927Z",
+  "requestedAt": "2026-03-21T01:24:46.041Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16760,
+          "viewCount": 16768,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5080
+          "viewCount": 5081
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -226,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 3436
+          "viewCount": 3540
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -297,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 2032
+          "viewCount": 2033
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -683,7 +683,7 @@
               "height": 720
             }
           },
-          "viewCount": 431
+          "viewCount": 436
         },
         {
           "videoId": "PkDI5U96RsE",
@@ -718,7 +718,7 @@
               "height": 720
             }
           },
-          "viewCount": 481
+          "viewCount": 487
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -788,7 +788,7 @@
               "height": 720
             }
           },
-          "viewCount": 1303
+          "viewCount": 1304
         },
         {
           "videoId": "reNc9zavcGQ",
@@ -823,7 +823,7 @@
               "height": 720
             }
           },
-          "viewCount": 1318
+          "viewCount": 1319
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -985,49 +985,7 @@
           }
         }
       ],
-      "recentVideos": [
-        {
-          "videoId": "uufpMzTGVlk",
-          "title": "第34回ミートアップオンライン",
-          "description": "皆様、こんにちは。\n以下にてライブ配信できたらと思います。\n\n3月14日（土）8:00-8:30\n\n朝早いですが、お時間あればぜひお立ち寄りください。",
-          "publishedAt": "2026-03-13T23:41:54Z",
-          "channelTitle": "【再生の道】吉田あや　公式チャンネル",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/uufpMzTGVlk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/uufpMzTGVlk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/uufpMzTGVlk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/uufpMzTGVlk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/uufpMzTGVlk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7622,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-13T23:00:00Z",
-            "actualStartTime": "2026-03-13T23:00:26Z",
-            "actualEndTime": "2026-03-13T23:38:24Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "吉田綾,吉田あや,よしだ綾,よしだあや"
     },
     {
@@ -1186,7 +1144,7 @@
               "height": 720
             }
           },
-          "viewCount": 5209,
+          "viewCount": 5299,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1328,7 +1286,7 @@
               "height": 720
             }
           },
-          "viewCount": 3844,
+          "viewCount": 3845,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
@@ -1420,7 +1378,7 @@
               "height": 720
             }
           },
-          "viewCount": 3237,
+          "viewCount": 3301,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1461,7 +1419,7 @@
               "height": 720
             }
           },
-          "viewCount": 1631,
+          "viewCount": 1650,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
