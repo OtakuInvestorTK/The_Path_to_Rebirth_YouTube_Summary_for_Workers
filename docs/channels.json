@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-21T11:17:58.714Z",
+  "requestedAt": "2026-03-21T12:34:59.403Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 5859,
+          "viewCount": 5860,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 3925
+          "viewCount": 3963
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -304,7 +304,43 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "-s-akYXLJIo",
+          "title": "都知事は緑のおばさん？",
+          "description": "鳥取県知事が都知事を「おばさん」と呼称した件で話しています。#鳥取県知事 #都知事 #緑のおばさん",
+          "publishedAt": "2026-03-21T12:27:55Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0
+        }
+      ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -718,7 +754,7 @@
               "height": 720
             }
           },
-          "viewCount": 1312
+          "viewCount": 1319
         },
         {
           "videoId": "reNc9zavcGQ",
@@ -753,7 +789,7 @@
               "height": 720
             }
           },
-          "viewCount": 1319
+          "viewCount": 1321
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1074,7 +1110,7 @@
               "height": 720
             }
           },
-          "viewCount": 5699,
+          "viewCount": 5724,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1308,7 +1344,7 @@
               "height": 720
             }
           },
-          "viewCount": 3540,
+          "viewCount": 3557,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1349,7 +1385,7 @@
               "height": 720
             }
           },
-          "viewCount": 1725,
+          "viewCount": 1744,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
