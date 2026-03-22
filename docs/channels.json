@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-22T07:34:17.590Z",
+  "requestedAt": "2026-03-22T08:27:23.873Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 17038,
+          "viewCount": 17039,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 5942,
+          "viewCount": 5955,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 4464
+          "viewCount": 4477
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -338,7 +338,7 @@
               "height": 720
             }
           },
-          "viewCount": 730
+          "viewCount": 822
         },
         {
           "videoId": "-s-akYXLJIo",
@@ -373,7 +373,7 @@
               "height": 720
             }
           },
-          "viewCount": 3736
+          "viewCount": 3804
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -684,7 +684,7 @@
               "height": 720
             }
           },
-          "viewCount": 625
+          "viewCount": 626
         },
         {
           "videoId": "PkDI5U96RsE",
@@ -719,7 +719,7 @@
               "height": 720
             }
           },
-          "viewCount": 565
+          "viewCount": 576
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -1145,7 +1145,7 @@
               "height": 720
             }
           },
-          "viewCount": 5917,
+          "viewCount": 5928,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1347,6 +1347,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "yciToPUHHus",
+          "title": "おひとり様クリーンロード大作戦",
+          "description": "毎月2回行っているクリーンロード大作戦\n今日は連休最終日でお天気がよかったせいか、、、\nどなたも来ず。\nはじめて一人で清掃活動してきました。",
+          "publishedAt": "2026-03-22T08:09:06Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yciToPUHHus/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yciToPUHHus/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yciToPUHHus/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yciToPUHHus/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yciToPUHHus/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 41
+        },
+        {
           "videoId": "aG323qBFVNU",
           "title": "ヨシヒコ・ライブSP with 岩見なつよさん",
           "description": "春分の日に相応しい、春の華やかさを連れて登場してくれるのはイワミンこと岩見なつよさん。\nイケイケドンドンだった（そんな昭和な言葉ですみません💦）頃のお話から、\nもちろん、議員となって見えていることまで、１時間で足りるか心配です。\n\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→坪田こうすけ→小林学→宮田たかお→横山はるき→中村幸信→山下こういち→加藤てつお→南 貴大→岩見なつよ",
@@ -1379,7 +1414,7 @@
               "height": 720
             }
           },
-          "viewCount": 3721,
+          "viewCount": 3733,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1420,7 +1455,7 @@
               "height": 720
             }
           },
-          "viewCount": 1860,
+          "viewCount": 1869,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
