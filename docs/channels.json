@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-22T01:46:13.902Z",
+  "requestedAt": "2026-03-22T04:13:49.997Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 16986,
+          "viewCount": 17006,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 4364
+          "viewCount": 4412
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -326,9 +326,19 @@
               "url": "https://i.ytimg.com/vi/tmml6nO9Mbs/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tmml6nO9Mbs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tmml6nO9Mbs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
-          "viewCount": 0
+          "viewCount": 321
         },
         {
           "videoId": "-s-akYXLJIo",
@@ -363,7 +373,7 @@
               "height": 720
             }
           },
-          "viewCount": 2869
+          "viewCount": 3381
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -674,7 +684,7 @@
               "height": 720
             }
           },
-          "viewCount": 622
+          "viewCount": 624
         },
         {
           "videoId": "PkDI5U96RsE",
@@ -709,7 +719,7 @@
               "height": 720
             }
           },
-          "viewCount": 552
+          "viewCount": 555
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -744,7 +754,7 @@
               "height": 720
             }
           },
-          "viewCount": 1050
+          "viewCount": 1052
         },
         {
           "videoId": "50Ets2WJ1cw",
@@ -779,7 +789,7 @@
               "height": 720
             }
           },
-          "viewCount": 1323
+          "viewCount": 1326
         },
         {
           "videoId": "reNc9zavcGQ",
@@ -1135,7 +1145,7 @@
               "height": 720
             }
           },
-          "viewCount": 5879,
+          "viewCount": 5878,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1277,7 +1287,7 @@
               "height": 720
             }
           },
-          "viewCount": 3868,
+          "viewCount": 3870,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
@@ -1369,7 +1379,7 @@
               "height": 720
             }
           },
-          "viewCount": 3659,
+          "viewCount": 3672,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
