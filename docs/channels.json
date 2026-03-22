@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-22T05:48:43.630Z",
+  "requestedAt": "2026-03-22T06:42:18.014Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 17010,
+          "viewCount": 17038,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 4443
+          "viewCount": 4451
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -221,7 +221,7 @@
               "height": 480
             }
           },
-          "viewCount": 6265,
+          "viewCount": 6268,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -338,7 +338,7 @@
               "height": 720
             }
           },
-          "viewCount": 520
+          "viewCount": 625
         },
         {
           "videoId": "-s-akYXLJIo",
@@ -373,7 +373,7 @@
               "height": 720
             }
           },
-          "viewCount": 3560
+          "viewCount": 3650
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1145,7 +1145,7 @@
               "height": 720
             }
           },
-          "viewCount": 5906,
+          "viewCount": 5917,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1379,7 +1379,7 @@
               "height": 720
             }
           },
-          "viewCount": 3691,
+          "viewCount": 3707,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1420,7 +1420,7 @@
               "height": 720
             }
           },
-          "viewCount": 1854,
+          "viewCount": 1860,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
