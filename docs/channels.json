@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-21T23:18:50.529Z",
+  "requestedAt": "2026-03-22T01:46:13.902Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 5908,
+          "viewCount": 5921,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 4296
+          "viewCount": 4364
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -306,6 +306,31 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "tmml6nO9Mbs",
+          "title": "昔の🎬映画🎥のオーディション",
+          "description": "昔の🎬映画🎥のオーディションのこぼれ話をしています。 #木島 #市川崑 #ビルマの竪琴 #黒澤明 #影武者",
+          "publishedAt": "2026-03-22T01:44:21Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tmml6nO9Mbs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tmml6nO9Mbs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tmml6nO9Mbs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 0
+        },
+        {
           "videoId": "-s-akYXLJIo",
           "title": "都知事は緑のおばさん？",
           "description": "鳥取県知事が都知事を「おばさん」と呼称した件で話しています。#鳥取県知事 #都知事 #緑のおばさん #小池百合子",
@@ -338,7 +363,7 @@
               "height": 720
             }
           },
-          "viewCount": 2260
+          "viewCount": 2869
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -684,7 +709,7 @@
               "height": 720
             }
           },
-          "viewCount": 543
+          "viewCount": 552
         },
         {
           "videoId": "zUG7y3fqT8Q",
@@ -1110,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 5865,
+          "viewCount": 5879,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1252,7 +1277,7 @@
               "height": 720
             }
           },
-          "viewCount": 3867,
+          "viewCount": 3868,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
@@ -1344,7 +1369,7 @@
               "height": 720
             }
           },
-          "viewCount": 3652,
+          "viewCount": 3659,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1385,7 +1410,7 @@
               "height": 720
             }
           },
-          "viewCount": 1831,
+          "viewCount": 1842,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
