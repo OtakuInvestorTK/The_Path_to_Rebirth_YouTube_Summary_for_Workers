@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-23T09:00:34.265Z",
+  "requestedAt": "2026-03-23T10:46:59.107Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 17473,
+          "viewCount": 17522,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-16T12:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 6065,
+          "viewCount": 6075,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -156,7 +156,42 @@
         }
       },
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "zzi6_PiQW2c",
+          "title": "青柳みつやのYouTube Live!! #34",
+          "description": "【チャンネルの動画を利用した切り抜き・まとめ動画の作成は大歓迎です！！】\nただし、動画の転載に当たる行為は禁止します。（テロップを付けてほぼ丸ごと転載している動画に関してもご遠慮ください）また、切り抜き・まとめ動画を公開する場合は、概要欄に元となる動画のタイトルとURLを必ず記載して下さい。ご理解・ご協力のほど、よろしくお願いいたします！！\n\n*******************************************\n\n青柳みつや\n【経歴】\n1989年生まれの36歳。石丸伸二が設立した政治団体「再生の道」から2025年の東京都議会選挙に挑戦。デロイトトーマツ、マッキンゼー、三井物産でのビジネス経験を持つ。現在はベンチャー企業経営者。4年後の夢に向けて、SNSを中心に活動継続中。\n\n【SNS】\nX:https://x.com/saiseichosen\n選挙ドットコム:https://go2senkyo.com/seijika/195804\n\n【過去動画】\n・2025都議選ドキュメンタリー\nhttps://youtu.be/emv3q90FnWs\n\n・対談\nhttps://youtu.be/KMaHMm3ducE\n\n・学生インタビュー\nhttps://youtu.be/pKvDBu5kydg",
+          "publishedAt": "2026-03-17T04:18:36Z",
+          "channelTitle": "青柳みつや",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zzi6_PiQW2c/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zzi6_PiQW2c/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zzi6_PiQW2c/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zzi6_PiQW2c/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-24T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "ZAMbw-uH1W4",
@@ -191,7 +226,7 @@
               "height": 720
             }
           },
-          "viewCount": 4788
+          "viewCount": 4811
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -221,7 +256,7 @@
               "height": 480
             }
           },
-          "viewCount": 6367,
+          "viewCount": 6368,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -338,7 +373,7 @@
               "height": 720
             }
           },
-          "viewCount": 1548
+          "viewCount": 1619
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -373,7 +408,7 @@
               "height": 720
             }
           },
-          "viewCount": 1495
+          "viewCount": 1514
         },
         {
           "videoId": "-s-akYXLJIo",
@@ -519,7 +554,7 @@
               "height": 720
             }
           },
-          "viewCount": 3164,
+          "viewCount": 3301,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T13:30:00Z",
@@ -831,7 +866,7 @@
               "height": 720
             }
           },
-          "viewCount": 1066
+          "viewCount": 1064
         },
         {
           "videoId": "50Ets2WJ1cw",
@@ -867,41 +902,6 @@
             }
           },
           "viewCount": 1343
-        },
-        {
-          "videoId": "reNc9zavcGQ",
-          "title": "【衝撃】日本滅亡の真因は人口減少ではない。組織を蝕む「知の消失」という病 #shorts",
-          "description": "日本の本当の危機は「人口減少」ではありません。\n長年積み上げてきた知恵や経験――「知のレガシー」が跡形もなく消えていくことです。\nあなたの組織を「砂上の楼閣」にしないための、知性のインフラ構築法を解説します。\n\n---\n\n### 動画のポイント\n\n日本の組織が直面している「知の消失」という深刻な問題についてお話しします。\n優秀な個人が去った瞬間に瓦解する組織と、10年後も機能し続ける組織。\nその決定的な違いは「実行の仕様書」があるかどうかにあります。\n\n* 属人性に依存するリスクの正体\n* 精神論や「頑張り」が通用しない理由\n* スキルをシステムへと昇華させる「知性のインフラ」\n* 経験を「回路」として定着させるための思考の型\n\n複雑化する現代課題に対し、個人の勘に頼った運営は限界を迎えています。\n今すぐ「属人性の罠」を脱却し、誰でも同水準の成果を再現できる組織を目指しましょう。\n\n---\n\n### タイムスタンプ\n\n00:00 真の危機は人口減少ではない\n00:25 属人性に依存する組織の末路\n00:46 精神論の限界と非効率の正体\n01:03 「属人性の罠」を脱却する方法\n01:16 知性の骨格を構築する3つのステップ\n01:49 経験を流出させない「回路」の定着\n02:04 10年後も機能する「思考の型」\n\n---\n\n### 公式リンク・SNSアカウント\n\n最新情報やお問い合わせはこちらから。\n\n公式サイト：[https://sites.google.com/view/yanagisawa-takayuki/]\nYouTube：[https://youtube.com/@marcie_nocturne?si=udNXnXmFDOokTgWM]\nTwitter：[https://x.com/marcie_nocturne]\nInstagram：[https://www.instagram.com/marcie_nocturne/]\nTikTok：[https://www.tiktok.com/@marcie_nocturne]\n\n#組織マネジメント #DX #属人化解消 #業務効率化 #人材育成 #ビジネススキル #ナレッジシェア #YouTubeショート #リーダーシップ #経営戦略",
-          "publishedAt": "2026-03-16T09:01:22Z",
-          "channelTitle": "やなぎさわ誉之(たかゆき)【道は続くよどこまでも】",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/reNc9zavcGQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/reNc9zavcGQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/reNc9zavcGQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/reNc9zavcGQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/reNc9zavcGQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1329
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -1062,7 +1062,7 @@
               "height": 720
             }
           },
-          "viewCount": 19277,
+          "viewCount": 19965,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1229,7 +1229,7 @@
               "height": 720
             }
           },
-          "viewCount": 6054,
+          "viewCount": 6065,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1371,7 +1371,7 @@
               "height": 720
             }
           },
-          "viewCount": 3896,
+          "viewCount": 3899,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-09T12:16:23Z",
@@ -1463,7 +1463,7 @@
               "height": 720
             }
           },
-          "viewCount": 985
+          "viewCount": 1012
         },
         {
           "videoId": "aG323qBFVNU",
@@ -1498,7 +1498,7 @@
               "height": 720
             }
           },
-          "viewCount": 3951,
+          "viewCount": 3960,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1539,7 +1539,7 @@
               "height": 720
             }
           },
-          "viewCount": 1982,
+          "viewCount": 1991,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
