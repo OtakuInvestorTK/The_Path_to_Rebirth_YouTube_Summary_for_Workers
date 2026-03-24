@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-24T06:58:41.704Z",
+  "requestedAt": "2026-03-24T07:55:29.702Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12743,
+          "viewCount": 12890,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 6130,
+          "viewCount": 6132,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -156,7 +156,47 @@
         }
       },
       "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "-XURaUGjenc",
+          "title": "青柳みつやのYouTube Live!! #34",
+          "description": "石丸伸二氏が代表を務める政治団体\"再生の道\"、元公認候補者。2025/7の東京都議会議員選挙（杉並区選挙区）に出馬、落選。現在はいち国民・有権者として、政治のエンタメ化・政治的関心の向上に貢献すべくYouTube/Xを中心に発信活動中。\nそんな青柳みつやが、直近1週間の政治に関連する話題やトピックを、自身の発信を中心に皆さんと振り返りながら解説・交流していく場として、本ライブを実施します。みなさんぜひお気軽にお楽しみください!!（毎週火曜日21:00予定）",
+          "publishedAt": "2026-03-24T07:50:39Z",
+          "channelTitle": "青柳みつや",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-XURaUGjenc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-XURaUGjenc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-XURaUGjenc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-XURaUGjenc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-XURaUGjenc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-24T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "ZAMbw-uH1W4",
@@ -191,7 +231,7 @@
               "height": 720
             }
           },
-          "viewCount": 4945
+          "viewCount": 4942
         },
         {
           "videoId": "adwREJ1kdfY",
@@ -221,7 +261,7 @@
               "height": 480
             }
           },
-          "viewCount": 6414,
+          "viewCount": 6415,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-17T12:00:00Z",
@@ -338,7 +378,7 @@
               "height": 720
             }
           },
-          "viewCount": 1929
+          "viewCount": 1935
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -373,7 +413,7 @@
               "height": 720
             }
           },
-          "viewCount": 1576
+          "viewCount": 1577
         },
         {
           "videoId": "-s-akYXLJIo",
@@ -408,7 +448,7 @@
               "height": 720
             }
           },
-          "viewCount": 4552
+          "viewCount": 4559
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -519,7 +559,7 @@
               "height": 720
             }
           },
-          "viewCount": 3858,
+          "viewCount": 3895,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T13:30:00Z",
@@ -1027,7 +1067,7 @@
               "height": 720
             }
           },
-          "viewCount": 23200,
+          "viewCount": 23268,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1194,7 +1234,7 @@
               "height": 720
             }
           },
-          "viewCount": 6105,
+          "viewCount": 6104,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1386,7 +1426,7 @@
               "height": 720
             }
           },
-          "viewCount": 1248
+          "viewCount": 1258
         },
         {
           "videoId": "aG323qBFVNU",
@@ -1421,7 +1461,7 @@
               "height": 720
             }
           },
-          "viewCount": 4008,
+          "viewCount": 4009,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1462,7 +1502,7 @@
               "height": 720
             }
           },
-          "viewCount": 2005,
+          "viewCount": 2008,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
