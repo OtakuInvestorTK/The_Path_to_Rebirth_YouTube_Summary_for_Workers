@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-25T11:37:14.269Z",
+  "requestedAt": "2026-03-25T12:55:43.785Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15059,
+          "viewCount": 15144,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 6185,
+          "viewCount": 6192,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 5247,
+          "viewCount": 5349,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-24T12:00:00Z",
@@ -232,7 +232,7 @@
               "height": 720
             }
           },
-          "viewCount": 5070
+          "viewCount": 5082
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -343,7 +343,7 @@
               "height": 720
             }
           },
-          "viewCount": 2130
+          "viewCount": 2137
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -378,7 +378,7 @@
               "height": 720
             }
           },
-          "viewCount": 1598
+          "viewCount": 1599
         },
         {
           "videoId": "-s-akYXLJIo",
@@ -524,7 +524,7 @@
               "height": 720
             }
           },
-          "viewCount": 4078,
+          "viewCount": 4090,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T13:30:00Z",
@@ -962,7 +962,7 @@
               "height": 720
             }
           },
-          "viewCount": 24577,
+          "viewCount": 24659,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1096,6 +1096,47 @@
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "X6xC76z7vBc",
+          "title": "なおりん通信シーズン２　＃１",
+          "description": "",
+          "publishedAt": "2026-03-25T12:01:47Z",
+          "channelTitle": "浅井なおゆき@再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 899,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-03-25T12:01:47Z",
+            "actualStartTime": "2026-03-25T12:03:59Z",
+            "actualEndTime": "2026-03-25T12:51:35Z"
+          }
+        },
         {
           "videoId": "AbD_pNWpVhw",
           "title": "なおりん通信シーズン1　＃25",
@@ -1321,7 +1362,7 @@
               "height": 720
             }
           },
-          "viewCount": 1730
+          "viewCount": 1762
         },
         {
           "videoId": "aG323qBFVNU",
@@ -1356,7 +1397,7 @@
               "height": 720
             }
           },
-          "viewCount": 4061,
+          "viewCount": 4063,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
