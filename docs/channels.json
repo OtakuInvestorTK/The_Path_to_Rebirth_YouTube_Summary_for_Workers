@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-25T12:55:43.785Z",
+  "requestedAt": "2026-03-25T14:15:56.930Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15144,
+          "viewCount": 15234,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 6192,
+          "viewCount": 6193,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-18T12:35:36Z",
@@ -191,7 +191,7 @@
               "height": 720
             }
           },
-          "viewCount": 5349,
+          "viewCount": 5438,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-24T12:00:00Z",
@@ -343,7 +343,7 @@
               "height": 720
             }
           },
-          "viewCount": 2137
+          "viewCount": 2158
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -801,7 +801,7 @@
               "height": 720
             }
           },
-          "viewCount": 613
+          "viewCount": 615
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -962,7 +962,7 @@
               "height": 720
             }
           },
-          "viewCount": 24659,
+          "viewCount": 24714,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1100,36 +1100,36 @@
           "videoId": "X6xC76z7vBc",
           "title": "なおりん通信シーズン２　＃１",
           "description": "",
-          "publishedAt": "2026-03-25T12:01:47Z",
+          "publishedAt": "2026-03-25T13:15:42Z",
           "channelTitle": "浅井なおゆき@再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 899,
+          "viewCount": 1352,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-25T12:01:47Z",
@@ -1170,7 +1170,7 @@
               "height": 720
             }
           },
-          "viewCount": 6134,
+          "viewCount": 6135,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T10:48:27Z",
@@ -1362,7 +1362,7 @@
               "height": 720
             }
           },
-          "viewCount": 1762
+          "viewCount": 1786
         },
         {
           "videoId": "aG323qBFVNU",
@@ -1397,7 +1397,7 @@
               "height": 720
             }
           },
-          "viewCount": 4063,
+          "viewCount": 4068,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1438,7 +1438,7 @@
               "height": 720
             }
           },
-          "viewCount": 2036,
+          "viewCount": 2037,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
