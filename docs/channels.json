@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-26T13:00:06.990Z",
+  "requestedAt": "2026-03-26T14:26:40.604Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15848,
+          "viewCount": 15891,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 6001,
+          "viewCount": 6033,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-24T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 5139
+          "viewCount": 5137
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -301,7 +301,7 @@
               "height": 720
             }
           },
-          "viewCount": 2236
+          "viewCount": 2238
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 1609
+          "viewCount": 1611
         },
         {
           "videoId": "-s-akYXLJIo",
@@ -371,7 +371,7 @@
               "height": 720
             }
           },
-          "viewCount": 4598
+          "viewCount": 4597
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -724,7 +724,7 @@
               "height": 720
             }
           },
-          "viewCount": 740
+          "viewCount": 741
         }
       ],
       "name": "柳沢誉之,柳沢たかゆき,やなぎさわ誉之,やなぎさわたかゆき"
@@ -885,7 +885,7 @@
               "height": 720
             }
           },
-          "viewCount": 25110,
+          "viewCount": 25164,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1052,7 +1052,7 @@
               "height": 720
             }
           },
-          "viewCount": 3788,
+          "viewCount": 3833,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-25T12:01:47Z",
@@ -1213,38 +1213,38 @@
       "recentVideos": [
         {
           "videoId": "bG20Ff92Lvc",
-          "title": "ヨシヒコ・ライブ Vol.22",
+          "title": "吉田あやさん〜杉並ペンギンなど。ヨシヒコ・ライブ Vol.22",
           "description": "杉並ペンギンのことをちょっと\n杉並のとある小学校教育現場のお話\n今週の活動報告（おひとり様クリーンロード、みどりの探検隊、杉並お話会）\nマヨさんとの対談を終えて\nそれから、ソムリエ西岡優樹さんとの対談も実は\n\n。。。こんなに話せるかな（笑）",
-          "publishedAt": "2026-03-26T05:59:03Z",
+          "publishedAt": "2026-03-26T13:26:55Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 732,
+          "viewCount": 1102,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1285,7 +1285,7 @@
               "height": 720
             }
           },
-          "viewCount": 1879
+          "viewCount": 1901
         },
         {
           "videoId": "aG323qBFVNU",
@@ -1320,7 +1320,7 @@
               "height": 720
             }
           },
-          "viewCount": 4098,
+          "viewCount": 4101,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1361,7 +1361,7 @@
               "height": 720
             }
           },
-          "viewCount": 2057,
+          "viewCount": 2059,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
