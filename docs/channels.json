@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-26T04:28:47.408Z",
+  "requestedAt": "2026-03-26T06:08:52.815Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15605,
+          "viewCount": 15649,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 5842,
+          "viewCount": 5861,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-24T12:00:00Z",
@@ -301,7 +301,7 @@
               "height": 720
             }
           },
-          "viewCount": 2210
+          "viewCount": 2205
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -371,7 +371,7 @@
               "height": 720
             }
           },
-          "viewCount": 4593
+          "viewCount": 4592
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 24966,
+          "viewCount": 24982,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1087,7 +1087,7 @@
               "height": 720
             }
           },
-          "viewCount": 3498,
+          "viewCount": 3575,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-25T12:01:47Z",
@@ -1285,7 +1285,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "bG20Ff92Lvc",
+          "title": "ヨシヒコ・ライブ Vol.22",
+          "description": "杉並ペンギンのことをちょっと\n杉並のとある小学校教育現場のお話\n今週の活動報告（おひとり様クリーンロード、みどりの探検隊、杉並お話会）\nマヨさんとの対談を終えて\nそれから、ソムリエ西岡優樹さんとの対談も実は\n\n。。。こんなに話せるかな（笑）",
+          "publishedAt": "2026-03-26T05:59:03Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bG20Ff92Lvc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-26T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "yciToPUHHus",
@@ -1320,7 +1360,7 @@
               "height": 720
             }
           },
-          "viewCount": 1852
+          "viewCount": 1854
         },
         {
           "videoId": "aG323qBFVNU",
@@ -1355,7 +1395,7 @@
               "height": 720
             }
           },
-          "viewCount": 4085,
+          "viewCount": 4090,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
