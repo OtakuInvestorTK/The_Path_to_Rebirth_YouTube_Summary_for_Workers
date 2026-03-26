@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-26T11:44:18.748Z",
+  "requestedAt": "2026-03-26T13:00:06.990Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15809,
+          "viewCount": 15848,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -149,7 +149,7 @@
               "height": 720
             }
           },
-          "viewCount": 5965,
+          "viewCount": 6001,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-24T12:00:00Z",
@@ -190,7 +190,7 @@
               "height": 720
             }
           },
-          "viewCount": 5136
+          "viewCount": 5139
         }
       ],
       "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
@@ -301,7 +301,7 @@
               "height": 720
             }
           },
-          "viewCount": 2221
+          "viewCount": 2236
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -371,7 +371,7 @@
               "height": 720
             }
           },
-          "viewCount": 4597
+          "viewCount": 4598
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -482,7 +482,7 @@
               "height": 720
             }
           },
-          "viewCount": 4186,
+          "viewCount": 4188,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T13:30:00Z",
@@ -885,7 +885,7 @@
               "height": 720
             }
           },
-          "viewCount": 25072,
+          "viewCount": 25110,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1052,7 +1052,7 @@
               "height": 720
             }
           },
-          "viewCount": 3744,
+          "viewCount": 3788,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-25T12:01:47Z",
@@ -1209,7 +1209,8 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "bG20Ff92Lvc",
           "title": "ヨシヒコ・ライブ Vol.22",
@@ -1243,14 +1244,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 732,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-03-26T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-03-26T12:00:00Z",
+            "actualStartTime": "2026-03-26T11:59:51Z",
+            "actualEndTime": "2026-03-26T12:57:06Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "yciToPUHHus",
           "title": "おひとり様クリーンロード大作戦",
@@ -1319,7 +1320,7 @@
               "height": 720
             }
           },
-          "viewCount": 4097,
+          "viewCount": 4098,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-20T03:00:00Z",
@@ -1360,7 +1361,7 @@
               "height": 720
             }
           },
-          "viewCount": 2056,
+          "viewCount": 2057,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-19T12:00:00Z",
