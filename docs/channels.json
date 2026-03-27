@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-27T12:52:24.499Z",
+  "requestedAt": "2026-03-27T14:07:47.995Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2565
+          "viewCount": 2782
         },
         {
           "videoId": "EOuziXlyLII",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 6388,
+          "viewCount": 6439,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-24T12:00:00Z",
@@ -301,7 +301,7 @@
               "height": 720
             }
           },
-          "viewCount": 2255
+          "viewCount": 2258
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -482,7 +482,7 @@
               "height": 720
             }
           },
-          "viewCount": 4222,
+          "viewCount": 4226,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T13:30:00Z",
@@ -884,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 25518,
+          "viewCount": 25529,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1243,7 +1243,7 @@
               "height": 720
             }
           },
-          "viewCount": 3958,
+          "viewCount": 4019,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1311,7 +1311,43 @@
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "NIhDOX9lhHk",
+          "title": "加藤てつお  恋愛パロディーショー （パロディです）",
+          "description": "📣大田区を良くするアイデアや、活動を支えてくれるサポーターも募集中です！ \n👇 サポーター参加はこちらのフォームから！\nhttps://forms.gle/NmSBcWQ6MhG9onXR8\n\n\n【SNS・チャンネル登録】\n「届かぬ声」を形にするため、一歩ずつ進んでいきます。\n応援いただける方は、ぜひチャンネル登録と高評価をお願いしやっす！\nhttps://www.youtube.com/@TETSUO-OMG\nhttps://x.com/Tetsuo_OMG",
+          "publishedAt": "2026-03-27T13:02:52Z",
+          "channelTitle": "加藤てつお【再生の道】1st Gen.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 665
+        }
+      ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
