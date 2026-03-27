@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-27T22:26:03.341Z",
+  "requestedAt": "2026-03-27T23:25:48.359Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3178
+          "viewCount": 3209
         },
         {
           "videoId": "EOuziXlyLII",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 16210,
+          "viewCount": 16219,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -184,7 +184,7 @@
               "height": 720
             }
           },
-          "viewCount": 6489,
+          "viewCount": 6493,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-24T12:00:00Z",
@@ -884,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 25644,
+          "viewCount": 25647,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1243,7 +1243,7 @@
               "height": 720
             }
           },
-          "viewCount": 4222,
+          "viewCount": 4243,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1345,7 +1345,7 @@
               "height": 720
             }
           },
-          "viewCount": 2264
+          "viewCount": 2442
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
