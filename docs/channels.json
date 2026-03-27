@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-27T10:41:11.205Z",
+  "requestedAt": "2026-03-27T11:37:14.202Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1953
+          "viewCount": 2221
         },
         {
           "videoId": "EOuziXlyLII",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 16117,
+          "viewCount": 16142,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -849,7 +849,7 @@
               "height": 720
             }
           },
-          "viewCount": 25485,
+          "viewCount": 25498,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1016,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 4081,
+          "viewCount": 4085,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-25T12:01:47Z",
@@ -1208,7 +1208,7 @@
               "height": 720
             }
           },
-          "viewCount": 3806,
+          "viewCount": 3870,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1249,7 +1249,7 @@
               "height": 720
             }
           },
-          "viewCount": 1924
+          "viewCount": 1929
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
