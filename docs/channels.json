@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-27T11:37:14.202Z",
+  "requestedAt": "2026-03-27T12:52:24.499Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2221
+          "viewCount": 2565
         },
         {
           "videoId": "EOuziXlyLII",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 16142,
+          "viewCount": 16155,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -301,7 +301,7 @@
               "height": 720
             }
           },
-          "viewCount": 2253
+          "viewCount": 2255
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -336,7 +336,7 @@
               "height": 720
             }
           },
-          "viewCount": 1616
+          "viewCount": 1619
         },
         {
           "videoId": "-s-akYXLJIo",
@@ -482,7 +482,7 @@
               "height": 720
             }
           },
-          "viewCount": 4219,
+          "viewCount": 4222,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T13:30:00Z",
@@ -814,7 +814,42 @@
         }
       },
       "channelId": "UC-gXn6aDzde6hcUucwALegw",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "u6N6ZDEpYkE",
+          "title": "第36回ミートアップオンライン",
+          "description": "皆様、今週も１週間お疲れ様でした。\n次回は\n\n3月29日（日）10:00-10:30\n\nにて開催予定です。\nぜひお立ち寄りください。",
+          "publishedAt": "2026-03-27T12:50:56Z",
+          "channelTitle": "吉田あや　公式チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u6N6ZDEpYkE/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u6N6ZDEpYkE/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u6N6ZDEpYkE/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u6N6ZDEpYkE/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-03-29T01:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "ai7lBdUKlU4",
@@ -849,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 25498,
+          "viewCount": 25518,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1208,7 +1243,7 @@
               "height": 720
             }
           },
-          "viewCount": 3870,
+          "viewCount": 3958,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1249,7 +1284,7 @@
               "height": 720
             }
           },
-          "viewCount": 1929
+          "viewCount": 1932
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
