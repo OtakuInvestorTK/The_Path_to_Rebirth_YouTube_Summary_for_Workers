@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-28T11:23:25.218Z",
+  "requestedAt": "2026-03-28T12:40:34.301Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5290,
+          "viewCount": 5842,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 3665
+          "viewCount": 3705
         },
         {
           "videoId": "EOuziXlyLII",
@@ -168,98 +168,6 @@
       "liveVideos": [],
       "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
-    },
-    {
-      "input": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "channelTitle": "チームみつや | 政治とビジネスを映像で",
-      "channelThumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/G5awP7RxyDrGgwvWS_moSMg41HDSrHDgXq0fmaQw9t_oQ21pioiOnZTRfUDq_vrcziJURDlxzg=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/G5awP7RxyDrGgwvWS_moSMg41HDSrHDgXq0fmaQw9t_oQ21pioiOnZTRfUDq_vrcziJURDlxzg=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/G5awP7RxyDrGgwvWS_moSMg41HDSrHDgXq0fmaQw9t_oQ21pioiOnZTRfUDq_vrcziJURDlxzg=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "channelId": "UC0WIXNxU7E4DN1yizZVrnIA",
-      "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "-XURaUGjenc",
-          "title": "青柳みつやのYouTube Live!! #34",
-          "description": "石丸伸二氏が代表を務める政治団体\"再生の道\"、元公認候補者。2025/7の東京都議会議員選挙（杉並区選挙区）に出馬、落選。現在はいち国民・有権者として、政治のエンタメ化・政治的関心の向上に貢献すべくYouTube/Xを中心に発信活動中。\nそんな青柳みつやが、直近1週間の政治に関連する話題やトピックを、自身の発信を中心に皆さんと振り返りながら解説・交流していく場として、本ライブを実施します。みなさんぜひお気軽にお楽しみください!!（毎週火曜日21:00予定）",
-          "publishedAt": "2026-03-24T13:25:12Z",
-          "channelTitle": "チームみつや | 政治とビジネスを映像で",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-XURaUGjenc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-XURaUGjenc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-XURaUGjenc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/-XURaUGjenc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/-XURaUGjenc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6596,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-24T12:00:00Z",
-            "actualStartTime": "2026-03-24T12:17:46Z",
-            "actualEndTime": "2026-03-24T13:15:34Z"
-          }
-        }
-      ],
-      "name": "青柳充哉,青柳みつや,あおやぎ充哉,あおやぎみつや"
-    },
-    {
-      "input": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "channelTitle": "水野 純也 ",
-      "channelThumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/bqBY0fvS1gSQRbkeKSjejN40pTH9Dk6sOp7yw09KdOLeAKNvlqMqQiERFGzHOwQoJcgZrdazMCk=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/bqBY0fvS1gSQRbkeKSjejN40pTH9Dk6sOp7yw09KdOLeAKNvlqMqQiERFGzHOwQoJcgZrdazMCk=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/bqBY0fvS1gSQRbkeKSjejN40pTH9Dk6sOp7yw09KdOLeAKNvlqMqQiERFGzHOwQoJcgZrdazMCk=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "channelId": "UC9Mn_9je9JGVMfFkVIQMQsw",
-      "liveVideos": [],
-      "recentVideos": [],
-      "name": "水野純也,水野じゅんや,みずの純也,みずのじゅんや"
     },
     {
       "input": "UC06DwrQiecM4t3UegP39Jzg",
@@ -342,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 1191
+          "viewCount": 1313
         },
         {
           "videoId": "duJlrrZn9mo",
@@ -377,7 +285,7 @@
               "height": 720
             }
           },
-          "viewCount": 2276
+          "viewCount": 2279
         },
         {
           "videoId": "tmml6nO9Mbs",
@@ -412,42 +320,7 @@
               "height": 720
             }
           },
-          "viewCount": 1623
-        },
-        {
-          "videoId": "-s-akYXLJIo",
-          "title": "都知事は緑のおばさん？",
-          "description": "鳥取県知事が都知事を「おばさん」と呼称した件で話しています。#鳥取県知事 #都知事 #緑のおばさん #小池百合子",
-          "publishedAt": "2026-03-21T12:27:55Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/-s-akYXLJIo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4617
+          "viewCount": 1624
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -960,7 +833,7 @@
               "height": 720
             }
           },
-          "viewCount": 25786,
+          "viewCount": 25813,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1319,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 4400,
+          "viewCount": 4422,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1360,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 1951
+          "viewCount": 1955
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1421,7 +1294,7 @@
               "height": 720
             }
           },
-          "viewCount": 3300
+          "viewCount": 3458
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1456,7 +1329,7 @@
               "height": 720
             }
           },
-          "viewCount": 4851
+          "viewCount": 5082
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
