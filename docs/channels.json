@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-28T04:13:53.709Z",
+  "requestedAt": "2026-03-28T05:52:28.247Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "7qmDyJvpuFY",
           "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.04",
@@ -56,16 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 463,
+          "viewCount": 1634,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
             "actualStartTime": "2026-03-28T04:03:26Z",
-            "concurrentViewers": 204
+            "actualEndTime": "2026-03-28T05:31:38Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "quA7Di7SeNM",
           "title": "【再生の道】杉並ペンギンの名前・デザイン募集！",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 3366
+          "viewCount": 3440
         },
         {
           "videoId": "EOuziXlyLII",
@@ -134,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 16238,
+          "viewCount": 16248,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -343,7 +342,7 @@
               "height": 720
             }
           },
-          "viewCount": 356
+          "viewCount": 511
         },
         {
           "videoId": "duJlrrZn9mo",
@@ -448,7 +447,7 @@
               "height": 720
             }
           },
-          "viewCount": 4612
+          "viewCount": 4613
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -559,7 +558,7 @@
               "height": 720
             }
           },
-          "viewCount": 4238,
+          "viewCount": 4235,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T13:30:00Z",
@@ -961,7 +960,7 @@
               "height": 720
             }
           },
-          "viewCount": 25706,
+          "viewCount": 25729,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T10:45:00Z",
@@ -1128,7 +1127,7 @@
               "height": 720
             }
           },
-          "viewCount": 4143,
+          "viewCount": 4147,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-25T12:01:47Z",
@@ -1320,7 +1319,7 @@
               "height": 720
             }
           },
-          "viewCount": 4312,
+          "viewCount": 4324,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1422,7 +1421,7 @@
               "height": 720
             }
           },
-          "viewCount": 1582
+          "viewCount": 2172
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1457,7 +1456,7 @@
               "height": 720
             }
           },
-          "viewCount": 3701
+          "viewCount": 3989
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
