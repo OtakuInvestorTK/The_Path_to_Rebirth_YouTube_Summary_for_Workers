@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-29T07:49:10.089Z",
+  "requestedAt": "2026-03-29T08:33:37.378Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1716,
+          "viewCount": 1965,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 4554,
+          "viewCount": 4583,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 7761,
+          "viewCount": 7784,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -180,7 +180,7 @@
               "height": 720
             }
           },
-          "viewCount": 3919
+          "viewCount": 3918
         },
         {
           "videoId": "EOuziXlyLII",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 16429,
+          "viewCount": 16427,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -332,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 1744
+          "viewCount": 1754
         },
         {
           "videoId": "duJlrrZn9mo",
@@ -1112,48 +1112,13 @@
               "height": 720
             }
           },
-          "viewCount": 4615,
+          "viewCount": 4621,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
             "actualStartTime": "2026-03-26T11:59:51Z",
             "actualEndTime": "2026-03-26T12:57:06Z"
           }
-        },
-        {
-          "videoId": "yciToPUHHus",
-          "title": "おひとり様クリーンロード大作戦",
-          "description": "毎月2回行っているクリーンロード大作戦\n今日は連休最終日でお天気がよかったせいか、、、\nどなたも来ず。\nはじめて一人で清掃活動してきました。",
-          "publishedAt": "2026-03-22T08:09:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/yciToPUHHus/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/yciToPUHHus/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/yciToPUHHus/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/yciToPUHHus/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/yciToPUHHus/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1964
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1214,7 +1179,7 @@
               "height": 720
             }
           },
-          "viewCount": 4339
+          "viewCount": 4358
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1249,7 +1214,7 @@
               "height": 720
             }
           },
-          "viewCount": 6091
+          "viewCount": 6111
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
