@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-29T12:40:24.336Z",
+  "requestedAt": "2026-03-29T13:48:33.924Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 853
+          "viewCount": 1411
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3181,
+          "viewCount": 3283,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 4679,
+          "viewCount": 4674,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 7862,
+          "viewCount": 7866,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 3990
+          "viewCount": 3999
         },
         {
           "videoId": "EOuziXlyLII",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 16458,
+          "viewCount": 16460,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -367,42 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 1824
-        },
-        {
-          "videoId": "duJlrrZn9mo",
-          "title": "パリパリ鳥皮大量注文",
-          "description": "",
-          "publishedAt": "2026-03-22T12:56:59Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/duJlrrZn9mo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/duJlrrZn9mo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/duJlrrZn9mo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/duJlrrZn9mo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/duJlrrZn9mo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2309
+          "viewCount": 1830
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -513,7 +478,7 @@
               "height": 720
             }
           },
-          "viewCount": 4325,
+          "viewCount": 4333,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-22T13:30:00Z",
@@ -1147,7 +1112,7 @@
               "height": 720
             }
           },
-          "viewCount": 4658,
+          "viewCount": 4670,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1179,50 +1144,49 @@
         }
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "IjmpoQMlbx4",
           "title": "3/29 かとてつライブ配信",
           "description": "",
-          "publishedAt": "2026-03-29T10:26:49Z",
+          "publishedAt": "2026-03-29T13:30:04Z",
           "channelTitle": "加藤てつお【再生の道】1st Gen.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 212,
+          "viewCount": 851,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
             "actualStartTime": "2026-03-29T12:29:52Z",
-            "concurrentViewers": 169
+            "actualEndTime": "2026-03-29T13:15:17Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "-_WlJAw5xu8",
           "title": "○○検査は妊活のためじゃない。“人生のため”です【かとてつ＠大田区】",
@@ -1256,7 +1220,7 @@
               "height": 720
             }
           },
-          "viewCount": 380
+          "viewCount": 484
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1291,7 +1255,7 @@
               "height": 720
             }
           },
-          "viewCount": 4466
+          "viewCount": 4497
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1326,7 +1290,7 @@
               "height": 720
             }
           },
-          "viewCount": 6260
+          "viewCount": 6318
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
