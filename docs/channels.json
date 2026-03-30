@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-03-30T11:51:19.794Z",
+  "requestedAt": "2026-03-30T13:05:00.093Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,10 +56,11 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 1521,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-03-30T12:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-03-30T12:00:00Z",
+            "actualStartTime": "2026-03-30T11:58:07Z"
           }
         }
       ],
@@ -97,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 4622
+          "viewCount": 4733
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -132,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3919,
+          "viewCount": 3956,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -173,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4817,
+          "viewCount": 4828,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -214,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 8010,
+          "viewCount": 8033,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -290,7 +291,7 @@
               "height": 720
             }
           },
-          "viewCount": 16536,
+          "viewCount": 16544,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-23T12:00:00Z",
@@ -407,7 +408,7 @@
               "height": 720
             }
           },
-          "viewCount": 2001
+          "viewCount": 2004
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -893,7 +894,7 @@
               "height": 720
             }
           },
-          "viewCount": 1650,
+          "viewCount": 2556,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1152,7 +1153,7 @@
               "height": 720
             }
           },
-          "viewCount": 4736,
+          "viewCount": 4741,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1219,7 +1220,7 @@
               "height": 720
             }
           },
-          "viewCount": 3454,
+          "viewCount": 3499,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1260,7 +1261,7 @@
               "height": 720
             }
           },
-          "viewCount": 1145
+          "viewCount": 1188
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1295,7 +1296,7 @@
               "height": 720
             }
           },
-          "viewCount": 4782
+          "viewCount": 4776
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1330,7 +1331,7 @@
               "height": 720
             }
           },
-          "viewCount": 6972
+          "viewCount": 7035
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
