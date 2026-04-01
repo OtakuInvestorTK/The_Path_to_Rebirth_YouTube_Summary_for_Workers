@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-01T13:06:09.532Z",
+  "requestedAt": "2026-04-01T14:58:45.330Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5661,
+          "viewCount": 5698,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5759
+          "viewCount": 5773
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 4191,
+          "viewCount": 4206,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4918,
+          "viewCount": 4927,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 8163,
+          "viewCount": 8171,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 4337
+          "viewCount": 4352
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -317,7 +317,7 @@
               "height": 720
             }
           },
-          "viewCount": 6307,
+          "viewCount": 7199,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -409,7 +409,7 @@
               "height": 720
             }
           },
-          "viewCount": 2161
+          "viewCount": 2169
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -895,7 +895,7 @@
               "height": 720
             }
           },
-          "viewCount": 5983,
+          "viewCount": 5992,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -928,49 +928,7 @@
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "X6xC76z7vBc",
-          "title": "なおりん通信シーズン２　＃１",
-          "description": "",
-          "publishedAt": "2026-03-25T13:15:42Z",
-          "channelTitle": "浅井なおゆき",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/X6xC76z7vBc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4258,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-25T12:01:47Z",
-            "actualStartTime": "2026-03-25T12:03:59Z",
-            "actualEndTime": "2026-03-25T12:51:35Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
     {
@@ -1221,7 +1179,7 @@
               "height": 720
             }
           },
-          "viewCount": 4032,
+          "viewCount": 4044,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1262,7 +1220,7 @@
               "height": 720
             }
           },
-          "viewCount": 1473
+          "viewCount": 1492
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1332,7 +1290,7 @@
               "height": 720
             }
           },
-          "viewCount": 7392
+          "viewCount": 7428
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
