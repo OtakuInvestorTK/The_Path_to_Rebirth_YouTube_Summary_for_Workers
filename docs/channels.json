@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-01T07:12:17.890Z",
+  "requestedAt": "2026-04-01T08:56:35.474Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5553,
+          "viewCount": 5583,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5644
+          "viewCount": 5701
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4913,
+          "viewCount": 4916,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 8143,
+          "viewCount": 8149,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 4286
+          "viewCount": 4298
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -282,50 +282,50 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "aNmYuC0DyKc",
           "title": "奥村こうき会議室 　w/TELLさん",
-          "description": "議論している様子をオープンにしてみる試みです！TELLさんとみっちースタンプについてお話します。\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2026-04-01T06:42:23Z",
+          "description": "＜ラグが多く大変申し訳ございませんでした＞\n議論している様子をオープンにしてみる試みです！TELLさんとみっちースタンプについてお話します。\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2026-04-01T07:50:39Z",
           "channelTitle": "奥村こうき | 再生の道 代表",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1123,
+          "viewCount": 3967,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
             "actualStartTime": "2026-04-01T06:42:49Z",
-            "concurrentViewers": 193
+            "actualEndTime": "2026-04-01T07:45:36Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -895,7 +895,7 @@
               "height": 720
             }
           },
-          "viewCount": 5922,
+          "viewCount": 5944,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1154,7 +1154,7 @@
               "height": 720
             }
           },
-          "viewCount": 4888,
+          "viewCount": 4889,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1221,7 +1221,7 @@
               "height": 720
             }
           },
-          "viewCount": 3949,
+          "viewCount": 3965,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1262,7 +1262,7 @@
               "height": 720
             }
           },
-          "viewCount": 1442
+          "viewCount": 1459
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1297,7 +1297,7 @@
               "height": 720
             }
           },
-          "viewCount": 5274
+          "viewCount": 5291
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1332,7 +1332,7 @@
               "height": 720
             }
           },
-          "viewCount": 7346
+          "viewCount": 7364
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
