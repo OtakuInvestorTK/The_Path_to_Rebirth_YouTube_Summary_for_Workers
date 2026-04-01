@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-01T05:18:27.069Z",
+  "requestedAt": "2026-04-01T07:12:17.890Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5532,
+          "viewCount": 5553,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 4212,
+          "viewCount": 4180,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 4254
+          "viewCount": 4286
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -282,7 +282,49 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "aNmYuC0DyKc",
+          "title": "奥村こうき会議室 　w/TELLさん",
+          "description": "議論している様子をオープンにしてみる試みです！TELLさんとみっちースタンプについてお話します。\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2026-04-01T06:42:23Z",
+          "channelTitle": "奥村こうき | 再生の道 代表",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aNmYuC0DyKc/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1123,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-04-01T06:42:22Z",
+            "actualStartTime": "2026-04-01T06:42:49Z",
+            "concurrentViewers": 193
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
@@ -367,7 +409,7 @@
               "height": 720
             }
           },
-          "viewCount": 2136
+          "viewCount": 2149
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -853,7 +895,7 @@
               "height": 720
             }
           },
-          "viewCount": 5909,
+          "viewCount": 5922,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -920,7 +962,7 @@
               "height": 720
             }
           },
-          "viewCount": 4253,
+          "viewCount": 4255,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-25T12:01:47Z",
@@ -1112,7 +1154,7 @@
               "height": 720
             }
           },
-          "viewCount": 4882,
+          "viewCount": 4888,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1179,7 +1221,7 @@
               "height": 720
             }
           },
-          "viewCount": 3930,
+          "viewCount": 3949,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1255,7 +1297,7 @@
               "height": 720
             }
           },
-          "viewCount": 5248
+          "viewCount": 5274
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1290,7 +1332,7 @@
               "height": 720
             }
           },
-          "viewCount": 7331
+          "viewCount": 7346
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
