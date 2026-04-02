@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-02T11:41:00.033Z",
+  "requestedAt": "2026-04-02T12:58:46.727Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "LSBIKSIcGiI",
           "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.08",
@@ -56,14 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 922,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-04-02T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-04-02T12:00:00Z",
+            "actualStartTime": "2026-04-02T11:58:15Z",
+            "actualEndTime": "2026-04-02T12:56:50Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "A7RHkVl1zi8",
           "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.07",
@@ -97,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5873,
+          "viewCount": 5883,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -138,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 5991
+          "viewCount": 5995
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -173,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4231,
+          "viewCount": 4233,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -255,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 8203,
+          "viewCount": 8209,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -296,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 4420
+          "viewCount": 4430
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -357,7 +358,7 @@
               "height": 720
             }
           },
-          "viewCount": 8633,
+          "viewCount": 8685,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -449,7 +450,7 @@
               "height": 720
             }
           },
-          "viewCount": 2205
+          "viewCount": 2206
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -685,7 +686,7 @@
               "height": 720
             }
           },
-          "viewCount": 2797
+          "viewCount": 2892
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -971,7 +972,7 @@
               "height": 720
             }
           },
-          "viewCount": 6054,
+          "viewCount": 6065,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1153,11 +1154,12 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "NLn9v8akLic",
           "title": "ヨシヒコ・ライブ#23",
-          "description": "・離党メンバーについてちょっと触れる\n・杉並ペンギンについてちょっと触れる\n・今週の活動でびっくりしたこと\n・「なぜ、シリコンバレーの成功者は、森の中に住みたがるのか」お話会での話題\nなどなどお話したいと思います。\n\nワイン片手にゆるゆると遊びにいらしてください🍷",
+          "description": "・離党メンバーについてちょっと触れる\n・杉並ペンギンについてちょっと触れる\n・今週の活動でびっくりしたこと\n・「なぜ、シリコンバレーの成功者は、森の中に住みたがるのか」お話会での話題\nなどなどお話したいと思います。\n\nワイン片手にゆるゆると遊びにいらしてください🍷\n\n🐧🐧🐧\n\n4月11日（土）《サポーターと共に集う会》にぜひご出席ください。\n身近な自分の街から、動かしていきましょう！\n\n杉並区民に限定していませんが、申し込みが必要です。\nご興味のある方、一緒に盛り上げよう！と思ってくださる方、\nこちらから、お願いします。よろしくお願いします。\n\n■日時\n2026年4月11日（土）12:30～14:00（12:10開場）\n■会場\n荻窪タウンセブンホール\n（杉並区上荻1-9-1 荻窪タウンセブン8階）\n\n【お申し込みはこちら】\n※定員に達し次第締切となります\nhttps://docs.google.com/forms/d/e/1FAIpQLSdJAz8Wa4gIqihbgKG-DOAICdziI8K4Xti8JiNrAzasLK9EPA/viewform",
           "publishedAt": "2026-04-02T04:48:45Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
@@ -1187,14 +1189,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 791,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-04-02T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-04-02T12:00:00Z",
+            "actualStartTime": "2026-04-02T12:01:06Z",
+            "actualEndTime": "2026-04-02T12:52:25Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "bG20Ff92Lvc",
           "title": "吉田あやさん〜杉並ペンギンなど。ヨシヒコ・ライブ Vol.22",
@@ -1228,7 +1230,7 @@
               "height": 720
             }
           },
-          "viewCount": 4982,
+          "viewCount": 4991,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1290,7 +1292,7 @@
               "height": 480
             }
           },
-          "viewCount": 209
+          "viewCount": 402
         },
         {
           "videoId": "IjmpoQMlbx4",
@@ -1366,7 +1368,7 @@
               "height": 720
             }
           },
-          "viewCount": 1563
+          "viewCount": 1573
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1436,7 +1438,7 @@
               "height": 720
             }
           },
-          "viewCount": 7557
+          "viewCount": 7562
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
