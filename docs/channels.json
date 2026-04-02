@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-02T10:46:17.123Z",
+  "requestedAt": "2026-04-02T11:41:00.033Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 5822,
+          "viewCount": 5873,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 5973
+          "viewCount": 5991
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -173,7 +173,7 @@
               "height": 720
             }
           },
-          "viewCount": 4230,
+          "viewCount": 4231,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -296,7 +296,7 @@
               "height": 720
             }
           },
-          "viewCount": 4409
+          "viewCount": 4420
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -357,7 +357,7 @@
               "height": 720
             }
           },
-          "viewCount": 8581,
+          "viewCount": 8633,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -449,7 +449,7 @@
               "height": 720
             }
           },
-          "viewCount": 2198
+          "viewCount": 2205
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -685,7 +685,7 @@
               "height": 720
             }
           },
-          "viewCount": 2688
+          "viewCount": 2797
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1290,7 +1290,7 @@
               "height": 480
             }
           },
-          "viewCount": 107
+          "viewCount": 209
         },
         {
           "videoId": "IjmpoQMlbx4",
@@ -1436,7 +1436,7 @@
               "height": 720
             }
           },
-          "viewCount": 7552
+          "viewCount": 7557
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
