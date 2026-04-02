@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-02T08:01:34.963Z",
+  "requestedAt": "2026-04-02T09:55:06.992Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "LSBIKSIcGiI",
+          "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.08",
+          "description": "寄付時間\n1/23(金)21:20～\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道",
+          "publishedAt": "2026-04-02T09:45:12Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LSBIKSIcGiI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LSBIKSIcGiI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LSBIKSIcGiI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LSBIKSIcGiI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LSBIKSIcGiI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-04-02T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "A7RHkVl1zi8",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 5822,
+          "viewCount": 5827,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -98,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 5941
+          "viewCount": 5967
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -174,7 +214,7 @@
               "height": 720
             }
           },
-          "viewCount": 4942,
+          "viewCount": 4944,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -215,7 +255,7 @@
               "height": 720
             }
           },
-          "viewCount": 8201,
+          "viewCount": 8202,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -256,7 +296,7 @@
               "height": 720
             }
           },
-          "viewCount": 4404
+          "viewCount": 4410
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -317,7 +357,7 @@
               "height": 720
             }
           },
-          "viewCount": 8441,
+          "viewCount": 8549,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -409,7 +449,7 @@
               "height": 720
             }
           },
-          "viewCount": 2193
+          "viewCount": 2198
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -645,7 +685,7 @@
               "height": 720
             }
           },
-          "viewCount": 2317
+          "viewCount": 2606
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -931,7 +971,7 @@
               "height": 720
             }
           },
-          "viewCount": 6046,
+          "viewCount": 6053,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1117,7 +1157,7 @@
         {
           "videoId": "NLn9v8akLic",
           "title": "ヨシヒコ・ライブ#23",
-          "description": "",
+          "description": "・離党メンバーについてちょっと触れる\n・杉並ペンギンについてちょっと触れる\n・今週の活動でびっくりしたこと\n・「なぜ、シリコンバレーの成功者は、森の中に住みたがるのか」お話会での話題\nなどなどお話したいと思います。\n\nワイン片手にゆるゆると遊びにいらしてください🍷",
           "publishedAt": "2026-04-02T04:48:45Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
@@ -1188,7 +1228,7 @@
               "height": 720
             }
           },
-          "viewCount": 4971,
+          "viewCount": 4982,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1255,7 +1295,7 @@
               "height": 720
             }
           },
-          "viewCount": 4155,
+          "viewCount": 4164,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1296,7 +1336,7 @@
               "height": 720
             }
           },
-          "viewCount": 1548
+          "viewCount": 1556
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1366,7 +1406,7 @@
               "height": 720
             }
           },
-          "viewCount": 7528
+          "viewCount": 7548
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
