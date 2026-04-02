@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-02T04:25:19.599Z",
+  "requestedAt": "2026-04-02T06:07:45.665Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5777,
+          "viewCount": 5794,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5897
+          "viewCount": 5900
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 4216,
+          "viewCount": 4223,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 8192,
+          "viewCount": 8201,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 4393
+          "viewCount": 4396
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -317,7 +317,7 @@
               "height": 720
             }
           },
-          "viewCount": 8268,
+          "viewCount": 8345,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -409,7 +409,7 @@
               "height": 720
             }
           },
-          "viewCount": 2187
+          "viewCount": 2195
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -645,7 +645,7 @@
               "height": 720
             }
           },
-          "viewCount": 1307
+          "viewCount": 1794
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -931,7 +931,7 @@
               "height": 720
             }
           },
-          "viewCount": 6039,
+          "viewCount": 6044,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1113,7 +1113,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "NLn9v8akLic",
+          "title": "ヨシヒコ・ライブ#23",
+          "description": "",
+          "publishedAt": "2026-04-02T04:48:45Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NLn9v8akLic/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NLn9v8akLic/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NLn9v8akLic/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NLn9v8akLic/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NLn9v8akLic/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-04-02T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "bG20Ff92Lvc",
@@ -1148,7 +1188,7 @@
               "height": 720
             }
           },
-          "viewCount": 4966,
+          "viewCount": 4971,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1215,7 +1255,7 @@
               "height": 720
             }
           },
-          "viewCount": 4130,
+          "viewCount": 4145,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1256,7 +1296,7 @@
               "height": 720
             }
           },
-          "viewCount": 1544
+          "viewCount": 1548
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1291,7 +1331,7 @@
               "height": 720
             }
           },
-          "viewCount": 5382
+          "viewCount": 5385
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1326,7 +1366,7 @@
               "height": 720
             }
           },
-          "viewCount": 7514
+          "viewCount": 7521
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
