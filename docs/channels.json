@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-02T01:49:24.391Z",
+  "requestedAt": "2026-04-02T04:25:19.599Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5756,
+          "viewCount": 5777,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5863
+          "viewCount": 5897
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4933,
+          "viewCount": 4934,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 4387
+          "viewCount": 4393
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -317,7 +317,7 @@
               "height": 720
             }
           },
-          "viewCount": 8072,
+          "viewCount": 8268,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -611,7 +611,43 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "ybT1dSWYhoc",
+          "title": "歩行者・自転車通行空間改善 #府中市　#インフラ管理 #ボランティア",
+          "description": "",
+          "publishedAt": "2026-04-02T03:20:28Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ybT1dSWYhoc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ybT1dSWYhoc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ybT1dSWYhoc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ybT1dSWYhoc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ybT1dSWYhoc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1307
+        }
+      ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -895,7 +931,7 @@
               "height": 720
             }
           },
-          "viewCount": 6031,
+          "viewCount": 6039,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1112,7 +1148,7 @@
               "height": 720
             }
           },
-          "viewCount": 4961,
+          "viewCount": 4966,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-26T12:00:00Z",
@@ -1179,7 +1215,7 @@
               "height": 720
             }
           },
-          "viewCount": 4120,
+          "viewCount": 4130,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1220,7 +1256,7 @@
               "height": 720
             }
           },
-          "viewCount": 1533
+          "viewCount": 1544
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1255,7 +1291,7 @@
               "height": 720
             }
           },
-          "viewCount": 5381
+          "viewCount": 5382
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1290,7 +1326,7 @@
               "height": 720
             }
           },
-          "viewCount": 7477
+          "viewCount": 7514
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
