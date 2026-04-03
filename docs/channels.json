@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-03T12:51:43.947Z",
+  "requestedAt": "2026-04-03T13:59:20.681Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3119,
+          "viewCount": 3155,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 6181
+          "viewCount": 6192
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4267,
+          "viewCount": 4270,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 4961,
+          "viewCount": 4962,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 8249,
+          "viewCount": 8263,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T04:02:27Z",
@@ -323,7 +323,7 @@
               "height": 720
             }
           },
-          "viewCount": 8947,
+          "viewCount": 8956,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -415,7 +415,7 @@
               "height": 720
             }
           },
-          "viewCount": 2220
+          "viewCount": 2221
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -651,7 +651,7 @@
               "height": 720
             }
           },
-          "viewCount": 9261
+          "viewCount": 10929
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1154,7 +1154,7 @@
               "height": 720
             }
           },
-          "viewCount": 2768,
+          "viewCount": 2771,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -1186,50 +1186,49 @@
         }
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "qwkIdYeZZfE",
           "title": "恋愛病院感想ライブPARTⅡ",
           "description": "Ⅱ",
-          "publishedAt": "2026-04-03T12:21:30Z",
+          "publishedAt": "2026-04-03T13:27:02Z",
           "channelTitle": "加藤てつお【再生の道】1st Gen.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 347,
+          "viewCount": 772,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
             "actualStartTime": "2026-04-03T12:30:17Z",
-            "concurrentViewers": 144
+            "actualEndTime": "2026-04-03T13:11:24Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "s9p2UxbrTsg",
           "title": "2026年4月から変わった共同親権は誰に関係ある？対象・仕組み・今後のポイントを解説",
@@ -1258,7 +1257,7 @@
               "height": 480
             }
           },
-          "viewCount": 1214
+          "viewCount": 1226
         },
         {
           "videoId": "IjmpoQMlbx4",
@@ -1293,7 +1292,7 @@
               "height": 720
             }
           },
-          "viewCount": 4240,
+          "viewCount": 4244,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1334,7 +1333,7 @@
               "height": 720
             }
           },
-          "viewCount": 1613
+          "viewCount": 1611
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1370,41 +1369,6 @@
             }
           },
           "viewCount": 5441
-        },
-        {
-          "videoId": "NIhDOX9lhHk",
-          "title": "加藤てつお  恋愛パロディーショー （パロディです）",
-          "description": "📣大田区を良くするアイデアや、活動を支えてくれるサポーターも募集中です！ \n👇 サポーター参加はこちらのフォームから！\nhttps://forms.gle/NmSBcWQ6MhG9onXR8\n\n\n【SNS・チャンネル登録】\n「届かぬ声」を形にするため、一歩ずつ進んでいきます。\n応援いただける方は、ぜひチャンネル登録と高評価をお願いしやっす！\nhttps://www.youtube.com/@TETSUO-OMG\nhttps://x.com/Tetsuo_OMG",
-          "publishedAt": "2026-03-27T13:02:52Z",
-          "channelTitle": "加藤てつお【再生の道】1st Gen.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/NIhDOX9lhHk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7572
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
