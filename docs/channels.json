@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-03T11:33:33.859Z",
+  "requestedAt": "2026-04-03T12:51:43.947Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3072,
+          "viewCount": 3119,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 6192
+          "viewCount": 6181
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4268,
+          "viewCount": 4267,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 4960,
+          "viewCount": 4961,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -323,7 +323,7 @@
               "height": 720
             }
           },
-          "viewCount": 8938,
+          "viewCount": 8947,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -651,7 +651,7 @@
               "height": 720
             }
           },
-          "viewCount": 7820
+          "viewCount": 9261
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1154,7 +1154,7 @@
               "height": 720
             }
           },
-          "viewCount": 2720,
+          "viewCount": 2768,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -1186,7 +1186,49 @@
         }
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "qwkIdYeZZfE",
+          "title": "恋愛病院感想ライブPARTⅡ",
+          "description": "Ⅱ",
+          "publishedAt": "2026-04-03T12:21:30Z",
+          "channelTitle": "加藤てつお【再生の道】1st Gen.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 347,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-04-03T12:30:00Z",
+            "actualStartTime": "2026-04-03T12:30:17Z",
+            "concurrentViewers": 144
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "s9p2UxbrTsg",
@@ -1216,7 +1258,7 @@
               "height": 480
             }
           },
-          "viewCount": 1195
+          "viewCount": 1214
         },
         {
           "videoId": "IjmpoQMlbx4",
@@ -1251,7 +1293,7 @@
               "height": 720
             }
           },
-          "viewCount": 4239,
+          "viewCount": 4240,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
@@ -1292,7 +1334,7 @@
               "height": 720
             }
           },
-          "viewCount": 1611
+          "viewCount": 1613
         },
         {
           "videoId": "q3oWebnOZlc",
@@ -1327,7 +1369,7 @@
               "height": 720
             }
           },
-          "viewCount": 5438
+          "viewCount": 5441
         },
         {
           "videoId": "NIhDOX9lhHk",
@@ -1362,7 +1404,7 @@
               "height": 720
             }
           },
-          "viewCount": 7557
+          "viewCount": 7572
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
