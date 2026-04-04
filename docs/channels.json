@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-04T14:29:49.963Z",
+  "requestedAt": "2026-04-04T15:25:21.564Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4283,
+          "viewCount": 4286,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -574,7 +574,7 @@
               "height": 720
             }
           },
-          "viewCount": 22684
+          "viewCount": 22753
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -735,7 +735,7 @@
               "height": 720
             }
           },
-          "viewCount": 2808
+          "viewCount": 3335
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -896,7 +896,7 @@
               "height": 720
             }
           },
-          "viewCount": 1329
+          "viewCount": 1556
         },
         {
           "videoId": "K3SclMV1QB4",
@@ -931,7 +931,7 @@
               "height": 720
             }
           },
-          "viewCount": 6089,
+          "viewCount": 6094,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1115,6 +1115,45 @@
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "liveVideos": [
         {
+          "videoId": "F4GQtKMfmAM",
+          "title": "このままで大丈夫？！杉並のビジネス【前半：課題と現状】",
+          "description": "杉並でのビジネスって現状どうなっているんだろう？\n杉並にはどんなビジネスが向いているんだろう？\n杉並はこのままで大丈夫なのか？\n\n再生の道メンバーで税理士の小澄けんしろうさんと一緒に、そんな視点で語っています。前半は、杉並区のビジネス【課題と現状】",
+          "publishedAt": "2026-04-04T14:28:03Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-04-06T11:00:00Z"
+          }
+        },
+        {
           "videoId": "iDHMvgyNiL0",
           "title": "未来に使えるお金ってどのくらいあるの？②杉並区の財政をのぞいてみた 後半「歳出」",
           "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。今回は「使えるお金」",
@@ -1188,7 +1227,7 @@
               "height": 720
             }
           },
-          "viewCount": 393,
+          "viewCount": 552,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
@@ -1229,7 +1268,7 @@
               "height": 720
             }
           },
-          "viewCount": 3055,
+          "viewCount": 3063,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -1296,7 +1335,7 @@
               "height": 720
             }
           },
-          "viewCount": 2390,
+          "viewCount": 2392,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
@@ -1332,7 +1371,7 @@
               "height": 480
             }
           },
-          "viewCount": 1315
+          "viewCount": 1333
         },
         {
           "videoId": "IjmpoQMlbx4",
