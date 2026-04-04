@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-04T11:24:02.849Z",
+  "requestedAt": "2026-04-04T12:40:28.843Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3419,
+          "viewCount": 3434,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 6276
+          "viewCount": 6288
         },
         {
           "videoId": "rAmabM3sSv4",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 4973,
+          "viewCount": 4977,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -282,7 +282,7 @@
               "height": 720
             }
           },
-          "viewCount": 9026,
+          "viewCount": 9029,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -574,7 +574,7 @@
               "height": 720
             }
           },
-          "viewCount": 22369
+          "viewCount": 22523
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -735,7 +735,7 @@
               "height": 720
             }
           },
-          "viewCount": 615
+          "viewCount": 1449
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -896,7 +896,7 @@
               "height": 720
             }
           },
-          "viewCount": 344
+          "viewCount": 715
         },
         {
           "videoId": "K3SclMV1QB4",
@@ -931,7 +931,7 @@
               "height": 720
             }
           },
-          "viewCount": 6082,
+          "viewCount": 6083,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1115,6 +1115,46 @@
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "liveVideos": [
         {
+          "videoId": "fYZoH57_BQg",
+          "title": "ココ、区長の手腕が試されている！①杉並区の財政をのぞいてみた 前半・「歳入」",
+          "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。",
+          "publishedAt": "2026-04-04T12:30:06Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 74,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-04-04T12:30:00Z",
+            "actualStartTime": "2026-04-04T12:30:06Z"
+          }
+        },
+        {
           "videoId": "iDHMvgyNiL0",
           "title": "未来に使えるお金ってどのくらいあるの？②杉並区の財政をのぞいてみた 後半「歳出」",
           "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。今回は「使えるお金」",
@@ -1152,45 +1192,6 @@
             "status": "upcoming",
             "scheduledStartTime": "2026-04-05T13:00:00Z"
           }
-        },
-        {
-          "videoId": "fYZoH57_BQg",
-          "title": "ココ、区長の手腕が試されている！①杉並区の財政をのぞいてみた 前半・「歳入」",
-          "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。",
-          "publishedAt": "2026-04-04T09:09:41Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 0,
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-04-04T12:30:00Z"
-          }
         }
       ],
       "recentVideos": [
@@ -1227,7 +1228,7 @@
               "height": 720
             }
           },
-          "viewCount": 2987,
+          "viewCount": 3029,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -1294,7 +1295,7 @@
               "height": 720
             }
           },
-          "viewCount": 2281,
+          "viewCount": 2335,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
@@ -1330,7 +1331,7 @@
               "height": 480
             }
           },
-          "viewCount": 1299
+          "viewCount": 1316
         },
         {
           "videoId": "IjmpoQMlbx4",
