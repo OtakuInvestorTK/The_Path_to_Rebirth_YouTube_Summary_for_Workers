@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-04T12:40:28.843Z",
+  "requestedAt": "2026-04-04T13:48:33.394Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3434,
+          "viewCount": 3457,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4282,
+          "viewCount": 4283,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T05:30:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 4977,
+          "viewCount": 4978,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-28T13:45:00Z",
@@ -282,7 +282,7 @@
               "height": 720
             }
           },
-          "viewCount": 9029,
+          "viewCount": 9034,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -574,7 +574,7 @@
               "height": 720
             }
           },
-          "viewCount": 22523
+          "viewCount": 22627
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -735,7 +735,7 @@
               "height": 720
             }
           },
-          "viewCount": 1449
+          "viewCount": 2297
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -896,7 +896,7 @@
               "height": 720
             }
           },
-          "viewCount": 715
+          "viewCount": 1120
         },
         {
           "videoId": "K3SclMV1QB4",
@@ -931,7 +931,7 @@
               "height": 720
             }
           },
-          "viewCount": 6083,
+          "viewCount": 6086,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1115,46 +1115,6 @@
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "liveVideos": [
         {
-          "videoId": "fYZoH57_BQg",
-          "title": "ココ、区長の手腕が試されている！①杉並区の財政をのぞいてみた 前半・「歳入」",
-          "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。",
-          "publishedAt": "2026-04-04T12:30:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 74,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2026-04-04T12:30:00Z",
-            "actualStartTime": "2026-04-04T12:30:06Z"
-          }
-        },
-        {
           "videoId": "iDHMvgyNiL0",
           "title": "未来に使えるお金ってどのくらいあるの？②杉並区の財政をのぞいてみた 後半「歳出」",
           "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。今回は「使えるお金」",
@@ -1196,6 +1156,47 @@
       ],
       "recentVideos": [
         {
+          "videoId": "fYZoH57_BQg",
+          "title": "ココ、区長の手腕が試されている！①杉並区の財政をのぞいてみた 前半・「歳入」",
+          "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。",
+          "publishedAt": "2026-04-04T12:30:06Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 326,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-04-04T12:30:00Z",
+            "actualStartTime": "2026-04-04T12:30:06Z",
+            "actualEndTime": "2026-04-04T13:00:02Z"
+          }
+        },
+        {
           "videoId": "NLn9v8akLic",
           "title": "水野さん、松尾さん、杉並ペンギン！ヨシヒコ・ライブ#23",
           "description": "・離党メンバーについてちょっと触れる\n・杉並ペンギンについてちょっと触れる\n・今週の活動でびっくりしたこと\n・「なぜ、シリコンバレーの成功者は、森の中に住みたがるのか」お話会での話題\nなどなどお話したいと思います。\n\nワイン片手にゆるゆると遊びにいらしてください🍷\n\n🐧🐧🐧\n\n4月11日（土）《サポーターと共に集う会》にぜひご出席ください。\n身近な自分の街から、動かしていきましょう！\n\n杉並区民に限定していませんが、申し込みが必要です。\nご興味のある方、一緒に盛り上げよう！と思ってくださる方、\nこちらから、お願いします。よろしくお願いします。\n\n■日時\n2026年4月11日（土）12:30～14:00（12:10開場）\n■会場\n荻窪タウンセブンホール\n（杉並区上荻1-9-1 荻窪タウンセブン8階）\n\n【お申し込みはこちら】\n※定員に達し次第締切となります\nhttps://docs.google.com/forms/d/e/1FAIpQLSdJAz8Wa4gIqihbgKG-DOAICdziI8K4Xti8JiNrAzasLK9EPA/viewform",
@@ -1228,7 +1229,7 @@
               "height": 720
             }
           },
-          "viewCount": 3029,
+          "viewCount": 3051,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -1295,7 +1296,7 @@
               "height": 720
             }
           },
-          "viewCount": 2335,
+          "viewCount": 2372,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
@@ -1366,7 +1367,7 @@
               "height": 720
             }
           },
-          "viewCount": 4265,
+          "viewCount": 4268,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-29T12:30:00Z",
