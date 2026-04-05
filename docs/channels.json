@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-05T06:11:35.176Z",
+  "requestedAt": "2026-04-05T07:51:54.206Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "DKhDZGGPO14",
+          "title": "【Z世代のフェス!?】若者に再生の道理念を語る！(代表 奥村こうき)",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-04-05T06:50:28Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 632
+        },
         {
           "videoId": "LSBIKSIcGiI",
           "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.08",
@@ -98,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 5987,
+          "viewCount": 5988,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -139,48 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6325
-        },
-        {
-          "videoId": "rAmabM3sSv4",
-          "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.06",
-          "description": "寄付時間\n1/19(日)7:00～1/21(水)10:00\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道\n\n話で触れたAIの話\nhttps://www.youtube.com/watch?v=-IUnN1yc-FY",
-          "publishedAt": "2026-03-29T07:47:12Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/rAmabM3sSv4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/rAmabM3sSv4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/rAmabM3sSv4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/rAmabM3sSv4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/rAmabM3sSv4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4295,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-29T05:30:00Z",
-            "actualStartTime": "2026-03-29T05:31:44Z",
-            "actualEndTime": "2026-03-29T07:23:41Z"
-          }
+          "viewCount": 6329
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -241,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 9092,
+          "viewCount": 9094,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -533,7 +527,7 @@
               "height": 720
             }
           },
-          "viewCount": 23086
+          "viewCount": 23146
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -694,7 +688,7 @@
               "height": 720
             }
           },
-          "viewCount": 6283
+          "viewCount": 6487
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -855,7 +849,7 @@
               "height": 720
             }
           },
-          "viewCount": 2580
+          "viewCount": 2658
         },
         {
           "videoId": "K3SclMV1QB4",
@@ -890,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 6107,
+          "viewCount": 6109,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1186,7 +1180,7 @@
               "height": 720
             }
           },
-          "viewCount": 1811,
+          "viewCount": 1890,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
@@ -1227,7 +1221,7 @@
               "height": 720
             }
           },
-          "viewCount": 3103,
+          "viewCount": 3107,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -1294,7 +1288,7 @@
               "height": 720
             }
           },
-          "viewCount": 2571,
+          "viewCount": 2591,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
@@ -1330,7 +1324,7 @@
               "height": 480
             }
           },
-          "viewCount": 1349
+          "viewCount": 1351
         },
         {
           "videoId": "IjmpoQMlbx4",
