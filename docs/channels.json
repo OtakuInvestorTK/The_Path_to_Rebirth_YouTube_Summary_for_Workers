@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-05T12:42:18.948Z",
+  "requestedAt": "2026-04-05T13:50:17.192Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3993
+          "viewCount": 4821
         },
         {
           "videoId": "LSBIKSIcGiI",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3603,
+          "viewCount": 3605,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 9098,
+          "viewCount": 9100,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -653,7 +653,7 @@
               "height": 720
             }
           },
-          "viewCount": 6942
+          "viewCount": 7033
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -814,7 +814,7 @@
               "height": 720
             }
           },
-          "viewCount": 531
+          "viewCount": 719
         },
         {
           "videoId": "AB1vUOxbbt0",
@@ -849,7 +849,7 @@
               "height": 720
             }
           },
-          "viewCount": 2872
+          "viewCount": 2925
         },
         {
           "videoId": "K3SclMV1QB4",
@@ -884,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 6115,
+          "viewCount": 6117,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1105,12 +1105,14 @@
             "status": "upcoming",
             "scheduledStartTime": "2026-04-06T11:00:00Z"
           }
-        },
+        }
+      ],
+      "recentVideos": [
         {
           "videoId": "iDHMvgyNiL0",
           "title": "未来に使えるお金ってどのくらいあるの？②杉並区の財政をのぞいてみた 後半「歳出」",
           "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。今回は「使えるお金」",
-          "publishedAt": "2026-04-04T09:48:21Z",
+          "publishedAt": "2026-04-05T13:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -1139,14 +1141,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 159,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-04-05T13:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-04-05T13:00:00Z",
+            "actualStartTime": "2026-04-05T13:00:06Z",
+            "actualEndTime": "2026-04-05T13:30:11Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "fYZoH57_BQg",
           "title": "ココ、区長の手腕が試されている！①杉並区の財政をのぞいてみた 前半・「歳入」",
@@ -1180,7 +1182,7 @@
               "height": 720
             }
           },
-          "viewCount": 2045,
+          "viewCount": 2071,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
@@ -1288,7 +1290,7 @@
               "height": 720
             }
           },
-          "viewCount": 2724,
+          "viewCount": 2761,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
@@ -1324,48 +1326,7 @@
               "height": 480
             }
           },
-          "viewCount": 1351
-        },
-        {
-          "videoId": "IjmpoQMlbx4",
-          "title": "3/29 かとてつライブ配信",
-          "description": "",
-          "publishedAt": "2026-03-29T13:30:04Z",
-          "channelTitle": "加藤てつお【再生の道】1st Gen.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/IjmpoQMlbx4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4281,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-03-29T12:30:00Z",
-            "actualStartTime": "2026-03-29T12:29:52Z",
-            "actualEndTime": "2026-03-29T13:15:17Z"
-          }
+          "viewCount": 1356
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
