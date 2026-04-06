@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-06T12:57:16.720Z",
+  "requestedAt": "2026-04-06T14:10:01.723Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "VLFq6ZKZCMQ",
           "title": "みっちーの部屋 / 再生の道 推薦 土屋ともひろ　他豪華ゲスト",
           "description": "ここは、いつでも帰ってこられる「みっちーの部屋」\n\n静かに、みなさんとつながっています。\n考え事でも、雑談でも、ただいるだけでも大丈夫。\n\nここで交わされた声や想いは、\nみっちーを通じて、少しずつカタチになっていきます。\n\n※アドバンス会員の方限定で公開しています。\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-04-06T11:55:25Z",
+          "publishedAt": "2026-04-06T13:29:18Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 1800,
+          "viewCount": 2881,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
             "actualStartTime": "2026-04-06T12:01:57Z",
-            "concurrentViewers": 577
+            "actualEndTime": "2026-04-06T13:03:50Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "DKhDZGGPO14",
           "title": "【Z世代のフェス!?】若者に再生の道理念を語る！(代表 奥村こうき)",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 8849
+          "viewCount": 8980
         },
         {
           "videoId": "LSBIKSIcGiI",
@@ -242,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 9166,
+          "viewCount": 9173,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -534,7 +533,7 @@
               "height": 720
             }
           },
-          "viewCount": 487
+          "viewCount": 538
         },
         {
           "videoId": "ybT1dSWYhoc",
@@ -891,7 +890,7 @@
               "height": 720
             }
           },
-          "viewCount": 1342
+          "viewCount": 1363
         },
         {
           "videoId": "AB1vUOxbbt0",
@@ -926,7 +925,7 @@
               "height": 720
             }
           },
-          "viewCount": 3267
+          "viewCount": 3268
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -952,7 +951,49 @@
         }
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "EtErqHjuIOo",
+          "title": "なおりん通信シーズン２　＃２",
+          "description": "",
+          "publishedAt": "2026-04-06T14:00:21Z",
+          "channelTitle": "浅井なおゆき",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 68,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-04-06T14:00:20Z",
+            "actualStartTime": "2026-04-06T14:00:42Z",
+            "concurrentViewers": 74
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
@@ -1137,7 +1178,7 @@
               "height": 720
             }
           },
-          "viewCount": 558,
+          "viewCount": 900,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
@@ -1178,7 +1219,7 @@
               "height": 720
             }
           },
-          "viewCount": 1035,
+          "viewCount": 1045,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-05T13:00:00Z",
@@ -1219,7 +1260,7 @@
               "height": 720
             }
           },
-          "viewCount": 2334,
+          "viewCount": 2349,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
