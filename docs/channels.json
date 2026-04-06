@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-06T01:57:31.571Z",
+  "requestedAt": "2026-04-06T04:44:58.575Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7495
+          "viewCount": 7812
         },
         {
           "videoId": "LSBIKSIcGiI",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3641,
+          "viewCount": 3643,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 6000,
+          "viewCount": 6001,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 9132,
+          "viewCount": 9136,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -460,6 +460,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "vGNVYbfT5tA",
+          "title": "4月6日白糸台小学校通学路歩道植栽剪定",
+          "description": "入学式に出席する親子が通る通学路にある歩道の植栽を剪定しました。\n枝が伸びている植栽がもう少し残っているので、今週中にはなんとかしたいと思ってます。",
+          "publishedAt": "2026-04-06T03:07:36Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 266
+        },
+        {
           "videoId": "ybT1dSWYhoc",
           "title": "歩行者・自転車通行空間改善 #府中市　#インフラ管理 #ボランティア",
           "description": "",
@@ -492,7 +527,7 @@
               "height": 720
             }
           },
-          "viewCount": 23615
+          "viewCount": 23616
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -653,7 +688,7 @@
               "height": 720
             }
           },
-          "viewCount": 7495
+          "viewCount": 7600
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -814,7 +849,7 @@
               "height": 720
             }
           },
-          "viewCount": 1092
+          "viewCount": 1150
         },
         {
           "videoId": "AB1vUOxbbt0",
@@ -849,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 3152
+          "viewCount": 3178
         },
         {
           "videoId": "K3SclMV1QB4",
@@ -884,7 +919,7 @@
               "height": 720
             }
           },
-          "viewCount": 6125,
+          "viewCount": 6130,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T10:00:00Z",
@@ -1141,7 +1176,7 @@
               "height": 720
             }
           },
-          "viewCount": 735,
+          "viewCount": 843,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-05T13:00:00Z",
@@ -1182,7 +1217,7 @@
               "height": 720
             }
           },
-          "viewCount": 2222,
+          "viewCount": 2258,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
@@ -1223,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 3137,
+          "viewCount": 3146,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -1290,7 +1325,7 @@
               "height": 720
             }
           },
-          "viewCount": 2860,
+          "viewCount": 2878,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
