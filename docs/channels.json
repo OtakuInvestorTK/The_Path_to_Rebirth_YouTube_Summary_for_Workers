@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-06T14:10:01.723Z",
+  "requestedAt": "2026-04-06T15:39:57.961Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2881,
+          "viewCount": 4475,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 8980
+          "viewCount": 9076
         },
         {
           "videoId": "LSBIKSIcGiI",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3664,
+          "viewCount": 3681,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6002,
+          "viewCount": 6004,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-03-30T12:00:00Z",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 9173,
+          "viewCount": 9181,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-01T06:42:22Z",
@@ -533,7 +533,7 @@
               "height": 720
             }
           },
-          "viewCount": 538
+          "viewCount": 587
         },
         {
           "videoId": "ybT1dSWYhoc",
@@ -568,7 +568,7 @@
               "height": 720
             }
           },
-          "viewCount": 23711
+          "viewCount": 23771
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -729,7 +729,7 @@
               "height": 720
             }
           },
-          "viewCount": 7975
+          "viewCount": 7964
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -890,7 +890,7 @@
               "height": 720
             }
           },
-          "viewCount": 1363
+          "viewCount": 1415
         },
         {
           "videoId": "AB1vUOxbbt0",
@@ -925,7 +925,7 @@
               "height": 720
             }
           },
-          "viewCount": 3268
+          "viewCount": 3276
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -951,50 +951,50 @@
         }
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "EtErqHjuIOo",
           "title": "なおりん通信シーズン２　＃２",
           "description": "",
-          "publishedAt": "2026-04-06T14:00:21Z",
+          "publishedAt": "2026-04-06T15:19:26Z",
           "channelTitle": "浅井なおゆき",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/EtErqHjuIOo/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 68,
+          "viewCount": 490,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-04-06T14:00:20Z",
             "actualStartTime": "2026-04-06T14:00:42Z",
-            "concurrentViewers": 74
+            "actualEndTime": "2026-04-06T14:32:17Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
     {
@@ -1178,7 +1178,7 @@
               "height": 720
             }
           },
-          "viewCount": 900,
+          "viewCount": 1273,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
@@ -1219,7 +1219,7 @@
               "height": 720
             }
           },
-          "viewCount": 1045,
+          "viewCount": 1042,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-05T13:00:00Z",
@@ -1260,7 +1260,7 @@
               "height": 720
             }
           },
-          "viewCount": 2349,
+          "viewCount": 2354,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
@@ -1301,7 +1301,7 @@
               "height": 720
             }
           },
-          "viewCount": 3181,
+          "viewCount": 3193,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -1368,7 +1368,7 @@
               "height": 720
             }
           },
-          "viewCount": 2959,
+          "viewCount": 2979,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
@@ -1404,7 +1404,7 @@
               "height": 480
             }
           },
-          "viewCount": 1514
+          "viewCount": 1522
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
