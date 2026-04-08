@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-08T13:08:09.950Z",
+  "requestedAt": "2026-04-08T15:03:55.780Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "peuyhCa5FcM",
           "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.09",
-          "description": "寄付時間\n1/25(日)11:00～\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道",
-          "publishedAt": "2026-04-08T11:53:20Z",
+          "description": "寄付時間\n1/25(日)11:00～1/28(水)8:00\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道",
+          "publishedAt": "2026-04-08T13:50:55Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/peuyhCa5FcM/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 683,
+          "viewCount": 1376,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
             "actualStartTime": "2026-04-08T12:28:51Z",
-            "concurrentViewers": 243
+            "actualEndTime": "2026-04-08T13:33:38Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "VLFq6ZKZCMQ",
           "title": "みっちーの部屋 / 再生の道 推薦 土屋ともひろ　他豪華ゲスト",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 9601,
+          "viewCount": 9677,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
@@ -140,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 10073
+          "viewCount": 10105
         },
         {
           "videoId": "LSBIKSIcGiI",
@@ -175,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 3747,
+          "viewCount": 3754,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -492,7 +491,7 @@
               "height": 720
             }
           },
-          "viewCount": 16798
+          "viewCount": 16817
         },
         {
           "videoId": "ybT1dSWYhoc",
@@ -527,7 +526,7 @@
               "height": 720
             }
           },
-          "viewCount": 26724
+          "viewCount": 26937
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -688,7 +687,7 @@
               "height": 720
             }
           },
-          "viewCount": 8413
+          "viewCount": 8438
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -749,7 +748,7 @@
               "height": 720
             }
           },
-          "viewCount": 6684,
+          "viewCount": 6762,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-07T03:12:47Z",
@@ -891,7 +890,7 @@
               "height": 720
             }
           },
-          "viewCount": 1646
+          "viewCount": 1647
         },
         {
           "videoId": "AB1vUOxbbt0",
@@ -926,7 +925,7 @@
               "height": 720
             }
           },
-          "viewCount": 3361
+          "viewCount": 3367
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -987,7 +986,7 @@
               "height": 720
             }
           },
-          "viewCount": 3350,
+          "viewCount": 3371,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T14:00:20Z",
@@ -1258,7 +1257,7 @@
               "height": 720
             }
           },
-          "viewCount": 1883
+          "viewCount": 2899
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1293,7 +1292,7 @@
               "height": 720
             }
           },
-          "viewCount": 2830,
+          "viewCount": 2840,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
@@ -1334,7 +1333,7 @@
               "height": 720
             }
           },
-          "viewCount": 1227,
+          "viewCount": 1229,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-05T13:00:00Z",
@@ -1375,7 +1374,7 @@
               "height": 720
             }
           },
-          "viewCount": 2443,
+          "viewCount": 2444,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
@@ -1519,7 +1518,7 @@
               "height": 480
             }
           },
-          "viewCount": 1762
+          "viewCount": 1765
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
