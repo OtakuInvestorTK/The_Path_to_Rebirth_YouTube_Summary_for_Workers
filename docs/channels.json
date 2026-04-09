@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-09T10:07:09.977Z",
+  "requestedAt": "2026-04-09T11:50:18.701Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2744,
+          "viewCount": 2810,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 9936,
+          "viewCount": 9947,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 10340
+          "viewCount": 10352
         },
         {
           "videoId": "LSBIKSIcGiI",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 3774,
+          "viewCount": 3777,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-02T12:00:00Z",
@@ -652,7 +652,7 @@
               "height": 720
             }
           },
-          "viewCount": 8538
+          "viewCount": 8563
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -713,7 +713,7 @@
               "height": 720
             }
           },
-          "viewCount": 6955,
+          "viewCount": 6975,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-07T03:12:47Z",
@@ -855,7 +855,7 @@
               "height": 720
             }
           },
-          "viewCount": 1666
+          "viewCount": 1669
         },
         {
           "videoId": "AB1vUOxbbt0",
@@ -890,7 +890,7 @@
               "height": 720
             }
           },
-          "viewCount": 3384
+          "viewCount": 3387
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -951,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 3459,
+          "viewCount": 3462,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T14:00:20Z",
@@ -1190,6 +1190,41 @@
       ],
       "recentVideos": [
         {
+          "videoId": "fF4193blIY8",
+          "title": "シリコンバレー、なぜあの場所だった？ #杉並区",
+          "description": "",
+          "publishedAt": "2026-04-09T10:42:41Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fF4193blIY8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fF4193blIY8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fF4193blIY8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fF4193blIY8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fF4193blIY8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 115
+        },
+        {
           "videoId": "7kc66WuYLnM",
           "title": "人口減少時代に備えよ！杉並区のビジネス　後半・課題解決提案",
           "description": "杉並区は住宅都市。でも、このままでは商店街も衰退。昼と夜の人口の差は広がり、子育てもしにくい街にならないか？？？\n【杉並区のビジネス】後半は、住宅都市ならではの、活力を発揮するビジネスの考え方について楽しく語り合いました。小澄さん、ありがとうございました。",
@@ -1222,7 +1257,7 @@
               "height": 720
             }
           },
-          "viewCount": 805,
+          "viewCount": 982,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1263,7 +1298,7 @@
               "height": 720
             }
           },
-          "viewCount": 3962
+          "viewCount": 4045
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1298,7 +1333,7 @@
               "height": 720
             }
           },
-          "viewCount": 2943,
+          "viewCount": 2953,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
@@ -1339,7 +1374,7 @@
               "height": 720
             }
           },
-          "viewCount": 1259,
+          "viewCount": 1260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-05T13:00:00Z",
@@ -1380,7 +1415,7 @@
               "height": 720
             }
           },
-          "viewCount": 2463,
+          "viewCount": 2466,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
@@ -1488,7 +1523,7 @@
               "height": 720
             }
           },
-          "viewCount": 3135,
+          "viewCount": 3136,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-03T12:30:00Z",
