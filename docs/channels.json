@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-10T18:42:20.801Z",
+  "requestedAt": "2026-04-10T19:38:56.326Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3081,
+          "viewCount": 3101,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 10265,
+          "viewCount": 10260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 10674
+          "viewCount": 10707
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -450,7 +450,7 @@
               "height": 720
             }
           },
-          "viewCount": 17446
+          "viewCount": 17443
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -611,7 +611,7 @@
               "height": 720
             }
           },
-          "viewCount": 8717
+          "viewCount": 8718
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -910,7 +910,7 @@
               "height": 720
             }
           },
-          "viewCount": 3506,
+          "viewCount": 3507,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T14:00:20Z",
@@ -1142,7 +1142,7 @@
               "height": 720
             }
           },
-          "viewCount": 8204
+          "viewCount": 8246
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1177,7 +1177,7 @@
               "height": 720
             }
           },
-          "viewCount": 2040,
+          "viewCount": 2041,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1253,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 1498,
+          "viewCount": 1500,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
