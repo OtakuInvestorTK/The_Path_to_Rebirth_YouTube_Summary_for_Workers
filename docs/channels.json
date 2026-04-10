@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-10T21:31:26.091Z",
+  "requestedAt": "2026-04-10T22:30:58.556Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3101,
+          "viewCount": 3113,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -672,7 +672,7 @@
               "height": 720
             }
           },
-          "viewCount": 7069,
+          "viewCount": 7074,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-07T03:12:47Z",
@@ -910,7 +910,7 @@
               "height": 720
             }
           },
-          "viewCount": 3508,
+          "viewCount": 3509,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T14:00:20Z",
@@ -1142,7 +1142,7 @@
               "height": 720
             }
           },
-          "viewCount": 8338
+          "viewCount": 8406
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1177,7 +1177,7 @@
               "height": 720
             }
           },
-          "viewCount": 2048,
+          "viewCount": 2056,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1218,7 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 477
+          "viewCount": 484
         },
         {
           "videoId": "7kc66WuYLnM",
@@ -1253,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 1515,
+          "viewCount": 1522,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1294,7 +1294,7 @@
               "height": 720
             }
           },
-          "viewCount": 4670
+          "viewCount": 4671
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1411,7 +1411,7 @@
               "height": 720
             }
           },
-          "viewCount": 2512,
+          "viewCount": 2513,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-04T12:30:00Z",
