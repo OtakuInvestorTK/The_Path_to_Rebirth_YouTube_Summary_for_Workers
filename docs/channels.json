@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-10T12:57:14.133Z",
+  "requestedAt": "2026-04-10T14:16:20.169Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3039,
+          "viewCount": 3068,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 10205,
+          "viewCount": 10209,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 10569
+          "viewCount": 10632
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -450,7 +450,7 @@
               "height": 720
             }
           },
-          "viewCount": 17287
+          "viewCount": 17186
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -611,7 +611,7 @@
               "height": 720
             }
           },
-          "viewCount": 8691
+          "viewCount": 8699
         }
       ],
       "name": "岩崎朗,岩崎あきら,いわさき朗,いわさきあきら"
@@ -672,7 +672,7 @@
               "height": 720
             }
           },
-          "viewCount": 7045,
+          "viewCount": 7050,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-07T03:12:47Z",
@@ -910,7 +910,7 @@
               "height": 720
             }
           },
-          "viewCount": 3498,
+          "viewCount": 3501,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T14:00:20Z",
@@ -1102,7 +1102,7 @@
               "height": 720
             }
           },
-          "viewCount": 4270
+          "viewCount": 6661
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1137,7 +1137,7 @@
               "height": 720
             }
           },
-          "viewCount": 1854,
+          "viewCount": 1931,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1178,7 +1178,7 @@
               "height": 720
             }
           },
-          "viewCount": 409
+          "viewCount": 426
         },
         {
           "videoId": "7kc66WuYLnM",
@@ -1213,7 +1213,7 @@
               "height": 720
             }
           },
-          "viewCount": 1401,
+          "viewCount": 1429,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1254,7 +1254,7 @@
               "height": 720
             }
           },
-          "viewCount": 4476
+          "viewCount": 4522
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1289,7 +1289,7 @@
               "height": 720
             }
           },
-          "viewCount": 3013,
+          "viewCount": 3017,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
@@ -1330,7 +1330,7 @@
               "height": 720
             }
           },
-          "viewCount": 1293,
+          "viewCount": 1290,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-05T13:00:00Z",
@@ -1404,49 +1404,7 @@
       },
       "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "qwkIdYeZZfE",
-          "title": "恋愛病院感想ライブPARTⅡ",
-          "description": "Ⅱ",
-          "publishedAt": "2026-04-03T13:27:02Z",
-          "channelTitle": "加藤てつお【再生の道】1st Gen.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/qwkIdYeZZfE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3295,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-03T12:30:00Z",
-            "actualStartTime": "2026-04-03T12:30:17Z",
-            "actualEndTime": "2026-04-03T13:11:24Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
