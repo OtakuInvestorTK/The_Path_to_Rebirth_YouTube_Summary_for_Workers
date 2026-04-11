@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-11T11:25:14.591Z",
+  "requestedAt": "2026-04-11T12:42:48.114Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 742
+          "viewCount": 767
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3160,
+          "viewCount": 3179,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10399,
+          "viewCount": 10431,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 10864
+          "viewCount": 10877
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -485,7 +485,7 @@
               "height": 720
             }
           },
-          "viewCount": 17608
+          "viewCount": 17611
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -813,7 +813,7 @@
               "height": 720
             }
           },
-          "viewCount": 1675
+          "viewCount": 1676
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -1036,7 +1036,7 @@
           "videoId": "hfFMqs7AErU",
           "title": "日本の樹木はなぜ切られるのか？日米ビジネス・コンサルタントのロッシェル・カップさんと対談",
           "description": "アメリカをはじめ他の国々では、樹木の価値をきちんと認識し共生する努力をしているのに、日本では、あまりにも樹木が軽視されすぎていないか？というロッシェルさんの思いを聞いてみました。",
-          "publishedAt": "2026-04-10T15:19:29Z",
+          "publishedAt": "2026-04-11T12:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -1065,10 +1065,11 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 258,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-04-11T12:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-04-11T12:00:00Z",
+            "actualStartTime": "2026-04-11T12:00:06Z"
           }
         }
       ],
@@ -1106,7 +1107,7 @@
               "height": 720
             }
           },
-          "viewCount": 9118
+          "viewCount": 9160
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1217,7 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 1728,
+          "viewCount": 1738,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1258,7 +1259,7 @@
               "height": 720
             }
           },
-          "viewCount": 4980
+          "viewCount": 5039
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1293,7 +1294,7 @@
               "height": 720
             }
           },
-          "viewCount": 3081,
+          "viewCount": 3084,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
@@ -1340,47 +1341,6 @@
             "scheduledStartTime": "2026-04-05T13:00:00Z",
             "actualStartTime": "2026-04-05T13:00:06Z",
             "actualEndTime": "2026-04-05T13:30:11Z"
-          }
-        },
-        {
-          "videoId": "fYZoH57_BQg",
-          "title": "ココ、区長の手腕が試されている！①杉並区の財政をのぞいてみた 前半・「歳入」",
-          "description": "杉並区の財政について、わかりにくいお役所用語をわかりやすく解説。\nそこから見えてくることがある。",
-          "publishedAt": "2026-04-04T12:30:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fYZoH57_BQg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2550,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-04T12:30:00Z",
-            "actualStartTime": "2026-04-04T12:30:06Z",
-            "actualEndTime": "2026-04-04T13:00:02Z"
           }
         }
       ],
