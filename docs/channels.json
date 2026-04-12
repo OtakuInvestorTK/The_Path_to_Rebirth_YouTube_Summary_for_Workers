@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-12T05:17:39.624Z",
+  "requestedAt": "2026-04-12T07:06:07.768Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7479
+          "viewCount": 7628
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3198,
+          "viewCount": 3211,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -133,48 +133,13 @@
               "height": 720
             }
           },
-          "viewCount": 10599,
+          "viewCount": 10612,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
             "actualStartTime": "2026-04-06T12:01:57Z",
             "actualEndTime": "2026-04-06T13:03:50Z"
           }
-        },
-        {
-          "videoId": "DKhDZGGPO14",
-          "title": "【Z世代のフェス!?】若者に再生の道理念を語る！(代表 奥村こうき)",
-          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-04-05T06:50:28Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/DKhDZGGPO14/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 10983
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -485,7 +450,7 @@
               "height": 720
             }
           },
-          "viewCount": 17788
+          "viewCount": 17792
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -671,7 +636,7 @@
               "height": 720
             }
           },
-          "viewCount": 7143,
+          "viewCount": 7146,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-07T03:12:47Z",
@@ -813,7 +778,7 @@
               "height": 720
             }
           },
-          "viewCount": 1684
+          "viewCount": 1686
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -1066,7 +1031,7 @@
               "height": 720
             }
           },
-          "viewCount": 1678,
+          "viewCount": 1748,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-11T12:00:00Z",
@@ -1107,7 +1072,7 @@
               "height": 720
             }
           },
-          "viewCount": 9424
+          "viewCount": 9472
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1183,7 +1148,7 @@
               "height": 720
             }
           },
-          "viewCount": 576
+          "viewCount": 589
         },
         {
           "videoId": "7kc66WuYLnM",
@@ -1218,7 +1183,7 @@
               "height": 720
             }
           },
-          "viewCount": 1790,
+          "viewCount": 1812,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1259,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 5288
+          "viewCount": 5302
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1294,7 +1259,7 @@
               "height": 720
             }
           },
-          "viewCount": 3101,
+          "viewCount": 3103,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
