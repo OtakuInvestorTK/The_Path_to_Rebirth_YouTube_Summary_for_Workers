@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-12T17:28:51.763Z",
+  "requestedAt": "2026-04-12T18:38:05.349Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3225,
+          "viewCount": 3232,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -803,7 +803,7 @@
               "height": 720
             }
           },
-          "viewCount": 3554,
+          "viewCount": 3555,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T14:00:20Z",
@@ -995,7 +995,7 @@
               "height": 720
             }
           },
-          "viewCount": 163
+          "viewCount": 199
         },
         {
           "videoId": "hfFMqs7AErU",
@@ -1071,7 +1071,7 @@
               "height": 720
             }
           },
-          "viewCount": 9588
+          "viewCount": 9585
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1106,7 +1106,7 @@
               "height": 720
             }
           },
-          "viewCount": 2273,
+          "viewCount": 2274,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1147,7 +1147,7 @@
               "height": 720
             }
           },
-          "viewCount": 612
+          "viewCount": 613
         },
         {
           "videoId": "7kc66WuYLnM",
@@ -1182,7 +1182,7 @@
               "height": 720
             }
           },
-          "viewCount": 1871,
+          "viewCount": 1870,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1223,7 +1223,7 @@
               "height": 720
             }
           },
-          "viewCount": 5369
+          "viewCount": 5426
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1325,7 +1325,7 @@
               "height": 720
             }
           },
-          "viewCount": 3457
+          "viewCount": 3543
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
