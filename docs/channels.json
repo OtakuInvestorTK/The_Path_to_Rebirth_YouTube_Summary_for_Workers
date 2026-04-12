@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-12T10:32:48.734Z",
+  "requestedAt": "2026-04-12T11:29:25.361Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7977
+          "viewCount": 8015
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3211,
+          "viewCount": 3218,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -450,7 +450,7 @@
               "height": 720
             }
           },
-          "viewCount": 17814
+          "viewCount": 17803
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -636,7 +636,7 @@
               "height": 720
             }
           },
-          "viewCount": 7155,
+          "viewCount": 7156,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-07T03:12:47Z",
@@ -963,6 +963,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "lq5MOLGeD0A",
+          "title": "なぜシリコンバレーの成功者は自然豊かな場所に住む？🤔　#杉並区 #再生の道 #増田よしひこ",
+          "description": "",
+          "publishedAt": "2026-04-12T11:19:42Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 8
+        },
+        {
           "videoId": "hfFMqs7AErU",
           "title": "日本の樹木はなぜ切られるのか？日米ビジネス・コンサルタントのロッシェル・カップさんと対談",
           "description": "アメリカをはじめ他の国々では、樹木の価値をきちんと認識し共生する努力をしているのに、日本では、あまりにも樹木が軽視されすぎていないか？というロッシェルさんの思いを聞いてみました。",
@@ -995,7 +1030,7 @@
               "height": 720
             }
           },
-          "viewCount": 1869,
+          "viewCount": 1879,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-11T12:00:00Z",
@@ -1036,7 +1071,7 @@
               "height": 720
             }
           },
-          "viewCount": 9528
+          "viewCount": 9536
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1071,7 +1106,7 @@
               "height": 720
             }
           },
-          "viewCount": 2257,
+          "viewCount": 2258,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1147,7 +1182,7 @@
               "height": 720
             }
           },
-          "viewCount": 1834,
+          "viewCount": 1842,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1188,7 +1223,7 @@
               "height": 720
             }
           },
-          "viewCount": 5334
+          "viewCount": 5341
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1223,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 3106,
+          "viewCount": 3112,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
@@ -1331,7 +1366,7 @@
               "height": 720
             }
           },
-          "viewCount": 879
+          "viewCount": 1244
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
