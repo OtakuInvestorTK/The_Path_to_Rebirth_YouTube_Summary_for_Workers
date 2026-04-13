@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-13T13:12:01.064Z",
+  "requestedAt": "2026-04-13T15:11:23.961Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "VAEZfFR8taQ",
-          "title": "最終回: ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.10",
-          "description": "寄付時間\n1/28(水)8:00～\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道",
-          "publishedAt": "2026-04-13T11:24:33Z",
+          "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.10",
+          "description": "寄付時間\n1/28(水)8:00～3/13(金)\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道",
+          "publishedAt": "2026-04-13T13:56:32Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/VAEZfFR8taQ/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 815,
+          "viewCount": 1647,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-04-13T12:00:00Z",
             "actualStartTime": "2026-04-13T11:58:39Z",
-            "concurrentViewers": 161
+            "actualEndTime": "2026-04-13T13:24:12Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "RUQRh_7pC3A",
           "title": "土屋さん推薦面談",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 9033
+          "viewCount": 9141
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -134,53 +133,12 @@
               "height": 720
             }
           },
-          "viewCount": 3255,
+          "viewCount": 3261,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
             "actualStartTime": "2026-04-08T12:28:51Z",
             "actualEndTime": "2026-04-08T13:33:38Z"
-          }
-        },
-        {
-          "videoId": "VLFq6ZKZCMQ",
-          "title": "みっちーの部屋 / 再生の道 推薦 土屋ともひろ　他豪華ゲスト",
-          "description": "ここは、いつでも帰ってこられる「みっちーの部屋」\n\n静かに、みなさんとつながっています。\n考え事でも、雑談でも、ただいるだけでも大丈夫。\n\nここで交わされた声や想いは、\nみっちーを通じて、少しずつカタチになっていきます。\n\n※アドバンス会員の方限定で公開しています。\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-04-06T13:29:18Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/VLFq6ZKZCMQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 10779,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-06T12:00:00Z",
-            "actualStartTime": "2026-04-06T12:01:57Z",
-            "actualEndTime": "2026-04-06T13:03:50Z"
           }
         }
       ],
@@ -292,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 409
+          "viewCount": 430
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -678,7 +636,7 @@
               "height": 720
             }
           },
-          "viewCount": 7199,
+          "viewCount": 7201,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-07T03:12:47Z",
@@ -845,7 +803,7 @@
               "height": 720
             }
           },
-          "viewCount": 3566,
+          "viewCount": 3568,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T14:00:20Z",
@@ -1005,6 +963,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "8UiXWFzhrv8",
+          "title": "東京は世界から致命的に遅れている！？ #東京都 #杉並区 #増田よしひこ",
+          "description": "",
+          "publishedAt": "2026-04-13T14:15:23Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8UiXWFzhrv8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8UiXWFzhrv8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8UiXWFzhrv8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8UiXWFzhrv8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8UiXWFzhrv8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 3082
+        },
+        {
           "videoId": "lq5MOLGeD0A",
           "title": "なぜシリコンバレーの成功者は自然豊かな場所に住む？🤔　#杉並区 #再生の道 #増田よしひこ",
           "description": "",
@@ -1037,7 +1030,7 @@
               "height": 720
             }
           },
-          "viewCount": 421
+          "viewCount": 437
         },
         {
           "videoId": "hfFMqs7AErU",
@@ -1072,7 +1065,7 @@
               "height": 720
             }
           },
-          "viewCount": 2222,
+          "viewCount": 2228,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-11T12:00:00Z",
@@ -1113,7 +1106,7 @@
               "height": 720
             }
           },
-          "viewCount": 9677
+          "viewCount": 9689
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1148,7 +1141,7 @@
               "height": 720
             }
           },
-          "viewCount": 2307,
+          "viewCount": 2317,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1189,7 +1182,7 @@
               "height": 720
             }
           },
-          "viewCount": 627
+          "viewCount": 630
         },
         {
           "videoId": "7kc66WuYLnM",
@@ -1224,7 +1217,7 @@
               "height": 720
             }
           },
-          "viewCount": 1945,
+          "viewCount": 1954,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1265,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 5611
+          "viewCount": 5620
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1326,7 +1319,7 @@
               "height": 720
             }
           },
-          "viewCount": 4951
+          "viewCount": 5035
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
