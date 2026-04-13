@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-13T09:48:51.084Z",
+  "requestedAt": "2026-04-13T11:12:26.793Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8869
+          "viewCount": 8928
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3246,
+          "viewCount": 3252,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10749,
+          "viewCount": 10770,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 293
+          "viewCount": 364
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -636,7 +636,7 @@
               "height": 720
             }
           },
-          "viewCount": 7189,
+          "viewCount": 7195,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-07T03:12:47Z",
@@ -995,7 +995,7 @@
               "height": 720
             }
           },
-          "viewCount": 381
+          "viewCount": 404
         },
         {
           "videoId": "hfFMqs7AErU",
@@ -1030,7 +1030,7 @@
               "height": 720
             }
           },
-          "viewCount": 2176,
+          "viewCount": 2209,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-11T12:00:00Z",
@@ -1106,7 +1106,7 @@
               "height": 720
             }
           },
-          "viewCount": 2297,
+          "viewCount": 2303,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1224,47 +1224,6 @@
             }
           },
           "viewCount": 5599
-        },
-        {
-          "videoId": "F4GQtKMfmAM",
-          "title": "このままで大丈夫？！杉並のビジネス【前半：課題と現状】",
-          "description": "杉並でのビジネスって現状どうなっているんだろう？\n杉並にはどんなビジネスが向いているんだろう？\n杉並はこのままで大丈夫なのか？\n\n再生の道メンバーで税理士の小澄けんしろうさんと一緒に、そんな視点で語っています。前半は、杉並区のビジネス【課題と現状】",
-          "publishedAt": "2026-04-06T11:00:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/F4GQtKMfmAM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3125,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-06T11:00:00Z",
-            "actualStartTime": "2026-04-06T11:00:06Z",
-            "actualEndTime": "2026-04-06T11:23:19Z"
-          }
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1325,7 +1284,7 @@
               "height": 720
             }
           },
-          "viewCount": 4720
+          "viewCount": 4841
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
