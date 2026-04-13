@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-13T02:05:18.476Z",
+  "requestedAt": "2026-04-13T05:35:10.043Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8545
+          "viewCount": 8652
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3237,
+          "viewCount": 3242,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10712,
+          "viewCount": 10734,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T12:00:00Z",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 83
+          "viewCount": 152
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -452,43 +452,7 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "vGNVYbfT5tA",
-          "title": "4月6日白糸台小学校通学路歩道植栽剪定",
-          "description": "入学式に出席する親子が通る通学路にある歩道の植栽を剪定しました。\n枝が伸びている植栽がもう少し残っているので、今週中にはなんとかしたいと思ってます。",
-          "publishedAt": "2026-04-06T03:07:36Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/vGNVYbfT5tA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 17885
-        }
-      ],
+      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -1031,7 +995,7 @@
               "height": 720
             }
           },
-          "viewCount": 283
+          "viewCount": 329
         },
         {
           "videoId": "hfFMqs7AErU",
@@ -1066,7 +1030,7 @@
               "height": 720
             }
           },
-          "viewCount": 2045,
+          "viewCount": 2097,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-11T12:00:00Z",
@@ -1107,7 +1071,7 @@
               "height": 720
             }
           },
-          "viewCount": 9619
+          "viewCount": 9648
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1142,7 +1106,7 @@
               "height": 720
             }
           },
-          "viewCount": 2275,
+          "viewCount": 2289,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1183,7 +1147,7 @@
               "height": 720
             }
           },
-          "viewCount": 619
+          "viewCount": 625
         },
         {
           "videoId": "7kc66WuYLnM",
@@ -1218,7 +1182,7 @@
               "height": 720
             }
           },
-          "viewCount": 1881,
+          "viewCount": 1895,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1259,7 +1223,7 @@
               "height": 720
             }
           },
-          "viewCount": 5481
+          "viewCount": 5562
         },
         {
           "videoId": "F4GQtKMfmAM",
@@ -1294,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 3118,
+          "viewCount": 3122,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-06T11:00:00Z",
@@ -1361,7 +1325,7 @@
               "height": 720
             }
           },
-          "viewCount": 4025
+          "viewCount": 4341
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
