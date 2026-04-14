@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-14T02:00:14.449Z",
+  "requestedAt": "2026-04-14T05:17:04.078Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2657,
+          "viewCount": 2819,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-13T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 9405
+          "viewCount": 9457
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3279,
+          "viewCount": 3282,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-08T12:30:00Z",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 416
+          "viewCount": 432
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -602,49 +602,7 @@
       },
       "channelId": "UC-fWI4hdHDcuivhE0O9hScg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "NRE5rlaWzOE",
-          "title": "【4/7配信】 天野こころのこころトーク#25",
-          "description": "近況報告です。\n\n0:00 近況報告\n1:31 他チャンネル出演について\n2:12 ご支援への感謝と連絡\n4:43 選挙後の活動と「再生の道」への思い\n24:00 エンディング\n\n▽天野こころと意見交換＜LINE公式＞\nhttps://lin.ee/PTrdyVL​\n\n▽ホームページ\nhttps://amano-cocoro.com/​\n\n▽選挙ドットコムページ\nhttps://go2senkyo.com/...​\n\n▽天野こころSNS\n\nX / ID : @CHUO_Amano \nhttps://x.com/CHUO_Amano​",
-          "publishedAt": "2026-04-07T03:51:53Z",
-          "channelTitle": "天野こころ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NRE5rlaWzOE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NRE5rlaWzOE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NRE5rlaWzOE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/NRE5rlaWzOE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/NRE5rlaWzOE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7209,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-07T03:12:47Z",
-            "actualStartTime": "2026-04-07T03:13:22Z",
-            "actualEndTime": "2026-04-07T03:42:45Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "天野こころ,あまのこころ"
     },
     {
@@ -953,7 +911,7 @@
               "height": 720
             }
           },
-          "viewCount": 4722
+          "viewCount": 4821
         },
         {
           "videoId": "lq5MOLGeD0A",
@@ -988,7 +946,7 @@
               "height": 720
             }
           },
-          "viewCount": 473
+          "viewCount": 497
         },
         {
           "videoId": "hfFMqs7AErU",
@@ -1023,7 +981,7 @@
               "height": 720
             }
           },
-          "viewCount": 2259,
+          "viewCount": 2279,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-11T12:00:00Z",
@@ -1064,7 +1022,7 @@
               "height": 720
             }
           },
-          "viewCount": 9830
+          "viewCount": 9919
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1099,7 +1057,7 @@
               "height": 720
             }
           },
-          "viewCount": 2328,
+          "viewCount": 2336,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1140,7 +1098,7 @@
               "height": 720
             }
           },
-          "viewCount": 650
+          "viewCount": 658
         },
         {
           "videoId": "7kc66WuYLnM",
@@ -1175,7 +1133,7 @@
               "height": 720
             }
           },
-          "viewCount": 1979,
+          "viewCount": 1982,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1216,7 +1174,7 @@
               "height": 720
             }
           },
-          "viewCount": 5651
+          "viewCount": 5663
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1277,7 +1235,7 @@
               "height": 720
             }
           },
-          "viewCount": 5350
+          "viewCount": 5457
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
