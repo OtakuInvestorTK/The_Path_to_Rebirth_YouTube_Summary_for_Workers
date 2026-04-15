@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-15T10:11:55.460Z",
+  "requestedAt": "2026-04-15T11:51:55.522Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 9869
+          "viewCount": 9873
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 642
+          "viewCount": 651
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -911,7 +911,7 @@
               "height": 720
             }
           },
-          "viewCount": 2207
+          "viewCount": 2264
         },
         {
           "videoId": "8UiXWFzhrv8",
@@ -946,7 +946,7 @@
               "height": 720
             }
           },
-          "viewCount": 5835
+          "viewCount": 5887
         },
         {
           "videoId": "lq5MOLGeD0A",
@@ -1016,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 2368,
+          "viewCount": 2370,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-11T12:00:00Z",
@@ -1057,7 +1057,7 @@
               "height": 720
             }
           },
-          "viewCount": 10273
+          "viewCount": 10270
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1092,7 +1092,7 @@
               "height": 720
             }
           },
-          "viewCount": 2363,
+          "viewCount": 2361,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1168,48 +1168,13 @@
               "height": 720
             }
           },
-          "viewCount": 2020,
+          "viewCount": 2018,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
             "actualStartTime": "2026-04-09T03:00:22Z",
             "actualEndTime": "2026-04-09T03:46:51Z"
           }
-        },
-        {
-          "videoId": "dzF57qTbzK4",
-          "title": "⚠️杉並区、ちょっとヤバいです！⚠️",
-          "description": "⚠️杉並区、ちょっとヤバいです！⚠️\n\n増田よしひこです。\n\n皆さんは、【樹冠被覆率】ということばを知っていますか？\n簡潔にいうと、どれだけ緑が豊かかという指標の１つになるものです。\n\n詳しくは、YouTubeの本編にて解説していますので、是非ご覧ください。\n\n#再生の道 #杉並区 #増田よしひこ",
-          "publishedAt": "2026-04-08T11:14:30Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/dzF57qTbzK4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/dzF57qTbzK4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/dzF57qTbzK4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/dzF57qTbzK4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/dzF57qTbzK4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5712
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1270,7 +1235,7 @@
               "height": 720
             }
           },
-          "viewCount": 6132
+          "viewCount": 6153
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
