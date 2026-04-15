@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-15T11:51:55.522Z",
+  "requestedAt": "2026-04-15T13:11:39.098Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3249,
+          "viewCount": 3260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-13T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 9873
+          "viewCount": 9898
         },
         {
           "videoId": "peuyhCa5FcM",
@@ -250,7 +250,7 @@
               "height": 720
             }
           },
-          "viewCount": 651
+          "viewCount": 655
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -879,6 +879,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "0T-tkctUy2g",
+          "title": "想像以上に深刻な現状でした🥵　#杉並区 #増田よしひこ",
+          "description": "",
+          "publishedAt": "2026-04-15T11:55:35Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 3009
+        },
+        {
           "videoId": "GxPoMiECeYs",
           "title": "ワインの価値の違いはどこに？🍷 #杉並区 #増田よしひこ #東京",
           "description": "",
@@ -911,7 +946,7 @@
               "height": 720
             }
           },
-          "viewCount": 2264
+          "viewCount": 2312
         },
         {
           "videoId": "8UiXWFzhrv8",
@@ -946,7 +981,7 @@
               "height": 720
             }
           },
-          "viewCount": 5887
+          "viewCount": 5919
         },
         {
           "videoId": "lq5MOLGeD0A",
@@ -981,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 570
+          "viewCount": 583
         },
         {
           "videoId": "hfFMqs7AErU",
@@ -1092,7 +1127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2361,
+          "viewCount": 2369,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1168,7 +1203,7 @@
               "height": 720
             }
           },
-          "viewCount": 2018,
+          "viewCount": 2022,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T03:00:00Z",
@@ -1235,7 +1270,7 @@
               "height": 720
             }
           },
-          "viewCount": 6153
+          "viewCount": 6157
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
