@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-15T23:36:40.311Z",
+  "requestedAt": "2026-04-16T02:04:53.891Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "dmM19o2RlUc",
+          "title": "【再生の道】AIの共同代表とバトル！？",
+          "description": "※給食費は年4~5万円が通常であり、年間20万円は子ども4人くらいいる方と思われます。\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-04-16T01:43:47Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dmM19o2RlUc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dmM19o2RlUc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dmM19o2RlUc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dmM19o2RlUc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dmM19o2RlUc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 260
+        },
         {
           "videoId": "VAEZfFR8taQ",
           "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.10",
@@ -98,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 9988
+          "viewCount": 10011
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -209,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 672
+          "viewCount": 673
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -870,7 +905,7 @@
               "height": 720
             }
           },
-          "viewCount": 4435
+          "viewCount": 4549
         },
         {
           "videoId": "GxPoMiECeYs",
@@ -905,7 +940,7 @@
               "height": 720
             }
           },
-          "viewCount": 2492
+          "viewCount": 2529
         },
         {
           "videoId": "8UiXWFzhrv8",
@@ -940,7 +975,7 @@
               "height": 720
             }
           },
-          "viewCount": 6080
+          "viewCount": 6098
         },
         {
           "videoId": "lq5MOLGeD0A",
@@ -975,7 +1010,7 @@
               "height": 720
             }
           },
-          "viewCount": 625
+          "viewCount": 685
         },
         {
           "videoId": "hfFMqs7AErU",
@@ -1010,7 +1045,7 @@
               "height": 720
             }
           },
-          "viewCount": 2384,
+          "viewCount": 2385,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-11T12:00:00Z",
@@ -1051,7 +1086,7 @@
               "height": 720
             }
           },
-          "viewCount": 10358
+          "viewCount": 10398
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1086,7 +1121,7 @@
               "height": 720
             }
           },
-          "viewCount": 2375,
+          "viewCount": 2377,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-09T12:00:00Z",
@@ -1127,7 +1162,7 @@
               "height": 720
             }
           },
-          "viewCount": 729
+          "viewCount": 733
         },
         {
           "videoId": "7kc66WuYLnM",
@@ -1229,7 +1264,7 @@
               "height": 720
             }
           },
-          "viewCount": 6196
+          "viewCount": 6208
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
