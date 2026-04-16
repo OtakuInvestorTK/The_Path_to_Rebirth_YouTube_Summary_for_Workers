@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-16T02:04:53.891Z",
+  "requestedAt": "2026-04-16T05:24:41.668Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 260
+          "viewCount": 2242
         },
         {
           "videoId": "VAEZfFR8taQ",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3304,
+          "viewCount": 3311,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-13T12:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10011
+          "viewCount": 10047
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 673
+          "viewCount": 681
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -870,7 +870,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "RrluBWoeGyI",
+          "title": "ヨシヒコ・ライブ#25",
+          "description": "今日は、、、、\n大切なお知らせと記者会見の話\n４月11日に行われたサポーターと共に集う会のこと\nこれからのこと\n\nそんなピリリと身が引き締まる思いの中、\nこんな時こそ、ワイン片手にゆるゆると🍷",
+          "publishedAt": "2026-04-16T03:40:38Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-04-16T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "0T-tkctUy2g",
@@ -905,7 +945,7 @@
               "height": 720
             }
           },
-          "viewCount": 4549
+          "viewCount": 4635
         },
         {
           "videoId": "GxPoMiECeYs",
@@ -940,7 +980,7 @@
               "height": 720
             }
           },
-          "viewCount": 2529
+          "viewCount": 2589
         },
         {
           "videoId": "8UiXWFzhrv8",
@@ -975,7 +1015,7 @@
               "height": 720
             }
           },
-          "viewCount": 6098
+          "viewCount": 6153
         },
         {
           "videoId": "lq5MOLGeD0A",
@@ -1086,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 10398
+          "viewCount": 10430
         },
         {
           "videoId": "DKtrxyJDDsE",
@@ -1163,47 +1203,6 @@
             }
           },
           "viewCount": 733
-        },
-        {
-          "videoId": "7kc66WuYLnM",
-          "title": "人口減少時代に備えよ！杉並区のビジネス　後半・課題解決提案",
-          "description": "杉並区は住宅都市。でも、このままでは商店街も衰退。昼と夜の人口の差は広がり、子育てもしにくい街にならないか？？？\n【杉並区のビジネス】後半は、住宅都市ならではの、活力を発揮するビジネスの考え方について楽しく語り合いました。小澄さん、ありがとうございました。",
-          "publishedAt": "2026-04-09T03:00:22Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/7kc66WuYLnM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7kc66WuYLnM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/7kc66WuYLnM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/7kc66WuYLnM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/7kc66WuYLnM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2029,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-09T03:00:00Z",
-            "actualStartTime": "2026-04-09T03:00:22Z",
-            "actualEndTime": "2026-04-09T03:46:51Z"
-          }
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1264,7 +1263,7 @@
               "height": 720
             }
           },
-          "viewCount": 6208
+          "viewCount": 6222
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
