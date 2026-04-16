@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-16T11:57:10.146Z",
+  "requestedAt": "2026-04-16T13:43:26.684Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5152
+          "viewCount": 5788
         },
         {
           "videoId": "VAEZfFR8taQ",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3327,
+          "viewCount": 3332,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-13T12:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10147
+          "viewCount": 10174
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -870,48 +870,49 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "RrluBWoeGyI",
           "title": "ヨシヒコ・ライブ#25",
           "description": "今日は、、、、\n大切なお知らせと記者会見の話\n４月11日に行われたサポーターと共に集う会のこと\nこれからのこと\n\nそんなピリリと身が引き締まる思いの中、\nこんな時こそ、ワイン片手にゆるゆると🍷\n\n🌱ボランティア募集中！\n一緒に盛り上げていきましょう。\nお申し込みフォームはこちらからお願いします。\nhttps://forms.gle/J43iXmgBEj4N6j519\n\n🌱寄付のフォーム\n増田の活動に賛同し応援してくださる方、\nこちらのフォームからご協力をお願いします。\nhttps://go2senkyo.com/seijika/195808\n\n🌱杉並ヴィジョン意見交換会\n4月25日（土）15:00-16:30\n荻窪タウンセブンホール８階\nお申し込みはこちらのフォームから\nhttps://20260425-masuda.peatix.com/\n\n🌱「木陰のある街に、未来は集まる」4月25日発売\n予約販売中です！99円\nhttps://amzn.asia/d/04b9LfYj",
-          "publishedAt": "2026-04-16T03:40:38Z",
+          "publishedAt": "2026-04-16T13:08:31Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 666,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-04-16T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-04-16T12:00:00Z",
+            "actualStartTime": "2026-04-16T11:59:55Z",
+            "actualEndTime": "2026-04-16T12:58:45Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "0T-tkctUy2g",
           "title": "想像以上に深刻な現状でした🥵　#杉並区 #増田よしひこ",
@@ -945,7 +946,7 @@
               "height": 720
             }
           },
-          "viewCount": 4794
+          "viewCount": 4846
         },
         {
           "videoId": "GxPoMiECeYs",
@@ -980,7 +981,7 @@
               "height": 720
             }
           },
-          "viewCount": 2650
+          "viewCount": 2674
         },
         {
           "videoId": "8UiXWFzhrv8",
@@ -1050,7 +1051,7 @@
               "height": 720
             }
           },
-          "viewCount": 742
+          "viewCount": 776
         },
         {
           "videoId": "hfFMqs7AErU",
@@ -1126,48 +1127,7 @@
               "height": 720
             }
           },
-          "viewCount": 10456
-        },
-        {
-          "videoId": "DKtrxyJDDsE",
-          "title": "恋愛♡病院の前座的ヨシヒコ・ライブ #24",
-          "description": "🌱アフリカで知り合った友人がフィアンセを連れてやってきた！\n🌱お話会（高井戸・荻窪）\n🌱羽田ゆきまさ報道局\nhttps://youtu.be/E859Y3hFD5w?si=hvwGu7TNjFbcSDQ3\n🌱クリーンロード　新しい道具\n🌱動画「杉並区のビジネス」で、小澄さん登場\nhttps://www.youtube.com/watch?v=7kc66WuYLnM\n🌱マヨさんライブ第２弾\nhttps://www.youtube.com/live/t9oXLE27kxg?si=t3XrwQbH0FOcawx0\n\n🌱🌱🌱4/11の《サポーターと共に集う会》お知らせ\n応援に誰がきてくれるかな？？？\n\n日時　2026年4月11日（土）12:30～14:00（12:10開場）\n会場　荻窪タウンセブンホール\n（杉並区上荻1-9-1 荻窪タウンセブン8階）\n\n【お申し込みはこちら】\n※定員に達し次第締切となります\nhttps://docs.google.com/forms/d/e/1FAIpQLSdJAz8Wa4gIqihbgKG-DOAICdziI8K4Xti8JiNrAzasLK9EPA/viewform",
-          "publishedAt": "2026-04-09T13:02:49Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/DKtrxyJDDsE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/DKtrxyJDDsE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/DKtrxyJDDsE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/DKtrxyJDDsE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/DKtrxyJDDsE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2378,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-09T12:00:00Z",
-            "actualStartTime": "2026-04-09T12:00:53Z",
-            "actualEndTime": "2026-04-09T12:53:48Z"
-          }
+          "viewCount": 10483
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1228,7 +1188,7 @@
               "height": 720
             }
           },
-          "viewCount": 312
+          "viewCount": 432
         },
         {
           "videoId": "KD_qbI06Cls",
@@ -1263,7 +1223,7 @@
               "height": 720
             }
           },
-          "viewCount": 6276
+          "viewCount": 6281
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
