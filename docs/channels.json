@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-17T22:32:14.615Z",
+  "requestedAt": "2026-04-17T23:33:25.192Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8486
+          "viewCount": 8542
         },
         {
           "videoId": "VAEZfFR8taQ",
@@ -905,7 +905,7 @@
               "height": 720
             }
           },
-          "viewCount": 2056
+          "viewCount": 2120
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -940,7 +940,7 @@
               "height": 720
             }
           },
-          "viewCount": 1654,
+          "viewCount": 1662,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-16T12:00:00Z",
@@ -981,7 +981,7 @@
               "height": 720
             }
           },
-          "viewCount": 5306
+          "viewCount": 5321
         },
         {
           "videoId": "GxPoMiECeYs",
@@ -1188,7 +1188,7 @@
               "height": 720
             }
           },
-          "viewCount": 937
+          "viewCount": 941
         },
         {
           "videoId": "KD_qbI06Cls",
