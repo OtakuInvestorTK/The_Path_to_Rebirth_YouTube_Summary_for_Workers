@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-18T11:29:43.668Z",
+  "requestedAt": "2026-04-18T12:50:28.566Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9215
+          "viewCount": 9290
         },
         {
           "videoId": "VAEZfFR8taQ",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3372,
+          "viewCount": 3378,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-13T12:00:00Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 728
+          "viewCount": 730
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -870,7 +870,7 @@
               "height": 720
             }
           },
-          "viewCount": 3072
+          "viewCount": 3158
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -905,7 +905,7 @@
               "height": 720
             }
           },
-          "viewCount": 1816,
+          "viewCount": 1827,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-16T12:00:00Z",
@@ -946,7 +946,7 @@
               "height": 720
             }
           },
-          "viewCount": 5575
+          "viewCount": 5593
         },
         {
           "videoId": "GxPoMiECeYs",
@@ -981,7 +981,7 @@
               "height": 720
             }
           },
-          "viewCount": 2958
+          "viewCount": 2968
         },
         {
           "videoId": "8UiXWFzhrv8",
@@ -1016,7 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 6438
+          "viewCount": 6446
         },
         {
           "videoId": "lq5MOLGeD0A",
@@ -1052,47 +1052,6 @@
             }
           },
           "viewCount": 879
-        },
-        {
-          "videoId": "hfFMqs7AErU",
-          "title": "日本の樹木はなぜ切られるのか？日米ビジネス・コンサルタントのロッシェル・カップさんと対談",
-          "description": "アメリカをはじめ他の国々では、樹木の価値をきちんと認識し共生する努力をしているのに、日本では、あまりにも樹木が軽視されすぎていないか？というロッシェルさんの思いを聞いてみました。",
-          "publishedAt": "2026-04-11T12:00:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/hfFMqs7AErU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/hfFMqs7AErU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/hfFMqs7AErU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/hfFMqs7AErU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/hfFMqs7AErU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2420,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-11T12:00:00Z",
-            "actualStartTime": "2026-04-11T12:00:06Z",
-            "actualEndTime": "2026-04-11T12:59:39Z"
-          }
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1188,7 +1147,7 @@
               "height": 720
             }
           },
-          "viewCount": 6405
+          "viewCount": 6413
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
