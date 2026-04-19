@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-19T10:33:26.213Z",
+  "requestedAt": "2026-04-19T11:30:19.910Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10072
+          "viewCount": 10121
         },
         {
           "videoId": "VAEZfFR8taQ",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3390,
+          "viewCount": 3396,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-13T12:00:00Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 736
+          "viewCount": 734
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -870,7 +870,7 @@
               "height": 720
             }
           },
-          "viewCount": 3918
+          "viewCount": 3936
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -946,7 +946,7 @@
               "height": 720
             }
           },
-          "viewCount": 5846
+          "viewCount": 5861
         },
         {
           "videoId": "GxPoMiECeYs",
@@ -981,7 +981,7 @@
               "height": 720
             }
           },
-          "viewCount": 3019
+          "viewCount": 3017
         },
         {
           "videoId": "8UiXWFzhrv8",
@@ -1016,42 +1016,7 @@
               "height": 720
             }
           },
-          "viewCount": 6479
-        },
-        {
-          "videoId": "lq5MOLGeD0A",
-          "title": "なぜシリコンバレーの成功者は自然豊かな場所に住む？🤔　#杉並区 #再生の道 #増田よしひこ",
-          "description": "",
-          "publishedAt": "2026-04-12T11:19:42Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/lq5MOLGeD0A/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 895
+          "viewCount": 6493
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1112,7 +1077,7 @@
               "height": 720
             }
           },
-          "viewCount": 1087
+          "viewCount": 1089
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
