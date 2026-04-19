@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-19T22:28:29.145Z",
+  "requestedAt": "2026-04-19T23:30:08.669Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10214
+          "viewCount": 10232
         },
         {
           "videoId": "VAEZfFR8taQ",
@@ -175,43 +175,7 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "Te6I9xte3A0",
-          "title": "老舗「みの家」の桜鍋と馬刺し",
-          "description": "都営地下鉄森下駅そばの老舗「みの家」の桜鍋と馬刺しです。玉子も選りすぐり。#みの家 #桜鍋 #桜なべ #馬刺し",
-          "publishedAt": "2026-04-12T23:29:12Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Te6I9xte3A0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Te6I9xte3A0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Te6I9xte3A0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Te6I9xte3A0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Te6I9xte3A0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 742
-        }
-      ],
+      "recentVideos": [],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -870,7 +834,7 @@
               "height": 720
             }
           },
-          "viewCount": 4118
+          "viewCount": 4134
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -905,7 +869,7 @@
               "height": 720
             }
           },
-          "viewCount": 1987,
+          "viewCount": 1988,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-16T12:00:00Z",
@@ -1077,7 +1041,7 @@
               "height": 720
             }
           },
-          "viewCount": 1095
+          "viewCount": 1096
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
