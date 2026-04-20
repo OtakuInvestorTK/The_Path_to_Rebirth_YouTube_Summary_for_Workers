@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-20T21:40:23.177Z",
+  "requestedAt": "2026-04-20T22:37:06.776Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -52,7 +52,7 @@
               "height": 480
             }
           },
-          "viewCount": 17522,
+          "viewCount": 18158,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -905,7 +905,7 @@
               "height": 720
             }
           },
-          "viewCount": 5957
+          "viewCount": 5958
         },
         {
           "videoId": "GxPoMiECeYs",
@@ -940,7 +940,7 @@
               "height": 720
             }
           },
-          "viewCount": 3084
+          "viewCount": 3086
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
