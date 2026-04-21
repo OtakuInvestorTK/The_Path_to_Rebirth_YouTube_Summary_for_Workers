@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-21T13:11:07.744Z",
+  "requestedAt": "2026-04-21T15:07:07.022Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 1912,
+          "viewCount": 2862,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T10:00:00Z",
@@ -133,7 +133,7 @@
               "height": 480
             }
           },
-          "viewCount": 22632,
+          "viewCount": 22887,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -725,7 +725,8 @@
         }
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "IbWSwmzslwg",
           "title": "なおりん通信シーズン２　＃３",
@@ -759,16 +760,15 @@
               "height": 720
             }
           },
-          "viewCount": 188,
+          "viewCount": 442,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
             "actualStartTime": "2026-04-21T12:45:40Z",
-            "concurrentViewers": 27
+            "actualEndTime": "2026-04-21T13:16:11Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
     {
@@ -920,6 +920,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "1iwe-JTwIbw",
+          "title": "木を植えると良いことがある？ #杉並区 #増田よしひこ",
+          "description": "",
+          "publishedAt": "2026-04-21T13:32:47Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1iwe-JTwIbw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1iwe-JTwIbw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1iwe-JTwIbw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1iwe-JTwIbw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1iwe-JTwIbw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 4705
+        },
+        {
           "videoId": "Emw-ie8AflY",
           "title": "次世代に誇れるまちづくり！ #杉並区 #増田よしひこ",
           "description": "",
@@ -952,7 +987,7 @@
               "height": 720
             }
           },
-          "viewCount": 4532
+          "viewCount": 4553
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -1028,7 +1063,7 @@
               "height": 720
             }
           },
-          "viewCount": 5991
+          "viewCount": 5988
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1089,7 +1124,7 @@
               "height": 720
             }
           },
-          "viewCount": 1115
+          "viewCount": 1117
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
