@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-21T09:18:59.338Z",
+  "requestedAt": "2026-04-21T11:00:33.647Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -23,6 +23,46 @@
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [
+        {
+          "videoId": "l67hWO_N4VM",
+          "title": "【これでいいのか杉並区】都市計画道路について徹底解説します！ #再生の道 #増田よしひこ",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-04-21T10:00:06Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 836,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-04-21T10:00:00Z",
+            "actualStartTime": "2026-04-21T10:00:06Z"
+          }
+        },
         {
           "videoId": "ONUi1cW9ERc",
           "title": "AIの共同代表とバトル！？杉並で生まれるAIについて語ります。#再生の道 ",
@@ -92,7 +132,7 @@
               "height": 480
             }
           },
-          "viewCount": 21954,
+          "viewCount": 22258,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -133,7 +173,7 @@
               "height": 720
             }
           },
-          "viewCount": 10992
+          "viewCount": 11017
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -869,7 +909,7 @@
               "height": 720
             }
           },
-          "viewCount": 4511
+          "viewCount": 4524
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -945,7 +985,7 @@
               "height": 720
             }
           },
-          "viewCount": 5981
+          "viewCount": 5982
         },
         {
           "videoId": "GxPoMiECeYs",
@@ -980,7 +1020,7 @@
               "height": 720
             }
           },
-          "viewCount": 3099
+          "viewCount": 3102
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
