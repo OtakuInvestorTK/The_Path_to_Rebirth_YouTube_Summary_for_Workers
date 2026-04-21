@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-21T11:00:33.647Z",
+  "requestedAt": "2026-04-21T13:11:07.744Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -23,46 +23,6 @@
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [
-        {
-          "videoId": "l67hWO_N4VM",
-          "title": "【これでいいのか杉並区】都市計画道路について徹底解説します！ #再生の道 #増田よしひこ",
-          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-04-21T10:00:06Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 836,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2026-04-21T10:00:00Z",
-            "actualStartTime": "2026-04-21T10:00:06Z"
-          }
-        },
         {
           "videoId": "ONUi1cW9ERc",
           "title": "AIの共同代表とバトル！？杉並で生まれるAIについて語ります。#再生の道 ",
@@ -105,6 +65,47 @@
       ],
       "recentVideos": [
         {
+          "videoId": "l67hWO_N4VM",
+          "title": "【これでいいのか杉並区】都市計画道路について徹底解説します！ #再生の道 #増田よしひこ",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-04-21T10:00:06Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1912,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-04-21T10:00:00Z",
+            "actualStartTime": "2026-04-21T10:00:06Z",
+            "actualEndTime": "2026-04-21T11:01:24Z"
+          }
+        },
+        {
           "videoId": "xFUV6e3Y9kQ",
           "title": "再生の道｜新体制発足LIVE",
           "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
@@ -132,7 +133,7 @@
               "height": 480
             }
           },
-          "viewCount": 22258,
+          "viewCount": 22632,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -173,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 11017
+          "viewCount": 11066
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -724,7 +725,49 @@
         }
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "IbWSwmzslwg",
+          "title": "なおりん通信シーズン２　＃３",
+          "description": "",
+          "publishedAt": "2026-04-21T12:45:17Z",
+          "channelTitle": "浅井なおゆき",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 188,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-04-21T12:45:17Z",
+            "actualStartTime": "2026-04-21T12:45:40Z",
+            "concurrentViewers": 27
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
@@ -909,7 +952,7 @@
               "height": 720
             }
           },
-          "viewCount": 4524
+          "viewCount": 4532
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -944,7 +987,7 @@
               "height": 720
             }
           },
-          "viewCount": 2043,
+          "viewCount": 2051,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-16T12:00:00Z",
@@ -985,42 +1028,7 @@
               "height": 720
             }
           },
-          "viewCount": 5982
-        },
-        {
-          "videoId": "GxPoMiECeYs",
-          "title": "ワインの価値の違いはどこに？🍷 #杉並区 #増田よしひこ #東京",
-          "description": "",
-          "publishedAt": "2026-04-14T12:46:38Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/GxPoMiECeYs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/GxPoMiECeYs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/GxPoMiECeYs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/GxPoMiECeYs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/GxPoMiECeYs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3102
+          "viewCount": 5991
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1081,7 +1089,7 @@
               "height": 720
             }
           },
-          "viewCount": 1113
+          "viewCount": 1115
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
