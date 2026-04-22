@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-22T22:41:03.781Z",
+  "requestedAt": "2026-04-22T23:40:42.244Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4512,
+          "viewCount": 4603,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5355,
+          "viewCount": 5368,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T10:00:00Z",
@@ -134,7 +134,7 @@
               "height": 480
             }
           },
-          "viewCount": 24185,
+          "viewCount": 24214,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -761,7 +761,7 @@
               "height": 720
             }
           },
-          "viewCount": 1867,
+          "viewCount": 1873,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -1032,7 +1032,7 @@
               "height": 720
             }
           },
-          "viewCount": 2673
+          "viewCount": 2753
         },
         {
           "videoId": "1iwe-JTwIbw",
@@ -1067,7 +1067,7 @@
               "height": 720
             }
           },
-          "viewCount": 7185
+          "viewCount": 7208
         },
         {
           "videoId": "Emw-ie8AflY",
@@ -1102,7 +1102,7 @@
               "height": 720
             }
           },
-          "viewCount": 4658
+          "viewCount": 4662
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -1204,7 +1204,7 @@
               "height": 720
             }
           },
-          "viewCount": 2951,
+          "viewCount": 3051,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
