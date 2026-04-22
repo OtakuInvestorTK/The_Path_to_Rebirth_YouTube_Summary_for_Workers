@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-22T02:00:20.855Z",
+  "requestedAt": "2026-04-22T05:19:45.860Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 4224,
+          "viewCount": 4554,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T10:00:00Z",
@@ -133,7 +133,7 @@
               "height": 480
             }
           },
-          "viewCount": 23473,
+          "viewCount": 23608,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 11227
+          "viewCount": 11235
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -760,7 +760,7 @@
               "height": 720
             }
           },
-          "viewCount": 1171,
+          "viewCount": 1352,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -952,7 +952,7 @@
               "height": 720
             }
           },
-          "viewCount": 6742
+          "viewCount": 6828
         },
         {
           "videoId": "Emw-ie8AflY",
@@ -987,7 +987,7 @@
               "height": 720
             }
           },
-          "viewCount": 4580
+          "viewCount": 4585
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -1022,7 +1022,7 @@
               "height": 720
             }
           },
-          "viewCount": 2056,
+          "viewCount": 2057,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-16T12:00:00Z",
@@ -1063,7 +1063,7 @@
               "height": 720
             }
           },
-          "viewCount": 6015
+          "viewCount": 6023
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
