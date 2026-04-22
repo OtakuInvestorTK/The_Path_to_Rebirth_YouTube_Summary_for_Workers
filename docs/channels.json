@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-22T10:58:41.289Z",
+  "requestedAt": "2026-04-22T11:59:34.958Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 946,
+          "viewCount": 1404,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 4879,
+          "viewCount": 4949,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T10:00:00Z",
@@ -134,7 +134,7 @@
               "height": 480
             }
           },
-          "viewCount": 23893,
+          "viewCount": 23941,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -175,7 +175,7 @@
               "height": 720
             }
           },
-          "viewCount": 11307
+          "viewCount": 11323
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -761,7 +761,7 @@
               "height": 720
             }
           },
-          "viewCount": 1650,
+          "viewCount": 1692,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -953,7 +953,7 @@
               "height": 720
             }
           },
-          "viewCount": 6934
+          "viewCount": 6964
         },
         {
           "videoId": "Emw-ie8AflY",
@@ -988,7 +988,7 @@
               "height": 720
             }
           },
-          "viewCount": 4606
+          "viewCount": 4620
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -1023,48 +1023,13 @@
               "height": 720
             }
           },
-          "viewCount": 2061,
+          "viewCount": 2073,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-16T12:00:00Z",
             "actualStartTime": "2026-04-16T11:59:55Z",
             "actualEndTime": "2026-04-16T12:58:45Z"
           }
-        },
-        {
-          "videoId": "0T-tkctUy2g",
-          "title": "想像以上に深刻な現状でした🥵　#杉並区 #増田よしひこ",
-          "description": "",
-          "publishedAt": "2026-04-15T11:55:35Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/0T-tkctUy2g/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6038
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1125,7 +1090,7 @@
               "height": 720
             }
           },
-          "viewCount": 471,
+          "viewCount": 778,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
