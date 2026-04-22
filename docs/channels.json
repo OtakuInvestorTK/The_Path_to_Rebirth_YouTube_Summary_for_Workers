@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-22T19:05:42.309Z",
+  "requestedAt": "2026-04-22T20:47:00.406Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4285,
+          "viewCount": 4379,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -175,7 +175,7 @@
               "height": 720
             }
           },
-          "viewCount": 11405
+          "viewCount": 11418
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -761,7 +761,7 @@
               "height": 720
             }
           },
-          "viewCount": 1840,
+          "viewCount": 1856,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -1032,7 +1032,7 @@
               "height": 720
             }
           },
-          "viewCount": 2534
+          "viewCount": 2585
         },
         {
           "videoId": "1iwe-JTwIbw",
@@ -1067,7 +1067,7 @@
               "height": 720
             }
           },
-          "viewCount": 7152
+          "viewCount": 7165
         },
         {
           "videoId": "Emw-ie8AflY",
@@ -1102,7 +1102,7 @@
               "height": 720
             }
           },
-          "viewCount": 4656
+          "viewCount": 4654
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -1204,7 +1204,7 @@
               "height": 720
             }
           },
-          "viewCount": 2753,
+          "viewCount": 2824,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -1245,7 +1245,7 @@
               "height": 720
             }
           },
-          "viewCount": 1131
+          "viewCount": 1132
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
