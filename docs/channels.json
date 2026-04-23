@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-23T02:03:51.204Z",
+  "requestedAt": "2026-04-23T05:24:11.827Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4813,
+          "viewCount": 5019,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5437,
+          "viewCount": 5465,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T10:00:00Z",
@@ -134,7 +134,7 @@
               "height": 480
             }
           },
-          "viewCount": 24232,
+          "viewCount": 24288,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -726,7 +726,7 @@
               "height": 720
             }
           },
-          "viewCount": 1903,
+          "viewCount": 1928,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -997,7 +997,7 @@
               "height": 720
             }
           },
-          "viewCount": 2839
+          "viewCount": 2911
         },
         {
           "videoId": "1iwe-JTwIbw",
@@ -1032,7 +1032,7 @@
               "height": 720
             }
           },
-          "viewCount": 7232
+          "viewCount": 7259
         },
         {
           "videoId": "Emw-ie8AflY",
@@ -1067,7 +1067,7 @@
               "height": 720
             }
           },
-          "viewCount": 4663
+          "viewCount": 4676
         },
         {
           "videoId": "RrluBWoeGyI",
@@ -1169,7 +1169,7 @@
               "height": 720
             }
           },
-          "viewCount": 3286,
+          "viewCount": 3558,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -1210,7 +1210,7 @@
               "height": 720
             }
           },
-          "viewCount": 1135
+          "viewCount": 1136
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
