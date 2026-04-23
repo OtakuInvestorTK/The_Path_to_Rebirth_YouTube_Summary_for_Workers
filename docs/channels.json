@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-23T11:02:19.155Z",
+  "requestedAt": "2026-04-23T13:13:10.787Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "cTDH2i3-b9s",
           "title": "【みっちーRADIO】声を政策に変える方法？",
@@ -56,15 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 16,
+          "viewCount": 1155,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-04-23T11:00:00Z",
-            "actualStartTime": "2026-04-23T11:00:06Z"
+            "actualStartTime": "2026-04-23T11:00:06Z",
+            "actualEndTime": "2026-04-23T11:44:13Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "ONUi1cW9ERc",
           "title": "AIの共同代表とバトル！？杉並で生まれるAIについて語ります。#再生の道 ",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5408,
+          "viewCount": 5535,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 5648,
+          "viewCount": 5651,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T10:00:00Z",
@@ -175,7 +175,7 @@
               "height": 480
             }
           },
-          "viewCount": 24362,
+          "viewCount": 24361,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -767,7 +767,7 @@
               "height": 720
             }
           },
-          "viewCount": 1959,
+          "viewCount": 1985,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -926,45 +926,6 @@
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "liveVideos": [
         {
-          "videoId": "wP4pSZozAmY",
-          "title": "ヨシヒコ・ライブ＃２６",
-          "description": "今週のヨシヒコ\n今週から始めた辻立ち\n福祉関係の方、造園関係の方からお話\nわたしのテーマカラー\nショート動画へのコメントも拾えたら。\nヨシヒコ・ライブSP with 木島さんの日程決定！\nもしかしたら、サプライズゲストも？？？\n\n今週のワインはなににしようかまだ決まってませんが、\nみなさんもとっておきの飲み物を片手に、\n木曜日の夜をおつきあいください。",
-          "publishedAt": "2026-04-22T13:51:07Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 0,
-          "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-04-23T12:00:00Z"
-          }
-        },
-        {
           "videoId": "xRjyteXQm2o",
           "title": "杉並の教育ビジョン解説〜公教育とはなにか〜",
           "description": "杉並区にある「教育ビジョン」を解説しながら、京都大学大学院生で再生の道の代表である奥村光貴さんと対談しました。\n\n「教育とは、炎を燃え上がらせることであって、入れ物を満たすことではない」by ソクラテス",
@@ -1006,6 +967,82 @@
       ],
       "recentVideos": [
         {
+          "videoId": "wP4pSZozAmY",
+          "title": "ヨシヒコ・ライブ＃２６",
+          "description": "今週のヨシヒコ\n今週から始めた辻立ち\n福祉関係の方、造園関係の方からお話\nわたしのテーマカラー\nショート動画へのコメントも拾えたら。\nヨシヒコ・ライブSP with 木島さんの日程決定！\nもしかしたら、サプライズゲストも？？？\n\n今週のワインはなににしようかまだ決まってませんが、\nみなさんもとっておきの飲み物を片手に、\n木曜日の夜をおつきあいください。",
+          "publishedAt": "2026-04-22T13:51:07Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 486,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-04-23T12:00:00Z",
+            "actualStartTime": "2026-04-23T12:00:18Z",
+            "actualEndTime": "2026-04-23T13:03:48Z"
+          }
+        },
+        {
+          "videoId": "INwTq7KpOQ8",
+          "title": "良いワインの共通点、ご存知ですか？　#杉並区 #増田よしひこ",
+          "description": "",
+          "publishedAt": "2026-04-23T12:29:55Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1092
+        },
+        {
           "videoId": "WuU_6afBtN0",
           "title": "デトロイトという街を知ってますか？🚗 #杉並区 #東京",
           "description": "",
@@ -1038,7 +1075,7 @@
               "height": 720
             }
           },
-          "viewCount": 3062
+          "viewCount": 3106
         },
         {
           "videoId": "1iwe-JTwIbw",
@@ -1073,7 +1110,7 @@
               "height": 720
             }
           },
-          "viewCount": 7323
+          "viewCount": 7341
         },
         {
           "videoId": "Emw-ie8AflY",
@@ -1108,48 +1145,7 @@
               "height": 720
             }
           },
-          "viewCount": 4682
-        },
-        {
-          "videoId": "RrluBWoeGyI",
-          "title": "【これからの大切なお知らせ】ヨシヒコ・ライブ#25",
-          "description": "今日は、、、、\n大切なお知らせと記者会見の話\n４月11日に行われたサポーターと共に集う会のこと\nこれからのこと\n\nそんなピリリと身が引き締まる思いの中、\nこんな時こそ、ワイン片手にゆるゆると🍷\n\n🌱ボランティア募集中！\n一緒に盛り上げていきましょう。\nお申し込みフォームはこちらからお願いします。\nhttps://forms.gle/J43iXmgBEj4N6j519\n\n🌱寄付のフォーム\n増田の活動に賛同し応援してくださる方、\nこちらのフォームからご協力をお願いします。\nhttps://go2senkyo.com/seijika/195808\n\n🌱杉並ヴィジョン意見交換会\n4月25日（土）15:00-16:30\n荻窪タウンセブンホール８階\nお申し込みはこちらのフォームから\nhttps://20260425-masuda.peatix.com/\n\n🌱「木陰のある街に、未来は集まる」4月25日発売\n予約販売中です！99円\nhttps://amzn.asia/d/04b9LfYj",
-          "publishedAt": "2026-04-16T13:08:31Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/RrluBWoeGyI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2093,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-16T12:00:00Z",
-            "actualStartTime": "2026-04-16T11:59:55Z",
-            "actualEndTime": "2026-04-16T12:58:45Z"
-          }
+          "viewCount": 4692
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1210,7 +1206,7 @@
               "height": 720
             }
           },
-          "viewCount": 3917,
+          "viewCount": 4003,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
