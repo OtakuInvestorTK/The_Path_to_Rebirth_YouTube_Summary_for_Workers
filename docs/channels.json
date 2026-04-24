@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-24T11:00:44.135Z",
+  "requestedAt": "2026-04-24T13:09:03.962Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 1316,
+          "viewCount": 2788,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 4664,
+          "viewCount": 4762,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T11:00:00Z",
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 5891,
+          "viewCount": 5905,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -220,7 +220,7 @@
               "height": 720
             }
           },
-          "viewCount": 5901,
+          "viewCount": 5911,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T10:00:00Z",
@@ -256,7 +256,7 @@
               "height": 480
             }
           },
-          "viewCount": 24571,
+          "viewCount": 24578,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -1005,12 +1005,13 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "xRjyteXQm2o",
           "title": "杉並の教育ビジョン解説〜公教育とはなにか〜",
           "description": "杉並区にある「教育ビジョン」を解説しながら、京都大学大学院生で再生の道の代表である奥村光貴さんと対談しました。\n\n「教育とは、炎を燃え上がらせることであって、入れ物を満たすことではない」by ソクラテス",
-          "publishedAt": "2026-04-22T13:23:40Z",
+          "publishedAt": "2026-04-24T12:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -1039,14 +1040,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 370,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-04-24T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-04-24T12:00:00Z",
+            "actualStartTime": "2026-04-24T12:00:06Z",
+            "actualEndTime": "2026-04-24T12:46:37Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "wP4pSZozAmY",
           "title": "あの人が乱入！ヨシヒコ・ライブ＃26",
@@ -1080,7 +1081,7 @@
               "height": 720
             }
           },
-          "viewCount": 2219,
+          "viewCount": 2323,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T12:00:00Z",
@@ -1121,7 +1122,7 @@
               "height": 720
             }
           },
-          "viewCount": 3939
+          "viewCount": 4016
         },
         {
           "videoId": "WuU_6afBtN0",
@@ -1156,7 +1157,7 @@
               "height": 720
             }
           },
-          "viewCount": 3614
+          "viewCount": 3652
         },
         {
           "videoId": "1iwe-JTwIbw",
@@ -1191,42 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 7783
-        },
-        {
-          "videoId": "Emw-ie8AflY",
-          "title": "次世代に誇れるまちづくり！ #杉並区 #増田よしひこ",
-          "description": "",
-          "publishedAt": "2026-04-17T12:09:30Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Emw-ie8AflY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Emw-ie8AflY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Emw-ie8AflY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Emw-ie8AflY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Emw-ie8AflY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4802
+          "viewCount": 7823
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1287,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 4307,
+          "viewCount": 4319,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
