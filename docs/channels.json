@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-24T07:52:45.756Z",
+  "requestedAt": "2026-04-24T09:25:29.780Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -23,6 +23,45 @@
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [
+        {
+          "videoId": "IYZSdbFCckg",
+          "title": "再生の道 ライブ配信　新たに関西での推薦を発表",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-04-24T08:21:49Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IYZSdbFCckg/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IYZSdbFCckg/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IYZSdbFCckg/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IYZSdbFCckg/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IYZSdbFCckg/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-04-25T05:00:00Z"
+          }
+        },
         {
           "videoId": "rEsKxf1Wm0Y",
           "title": "杉並ペンギンの名前＋イラスト決定！　#再生の道",
@@ -97,7 +136,7 @@
               "height": 720
             }
           },
-          "viewCount": 4559,
+          "viewCount": 4595,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T11:00:00Z",
@@ -138,7 +177,7 @@
               "height": 720
             }
           },
-          "viewCount": 5841,
+          "viewCount": 5891,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -215,7 +254,7 @@
               "height": 480
             }
           },
-          "viewCount": 24533,
+          "viewCount": 24540,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -807,7 +846,7 @@
               "height": 720
             }
           },
-          "viewCount": 2045,
+          "viewCount": 2049,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -1039,7 +1078,7 @@
               "height": 720
             }
           },
-          "viewCount": 2059,
+          "viewCount": 2139,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T12:00:00Z",
@@ -1080,7 +1119,7 @@
               "height": 720
             }
           },
-          "viewCount": 3896
+          "viewCount": 3918
         },
         {
           "videoId": "WuU_6afBtN0",
@@ -1115,7 +1154,7 @@
               "height": 720
             }
           },
-          "viewCount": 3564
+          "viewCount": 3596
         },
         {
           "videoId": "1iwe-JTwIbw",
@@ -1150,7 +1189,7 @@
               "height": 720
             }
           },
-          "viewCount": 7713
+          "viewCount": 7750
         },
         {
           "videoId": "Emw-ie8AflY",
@@ -1185,7 +1224,7 @@
               "height": 720
             }
           },
-          "viewCount": 4755
+          "viewCount": 4764
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1246,7 +1285,7 @@
               "height": 720
             }
           },
-          "viewCount": 4260,
+          "viewCount": 4283,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
