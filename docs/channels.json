@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-25T12:51:06.363Z",
+  "requestedAt": "2026-04-25T13:59:58.671Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2511
+          "viewCount": 2919
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6814,
+          "viewCount": 7150,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 5026,
+          "viewCount": 5045,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T11:00:00Z",
@@ -292,7 +292,7 @@
               "height": 480
             }
           },
-          "viewCount": 24729,
+          "viewCount": 24742,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-20T12:00:00Z",
@@ -1041,7 +1041,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "iehESoQAFss",
+          "title": "ヨシヒコ・ライブSP with 木島やすおさん",
+          "description": "真実を追う法のプロ、木島やすおさんをお迎えして、\n再生の道のこと、今後の活動、今の活動など\nいろいろお伺えできたらいいなと思っています。",
+          "publishedAt": "2026-04-25T12:53:43Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iehESoQAFss/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iehESoQAFss/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iehESoQAFss/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iehESoQAFss/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iehESoQAFss/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-04-26T03:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "fLOUajtVy8E",
@@ -1076,7 +1116,7 @@
               "height": 720
             }
           },
-          "viewCount": 2690
+          "viewCount": 2739
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1111,7 +1151,7 @@
               "height": 720
             }
           },
-          "viewCount": 1368,
+          "viewCount": 1378,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1152,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 2566,
+          "viewCount": 2569,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T12:00:00Z",
@@ -1193,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 4167
+          "viewCount": 4154
         },
         {
           "videoId": "WuU_6afBtN0",
@@ -1228,7 +1268,7 @@
               "height": 720
             }
           },
-          "viewCount": 3940
+          "viewCount": 3947
         },
         {
           "videoId": "1iwe-JTwIbw",
@@ -1263,7 +1303,7 @@
               "height": 720
             }
           },
-          "viewCount": 8352
+          "viewCount": 8376
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
