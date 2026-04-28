@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-27T23:45:57.098Z",
+  "requestedAt": "2026-04-28T02:25:44.186Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7576,
+          "viewCount": 8418,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6751
+          "viewCount": 6763
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10011,
+          "viewCount": 10028,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6138,
+          "viewCount": 6151,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 5212,
+          "viewCount": 5213,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T11:00:00Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 6197,
+          "viewCount": 6201,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -297,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 6177,
+          "viewCount": 6180,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T10:00:00Z",
@@ -889,7 +889,7 @@
               "height": 720
             }
           },
-          "viewCount": 2088,
+          "viewCount": 2091,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -1049,6 +1049,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "vTGk1M1Lweg",
+          "title": "増田よしひこ紹介動画",
+          "description": "増田よしひこのプロフィール動画\nなぜ増田よしひこは、杉並のために立ち上がっているのか？その答えを見出すことができる４分です。",
+          "publishedAt": "2026-04-28T01:15:58Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vTGk1M1Lweg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vTGk1M1Lweg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vTGk1M1Lweg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vTGk1M1Lweg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vTGk1M1Lweg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 120
+        },
+        {
           "videoId": "iehESoQAFss",
           "title": "ヨシヒコ・ライブSP with 木島やすおさん",
           "description": "真実を追う法のプロ、木島やすおさんをお迎えして、\n再生の道のこと、今後の活動、今の活動など\nいろいろお伺えできたらいいなと思っています。\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→坪田こうすけ→小林学→宮田たかお→横山はるき→中村幸信→山下こういち→加藤てつお→南 貴大→岩見なつよ→木島やすお",
@@ -1081,7 +1116,7 @@
               "height": 720
             }
           },
-          "viewCount": 5577,
+          "viewCount": 5618,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1122,7 +1157,7 @@
               "height": 720
             }
           },
-          "viewCount": 3829
+          "viewCount": 3847
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1157,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 1966,
+          "viewCount": 1980,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1198,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 2686,
+          "viewCount": 2687,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T12:00:00Z",
@@ -1239,7 +1274,7 @@
               "height": 720
             }
           },
-          "viewCount": 4620
+          "viewCount": 4629
         },
         {
           "videoId": "WuU_6afBtN0",
@@ -1309,7 +1344,7 @@
               "height": 720
             }
           },
-          "viewCount": 8441
+          "viewCount": 8443
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1370,7 +1405,7 @@
               "height": 720
             }
           },
-          "viewCount": 4454,
+          "viewCount": 4456,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
