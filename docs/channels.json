@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-28T08:13:14.818Z",
+  "requestedAt": "2026-04-28T10:58:30.371Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9132,
+          "viewCount": 9400,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6795
+          "viewCount": 6820
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10067,
+          "viewCount": 10075,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6171,
+          "viewCount": 6184,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 5227,
+          "viewCount": 5236,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T11:00:00Z",
@@ -256,53 +256,12 @@
               "height": 720
             }
           },
-          "viewCount": 6209,
+          "viewCount": 6219,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
             "actualStartTime": "2026-04-22T10:00:06Z",
             "actualEndTime": "2026-04-22T10:14:34Z"
-          }
-        },
-        {
-          "videoId": "l67hWO_N4VM",
-          "title": "【これでいいのか杉並区】都市計画道路について徹底解説します！ #再生の道 #増田よしひこ",
-          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-04-21T10:00:06Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/l67hWO_N4VM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6201,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-21T10:00:00Z",
-            "actualStartTime": "2026-04-21T10:00:06Z",
-            "actualEndTime": "2026-04-21T11:01:24Z"
           }
         }
       ],
@@ -889,7 +848,7 @@
               "height": 720
             }
           },
-          "viewCount": 2091,
+          "viewCount": 2092,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-21T12:45:17Z",
@@ -1081,7 +1040,7 @@
               "height": 720
             }
           },
-          "viewCount": 832
+          "viewCount": 1107
         },
         {
           "videoId": "iehESoQAFss",
@@ -1116,7 +1075,7 @@
               "height": 720
             }
           },
-          "viewCount": 5689,
+          "viewCount": 5726,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1157,7 +1116,7 @@
               "height": 720
             }
           },
-          "viewCount": 3894
+          "viewCount": 3926
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1192,7 +1151,7 @@
               "height": 720
             }
           },
-          "viewCount": 1993,
+          "viewCount": 2004,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1233,7 +1192,7 @@
               "height": 720
             }
           },
-          "viewCount": 2692,
+          "viewCount": 2696,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T12:00:00Z",
@@ -1274,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 4641
+          "viewCount": 4649
         },
         {
           "videoId": "WuU_6afBtN0",
@@ -1309,7 +1268,7 @@
               "height": 720
             }
           },
-          "viewCount": 4159
+          "viewCount": 4164
         },
         {
           "videoId": "1iwe-JTwIbw",
@@ -1405,7 +1364,7 @@
               "height": 720
             }
           },
-          "viewCount": 4458,
+          "viewCount": 4465,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
