@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-28T19:24:46.847Z",
+  "requestedAt": "2026-04-28T21:01:50.942Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10128,
+          "viewCount": 10150,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6919
+          "viewCount": 6920
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6205,
+          "viewCount": 6207,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -215,7 +215,7 @@
               "height": 720
             }
           },
-          "viewCount": 5252,
+          "viewCount": 5255,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T11:00:00Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 6232,
+          "viewCount": 6235,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -1075,7 +1075,7 @@
               "height": 720
             }
           },
-          "viewCount": 5876,
+          "viewCount": 5877,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1329,7 +1329,7 @@
               "height": 720
             }
           },
-          "viewCount": 1413
+          "viewCount": 1604
         },
         {
           "videoId": "Tf3F9UPjqzI",
@@ -1364,7 +1364,7 @@
               "height": 720
             }
           },
-          "viewCount": 4484,
+          "viewCount": 4510,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
