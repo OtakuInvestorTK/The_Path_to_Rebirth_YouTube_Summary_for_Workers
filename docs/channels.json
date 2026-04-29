@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-28T23:49:43.808Z",
+  "requestedAt": "2026-04-29T02:26:12.633Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10227,
+          "viewCount": 10328,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6934
+          "viewCount": 6957
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10160,
+          "viewCount": 10176,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6207,
+          "viewCount": 6224,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -256,7 +256,7 @@
               "height": 720
             }
           },
-          "viewCount": 6235,
+          "viewCount": 6240,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
@@ -814,49 +814,7 @@
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "IbWSwmzslwg",
-          "title": "なおりん通信シーズン２　＃３",
-          "description": "",
-          "publishedAt": "2026-04-22T01:10:24Z",
-          "channelTitle": "浅井なおゆき",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/IbWSwmzslwg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2096,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-21T12:45:17Z",
-            "actualStartTime": "2026-04-21T12:45:40Z",
-            "actualEndTime": "2026-04-21T13:16:11Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
     {
@@ -1008,6 +966,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "QDRBOkolmbQ",
+          "title": "杉並ビジョンプレビュー【20260425荻窪タウンセブンホール】",
+          "description": "2026年4月25日に行われた《杉並ビジョン〜意見交換会〜》のプレビュー版。本編にはない準備時間から見ることができます。内容に関しては、本編をご覧ください（近日中に配信予定）。",
+          "publishedAt": "2026-04-29T00:48:22Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QDRBOkolmbQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QDRBOkolmbQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QDRBOkolmbQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QDRBOkolmbQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QDRBOkolmbQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 350
+        },
+        {
           "videoId": "vTGk1M1Lweg",
           "title": "増田よしひこ紹介動画",
           "description": "増田よしひこのプロフィール動画\nなぜ増田よしひこは、杉並のために立ち上がっているのか？その答えを見出すことができる４分です。",
@@ -1040,7 +1033,7 @@
               "height": 720
             }
           },
-          "viewCount": 1679
+          "viewCount": 1727
         },
         {
           "videoId": "iehESoQAFss",
@@ -1075,7 +1068,7 @@
               "height": 720
             }
           },
-          "viewCount": 5908,
+          "viewCount": 5949,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1116,7 +1109,7 @@
               "height": 720
             }
           },
-          "viewCount": 3995
+          "viewCount": 4002
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1151,7 +1144,7 @@
               "height": 720
             }
           },
-          "viewCount": 2036,
+          "viewCount": 2041,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1192,7 +1185,7 @@
               "height": 720
             }
           },
-          "viewCount": 2708,
+          "viewCount": 2710,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T12:00:00Z",
@@ -1268,7 +1261,7 @@
               "height": 720
             }
           },
-          "viewCount": 4184
+          "viewCount": 4186
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1329,7 +1322,7 @@
               "height": 720
             }
           },
-          "viewCount": 2033
+          "viewCount": 2457
         },
         {
           "videoId": "Tf3F9UPjqzI",
@@ -1364,7 +1357,7 @@
               "height": 720
             }
           },
-          "viewCount": 4531,
+          "viewCount": 4533,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-22T10:00:00Z",
