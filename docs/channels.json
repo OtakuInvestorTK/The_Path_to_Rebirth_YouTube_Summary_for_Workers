@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-29T08:05:58.935Z",
+  "requestedAt": "2026-04-29T10:49:26.081Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10561,
+          "viewCount": 10666,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6974
+          "viewCount": 7015
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10202,
+          "viewCount": 10221,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6227,
+          "viewCount": 6238,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -215,53 +215,12 @@
               "height": 720
             }
           },
-          "viewCount": 5261,
+          "viewCount": 5266,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T11:00:00Z",
             "actualStartTime": "2026-04-23T11:00:06Z",
             "actualEndTime": "2026-04-23T11:44:13Z"
-          }
-        },
-        {
-          "videoId": "ONUi1cW9ERc",
-          "title": "AIの共同代表とバトル！？杉並で生まれるAIについて語ります。#再生の道 ",
-          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-04-22T10:00:06Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ONUi1cW9ERc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ONUi1cW9ERc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ONUi1cW9ERc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ONUi1cW9ERc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ONUi1cW9ERc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6246,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-22T10:00:00Z",
-            "actualStartTime": "2026-04-22T10:00:06Z",
-            "actualEndTime": "2026-04-22T10:14:34Z"
           }
         }
       ],
@@ -288,7 +247,49 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "d7ZcW8MyvJU",
+          "title": "【最後のお願い】西成こども食堂から",
+          "description": "西成の川辺さんが新しい居場所のためにクラファンに挑戦しています。\nシェアなどで協力頂けたら、とてもうれしいです。どうぞ宜しくお願いします。\n\nhttps://congrant.com/project/nccc/21813?spt_route=OhebcIZI5bIgC5HB\n\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
+          "publishedAt": "2026-02-17T12:58:44Z",
+          "channelTitle": "奥村こうき | 再生の道 代表",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d7ZcW8MyvJU/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d7ZcW8MyvJU/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d7ZcW8MyvJU/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/d7ZcW8MyvJU/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/d7ZcW8MyvJU/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 100,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-02-17T12:58:44Z",
+            "actualStartTime": "2026-04-29T10:43:30Z",
+            "concurrentViewers": 79
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
@@ -819,7 +820,7 @@
     },
     {
       "input": "UCbnf2Gl6Pra9DPDeMBV2a3w",
-      "channelTitle": "南貴大 再生の道 チャンネル",
+      "channelTitle": "南貴大のずぼらジオ",
       "channelThumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/LQoghKMjTvDW79bfGxKaFy7iJvSmIJgSvtq3yZmBQOl93x-hwcfrS6648t_t4-wLI17FlFKg7qA=s88-c-k-c0x00ffffff-no-rj",
@@ -839,7 +840,43 @@
       },
       "channelId": "UCbnf2Gl6Pra9DPDeMBV2a3w",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "MqORVyEk80M",
+          "title": "日本人が驚くドイツの有給休暇｜なぜ彼らは堂々と休めるのか",
+          "description": "今回は、ドイツの有給休暇について、実体験をもとにお話しします。\n\nドイツでは有給が年間30日前後ある会社も多く、しかもそれをちゃんと取る文化があります。\nでも本当にすごいのは、日数の多さではなく「休める仕組み」があることです。\n\n日本では休むと気まずい。\nドイツでは休まないと会社が困る。\n\nこの違いはどこから来るのか。\n法律、業務範囲、組織設計の3つの視点から、ドイツの休暇文化をゆるく、でも少し真面目に語ります。\n\n皆さんは、有給をちゃんと取れていますか？\nぜひコメントで教えてください。\n\n#ドイツ生活 #有給休暇 #働き方 #海外生活 #ずぼらジオ",
+          "publishedAt": "2026-04-29T09:13:18Z",
+          "channelTitle": "南貴大のずぼらジオ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MqORVyEk80M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MqORVyEk80M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MqORVyEk80M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MqORVyEk80M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MqORVyEk80M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 231
+        }
+      ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
     },
     {
@@ -998,7 +1035,7 @@
               "height": 720
             }
           },
-          "viewCount": 1578
+          "viewCount": 1868
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1033,7 +1070,7 @@
               "height": 720
             }
           },
-          "viewCount": 1823
+          "viewCount": 1894
         },
         {
           "videoId": "iehESoQAFss",
@@ -1068,7 +1105,7 @@
               "height": 720
             }
           },
-          "viewCount": 6018,
+          "viewCount": 6048,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1144,7 +1181,7 @@
               "height": 720
             }
           },
-          "viewCount": 2055,
+          "viewCount": 2080,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1185,7 +1222,7 @@
               "height": 720
             }
           },
-          "viewCount": 2736,
+          "viewCount": 2741,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T12:00:00Z",
@@ -1226,7 +1263,7 @@
               "height": 720
             }
           },
-          "viewCount": 4679
+          "viewCount": 4683
         },
         {
           "videoId": "WuU_6afBtN0",
@@ -1261,7 +1298,7 @@
               "height": 720
             }
           },
-          "viewCount": 4196
+          "viewCount": 4198
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1322,48 +1359,7 @@
               "height": 720
             }
           },
-          "viewCount": 2900
-        },
-        {
-          "videoId": "Tf3F9UPjqzI",
-          "title": "【恋愛病院#3】石丸伸二の思惑は？最年少大田区議と『令和の政治戦略』をガチ考察3！",
-          "description": "【恋愛病院の裏側、政治家目線でぶった斬ります】\n石丸伸二氏の参戦で話題沸騰中のリアリティ番組『恋愛病院』。\n▼ 「ReHacQ」の配信第3回レビュー動画はこちら\nhttps://www.youtube.com/live/kxTHiwO8FQg?si=BAMP2nx4LxBhtkJJ\n\n現役政治家がエンタメの最前線に飛び込むこの事態は、果たして日本の政治を動かす「劇薬」なのか、それとも一過性の「炎上」に過ぎないのか？\n\n今回は、その第3話の内容を、元三菱商事・USCPA（米国公認会計士）の加藤哲雄と、大田区から政治のアップデートを目指す最年少区議・宮﨑かずま氏が忖度なしで語り尽くします。\n\n「ここ、カットされるかもしれないけど……」\nそんな現役議員ならではの視点と、ビジネスのプロによる冷徹な分析が交差する、政治×エンタメ考察をお楽しみください！\n\n🎙️ 今回のゲスト：宮﨑かずま（大田区議会議員）\n大田区の未来を担う、若き現役区議。\n斬新な視点と行動力で、政治をより身近なものへとアップデート中。\n今回の『恋愛病院』レビューでも、現役政治家としての本音を鋭くぶつけてくれました！\n\n▼ 宮﨑かずま氏のX（旧Twitter）はこちら\nhttps://x.com/Kazuma_25_otaku\n\n🔍 動画のハイライト\nなぜ石丸氏は『恋愛病院』を選んだのか？\n\n現役議員がエンタメ番組に出る「リスク」と「リターン」\n\n令和の政治家にとって「発信力」は正義か\n\n加藤＆宮﨑が選ぶ「今回のMVP」は誰だ？\n\n📣大田区を良くするアイデアや、活動を支えてくれるサポーターも募集中です！ \n👇 サポーター参加はこちらのフォームから！\nhttps://forms.gle/NmSBcWQ6MhG9onXR8\n\n【SNS・チャンネル登録】\n「届かぬ声」を形にするため、一歩ずつ進んでいきます。\n応援いただける方は、ぜひチャンネル登録と高評価をお願いしやっす！\nhttps://www.youtube.com/@TETSUO-OMG\nhttps://x.com/Tetsuo_OMG\n\n#恋愛病院 #石丸伸二 #宮﨑かずま #大田区 #政治家 #恋リア #かとてつ #ReHacQ #リハック #高橋弘樹",
-          "publishedAt": "2026-04-22T10:00:06Z",
-          "channelTitle": "かとてちゅ〜ぶ☆加藤てつお@大田区",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Tf3F9UPjqzI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Tf3F9UPjqzI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Tf3F9UPjqzI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Tf3F9UPjqzI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Tf3F9UPjqzI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4552,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-22T10:00:00Z",
-            "actualStartTime": "2026-04-22T10:00:06Z",
-            "actualEndTime": "2026-04-22T10:23:52Z"
-          }
+          "viewCount": 3026
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
