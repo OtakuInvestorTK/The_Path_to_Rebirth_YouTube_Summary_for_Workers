@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-30T12:10:38.309Z",
+  "requestedAt": "2026-04-30T15:08:11.187Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11117,
+          "viewCount": 11122,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 7134
+          "viewCount": 7151
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10343,
+          "viewCount": 10338,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6296,
+          "viewCount": 6295,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -231,7 +231,7 @@
               "height": 360
             }
           },
-          "viewCount": 3100,
+          "viewCount": 3172,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -523,7 +523,7 @@
               "height": 720
             }
           },
-          "viewCount": 650
+          "viewCount": 987
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -859,7 +859,7 @@
               "height": 720
             }
           },
-          "viewCount": 1770
+          "viewCount": 1871
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1020,7 +1020,7 @@
               "height": 720
             }
           },
-          "viewCount": 2829
+          "viewCount": 2910
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1055,7 +1055,7 @@
               "height": 720
             }
           },
-          "viewCount": 2282
+          "viewCount": 2283
         },
         {
           "videoId": "iehESoQAFss",
@@ -1090,7 +1090,7 @@
               "height": 720
             }
           },
-          "viewCount": 6224,
+          "viewCount": 6235,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1131,7 +1131,7 @@
               "height": 720
             }
           },
-          "viewCount": 4115
+          "viewCount": 4138
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1166,89 +1166,13 @@
               "height": 720
             }
           },
-          "viewCount": 2206,
+          "viewCount": 2211,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
             "actualStartTime": "2026-04-24T12:00:06Z",
             "actualEndTime": "2026-04-24T12:46:37Z"
           }
-        },
-        {
-          "videoId": "wP4pSZozAmY",
-          "title": "あの人が乱入！ヨシヒコ・ライブ＃26",
-          "description": "今週のヨシヒコ\n今週から始めた辻立ち\n福祉関係の方、造園関係の方からお話\nわたしのテーマカラー\nショート動画へのコメントも拾えたら。\nヨシヒコ・ライブSP with 木島さんの日程決定！\nもしかしたら、サプライズゲストも？？？\n\n今週のワインはなににしようかまだ決まってませんが、\nみなさんもとっておきの飲み物を片手に、\n木曜日の夜をおつきあいください。",
-          "publishedAt": "2026-04-23T13:29:55Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/wP4pSZozAmY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2775,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-23T12:00:00Z",
-            "actualStartTime": "2026-04-23T12:00:18Z",
-            "actualEndTime": "2026-04-23T13:03:48Z"
-          }
-        },
-        {
-          "videoId": "INwTq7KpOQ8",
-          "title": "良いワインの共通点、ご存知ですか？　#杉並区 #増田よしひこ",
-          "description": "",
-          "publishedAt": "2026-04-23T12:29:55Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/INwTq7KpOQ8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4782
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1309,7 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 3444
+          "viewCount": 3440
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
