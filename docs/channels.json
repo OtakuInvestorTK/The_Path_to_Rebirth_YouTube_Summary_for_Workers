@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-30T21:52:08.619Z",
+  "requestedAt": "2026-04-30T22:46:25.074Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11196,
+          "viewCount": 11200,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 7166
+          "viewCount": 7172
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10359,
+          "viewCount": 10361,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6306,
+          "viewCount": 6307,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -523,7 +523,7 @@
               "height": 720
             }
           },
-          "viewCount": 1148
+          "viewCount": 1153
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -859,7 +859,7 @@
               "height": 720
             }
           },
-          "viewCount": 1945
+          "viewCount": 1950
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -985,7 +985,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "Ab7qXae6IKE",
+          "title": "浜田山駅南口問題、なにが問題なのか。事実に基づき解説していきます。",
+          "description": "井の頭線浜田山駅には、出口が北側にひとつしかない。なので、南口の住人たちは、踏切を渡らないと電車に乗れない状態がもうずっと続いています。\n南側に出口を作ってほしいという願いは、なぜ叶えられないのか？\n\n＃井の頭線\n＃浜田山\n＃開かない踏切\n＃京王電鉄\n＃杉並区",
+          "publishedAt": "2026-04-30T13:00:23Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-05-01T03:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "QDRBOkolmbQ",
@@ -1020,7 +1060,7 @@
               "height": 720
             }
           },
-          "viewCount": 2966
+          "viewCount": 2969
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1131,7 +1171,7 @@
               "height": 720
             }
           },
-          "viewCount": 4147
+          "viewCount": 4148
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1166,7 +1206,7 @@
               "height": 720
             }
           },
-          "viewCount": 2220,
+          "viewCount": 2218,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1233,7 +1273,7 @@
               "height": 720
             }
           },
-          "viewCount": 3467
+          "viewCount": 3466
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
