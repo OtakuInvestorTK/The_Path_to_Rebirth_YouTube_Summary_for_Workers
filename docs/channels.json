@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-04-30T08:09:56.053Z",
+  "requestedAt": "2026-04-30T10:49:08.167Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11062,
+          "viewCount": 11106,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 6288,
+          "viewCount": 6296,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T10:00:00Z",
@@ -272,7 +272,7 @@
               "height": 360
             }
           },
-          "viewCount": 2966,
+          "viewCount": 3067,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -530,7 +530,43 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "3vxRx12Bhwo",
+          "title": "(仮称)ららぽーと府中建設現場レポート",
+          "description": "府中市朝日町に計画されている三井不動産系の商業施設建設現場を視察しました。\n特に問題となるのが都道110号線の人見街道周辺で、西武多摩川線多磨駅の踏切付近はかなり危険性が高いです。\nまた、そちらの渋滞を回避しようとする車両が狭隘な住宅地の道路に流入する可能性が高く、しっかりとした交通対策メニューが必要になると想定されます。",
+          "publishedAt": "2026-04-30T09:00:05Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 426
+        }
+      ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -864,7 +900,7 @@
               "height": 720
             }
           },
-          "viewCount": 1626
+          "viewCount": 1730
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1025,7 +1061,7 @@
               "height": 720
             }
           },
-          "viewCount": 2742
+          "viewCount": 2807
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1060,7 +1096,7 @@
               "height": 720
             }
           },
-          "viewCount": 2242
+          "viewCount": 2273
         },
         {
           "videoId": "iehESoQAFss",
@@ -1095,7 +1131,7 @@
               "height": 720
             }
           },
-          "viewCount": 6195,
+          "viewCount": 6213,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1136,7 +1172,7 @@
               "height": 720
             }
           },
-          "viewCount": 4111
+          "viewCount": 4114
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1171,7 +1207,7 @@
               "height": 720
             }
           },
-          "viewCount": 2186,
+          "viewCount": 2200,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1212,7 +1248,7 @@
               "height": 720
             }
           },
-          "viewCount": 2771,
+          "viewCount": 2775,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-23T12:00:00Z",
@@ -1253,7 +1289,7 @@
               "height": 720
             }
           },
-          "viewCount": 4763
+          "viewCount": 4770
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1314,7 +1350,7 @@
               "height": 720
             }
           },
-          "viewCount": 3387
+          "viewCount": 3429
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
