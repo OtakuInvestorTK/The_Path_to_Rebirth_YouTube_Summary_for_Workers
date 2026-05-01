@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-01T08:55:35.197Z",
+  "requestedAt": "2026-05-01T10:19:20.043Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11241,
+          "viewCount": 11285,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 7196
+          "viewCount": 7198
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -139,47 +139,6 @@
             "scheduledStartTime": "2026-04-25T05:00:00Z",
             "actualStartTime": "2026-04-25T04:50:59Z",
             "actualEndTime": "2026-04-25T05:44:06Z"
-          }
-        },
-        {
-          "videoId": "rEsKxf1Wm0Y",
-          "title": "杉並ペンギンの名前＋イラスト決定！　#再生の道",
-          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-04-24T10:00:06Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/rEsKxf1Wm0Y/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/rEsKxf1Wm0Y/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/rEsKxf1Wm0Y/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/rEsKxf1Wm0Y/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/rEsKxf1Wm0Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6316,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-04-24T10:00:00Z",
-            "actualStartTime": "2026-04-24T10:00:06Z",
-            "actualEndTime": "2026-04-24T10:17:07Z"
           }
         }
       ],
@@ -231,7 +190,7 @@
               "height": 360
             }
           },
-          "viewCount": 3246,
+          "viewCount": 3265,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -523,7 +482,7 @@
               "height": 720
             }
           },
-          "viewCount": 1263
+          "viewCount": 1281
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -859,7 +818,7 @@
               "height": 720
             }
           },
-          "viewCount": 1997
+          "viewCount": 2000
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1060,7 +1019,7 @@
               "height": 720
             }
           },
-          "viewCount": 693,
+          "viewCount": 873,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1101,7 +1060,7 @@
               "height": 720
             }
           },
-          "viewCount": 3033
+          "viewCount": 3037
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1136,7 +1095,7 @@
               "height": 720
             }
           },
-          "viewCount": 2344
+          "viewCount": 2345
         },
         {
           "videoId": "iehESoQAFss",
@@ -1171,7 +1130,7 @@
               "height": 720
             }
           },
-          "viewCount": 6276,
+          "viewCount": 6280,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1212,7 +1171,7 @@
               "height": 720
             }
           },
-          "viewCount": 4180
+          "viewCount": 4185
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1247,7 +1206,7 @@
               "height": 720
             }
           },
-          "viewCount": 2245,
+          "viewCount": 2256,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1314,7 +1273,7 @@
               "height": 720
             }
           },
-          "viewCount": 3502
+          "viewCount": 3496
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
