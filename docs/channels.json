@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-01T14:49:06.088Z",
+  "requestedAt": "2026-05-01T15:50:50.179Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11411,
+          "viewCount": 11467,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -190,7 +190,7 @@
               "height": 360
             }
           },
-          "viewCount": 3337,
+          "viewCount": 3348,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -482,7 +482,7 @@
               "height": 720
             }
           },
-          "viewCount": 1320
+          "viewCount": 1328
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -818,7 +818,7 @@
               "height": 720
             }
           },
-          "viewCount": 2028
+          "viewCount": 2036
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -979,7 +979,7 @@
               "height": 720
             }
           },
-          "viewCount": 1207,
+          "viewCount": 1412,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1020,7 +1020,7 @@
               "height": 720
             }
           },
-          "viewCount": 3923
+          "viewCount": 4990
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1055,7 +1055,7 @@
               "height": 720
             }
           },
-          "viewCount": 1084,
+          "viewCount": 1163,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1096,7 +1096,7 @@
               "height": 720
             }
           },
-          "viewCount": 3060
+          "viewCount": 3068
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1131,7 +1131,7 @@
               "height": 720
             }
           },
-          "viewCount": 2339
+          "viewCount": 2342
         },
         {
           "videoId": "iehESoQAFss",
@@ -1166,48 +1166,13 @@
               "height": 720
             }
           },
-          "viewCount": 6297,
+          "viewCount": 6302,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
             "actualStartTime": "2026-04-26T03:01:17Z",
             "actualEndTime": "2026-04-26T04:04:01Z"
           }
-        },
-        {
-          "videoId": "fLOUajtVy8E",
-          "title": "20年以上アメリカに住んで驚いた事！😱 #杉並区",
-          "description": "",
-          "publishedAt": "2026-04-24T15:23:22Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fLOUajtVy8E/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fLOUajtVy8E/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fLOUajtVy8E/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/fLOUajtVy8E/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fLOUajtVy8E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4191
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
