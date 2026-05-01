@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-01T02:32:19.455Z",
+  "requestedAt": "2026-05-01T06:09:58.363Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11215,
+          "viewCount": 11241,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 7180
+          "viewCount": 7184
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10368,
+          "viewCount": 10381,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -231,7 +231,7 @@
               "height": 360
             }
           },
-          "viewCount": 3220,
+          "viewCount": 3247,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -523,7 +523,7 @@
               "height": 720
             }
           },
-          "viewCount": 1193
+          "viewCount": 1241
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -859,7 +859,7 @@
               "height": 720
             }
           },
-          "viewCount": 1971
+          "viewCount": 1986
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1024,12 +1024,14 @@
             "status": "upcoming",
             "scheduledStartTime": "2026-05-01T12:00:00Z"
           }
-        },
+        }
+      ],
+      "recentVideos": [
         {
           "videoId": "Ab7qXae6IKE",
           "title": "浜田山駅南口問題、なにが問題なのか。事実に基づき解説していきます。",
           "description": "井の頭線浜田山駅には、出口が北側にひとつしかない。なので、南口の住人たちは、踏切を渡らないと電車に乗れない状態がもうずっと続いています。\n南側に出口を作ってほしいという願いは、なぜ叶えられないのか？\n\n＃井の頭線\n＃浜田山\n＃開かない踏切\n＃京王電鉄\n＃杉並区",
-          "publishedAt": "2026-04-30T13:00:23Z",
+          "publishedAt": "2026-05-01T03:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -1058,14 +1060,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 427,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-05-01T03:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-05-01T03:00:00Z",
+            "actualStartTime": "2026-05-01T03:00:06Z",
+            "actualEndTime": "2026-05-01T03:44:52Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "QDRBOkolmbQ",
           "title": "杉並ビジョンプレビュー【20260425荻窪タウンセブンホール】",
@@ -1099,7 +1101,7 @@
               "height": 720
             }
           },
-          "viewCount": 2999
+          "viewCount": 3022
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1134,7 +1136,7 @@
               "height": 720
             }
           },
-          "viewCount": 2322
+          "viewCount": 2337
         },
         {
           "videoId": "iehESoQAFss",
@@ -1169,7 +1171,7 @@
               "height": 720
             }
           },
-          "viewCount": 6250,
+          "viewCount": 6267,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-26T03:00:00Z",
@@ -1210,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 4166
+          "viewCount": 4180
         },
         {
           "videoId": "xRjyteXQm2o",
@@ -1245,7 +1247,7 @@
               "height": 720
             }
           },
-          "viewCount": 2228,
+          "viewCount": 2238,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-24T12:00:00Z",
@@ -1312,7 +1314,7 @@
               "height": 720
             }
           },
-          "viewCount": 3476
+          "viewCount": 3490
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
