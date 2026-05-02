@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-01T23:44:05.758Z",
+  "requestedAt": "2026-05-02T02:08:40.622Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11588,
+          "viewCount": 11640,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 7288
+          "viewCount": 7306
         },
         {
           "videoId": "IYZSdbFCckg",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 10470,
+          "viewCount": 10486,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-25T05:00:00Z",
@@ -190,7 +190,7 @@
               "height": 360
             }
           },
-          "viewCount": 3370,
+          "viewCount": 3383,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -482,7 +482,7 @@
               "height": 720
             }
           },
-          "viewCount": 1340
+          "viewCount": 1349
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -786,6 +786,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "HOwHhsujoC8",
+          "title": "誕生日なのに自分でケーキ持参？ドイツの職場文化が面白すぎた",
+          "description": "今回は、ドイツの職場での誕生日文化についてお話しします。\n\n日本では、誕生日は周りの人が祝ってくれるイメージがありますが、ドイツではなんと 誕生日の本人がケーキを持ってくる ことがあります。\n\nさらに、同僚が一人一人お祝いに来たり、オフィスに誕生日カレンダーがあったり、前祝いがNGだったりと、日本とはかなり違う誕生日文化があります。\n\n私がドイツで働いていた時に実際に体験した、ちょっと不思議で面白い職場の誕生日文化を、ゆるくお話しします。\n\n皆さんは、誕生日に自分でケーキを持っていく文化、ありだと思いますか？\nぜひコメントで教えてください。\n\n#ドイツ生活 #ドイツ文化 #誕生日 #職場文化 #ずぼらジオ",
+          "publishedAt": "2026-05-02T00:00:31Z",
+          "channelTitle": "南貴大のずぼらジオ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HOwHhsujoC8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HOwHhsujoC8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HOwHhsujoC8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HOwHhsujoC8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HOwHhsujoC8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 86
+        },
+        {
           "videoId": "MqORVyEk80M",
           "title": "日本人が驚くドイツの有給休暇｜なぜ彼らは堂々と休めるのか",
           "description": "今回は、ドイツの有給休暇について、実体験をもとにお話しします。\n\nドイツでは有給が年間30日前後ある会社も多く、しかもそれをちゃんと取る文化があります。\nでも本当にすごいのは、日数の多さではなく「休める仕組み」があることです。\n\n日本では休むと気まずい。\nドイツでは休まないと会社が困る。\n\nこの違いはどこから来るのか。\n法律、業務範囲、組織設計の3つの視点から、ドイツの休暇文化をゆるく、でも少し真面目に語ります。\n\n皆さんは、有給をちゃんと取れていますか？\nぜひコメントで教えてください。\n\n#ドイツ生活 #有給休暇 #働き方 #海外生活 #ずぼらジオ",
@@ -818,7 +853,7 @@
               "height": 720
             }
           },
-          "viewCount": 2043
+          "viewCount": 2044
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -979,7 +1014,7 @@
               "height": 720
             }
           },
-          "viewCount": 2042,
+          "viewCount": 2229,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1020,7 +1055,7 @@
               "height": 720
             }
           },
-          "viewCount": 5343
+          "viewCount": 5419
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1055,7 +1090,7 @@
               "height": 720
             }
           },
-          "viewCount": 1274,
+          "viewCount": 1328,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1096,7 +1131,7 @@
               "height": 720
             }
           },
-          "viewCount": 3075
+          "viewCount": 3078
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1131,7 +1166,7 @@
               "height": 720
             }
           },
-          "viewCount": 2350
+          "viewCount": 2352
         },
         {
           "videoId": "iehESoQAFss",
@@ -1233,7 +1268,7 @@
               "height": 720
             }
           },
-          "viewCount": 3551
+          "viewCount": 3553
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
