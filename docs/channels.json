@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-03T10:48:53.828Z",
+  "requestedAt": "2026-05-03T11:37:06.777Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12139,
+          "viewCount": 12144,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 14184,
+          "viewCount": 14283,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -155,7 +155,7 @@
               "height": 360
             }
           },
-          "viewCount": 3570,
+          "viewCount": 3573,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -447,7 +447,7 @@
               "height": 720
             }
           },
-          "viewCount": 1420
+          "viewCount": 1429
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -783,7 +783,7 @@
               "height": 720
             }
           },
-          "viewCount": 715
+          "viewCount": 716
         },
         {
           "videoId": "MqORVyEk80M",
@@ -818,7 +818,7 @@
               "height": 720
             }
           },
-          "viewCount": 2075
+          "viewCount": 2076
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -947,6 +947,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "GnMLB9gDf9M",
+          "title": "待機児童ゼロ！完全実現を目指します💪#増田よしひこ  #杉並区 #東京の再生",
+          "description": "",
+          "publishedAt": "2026-05-03T11:31:49Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GnMLB9gDf9M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GnMLB9gDf9M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GnMLB9gDf9M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GnMLB9gDf9M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GnMLB9gDf9M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 32
+        },
+        {
           "videoId": "JiCnI7akmyY",
           "title": "なぜ増田じゃなきゃダメなのか？ヨシヒコ・ライブ #27",
           "description": "都合により、今週は金曜日の夜にヨシヒコ・ライブ。\n・４２５に行った《杉並ビジョン〜意見交換会〜》の話や政策についても少しお話しできればと思っています。\n・木島鉄工所の木島さんをお迎えしたヨシヒコ・ライブSP\n・のぼり、たすき、ポスターと３点セット揃っての辻立ちなどなど、\n\n今晩もワイン片手にゆるゆるお話しさせてください。\n\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n☆ボランティアの募集☆\nこちらのボランティアフォームからお願いします。\nhttps://forms.gle/ADNeMBWsYyGFkHTcA\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
@@ -979,7 +1014,7 @@
               "height": 720
             }
           },
-          "viewCount": 2868,
+          "viewCount": 2875,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1020,7 +1055,7 @@
               "height": 720
             }
           },
-          "viewCount": 6065
+          "viewCount": 6083
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1055,7 +1090,7 @@
               "height": 720
             }
           },
-          "viewCount": 1700,
+          "viewCount": 1714,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1192,7 +1227,7 @@
               "height": 720
             }
           },
-          "viewCount": 3624
+          "viewCount": 3641
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
