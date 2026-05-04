@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-04T11:00:27.984Z",
+  "requestedAt": "2026-05-04T13:29:12.227Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,10 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 2389,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-05-04T13:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-05-04T13:00:00Z",
+            "actualStartTime": "2026-05-04T12:56:05Z",
+            "concurrentViewers": 1395
           }
         }
       ],
@@ -97,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 12403,
+          "viewCount": 12436,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-04-27T13:00:00Z",
@@ -164,7 +166,7 @@
               "height": 720
             }
           },
-          "viewCount": 17316,
+          "viewCount": 17581,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -195,7 +197,7 @@
               "height": 360
             }
           },
-          "viewCount": 3626,
+          "viewCount": 3634,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -858,7 +860,7 @@
               "height": 720
             }
           },
-          "viewCount": 2085
+          "viewCount": 2086
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1019,7 +1021,7 @@
               "height": 720
             }
           },
-          "viewCount": 2420
+          "viewCount": 2522
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1054,7 +1056,7 @@
               "height": 720
             }
           },
-          "viewCount": 3008,
+          "viewCount": 3014,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1095,7 +1097,7 @@
               "height": 720
             }
           },
-          "viewCount": 6424
+          "viewCount": 6497
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1171,7 +1173,7 @@
               "height": 720
             }
           },
-          "viewCount": 3158
+          "viewCount": 3160
         },
         {
           "videoId": "vTGk1M1Lweg",
@@ -1206,7 +1208,7 @@
               "height": 720
             }
           },
-          "viewCount": 2405
+          "viewCount": 2410
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1267,7 +1269,7 @@
               "height": 720
             }
           },
-          "viewCount": 2632
+          "viewCount": 2745
         },
         {
           "videoId": "n3CHke-vRQ0",
@@ -1302,7 +1304,7 @@
               "height": 720
             }
           },
-          "viewCount": 3735
+          "viewCount": 3741
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
