@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-05T13:27:11.021Z",
+  "requestedAt": "2026-05-05T15:48:11.007Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13621,
+          "viewCount": 13920,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 18670,
+          "viewCount": 18765,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -155,7 +155,7 @@
               "height": 360
             }
           },
-          "viewCount": 3669,
+          "viewCount": 3672,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -447,7 +447,7 @@
               "height": 720
             }
           },
-          "viewCount": 1499
+          "viewCount": 1503
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -783,7 +783,7 @@
               "height": 720
             }
           },
-          "viewCount": 831
+          "viewCount": 836
         },
         {
           "videoId": "MqORVyEk80M",
@@ -947,6 +947,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "ccrVnuxZiHk",
+          "title": "杉並区の年間予算、どこに使われているか知っていますか？　#杉並区 #増田よしひこ #東京の再生",
+          "description": "",
+          "publishedAt": "2026-05-05T15:10:55Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 494
+        },
+        {
           "videoId": "dxE3t0-LCBM",
           "title": "杉並区の外国人問題。それってそもそも問題なの？",
           "description": "巷で言われている『外国人問題』。杉並区ではどういう状況なのか？\nどういう点で困っているのか？\n今の区政はどんな対応をしているのか？\nなどなど、イメージの話ではなく、ファクト（事実）で語っていきます。\n私たち自身が海外で、外国人として暮らしてきた経験などもお伝えできたらと思います。\n\n＃杉並区\n＃外国人問題\n＃中国人\n＃ネパール人\n\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n☆ボランティアの募集☆\nこちらのボランティアフォームからお願いします。\nhttps://forms.gle/ADNeMBWsYyGFkHTcA\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
@@ -979,7 +1014,7 @@
               "height": 720
             }
           },
-          "viewCount": 327,
+          "viewCount": 634,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1020,7 +1055,7 @@
               "height": 720
             }
           },
-          "viewCount": 2951
+          "viewCount": 2987
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1055,7 +1090,7 @@
               "height": 720
             }
           },
-          "viewCount": 3062,
+          "viewCount": 3069,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1096,7 +1131,7 @@
               "height": 720
             }
           },
-          "viewCount": 6739
+          "viewCount": 6790
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1131,7 +1166,7 @@
               "height": 720
             }
           },
-          "viewCount": 1877,
+          "viewCount": 1876,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1172,7 +1207,7 @@
               "height": 720
             }
           },
-          "viewCount": 3199
+          "viewCount": 3203
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1233,7 +1268,7 @@
               "height": 720
             }
           },
-          "viewCount": 3239
+          "viewCount": 3307
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
