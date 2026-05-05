@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-05T11:55:36.366Z",
+  "requestedAt": "2026-05-05T13:27:11.021Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13411,
+          "viewCount": 13621,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 18632,
+          "viewCount": 18670,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -155,7 +155,7 @@
               "height": 360
             }
           },
-          "viewCount": 3668,
+          "viewCount": 3669,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-02-17T12:58:44Z",
@@ -447,7 +447,7 @@
               "height": 720
             }
           },
-          "viewCount": 1498
+          "viewCount": 1499
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -783,7 +783,7 @@
               "height": 720
             }
           },
-          "viewCount": 830
+          "viewCount": 831
         },
         {
           "videoId": "MqORVyEk80M",
@@ -818,7 +818,7 @@
               "height": 720
             }
           },
-          "viewCount": 2094
+          "viewCount": 2096
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -944,12 +944,13 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "dxE3t0-LCBM",
           "title": "杉並区の外国人問題。それってそもそも問題なの？",
           "description": "巷で言われている『外国人問題』。杉並区ではどういう状況なのか？\nどういう点で困っているのか？\n今の区政はどんな対応をしているのか？\nなどなど、イメージの話ではなく、ファクト（事実）で語っていきます。\n私たち自身が海外で、外国人として暮らしてきた経験などもお伝えできたらと思います。\n\n＃杉並区\n＃外国人問題\n＃中国人\n＃ネパール人\n\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n☆ボランティアの募集☆\nこちらのボランティアフォームからお願いします。\nhttps://forms.gle/ADNeMBWsYyGFkHTcA\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
-          "publishedAt": "2026-05-05T09:17:39Z",
+          "publishedAt": "2026-05-05T12:30:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -978,14 +979,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 327,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-05-05T12:30:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-05-05T12:30:00Z",
+            "actualStartTime": "2026-05-05T12:30:06Z",
+            "actualEndTime": "2026-05-05T13:18:27Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "GnMLB9gDf9M",
           "title": "待機児童ゼロ！完全実現を目指します💪#増田よしひこ  #杉並区 #東京の再生",
@@ -1019,7 +1020,7 @@
               "height": 720
             }
           },
-          "viewCount": 2899
+          "viewCount": 2951
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1054,7 +1055,7 @@
               "height": 720
             }
           },
-          "viewCount": 3060,
+          "viewCount": 3062,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1095,7 +1096,7 @@
               "height": 720
             }
           },
-          "viewCount": 6715
+          "viewCount": 6739
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1130,7 +1131,7 @@
               "height": 720
             }
           },
-          "viewCount": 1866,
+          "viewCount": 1877,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1171,7 +1172,7 @@
               "height": 720
             }
           },
-          "viewCount": 3196
+          "viewCount": 3199
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1232,42 +1233,7 @@
               "height": 720
             }
           },
-          "viewCount": 3231
-        },
-        {
-          "videoId": "n3CHke-vRQ0",
-          "title": "【恋愛病院#4】おくすりを家庭にも！加藤てつおがパートナーとガチトーク。円満の正解はロジックじゃない！？",
-          "description": "ABEMAの人気番組『恋愛病院』第4回放送を、米国公認会計士の加藤てつおが税理士のパートナーと共に徹底レビュー！\n\n今回は「お茶の間戦略会議」と題して、番組をケーススタディとして自分たちの家庭に置き換え、本音で語り合いました。\n\n普段は数字やロジックを扱う専門家同士ですが、家庭の円満に「正解」や「理屈」は通用するのか……！？\n\n「しんじ」の選択をきっかけに、パートナーから飛び出す予想外のアクションプランや、まさかの「鬼嫁」推奨論（？）まで。\n忖度なし、台本なしの「家庭内本音トーク」をぜひお楽しみください！\n\nチャンネル登録・高評価もよろしくお願いします。\n\n📣大田区を良くするアイデアや、活動を支えてくれるサポーターも募集中です！ \n👇 サポーター参加はこちらのフォームから！\nhttps://forms.gle/NmSBcWQ6MhG9onXR8\n\n\n【SNS・チャンネル登録】\n「届かぬ声」を形にするため、一歩ずつ進んでいきます。\n応援いただける方は、ぜひチャンネル登録と高評価をお願いしやっす！\nhttps://www.youtube.com/@TETSUO-OMG\nhttps://x.com/Tetsuo_OMG\n\n🏷 ハッシュタグ\n#恋愛病院  #加藤てつお #パートナーシップ  #ABEMA",
-          "publishedAt": "2026-04-28T12:44:22Z",
-          "channelTitle": "かとてちゅ〜ぶ☆加藤てつお@大田区",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/n3CHke-vRQ0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/n3CHke-vRQ0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/n3CHke-vRQ0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/n3CHke-vRQ0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/n3CHke-vRQ0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3795
+          "viewCount": 3239
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
