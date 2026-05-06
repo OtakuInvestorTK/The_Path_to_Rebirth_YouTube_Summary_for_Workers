@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-06T11:00:33.096Z",
+  "requestedAt": "2026-05-06T13:52:12.595Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14739,
+          "viewCount": 14861,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,43 +124,12 @@
               "height": 720
             }
           },
-          "viewCount": 19034,
+          "viewCount": 19074,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
             "actualStartTime": "2026-05-02T12:00:52Z",
             "actualEndTime": "2026-05-02T12:45:33Z"
-          }
-        },
-        {
-          "videoId": "d7ZcW8MyvJU",
-          "title": "【最後のお願い】西成こども食堂から",
-          "description": "西成の川辺さんが新しい居場所のためにクラファンに挑戦しています。\nシェアなどで協力頂けたら、とてもうれしいです。どうぞ宜しくお願いします。\n\nhttps://congrant.com/project/nccc/21813?spt_route=OhebcIZI5bIgC5HB\n\n\n=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2026-04-29T12:04:50Z",
-          "channelTitle": "奥村こうき | 再生の道 代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/d7ZcW8MyvJU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/d7ZcW8MyvJU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/d7ZcW8MyvJU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "viewCount": 3686,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-02-17T12:58:44Z",
-            "actualStartTime": "2026-04-29T10:43:30Z",
-            "actualEndTime": "2026-04-29T11:13:17Z"
           }
         }
       ],
@@ -447,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 1514
+          "viewCount": 1521
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -783,7 +752,7 @@
               "height": 720
             }
           },
-          "viewCount": 124
+          "viewCount": 356
         },
         {
           "videoId": "HOwHhsujoC8",
@@ -818,7 +787,7 @@
               "height": 720
             }
           },
-          "viewCount": 848
+          "viewCount": 854
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -979,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 2318
+          "viewCount": 2470
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1014,7 +983,7 @@
               "height": 720
             }
           },
-          "viewCount": 1684,
+          "viewCount": 1735,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1055,7 +1024,7 @@
               "height": 720
             }
           },
-          "viewCount": 3117
+          "viewCount": 3154
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1090,7 +1059,7 @@
               "height": 720
             }
           },
-          "viewCount": 3091,
+          "viewCount": 3092,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1131,7 +1100,7 @@
               "height": 720
             }
           },
-          "viewCount": 6822
+          "viewCount": 6825
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1166,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 1917,
+          "viewCount": 1922,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1233,7 +1202,7 @@
               "height": 720
             }
           },
-          "viewCount": 3462
+          "viewCount": 3481
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
