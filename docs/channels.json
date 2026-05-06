@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-06T17:42:48.045Z",
+  "requestedAt": "2026-05-06T19:28:04.893Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 19120,
+          "viewCount": 19123,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -416,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 1526
+          "viewCount": 1530
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -752,7 +752,7 @@
               "height": 720
             }
           },
-          "viewCount": 585
+          "viewCount": 605
         },
         {
           "videoId": "HOwHhsujoC8",
@@ -787,7 +787,7 @@
               "height": 720
             }
           },
-          "viewCount": 856
+          "viewCount": 870
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -916,6 +916,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "XUQTBTqpV4c",
+          "title": "「増田よしひこの杉並ビジョン〜意見交換会〜」の模様",
+          "description": "2026年4月25日タウンセブンホールで行われた《杉並ビジョン〜意見交換会〜》の「杉並ビジョン」及び「AIペンギン」のコーナを抜粋してお送りします。\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
+          "publishedAt": "2026-05-06T19:06:03Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XUQTBTqpV4c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XUQTBTqpV4c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XUQTBTqpV4c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XUQTBTqpV4c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XUQTBTqpV4c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 18
+        },
+        {
           "videoId": "ccrVnuxZiHk",
           "title": "杉並区の年間予算、どこに使われているか知っていますか？　#杉並区 #増田よしひこ #東京の再生",
           "description": "",
@@ -983,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 1806,
+          "viewCount": 1821,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1059,7 +1094,7 @@
               "height": 720
             }
           },
-          "viewCount": 3097,
+          "viewCount": 3099,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1100,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 6831
+          "viewCount": 6834
         },
         {
           "videoId": "Ab7qXae6IKE",
