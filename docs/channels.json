@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-07T11:04:04.037Z",
+  "requestedAt": "2026-05-07T13:51:13.168Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15293,
+          "viewCount": 15296,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 19271,
+          "viewCount": 19320,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -716,7 +716,7 @@
               "height": 720
             }
           },
-          "viewCount": 780
+          "viewCount": 809
         },
         {
           "videoId": "HOwHhsujoC8",
@@ -751,7 +751,7 @@
               "height": 720
             }
           },
-          "viewCount": 878
+          "viewCount": 880
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -877,11 +877,12 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "2UKzno_M7s8",
           "title": "ヨシヒコ・ライブ#28",
-          "description": "今週のヨシヒコ・ライブは、\nタウンミーティングに参加してくださった方たちから出たお声や\n辻立ちの様子や、SNSでのコメントなどにも、できるだけお答えしていきます。\n\n今宵のワインは、\nわたしのワインスクールの生徒さんがワインバー開業で送ってきてくれたワインを開けてみようかなと思っています。\n\nみなさまも、お気に入りのドリンクをご用意して遊びにいらしてください。",
+          "description": "今週のヨシヒコ・ライブは、\nタウンミーティングに参加してくださった方たちから出たお声や\n辻立ちの様子や、SNSでのコメントなどにも、できるだけお答えしていきます。\n\n今宵のワインは、\nわたしのワインスクールの生徒さんがワインバー開業で送ってきてくれたワインを開けてみようかなと思っています。\n\nみなさまも、お気に入りのドリンクをご用意して遊びにいらしてください。\n\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n☆ボランティアの募集☆\nこちらのボランティアフォームからお願いします。\nhttps://forms.gle/ADNeMBWsYyGFkHTcA\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
           "publishedAt": "2026-05-07T07:17:03Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
@@ -911,14 +912,49 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 491,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-05-07T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-05-07T12:00:00Z",
+            "actualStartTime": "2026-05-07T12:02:13Z",
+            "actualEndTime": "2026-05-07T12:56:43Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
+        {
+          "videoId": "fu-Pu6b0_yo",
+          "title": "木は天然のダム🌳 #杉並区 #増田よしひこ",
+          "description": "",
+          "publishedAt": "2026-05-07T12:17:13Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 733
+        },
         {
           "videoId": "XUQTBTqpV4c",
           "title": "本当の危機は（問題が表面化する前に）もうすでに始まっている！住宅都市・杉並区のあり方を語る《増田よしひこの杉並ビジョン2026》",
@@ -952,7 +988,7 @@
               "height": 720
             }
           },
-          "viewCount": 1547
+          "viewCount": 1711
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -987,7 +1023,7 @@
               "height": 720
             }
           },
-          "viewCount": 2814
+          "viewCount": 2838
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1022,7 +1058,7 @@
               "height": 720
             }
           },
-          "viewCount": 1961,
+          "viewCount": 1997,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1063,7 +1099,7 @@
               "height": 720
             }
           },
-          "viewCount": 3237
+          "viewCount": 3255
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1098,7 +1134,7 @@
               "height": 720
             }
           },
-          "viewCount": 3131,
+          "viewCount": 3133,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1139,7 +1175,7 @@
               "height": 720
             }
           },
-          "viewCount": 6853
+          "viewCount": 6856
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1174,7 +1210,7 @@
               "height": 720
             }
           },
-          "viewCount": 1971,
+          "viewCount": 1976,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1241,7 +1277,7 @@
               "height": 720
             }
           },
-          "viewCount": 3530
+          "viewCount": 3552
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
