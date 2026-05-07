@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-07T08:26:08.577Z",
+  "requestedAt": "2026-05-07T11:04:04.037Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15235,
+          "viewCount": 15293,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 19233,
+          "viewCount": 19271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -382,43 +382,7 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "3vxRx12Bhwo",
-          "title": "(仮称)ららぽーと府中建設現場レポート",
-          "description": "府中市朝日町に計画されている三井不動産系の商業施設建設現場を視察しました。\n特に問題となるのが都道110号線の人見街道周辺で、西武多摩川線多磨駅の踏切付近はかなり危険性が高いです。\nまた、そちらの渋滞を回避しようとする車両が狭隘な住宅地の道路に流入する可能性が高く、しっかりとした交通対策メニューが必要になると想定されます。",
-          "publishedAt": "2026-04-30T09:00:05Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/3vxRx12Bhwo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1537
-        }
-      ],
+      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -752,7 +716,7 @@
               "height": 720
             }
           },
-          "viewCount": 759
+          "viewCount": 780
         },
         {
           "videoId": "HOwHhsujoC8",
@@ -787,7 +751,7 @@
               "height": 720
             }
           },
-          "viewCount": 877
+          "viewCount": 878
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -988,7 +952,7 @@
               "height": 720
             }
           },
-          "viewCount": 1375
+          "viewCount": 1547
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1023,7 +987,7 @@
               "height": 720
             }
           },
-          "viewCount": 2789
+          "viewCount": 2814
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1058,7 +1022,7 @@
               "height": 720
             }
           },
-          "viewCount": 1919,
+          "viewCount": 1961,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1099,7 +1063,7 @@
               "height": 720
             }
           },
-          "viewCount": 3226
+          "viewCount": 3237
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1134,7 +1098,7 @@
               "height": 720
             }
           },
-          "viewCount": 3124,
+          "viewCount": 3131,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1175,7 +1139,7 @@
               "height": 720
             }
           },
-          "viewCount": 6852
+          "viewCount": 6853
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1210,7 +1174,7 @@
               "height": 720
             }
           },
-          "viewCount": 1955,
+          "viewCount": 1971,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
