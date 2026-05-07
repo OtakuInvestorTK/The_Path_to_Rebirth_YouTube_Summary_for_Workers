@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-07T20:09:04.641Z",
+  "requestedAt": "2026-05-07T21:50:56.150Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15413,
+          "viewCount": 15421,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 19361,
+          "viewCount": 19363,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -382,7 +382,43 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "ScqeNJ8EmJk",
+          "title": "府中市白糸台小学校通学路の歩道植栽剪定 #府中市 #インフラ管理 #ボランティア",
+          "description": "横断歩道直近の低木の枝が伸びすぎて、車から子どもの姿が見えなくなっていました。\n車道に枝が伸びて自転車にも当たりそうになっていたので、もっとこまめに手入れするべきだと思います。",
+          "publishedAt": "2026-05-07T20:18:56Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ScqeNJ8EmJk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ScqeNJ8EmJk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ScqeNJ8EmJk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ScqeNJ8EmJk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ScqeNJ8EmJk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 938
+        }
+      ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -751,7 +787,7 @@
               "height": 720
             }
           },
-          "viewCount": 881
+          "viewCount": 882
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -881,7 +917,7 @@
       "recentVideos": [
         {
           "videoId": "2UKzno_M7s8",
-          "title": "ヨシヒコ・ライブ#28",
+          "title": "本気？みどりで稼げるって。ヨシヒコ・ライブ#28",
           "description": "今週のヨシヒコ・ライブは、\nタウンミーティングに参加してくださった方たちから出たお声や\n辻立ちの様子や、SNSでのコメントなどにも、できるだけお答えしていきます。\n\n今宵のワインは、\nわたしのワインスクールの生徒さんがワインバー開業で送ってきてくれたワインを開けてみようかなと思っています。\n\nみなさまも、お気に入りのドリンクをご用意して遊びにいらしてください。\n\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n☆ボランティアの募集☆\nこちらのボランティアフォームからお願いします。\nhttps://forms.gle/ADNeMBWsYyGFkHTcA\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
           "publishedAt": "2026-05-07T14:20:38Z",
           "channelTitle": "増田よしひこ- 杉並",
@@ -912,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 957,
+          "viewCount": 979,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -953,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 1266
+          "viewCount": 1308
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -988,7 +1024,7 @@
               "height": 720
             }
           },
-          "viewCount": 1785
+          "viewCount": 1793
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1023,7 +1059,7 @@
               "height": 720
             }
           },
-          "viewCount": 2877
+          "viewCount": 2881
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1058,7 +1094,7 @@
               "height": 720
             }
           },
-          "viewCount": 2020,
+          "viewCount": 2024,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1099,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 3261
+          "viewCount": 3265
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1134,7 +1170,7 @@
               "height": 720
             }
           },
-          "viewCount": 3149,
+          "viewCount": 3150,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1175,7 +1211,7 @@
               "height": 720
             }
           },
-          "viewCount": 6861
+          "viewCount": 6862
         },
         {
           "videoId": "Ab7qXae6IKE",
@@ -1210,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 1980,
+          "viewCount": 1983,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T03:00:00Z",
@@ -1277,7 +1313,7 @@
               "height": 720
             }
           },
-          "viewCount": 3576
+          "viewCount": 3579
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
