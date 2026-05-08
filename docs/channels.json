@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-08T13:18:05.812Z",
+  "requestedAt": "2026-05-08T15:16:01.705Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15536,
+          "viewCount": 15561,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 19436,
+          "viewCount": 19454,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -416,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 1830
+          "viewCount": 1873
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -752,7 +752,7 @@
               "height": 720
             }
           },
-          "viewCount": 873
+          "viewCount": 878
         },
         {
           "videoId": "HOwHhsujoC8",
@@ -948,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 369,
+          "viewCount": 707,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-08T12:00:00Z",
@@ -989,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 793
+          "viewCount": 1028
         },
         {
           "videoId": "2UKzno_M7s8",
@@ -1024,7 +1024,7 @@
               "height": 720
             }
           },
-          "viewCount": 1410,
+          "viewCount": 1415,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -1065,7 +1065,7 @@
               "height": 720
             }
           },
-          "viewCount": 1863
+          "viewCount": 1882
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -1100,7 +1100,7 @@
               "height": 720
             }
           },
-          "viewCount": 1896
+          "viewCount": 1901
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1135,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 2994
+          "viewCount": 3030
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1212,47 +1212,6 @@
             }
           },
           "viewCount": 3291
-        },
-        {
-          "videoId": "JiCnI7akmyY",
-          "title": "なぜ増田じゃなきゃダメなのか？ヨシヒコ・ライブ #27",
-          "description": "都合により、今週は金曜日の夜にヨシヒコ・ライブ。\n・４２５に行った《杉並ビジョン〜意見交換会〜》の話や政策についても少しお話しできればと思っています。\n・木島鉄工所の木島さんをお迎えしたヨシヒコ・ライブSP\n・のぼり、たすき、ポスターと３点セット揃っての辻立ちなどなど、\n\n今晩もワイン片手にゆるゆるお話しさせてください。\n\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n☆ボランティアの募集☆\nこちらのボランティアフォームからお願いします。\nhttps://forms.gle/ADNeMBWsYyGFkHTcA\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
-          "publishedAt": "2026-05-01T13:23:49Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JiCnI7akmyY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JiCnI7akmyY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JiCnI7akmyY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/JiCnI7akmyY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/JiCnI7akmyY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3161,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-05-01T12:00:00Z",
-            "actualStartTime": "2026-05-01T12:01:22Z",
-            "actualEndTime": "2026-05-01T13:02:15Z"
-          }
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1313,7 +1272,7 @@
               "height": 720
             }
           },
-          "viewCount": 3623
+          "viewCount": 3635
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
