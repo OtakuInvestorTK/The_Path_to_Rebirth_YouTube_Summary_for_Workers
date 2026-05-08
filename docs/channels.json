@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-08T07:20:45.912Z",
+  "requestedAt": "2026-05-08T09:09:55.026Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15470,
+          "viewCount": 15466,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 19398,
+          "viewCount": 19408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -416,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 1582
+          "viewCount": 1648
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -752,7 +752,7 @@
               "height": 720
             }
           },
-          "viewCount": 858
+          "viewCount": 863
         },
         {
           "videoId": "HOwHhsujoC8",
@@ -913,7 +913,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "scM9pNpNWMA",
+          "title": "杉並のいじめ問題。どこで、なにを間違えたのか。",
+          "description": "幼稚園から大学生までずっといじめを経験してきた、映画監督の古新 舜さんをゲストにお招きして、杉並のいじめ問題について、どこで、なにが間違ったのか＝＝＝＝＝\n2022年に起きた「いじめ問題」を例に検証していきました。\n\n”私たちは本当に子どもたちに寄り添っているのか”\nひとりひとりが問いかけてよい問題だと思いました。\n\nhttps://coneyfilm.com/\n\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n☆ボランティアの募集☆\nこちらのボランティアフォームからお願いします。\nhttps://forms.gle/ADNeMBWsYyGFkHTcA\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
+          "publishedAt": "2026-05-08T08:18:48Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/scM9pNpNWMA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/scM9pNpNWMA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/scM9pNpNWMA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/scM9pNpNWMA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/scM9pNpNWMA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-05-08T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "2UKzno_M7s8",
@@ -948,7 +988,7 @@
               "height": 720
             }
           },
-          "viewCount": 1282,
+          "viewCount": 1324,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -989,7 +1029,7 @@
               "height": 720
             }
           },
-          "viewCount": 1774
+          "viewCount": 1809
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -1024,7 +1064,7 @@
               "height": 720
             }
           },
-          "viewCount": 1846
+          "viewCount": 1867
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1059,7 +1099,7 @@
               "height": 720
             }
           },
-          "viewCount": 2950
+          "viewCount": 2968
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1094,7 +1134,7 @@
               "height": 720
             }
           },
-          "viewCount": 2047,
+          "viewCount": 2050,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1135,7 +1175,7 @@
               "height": 720
             }
           },
-          "viewCount": 3283
+          "viewCount": 3281
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1170,7 +1210,7 @@
               "height": 720
             }
           },
-          "viewCount": 3156,
+          "viewCount": 3158,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1211,7 +1251,7 @@
               "height": 720
             }
           },
-          "viewCount": 6880
+          "viewCount": 6877
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1272,7 +1312,7 @@
               "height": 720
             }
           },
-          "viewCount": 3601
+          "viewCount": 3614
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
