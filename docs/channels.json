@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-08T02:31:13.943Z",
+  "requestedAt": "2026-05-08T05:24:46.115Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15448,
+          "viewCount": 15458,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 19375,
+          "viewCount": 19396,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -416,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 1364
+          "viewCount": 1502
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -752,7 +752,7 @@
               "height": 720
             }
           },
-          "viewCount": 838
+          "viewCount": 854
         },
         {
           "videoId": "HOwHhsujoC8",
@@ -787,7 +787,7 @@
               "height": 720
             }
           },
-          "viewCount": 883
+          "viewCount": 892
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -948,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 1139,
+          "viewCount": 1241,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -989,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 1598
+          "viewCount": 1730
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -1024,7 +1024,7 @@
               "height": 720
             }
           },
-          "viewCount": 1812
+          "viewCount": 1826
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1059,7 +1059,7 @@
               "height": 720
             }
           },
-          "viewCount": 2917
+          "viewCount": 2921
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1094,7 +1094,7 @@
               "height": 720
             }
           },
-          "viewCount": 2026,
+          "viewCount": 2041,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1135,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 3267
+          "viewCount": 3280
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1170,7 +1170,7 @@
               "height": 720
             }
           },
-          "viewCount": 3153,
+          "viewCount": 3156,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
@@ -1211,48 +1211,7 @@
               "height": 720
             }
           },
-          "viewCount": 6863
-        },
-        {
-          "videoId": "Ab7qXae6IKE",
-          "title": "浜田山駅南口問題、なにが問題なのか。事実に基づき解説していきます。",
-          "description": "井の頭線浜田山駅には、出口が北側にひとつしかない。なので、南口の住人たちは、踏切を渡らないと電車に乗れない状態がもうずっと続いています。\n南側に出口を作ってほしいという願いは、なぜ叶えられないのか？\n\n＃井の頭線\n＃浜田山\n＃開かない踏切\n＃京王電鉄\n＃杉並区",
-          "publishedAt": "2026-05-01T03:00:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Ab7qXae6IKE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1984,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-05-01T03:00:00Z",
-            "actualStartTime": "2026-05-01T03:00:06Z",
-            "actualEndTime": "2026-05-01T03:44:52Z"
-          }
+          "viewCount": 6876
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
@@ -1313,7 +1272,7 @@
               "height": 720
             }
           },
-          "viewCount": 3593
+          "viewCount": 3601
         }
       ],
       "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
