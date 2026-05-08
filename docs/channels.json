@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-08T11:06:19.487Z",
+  "requestedAt": "2026-05-08T13:18:05.812Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15513,
+          "viewCount": 15536,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 19423,
+          "viewCount": 19436,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-02T12:00:35Z",
@@ -416,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 1737
+          "viewCount": 1830
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -752,7 +752,7 @@
               "height": 720
             }
           },
-          "viewCount": 871
+          "viewCount": 873
         },
         {
           "videoId": "HOwHhsujoC8",
@@ -913,12 +913,13 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "scM9pNpNWMA",
           "title": "杉並のいじめ問題。どこで、なにを間違えたのか。",
           "description": "幼稚園から大学生までずっといじめを経験してきた、映画監督の古新 舜さんをゲストにお招きして、杉並のいじめ問題について、どこで、なにが間違ったのか＝＝＝＝＝\n2022年に起きた「いじめ問題」を例に検証していきました。\n\n”私たちは本当に子どもたちに寄り添っているのか”\nひとりひとりが問いかけてよい問題だと思いました。\n\nhttps://coneyfilm.com/\n\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n☆ボランティアの募集☆\nこちらのボランティアフォームからお願いします。\nhttps://forms.gle/ADNeMBWsYyGFkHTcA\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
-          "publishedAt": "2026-05-08T08:18:48Z",
+          "publishedAt": "2026-05-08T12:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -947,14 +948,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 369,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-05-08T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-05-08T12:00:00Z",
+            "actualStartTime": "2026-05-08T12:00:06Z",
+            "actualEndTime": "2026-05-08T13:03:26Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "Sa7XAUlA-OM",
           "title": "今や紙のみの行政手続きは遅れています！ #杉並区 #増田よしひこ",
@@ -988,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 535
+          "viewCount": 793
         },
         {
           "videoId": "2UKzno_M7s8",
@@ -1023,7 +1024,7 @@
               "height": 720
             }
           },
-          "viewCount": 1341,
+          "viewCount": 1410,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -1064,7 +1065,7 @@
               "height": 720
             }
           },
-          "viewCount": 1830
+          "viewCount": 1863
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -1099,7 +1100,7 @@
               "height": 720
             }
           },
-          "viewCount": 1883
+          "viewCount": 1896
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1169,7 +1170,7 @@
               "height": 720
             }
           },
-          "viewCount": 2060,
+          "viewCount": 2070,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1210,7 +1211,7 @@
               "height": 720
             }
           },
-          "viewCount": 3288
+          "viewCount": 3291
         },
         {
           "videoId": "JiCnI7akmyY",
@@ -1245,48 +1246,13 @@
               "height": 720
             }
           },
-          "viewCount": 3160,
+          "viewCount": 3161,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T12:00:00Z",
             "actualStartTime": "2026-05-01T12:01:22Z",
             "actualEndTime": "2026-05-01T13:02:15Z"
           }
-        },
-        {
-          "videoId": "l-tPzkm4FGU",
-          "title": "10年後の杉並区、どんなまちにしたいですか？ #杉並区",
-          "description": "",
-          "publishedAt": "2026-05-01T12:39:18Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/l-tPzkm4FGU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/l-tPzkm4FGU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/l-tPzkm4FGU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/l-tPzkm4FGU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/l-tPzkm4FGU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6892
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
