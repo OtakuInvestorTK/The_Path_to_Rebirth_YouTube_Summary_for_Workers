@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-09T13:02:53.628Z",
+  "requestedAt": "2026-05-09T14:43:42.378Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15691,
+          "viewCount": 15690,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -90,49 +90,7 @@
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "E_sjLnT8hOw",
-          "title": "狛江市長選への出馬を決意しました。",
-          "description": "活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ（未更新）\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
-          "publishedAt": "2026-05-02T13:37:49Z",
-          "channelTitle": "奥村こうき | 再生の道 代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/E_sjLnT8hOw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/E_sjLnT8hOw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/E_sjLnT8hOw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/E_sjLnT8hOw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/E_sjLnT8hOw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 19533,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-05-02T12:00:35Z",
-            "actualStartTime": "2026-05-02T12:00:52Z",
-            "actualEndTime": "2026-05-02T12:45:33Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -416,7 +374,7 @@
               "height": 720
             }
           },
-          "viewCount": 2140
+          "viewCount": 2211
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -602,7 +560,7 @@
               "height": 720
             }
           },
-          "viewCount": 425
+          "viewCount": 597
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -788,7 +746,7 @@
               "height": 720
             }
           },
-          "viewCount": 274
+          "viewCount": 295
         },
         {
           "videoId": "w0H3axQzaoc",
@@ -984,7 +942,7 @@
               "height": 720
             }
           },
-          "viewCount": 2058,
+          "viewCount": 2085,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-08T12:00:00Z",
@@ -1025,7 +983,7 @@
               "height": 720
             }
           },
-          "viewCount": 1581
+          "viewCount": 1579
         },
         {
           "videoId": "2UKzno_M7s8",
@@ -1060,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 1475,
+          "viewCount": 1480,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -1101,7 +1059,7 @@
               "height": 720
             }
           },
-          "viewCount": 1947
+          "viewCount": 1958
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -1136,7 +1094,7 @@
               "height": 720
             }
           },
-          "viewCount": 1980
+          "viewCount": 1981
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1171,7 +1129,7 @@
               "height": 720
             }
           },
-          "viewCount": 3147
+          "viewCount": 3166
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1206,7 +1164,7 @@
               "height": 720
             }
           },
-          "viewCount": 2108,
+          "viewCount": 2114,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
@@ -1247,7 +1205,7 @@
               "height": 720
             }
           },
-          "viewCount": 3318
+          "viewCount": 3321
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
