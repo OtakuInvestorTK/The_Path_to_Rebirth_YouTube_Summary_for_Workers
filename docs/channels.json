@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-10T14:45:55.943Z",
+  "requestedAt": "2026-05-10T15:45:29.333Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,49 +22,7 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
-        {
-          "videoId": "t_a6HHoOH9k",
-          "title": "杉並みっちーの部屋 / ライブ配信",
-          "description": "AIペンギン「杉並みっちー」は、杉並区を中心とする幅広い課題や改善点について、広く皆様からの相談を受け付け、一緒に考えるAIです。杉並にて活動する増田よしひこの政策をよく理解しています。\nチャット欄に記入することにより、杉並みっちーと、お話することが出来ます。是非、お気軽に何でもお話しください。\n\n#杉並区\n#AI\n#杉並みっちー\n\n＜利用ガイドライン・禁止行為＞\n不適切と判断されるコメントが確認された場合、事務局の判断によりコメントの削除や該当ユーザーのブロック等の対応を行う場合がございます。あらかじめご了承ください。\n・攻撃的な発言や嫌がらせ行為\n・特定の個人や団体に対する誹謗中傷、脅迫、ハラスメント、差別的な発言\n・個人情報（特定の個人を識別できる情報）の投稿\n・暴力的な発言やわいせつ表現など、社会的に不適切とされる内容\n・他のユーザーに対する過度な批判や威圧的な言動\n\n使用AI音声サービス：「Kotodama」みっ子",
-          "publishedAt": "2026-05-07T01:58:53Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/t_a6HHoOH9k/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/t_a6HHoOH9k/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/t_a6HHoOH9k/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/t_a6HHoOH9k/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/t_a6HHoOH9k/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 798,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2026-05-07T02:00:00Z",
-            "actualStartTime": "2026-05-07T02:05:50Z",
-            "concurrentViewers": 75
-          }
-        }
-      ],
+      "liveVideos": [],
       "recentVideos": [
         {
           "videoId": "y94AUxsPkCo",
@@ -416,7 +374,7 @@
               "height": 720
             }
           },
-          "viewCount": 2619
+          "viewCount": 2643
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -602,7 +560,7 @@
               "height": 720
             }
           },
-          "viewCount": 1089
+          "viewCount": 1112
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -984,7 +942,7 @@
               "height": 720
             }
           },
-          "viewCount": 400,
+          "viewCount": 538,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -1066,7 +1024,7 @@
               "height": 720
             }
           },
-          "viewCount": 1677
+          "viewCount": 1701
         },
         {
           "videoId": "2UKzno_M7s8",
