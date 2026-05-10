@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-10T16:45:41.255Z",
+  "requestedAt": "2026-05-10T17:43:55.607Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15849,
+          "viewCount": 15889,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -560,7 +560,7 @@
               "height": 720
             }
           },
-          "viewCount": 1120
+          "viewCount": 1126
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -942,7 +942,7 @@
               "height": 720
             }
           },
-          "viewCount": 644,
+          "viewCount": 788,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
