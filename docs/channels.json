@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-11T18:52:55.875Z",
+  "requestedAt": "2026-05-11T20:28:51.515Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 5328,
+          "viewCount": 5602,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-05-07T02:00:00Z",
             "actualStartTime": "2026-05-07T02:05:50Z",
-            "concurrentViewers": 18
+            "concurrentViewers": 16
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 4851,
+          "viewCount": 5147,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -602,7 +602,7 @@
               "height": 720
             }
           },
-          "viewCount": 1304
+          "viewCount": 1307
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -984,7 +984,7 @@
               "height": 720
             }
           },
-          "viewCount": 2242,
+          "viewCount": 2260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -1066,7 +1066,7 @@
               "height": 720
             }
           },
-          "viewCount": 1854
+          "viewCount": 1855
         },
         {
           "videoId": "2UKzno_M7s8",
@@ -1177,7 +1177,7 @@
               "height": 720
             }
           },
-          "viewCount": 2044
+          "viewCount": 2045
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1212,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 3246
+          "viewCount": 3247
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1247,7 +1247,7 @@
               "height": 720
             }
           },
-          "viewCount": 2170,
+          "viewCount": 2169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
