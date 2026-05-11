@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-10T23:43:45.845Z",
+  "requestedAt": "2026-05-11T02:36:13.002Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "hvig8qACJLo",
+          "title": "再生の道 定例オンラインミーティング（ライブ配信）",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-05-11T02:13:17Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hvig8qACJLo/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hvig8qACJLo/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hvig8qACJLo/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hvig8qACJLo/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hvig8qACJLo/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-05-11T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "y94AUxsPkCo",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 15905,
+          "viewCount": 15929,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -374,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 2748
+          "viewCount": 2769
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -560,7 +600,7 @@
               "height": 720
             }
           },
-          "viewCount": 1166
+          "viewCount": 1184
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -746,7 +786,7 @@
               "height": 720
             }
           },
-          "viewCount": 352
+          "viewCount": 354
         },
         {
           "videoId": "w0H3axQzaoc",
@@ -781,7 +821,7 @@
               "height": 720
             }
           },
-          "viewCount": 913
+          "viewCount": 915
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -942,7 +982,7 @@
               "height": 720
             }
           },
-          "viewCount": 1135,
+          "viewCount": 1435,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -983,7 +1023,7 @@
               "height": 720
             }
           },
-          "viewCount": 2318,
+          "viewCount": 2332,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-08T12:00:00Z",
@@ -1024,7 +1064,7 @@
               "height": 720
             }
           },
-          "viewCount": 1731
+          "viewCount": 1743
         },
         {
           "videoId": "2UKzno_M7s8",
@@ -1059,7 +1099,7 @@
               "height": 720
             }
           },
-          "viewCount": 1504,
+          "viewCount": 1507,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -1100,7 +1140,7 @@
               "height": 720
             }
           },
-          "viewCount": 2084
+          "viewCount": 2096
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -1135,7 +1175,7 @@
               "height": 720
             }
           },
-          "viewCount": 2017
+          "viewCount": 2022
         },
         {
           "videoId": "ccrVnuxZiHk",
