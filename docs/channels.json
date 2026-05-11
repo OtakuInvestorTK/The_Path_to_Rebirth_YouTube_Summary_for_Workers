@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-11T10:31:57.182Z",
+  "requestedAt": "2026-05-11T13:41:31.456Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,10 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 1574,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-05-11T13:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-05-11T13:00:00Z",
+            "actualStartTime": "2026-05-11T12:56:38Z",
+            "concurrentViewers": 654
           }
         },
         {
@@ -95,12 +97,12 @@
               "height": 720
             }
           },
-          "viewCount": 1038,
+          "viewCount": 2204,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-05-07T02:00:00Z",
             "actualStartTime": "2026-05-07T02:05:50Z",
-            "concurrentViewers": 44
+            "concurrentViewers": 60
           }
         }
       ],
@@ -138,7 +140,7 @@
               "height": 720
             }
           },
-          "viewCount": 15977,
+          "viewCount": 15981,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-04T13:00:00Z",
@@ -455,7 +457,7 @@
               "height": 720
             }
           },
-          "viewCount": 2801
+          "viewCount": 2822
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -641,7 +643,7 @@
               "height": 720
             }
           },
-          "viewCount": 1257
+          "viewCount": 1285
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -827,7 +829,7 @@
               "height": 720
             }
           },
-          "viewCount": 364
+          "viewCount": 370
         },
         {
           "videoId": "w0H3axQzaoc",
@@ -862,7 +864,7 @@
               "height": 720
             }
           },
-          "viewCount": 915
+          "viewCount": 916
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1023,7 +1025,7 @@
               "height": 720
             }
           },
-          "viewCount": 1868,
+          "viewCount": 2054,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -1105,7 +1107,7 @@
               "height": 720
             }
           },
-          "viewCount": 1804
+          "viewCount": 1829
         },
         {
           "videoId": "2UKzno_M7s8",
@@ -1140,7 +1142,7 @@
               "height": 720
             }
           },
-          "viewCount": 1513,
+          "viewCount": 1514,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -1181,7 +1183,7 @@
               "height": 720
             }
           },
-          "viewCount": 2137
+          "viewCount": 2144
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -1216,7 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 2032
+          "viewCount": 2039
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1251,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 3238
+          "viewCount": 3243
         },
         {
           "videoId": "dxE3t0-LCBM",
@@ -1286,7 +1288,7 @@
               "height": 720
             }
           },
-          "viewCount": 2155,
+          "viewCount": 2166,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-05T12:30:00Z",
