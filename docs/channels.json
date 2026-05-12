@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-12T21:12:59.797Z",
+  "requestedAt": "2026-05-12T22:54:07.997Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 11518,
+          "viewCount": 11733,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-05-07T02:00:00Z",
             "actualStartTime": "2026-05-07T02:05:50Z",
-            "concurrentViewers": 24
+            "concurrentViewers": 36
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 8299,
+          "viewCount": 8384,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -788,7 +788,7 @@
               "height": 720
             }
           },
-          "viewCount": 399
+          "viewCount": 400
         },
         {
           "videoId": "w0H3axQzaoc",
@@ -823,7 +823,7 @@
               "height": 720
             }
           },
-          "viewCount": 923
+          "viewCount": 924
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -984,7 +984,7 @@
               "height": 720
             }
           },
-          "viewCount": 745,
+          "viewCount": 776,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-12T11:00:00Z",
@@ -1025,7 +1025,7 @@
               "height": 720
             }
           },
-          "viewCount": 2706,
+          "viewCount": 2710,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -1107,7 +1107,7 @@
               "height": 720
             }
           },
-          "viewCount": 1934
+          "viewCount": 1936
         },
         {
           "videoId": "2UKzno_M7s8",
