@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-12T09:31:06.668Z",
+  "requestedAt": "2026-05-12T11:48:22.032Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 8362,
+          "viewCount": 8949,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-05-07T02:00:00Z",
             "actualStartTime": "2026-05-07T02:05:50Z",
-            "concurrentViewers": 61
+            "concurrentViewers": 51
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 7450,
+          "viewCount": 7653,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -416,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 2846
+          "viewCount": 2841
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -602,7 +602,7 @@
               "height": 720
             }
           },
-          "viewCount": 1341
+          "viewCount": 1360
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -823,7 +823,7 @@
               "height": 720
             }
           },
-          "viewCount": 920
+          "viewCount": 921
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -949,12 +949,13 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "HRb5mlmdBRQ",
           "title": "推進か反対か？杉並区の都市計画道路について解説",
           "description": "杉並区では、都市計画道路の整備が23区の中でも遅れていると言われており、長年にわたり地域の大きな課題となっています。前回の区長選挙でも重要な争点となり、今もなお、さまざまな立場から議論が続いています。\n\nそもそも都市計画道路とは何なのか。\nなぜ整備が進まないのか。\nそして、これから杉並はどのような方向を目指すべきなのか。\n\nこの動画では、132号線・133号線・227号線などの事例にも触れながら、都市計画道路問題の背景と論点をわかりやすく整理・解説します。\n\n「推進か反対か」だけではない、杉並の未来のまちづくりを考えるきっかけになれば幸いです。\n\n#杉並区\n＃都市計画道路\n＃１３２号線\n＃１３３号線\n＃２２７号線\n＃増田よしひこ",
-          "publishedAt": "2026-05-12T00:45:08Z",
+          "publishedAt": "2026-05-12T11:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -983,14 +984,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 188,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-05-12T11:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-05-12T11:00:00Z",
+            "actualStartTime": "2026-05-12T11:00:06Z",
+            "actualEndTime": "2026-05-12T11:48:25Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "RrBtqPbExR8",
           "title": "杉並区のインクルーシブ教育の現状と課題",
@@ -1024,7 +1025,7 @@
               "height": 720
             }
           },
-          "viewCount": 2550,
+          "viewCount": 2611,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -1065,7 +1066,7 @@
               "height": 720
             }
           },
-          "viewCount": 2404,
+          "viewCount": 2413,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-08T12:00:00Z",
@@ -1141,7 +1142,7 @@
               "height": 720
             }
           },
-          "viewCount": 1525,
+          "viewCount": 1526,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -1217,7 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 2059
+          "viewCount": 2064
         },
         {
           "videoId": "ccrVnuxZiHk",
@@ -1252,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 3253
+          "viewCount": 3255
         },
         {
           "videoId": "dxE3t0-LCBM",
