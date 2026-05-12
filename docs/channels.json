@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-12T14:06:12.776Z",
+  "requestedAt": "2026-05-12T17:04:34.019Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 9880,
+          "viewCount": 10916,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-05-07T02:00:00Z",
             "actualStartTime": "2026-05-07T02:05:50Z",
-            "concurrentViewers": 59
+            "concurrentViewers": 24
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 7899,
+          "viewCount": 8151,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -416,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 2843
+          "viewCount": 2844
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -602,7 +602,7 @@
               "height": 720
             }
           },
-          "viewCount": 1391
+          "viewCount": 1405
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -788,7 +788,7 @@
               "height": 720
             }
           },
-          "viewCount": 395
+          "viewCount": 398
         },
         {
           "videoId": "w0H3axQzaoc",
@@ -984,7 +984,7 @@
               "height": 720
             }
           },
-          "viewCount": 426,
+          "viewCount": 657,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-12T11:00:00Z",
@@ -1025,7 +1025,7 @@
               "height": 720
             }
           },
-          "viewCount": 2647,
+          "viewCount": 2654,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -1066,7 +1066,7 @@
               "height": 720
             }
           },
-          "viewCount": 2419,
+          "viewCount": 2436,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-08T12:00:00Z",
@@ -1107,7 +1107,7 @@
               "height": 720
             }
           },
-          "viewCount": 1914
+          "viewCount": 1930
         },
         {
           "videoId": "2UKzno_M7s8",
@@ -1142,7 +1142,7 @@
               "height": 720
             }
           },
-          "viewCount": 1529,
+          "viewCount": 1533,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-07T12:00:00Z",
@@ -1183,7 +1183,7 @@
               "height": 720
             }
           },
-          "viewCount": 2172
+          "viewCount": 2174
         },
         {
           "videoId": "XUQTBTqpV4c",
@@ -1218,42 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 2067
-        },
-        {
-          "videoId": "ccrVnuxZiHk",
-          "title": "杉並区の年間予算、どこに使われているか知っていますか？　#杉並区 #増田よしひこ #東京の再生",
-          "description": "",
-          "publishedAt": "2026-05-05T15:10:55Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ccrVnuxZiHk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3262
+          "viewCount": 2076
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
