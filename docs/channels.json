@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-14T11:46:14.936Z",
+  "requestedAt": "2026-05-14T13:54:39.485Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9479,
+          "viewCount": 9551,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 1108,
+          "viewCount": 1438,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T10:35:45Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 6364
+          "viewCount": 6599
         },
         {
           "videoId": "bvQo_ai_IcA",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 2956,
+          "viewCount": 2989,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T09:29:21Z",
@@ -492,7 +492,7 @@
               "height": 720
             }
           },
-          "viewCount": 2023
+          "viewCount": 2108
         },
         {
           "videoId": "ScqeNJ8EmJk",
@@ -527,7 +527,7 @@
               "height": 720
             }
           },
-          "viewCount": 2867
+          "viewCount": 2868
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -713,7 +713,7 @@
               "height": 720
             }
           },
-          "viewCount": 125
+          "viewCount": 261
         },
         {
           "videoId": "steLayzPWVE",
@@ -748,7 +748,7 @@
               "height": 720
             }
           },
-          "viewCount": 1471
+          "viewCount": 1469
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -934,7 +934,7 @@
               "height": 720
             }
           },
-          "viewCount": 360
+          "viewCount": 379
         },
         {
           "videoId": "0sSmhX7pagc",
@@ -969,7 +969,7 @@
               "height": 720
             }
           },
-          "viewCount": 431
+          "viewCount": 432
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1095,48 +1095,49 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "E2GUSrp-BUQ",
           "title": "ヨシヒコ・ライブ＃２９",
           "description": "今週のヨシヒコの活動報告\n・杉並区のいじめ問題にせまった古新監督との対談\n・公会計、AIについてお話を伺った和田代表代理との対談\n・杉並のインクルーシブ教育について、元再生の道メンバーの吉田綾さんと対談\n・ラジオ体操のお茶会\n・ライオンズクラブの交流会\n・杉並区の助産師さんとのお話会\n・そして、野田市の土屋ともひろさんの応援\nなどなど　・・・\n\n盛りだくさんでした。\nそんな振り返りと、\n\n明日からの活動予定もお話させてください。\n\n今宵のワインは、なににしようか未定ですが、なにかとっておきの一本をご紹介できたらと思っています。",
-          "publishedAt": "2026-05-14T03:19:49Z",
+          "publishedAt": "2026-05-14T13:18:00Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/E2GUSrp-BUQ/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 508,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-05-14T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-05-14T12:00:00Z",
+            "actualStartTime": "2026-05-14T12:00:57Z",
+            "actualEndTime": "2026-05-14T13:01:11Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "Ou6sipJCZZo",
           "title": "杉並の教育#2 〜みどりで教育環境を整える",
@@ -1170,7 +1171,7 @@
               "height": 720
             }
           },
-          "viewCount": 865,
+          "viewCount": 1035,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T03:00:00Z",
@@ -1211,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 624,
+          "viewCount": 641,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T12:00:00Z",
@@ -1252,7 +1253,7 @@
               "height": 720
             }
           },
-          "viewCount": 1212,
+          "viewCount": 1223,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-12T11:00:00Z",
@@ -1293,7 +1294,7 @@
               "height": 720
             }
           },
-          "viewCount": 2896,
+          "viewCount": 2908,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -1334,7 +1335,7 @@
               "height": 720
             }
           },
-          "viewCount": 2492,
+          "viewCount": 2498,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-08T12:00:00Z",
@@ -1375,7 +1376,7 @@
               "height": 720
             }
           },
-          "viewCount": 1941
+          "viewCount": 1944
         },
         {
           "videoId": "2UKzno_M7s8",
@@ -1417,41 +1418,6 @@
             "actualStartTime": "2026-05-07T12:02:13Z",
             "actualEndTime": "2026-05-07T12:56:43Z"
           }
-        },
-        {
-          "videoId": "fu-Pu6b0_yo",
-          "title": "木は天然のダム🌳 #杉並区 #増田よしひこ",
-          "description": "",
-          "publishedAt": "2026-05-07T12:17:13Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fu-Pu6b0_yo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2202
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
