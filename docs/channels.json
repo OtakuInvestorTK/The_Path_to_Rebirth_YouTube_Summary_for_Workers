@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-15T09:41:18.677Z",
+  "requestedAt": "2026-05-15T11:49:52.270Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9808,
+          "viewCount": 9859,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 1981,
+          "viewCount": 2013,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T10:35:45Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 7289
+          "viewCount": 7341
         },
         {
           "videoId": "bvQo_ai_IcA",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 3069,
+          "viewCount": 3077,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T09:29:21Z",
@@ -492,7 +492,7 @@
               "height": 720
             }
           },
-          "viewCount": 2346
+          "viewCount": 2352
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -678,7 +678,7 @@
               "height": 720
             }
           },
-          "viewCount": 884
+          "viewCount": 893
         },
         {
           "videoId": "steLayzPWVE",
@@ -713,7 +713,7 @@
               "height": 720
             }
           },
-          "viewCount": 1537
+          "viewCount": 1542
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -899,7 +899,7 @@
               "height": 720
             }
           },
-          "viewCount": 439
+          "viewCount": 451
         },
         {
           "videoId": "0sSmhX7pagc",
@@ -934,7 +934,7 @@
               "height": 720
             }
           },
-          "viewCount": 439
+          "viewCount": 441
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1095,7 +1095,7 @@
               "height": 720
             }
           },
-          "viewCount": 1160,
+          "viewCount": 1211,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T12:00:00Z",
@@ -1136,7 +1136,7 @@
               "height": 720
             }
           },
-          "viewCount": 1444,
+          "viewCount": 1483,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T03:00:00Z",
@@ -1177,7 +1177,7 @@
               "height": 720
             }
           },
-          "viewCount": 735,
+          "viewCount": 751,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T12:00:00Z",
@@ -1218,7 +1218,7 @@
               "height": 720
             }
           },
-          "viewCount": 1272,
+          "viewCount": 1279,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-12T11:00:00Z",
@@ -1259,7 +1259,7 @@
               "height": 720
             }
           },
-          "viewCount": 2951,
+          "viewCount": 2954,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
@@ -1300,48 +1300,13 @@
               "height": 720
             }
           },
-          "viewCount": 2532,
+          "viewCount": 2534,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-08T12:00:00Z",
             "actualStartTime": "2026-05-08T12:00:06Z",
             "actualEndTime": "2026-05-08T13:03:26Z"
           }
-        },
-        {
-          "videoId": "Sa7XAUlA-OM",
-          "title": "今や紙のみの行政手続きは遅れています！ #杉並区 #増田よしひこ",
-          "description": "",
-          "publishedAt": "2026-05-08T09:48:18Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Sa7XAUlA-OM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Sa7XAUlA-OM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Sa7XAUlA-OM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Sa7XAUlA-OM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Sa7XAUlA-OM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1971
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
