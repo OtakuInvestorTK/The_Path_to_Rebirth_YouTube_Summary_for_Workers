@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-16T02:27:00.601Z",
+  "requestedAt": "2026-05-16T05:48:53.292Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10034,
+          "viewCount": 10052,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "pTR20ZnrgdU",
+          "title": "なんで狛江市政に挑戦するの？＜奥村こうき＞",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-05-16T03:39:46Z",
+          "channelTitle": "奥村こうき | 再生の道 代表",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pTR20ZnrgdU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pTR20ZnrgdU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pTR20ZnrgdU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pTR20ZnrgdU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pTR20ZnrgdU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 890
+        },
+        {
           "videoId": "Zhw_IvjXsd4",
           "title": "奥村こうき | 再生の道 代表 がライブ配信中！",
           "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n\n選挙ドットコムページ\n🔽奥村こうき\nhttps://go2senkyo.com/seijika/195810\n🔽再生の道\nhttps://go2senkyo.com/politicalparty/detail/19",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 2098,
+          "viewCount": 2106,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T10:35:45Z",
@@ -165,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 7601
+          "viewCount": 7658
         },
         {
           "videoId": "bvQo_ai_IcA",
@@ -200,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 3096,
+          "viewCount": 3100,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T09:29:21Z",
@@ -492,7 +527,7 @@
               "height": 720
             }
           },
-          "viewCount": 2427
+          "viewCount": 2456
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -678,7 +713,7 @@
               "height": 720
             }
           },
-          "viewCount": 1034
+          "viewCount": 1059
         },
         {
           "videoId": "steLayzPWVE",
@@ -713,7 +748,7 @@
               "height": 720
             }
           },
-          "viewCount": 1548
+          "viewCount": 1550
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -899,7 +934,7 @@
               "height": 720
             }
           },
-          "viewCount": 478
+          "viewCount": 490
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1101,7 +1136,7 @@
               "height": 720
             }
           },
-          "viewCount": 1577,
+          "viewCount": 1580,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T03:00:00Z",
@@ -1142,7 +1177,7 @@
               "height": 720
             }
           },
-          "viewCount": 800,
+          "viewCount": 807,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T12:00:00Z",
@@ -1224,7 +1259,7 @@
               "height": 720
             }
           },
-          "viewCount": 2997,
+          "viewCount": 3004,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-10T12:00:00Z",
