@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-16T18:55:51.491Z",
+  "requestedAt": "2026-05-16T19:59:51.018Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 10269,
+          "viewCount": 10261,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 4071
+          "viewCount": 4096
         },
         {
           "videoId": "Zhw_IvjXsd4",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 2143,
+          "viewCount": 2144,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T10:35:45Z",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 7880
+          "viewCount": 7981
         },
         {
           "videoId": "bvQo_ai_IcA",
@@ -235,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 3120,
+          "viewCount": 3121,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T09:29:21Z",
@@ -713,7 +713,7 @@
               "height": 720
             }
           },
-          "viewCount": 1115
+          "viewCount": 1116
         }
       ],
       "name": "天野こころ,あまのこころ"
