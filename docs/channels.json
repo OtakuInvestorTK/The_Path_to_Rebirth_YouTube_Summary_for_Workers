@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-18T02:44:24.279Z",
+  "requestedAt": "2026-05-18T06:51:07.413Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "LwK2QU4oIIU",
+          "title": "再生の道 定例オンラインミーティング（ライブ配信）",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-05-18T05:04:12Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LwK2QU4oIIU/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LwK2QU4oIIU/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LwK2QU4oIIU/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LwK2QU4oIIU/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LwK2QU4oIIU/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-05-18T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "hvig8qACJLo",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 10612,
+          "viewCount": 10617,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-11T13:00:00Z",
@@ -119,7 +159,7 @@
               "height": 480
             }
           },
-          "viewCount": 9
+          "viewCount": 204
         },
         {
           "videoId": "50dWy76pF3s",
@@ -154,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 584
+          "viewCount": 1279
         },
         {
           "videoId": "pTR20ZnrgdU",
@@ -189,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 5407
+          "viewCount": 5536
         },
         {
           "videoId": "Zhw_IvjXsd4",
@@ -224,7 +264,7 @@
               "height": 720
             }
           },
-          "viewCount": 2206,
+          "viewCount": 2212,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T10:35:45Z",
@@ -265,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 8427
+          "viewCount": 8479
         },
         {
           "videoId": "bvQo_ai_IcA",
@@ -300,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 3142,
+          "viewCount": 3146,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T09:29:21Z",
@@ -560,6 +600,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "tiO7veFysbo",
+          "title": "5月16日(土)府中市白糸台小学校通学路歩道植栽剪定 #府中市 #インフラ管理",
+          "description": "かなり暑くなってきましたが、引き続き白糸台小学校通学路の歩道植栽剪定を継続しています。\n低木を適正な幅員と高さに剪定し、歩行者の通行空間と見通しの確保に努めています。",
+          "publishedAt": "2026-05-18T04:27:37Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tiO7veFysbo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tiO7veFysbo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tiO7veFysbo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tiO7veFysbo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tiO7veFysbo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 940
+        },
+        {
           "videoId": "oHzn8d-QMnM",
           "title": "府中市白糸台小学校通学路歩道植栽剪定 #インフラ管理 #ボランティア",
           "description": "5月13日(水)午前中に白糸台小学校通学路歩道の植栽を剪定しました。\nタイムラプスでわかりにくいのですが、植栽の枝が絡まりすぎていて中に落ち葉が溜まっています。\nこの状態になると落ち葉清掃が出来なくなり、近くの集水マスが詰まる原因となります。",
@@ -592,7 +667,7 @@
               "height": 720
             }
           },
-          "viewCount": 2447
+          "viewCount": 2450
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -778,7 +853,7 @@
               "height": 720
             }
           },
-          "viewCount": 1171
+          "viewCount": 1172
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -964,7 +1039,7 @@
               "height": 720
             }
           },
-          "viewCount": 523
+          "viewCount": 524
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1125,7 +1200,7 @@
               "height": 720
             }
           },
-          "viewCount": 1371,
+          "viewCount": 1374,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T12:00:00Z",
@@ -1166,7 +1241,7 @@
               "height": 720
             }
           },
-          "viewCount": 1682,
+          "viewCount": 1687,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T03:00:00Z",
@@ -1207,7 +1282,7 @@
               "height": 720
             }
           },
-          "viewCount": 868,
+          "viewCount": 872,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T12:00:00Z",
