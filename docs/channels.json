@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-19T22:58:08.801Z",
+  "requestedAt": "2026-05-20T00:08:38.853Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7210,
+          "viewCount": 7262,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-18T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 5914
+          "viewCount": 5956
         },
         {
           "videoId": "O_djcfgCQII",
@@ -154,7 +154,7 @@
               "height": 480
             }
           },
-          "viewCount": 837
+          "viewCount": 840
         },
         {
           "videoId": "50dWy76pF3s",
@@ -189,7 +189,7 @@
               "height": 720
             }
           },
-          "viewCount": 3657
+          "viewCount": 3698
         },
         {
           "videoId": "pTR20ZnrgdU",
@@ -224,7 +224,7 @@
               "height": 720
             }
           },
-          "viewCount": 6022
+          "viewCount": 6027
         },
         {
           "videoId": "Zhw_IvjXsd4",
@@ -300,7 +300,7 @@
               "height": 720
             }
           },
-          "viewCount": 8886
+          "viewCount": 8887
         },
         {
           "videoId": "bvQo_ai_IcA",
@@ -335,7 +335,7 @@
               "height": 720
             }
           },
-          "viewCount": 3171,
+          "viewCount": 3172,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-01T09:29:21Z",
@@ -627,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 6156
+          "viewCount": 6262
         },
         {
           "videoId": "oHzn8d-QMnM",
@@ -1034,7 +1034,7 @@
               "height": 720
             }
           },
-          "viewCount": 541
+          "viewCount": 543
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1195,7 +1195,7 @@
               "height": 720
             }
           },
-          "viewCount": 1392,
+          "viewCount": 1394,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T12:00:00Z",
