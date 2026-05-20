@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-20T08:27:33.717Z",
+  "requestedAt": "2026-05-20T11:44:31.784Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7542,
+          "viewCount": 7657,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-18T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "H6viZPLk6GE",
+          "title": "#狛江 #多摩川住宅",
+          "description": "",
+          "publishedAt": "2026-05-20T10:49:57Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H6viZPLk6GE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H6viZPLk6GE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H6viZPLk6GE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H6viZPLk6GE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H6viZPLk6GE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1064
+        },
+        {
           "videoId": "UCzuQp3nF9Q",
           "title": "#狛江 #伊豆美神社",
           "description": "",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 2413
+          "viewCount": 3350
         },
         {
           "videoId": "nuNFNLJIlLM",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 6391
+          "viewCount": 6573
         },
         {
           "videoId": "O_djcfgCQII",
@@ -189,7 +224,7 @@
               "height": 480
             }
           },
-          "viewCount": 918
+          "viewCount": 951
         },
         {
           "videoId": "50dWy76pF3s",
@@ -224,7 +259,7 @@
               "height": 720
             }
           },
-          "viewCount": 3904
+          "viewCount": 3991
         },
         {
           "videoId": "pTR20ZnrgdU",
@@ -259,7 +294,7 @@
               "height": 720
             }
           },
-          "viewCount": 6067
+          "viewCount": 6083
         },
         {
           "videoId": "Zhw_IvjXsd4",
@@ -294,48 +329,13 @@
               "height": 720
             }
           },
-          "viewCount": 2255,
+          "viewCount": 2259,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T10:35:45Z",
             "actualStartTime": "2026-05-14T07:17:46Z",
             "actualEndTime": "2026-05-14T07:37:18Z"
           }
-        },
-        {
-          "videoId": "CIW1zWJOsFM",
-          "title": "狛江・奥村こうき 喜多見駅前でご挨拶！",
-          "description": "",
-          "publishedAt": "2026-05-13T10:52:18Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/CIW1zWJOsFM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/CIW1zWJOsFM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/CIW1zWJOsFM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/CIW1zWJOsFM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/CIW1zWJOsFM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 8977
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -621,7 +621,7 @@
               "height": 720
             }
           },
-          "viewCount": 7163
+          "viewCount": 7684
         },
         {
           "videoId": "oHzn8d-QMnM",
@@ -656,7 +656,7 @@
               "height": 720
             }
           },
-          "viewCount": 2509
+          "viewCount": 2517
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -842,7 +842,7 @@
               "height": 720
             }
           },
-          "viewCount": 1213
+          "viewCount": 1216
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -996,39 +996,39 @@
       "liveVideos": [],
       "recentVideos": [
         {
-          "videoId": "2YJtFfGQ0I4",
-          "title": "ドイツで英語は通じるのか？住んでわかった現実",
-          "description": "今回は、「ドイツで英語は通じるのか？」というテーマでお話しします。\n\n結論から言うと、ドイツでは英語は通じます。\nただし、万能ではありません。\n\nベルリン、フランクフルト、ミュンヘンなどの大都市では、英語で何とかなる場面も多いです。\nホテル、レストラン、スーパーなどでは英語が通じることもあります。\n\nでも、個人商店やローカルなお店では急にドイツ語オンリーモードになることがあります。\nそして役所は、かなりの確率でドイツ語が必要になります。\n\n英語は共通言語。\nでもドイツ語は生活言語。\n\nドイツは「英語ができる人が多い国」ではありますが、「英語で生きる国」ではありません。\n\nドイツ旅行、留学、移住、駐在を考えている方に向けて、実体験ベースでゆるくお話しします。\n\n#ドイツ生活 #ドイツ語 #英語 #海外生活 #ずぼらジオ",
-          "publishedAt": "2026-05-13T09:00:03Z",
+          "videoId": "8UnA4QzPXOQ",
+          "title": "真面目なドイツ人、冗談ばかり？！",
+          "description": "今回は、ドイツ人のジョークについてお話しします。\n\nドイツ人といえば、真面目、時間厳守、ルール好き。\nあまり冗談を言わなそうなイメージがあるかもしれません。\n\nでも実際にドイツで生活してみると、ドイツ人がジョークを言わないわけではなく、笑いの方向性が日本とかなり違うことに気づきました。\n\nドイツ人のジョークは、皮肉が効いていて、少しブラックで、ロジックでひっくり返すタイプの笑いが多いです。\n\n今回は、私が実際に体験したドイツ人のジョークを紹介しながら、日本とドイツの笑いの違いについてゆるくお話しします。\n\nジョークが分かると、その国の文化や思考パターンが少し見えてきます。\n\n#ドイツ生活 #ドイツ文化 #ジョーク #海外生活 #ずぼらジオ",
+          "publishedAt": "2026-05-20T09:00:07Z",
           "channelTitle": "南貴大のずぼらジオ",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/2YJtFfGQ0I4/default.jpg",
+              "url": "https://i.ytimg.com/vi/8UnA4QzPXOQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/2YJtFfGQ0I4/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/8UnA4QzPXOQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/2YJtFfGQ0I4/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/8UnA4QzPXOQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/2YJtFfGQ0I4/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/8UnA4QzPXOQ/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/2YJtFfGQ0I4/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/8UnA4QzPXOQ/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 544
+          "viewCount": 116
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1230,7 +1230,7 @@
               "height": 720
             }
           },
-          "viewCount": 1735,
+          "viewCount": 1736,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T03:00:00Z",
