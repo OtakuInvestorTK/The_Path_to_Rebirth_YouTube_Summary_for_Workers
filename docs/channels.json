@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-20T22:20:45.227Z",
+  "requestedAt": "2026-05-21T00:01:59.378Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 818
+          "viewCount": 1125
         },
         {
           "videoId": "aNHO9VlmRjk",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 1552,
+          "viewCount": 1640,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-20T13:00:00Z",
@@ -168,6 +168,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "L2mB4kMidxM",
+          "title": "#狛江",
+          "description": "",
+          "publishedAt": "2026-05-20T22:54:26Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L2mB4kMidxM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L2mB4kMidxM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L2mB4kMidxM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/L2mB4kMidxM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/L2mB4kMidxM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1037
+        },
+        {
           "videoId": "H6viZPLk6GE",
           "title": "#狛江 #多摩川住宅",
           "description": "",
@@ -200,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 3283
+          "viewCount": 3480
         },
         {
           "videoId": "UCzuQp3nF9Q",
@@ -235,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 4802
+          "viewCount": 4913
         },
         {
           "videoId": "nuNFNLJIlLM",
@@ -270,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 6789
+          "viewCount": 6790
         },
         {
           "videoId": "O_djcfgCQII",
@@ -300,7 +335,7 @@
               "height": 480
             }
           },
-          "viewCount": 986
+          "viewCount": 994
         },
         {
           "videoId": "50dWy76pF3s",
@@ -335,7 +370,7 @@
               "height": 720
             }
           },
-          "viewCount": 4214
+          "viewCount": 4271
         },
         {
           "videoId": "pTR20ZnrgdU",
@@ -370,7 +405,7 @@
               "height": 720
             }
           },
-          "viewCount": 6139
+          "viewCount": 6143
         },
         {
           "videoId": "Zhw_IvjXsd4",
@@ -405,7 +440,7 @@
               "height": 720
             }
           },
-          "viewCount": 2263,
+          "viewCount": 2266,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T10:35:45Z",
@@ -697,7 +732,7 @@
               "height": 720
             }
           },
-          "viewCount": 8907
+          "viewCount": 8964
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1009,7 +1044,47 @@
         }
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "4pyXPP9gzrs",
+          "title": "なおりん通信シーズン２　＃５",
+          "description": "時事政治ネタとインドネシア情報を交えながら、ジャカルタから配信する「なおりん通信シーズン２」",
+          "publishedAt": "2026-05-20T23:18:37Z",
+          "channelTitle": "浅井なおゆき",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4pyXPP9gzrs/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4pyXPP9gzrs/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4pyXPP9gzrs/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4pyXPP9gzrs/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4pyXPP9gzrs/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-05-23T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
@@ -1069,7 +1144,7 @@
               "height": 720
             }
           },
-          "viewCount": 265
+          "viewCount": 275
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1230,7 +1305,7 @@
               "height": 720
             }
           },
-          "viewCount": 1407,
+          "viewCount": 1404,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T12:00:00Z",
