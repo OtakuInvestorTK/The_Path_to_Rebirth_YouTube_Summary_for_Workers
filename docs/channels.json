@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-21T00:01:59.378Z",
+  "requestedAt": "2026-05-21T05:04:36.278Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "HvOXfb_C7so",
+          "title": "【再生の道】沖縄県(中城村) よなみね秀 推薦 面談",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-05-21T01:07:27Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HvOXfb_C7so/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HvOXfb_C7so/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HvOXfb_C7so/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HvOXfb_C7so/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HvOXfb_C7so/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1952
+        },
         {
           "videoId": "oVOQ4-IOEJE",
           "title": "【増田よしひこ】杉並みっちーと初対面！？",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 1125
+          "viewCount": 1624
         },
         {
           "videoId": "aNHO9VlmRjk",
@@ -92,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 1640,
+          "viewCount": 1817,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-20T13:00:00Z",
@@ -133,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 7910,
+          "viewCount": 7959,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-18T13:00:00Z",
@@ -168,6 +203,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "WjZfuyYPB2M",
+          "title": "#狛江 #komaecafe",
+          "description": "",
+          "publishedAt": "2026-05-21T04:42:16Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WjZfuyYPB2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WjZfuyYPB2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WjZfuyYPB2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WjZfuyYPB2M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WjZfuyYPB2M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 123
+        },
+        {
           "videoId": "L2mB4kMidxM",
           "title": "#狛江",
           "description": "",
@@ -200,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 1037
+          "viewCount": 2595
         },
         {
           "videoId": "H6viZPLk6GE",
@@ -235,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 3480
+          "viewCount": 3845
         },
         {
           "videoId": "UCzuQp3nF9Q",
@@ -270,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 4913
+          "viewCount": 5208
         },
         {
           "videoId": "nuNFNLJIlLM",
@@ -305,7 +375,7 @@
               "height": 720
             }
           },
-          "viewCount": 6790
+          "viewCount": 6884
         },
         {
           "videoId": "O_djcfgCQII",
@@ -335,7 +405,7 @@
               "height": 480
             }
           },
-          "viewCount": 994
+          "viewCount": 1013
         },
         {
           "videoId": "50dWy76pF3s",
@@ -370,7 +440,7 @@
               "height": 720
             }
           },
-          "viewCount": 4271
+          "viewCount": 4347
         },
         {
           "videoId": "pTR20ZnrgdU",
@@ -405,7 +475,7 @@
               "height": 720
             }
           },
-          "viewCount": 6143
+          "viewCount": 6158
         },
         {
           "videoId": "Zhw_IvjXsd4",
@@ -440,7 +510,7 @@
               "height": 720
             }
           },
-          "viewCount": 2266,
+          "viewCount": 2271,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-13T10:35:45Z",
@@ -732,7 +802,7 @@
               "height": 720
             }
           },
-          "viewCount": 8964
+          "viewCount": 9206
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1144,7 +1214,7 @@
               "height": 720
             }
           },
-          "viewCount": 275
+          "viewCount": 305
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1270,7 +1340,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "0fGJBRZK0II",
+          "title": "ヨシヒコ・ライブ＃３０",
+          "description": "今週のヨシヒコ\n浜田山駅南口問題\nみどりで稼ぐ杉並へ〜やまざきさんのレポート紹介\n寄付メッセージ\n\n今日のワインは、、、、練馬のワインをご紹介します",
+          "publishedAt": "2026-05-21T03:38:31Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0fGJBRZK0II/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0fGJBRZK0II/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0fGJBRZK0II/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0fGJBRZK0II/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0fGJBRZK0II/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-05-21T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "E2GUSrp-BUQ",
@@ -1305,53 +1415,12 @@
               "height": 720
             }
           },
-          "viewCount": 1404,
+          "viewCount": 1415,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T12:00:00Z",
             "actualStartTime": "2026-05-14T12:00:57Z",
             "actualEndTime": "2026-05-14T13:01:11Z"
-          }
-        },
-        {
-          "videoId": "Ou6sipJCZZo",
-          "title": "杉並の教育#2 〜みどりで教育環境を整える",
-          "description": "これからAIの時代に入って行く中で、教育のあり方そのものが変わっていきます。学校のあり方も変わっていかなければならない。\n\nわたしの提言している「グリーンビレッジ構想」の大きな柱である【教育】は、自律的に生きるチカラを作る環境を整えていくことです。\n\n京都大学大学院生で、再生の道代表の、奥村光貴さんを再びゲストにお迎えしてお話しました。\n\n🌱\n「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。 誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録） \n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！ビラ配り、ポスター貼りなど、短時間から大歓迎です！ \n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える（5/14現在：目標まであと240万円） \nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」から「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット 杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉 オープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX...\n\nあなたの壁を貸してください！ 「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。 👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！ 握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O",
-          "publishedAt": "2026-05-14T03:00:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Ou6sipJCZZo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Ou6sipJCZZo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Ou6sipJCZZo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Ou6sipJCZZo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Ou6sipJCZZo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1742,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-05-14T03:00:00Z",
-            "actualStartTime": "2026-05-14T03:00:06Z",
-            "actualEndTime": "2026-05-14T03:34:47Z"
           }
         }
       ],
