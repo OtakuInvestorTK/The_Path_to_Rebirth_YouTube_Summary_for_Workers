@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-22T03:29:09.109Z",
+  "requestedAt": "2026-05-22T07:37:55.359Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5113
+          "viewCount": 5344
         },
         {
           "videoId": "oVOQ4-IOEJE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2216
+          "viewCount": 2289
         },
         {
           "videoId": "aNHO9VlmRjk",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2022,
+          "viewCount": 2032,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-20T13:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 8153,
+          "viewCount": 8173,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-18T13:00:00Z",
@@ -235,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 711
+          "viewCount": 2580
         },
         {
           "videoId": "WjZfuyYPB2M",
@@ -270,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 3011
+          "viewCount": 3138
         },
         {
           "videoId": "L2mB4kMidxM",
@@ -305,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 5021
+          "viewCount": 5069
         },
         {
           "videoId": "H6viZPLk6GE",
@@ -340,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 4795
+          "viewCount": 4836
         },
         {
           "videoId": "UCzuQp3nF9Q",
@@ -375,7 +375,7 @@
               "height": 720
             }
           },
-          "viewCount": 6150
+          "viewCount": 6328
         },
         {
           "videoId": "nuNFNLJIlLM",
@@ -410,7 +410,7 @@
               "height": 720
             }
           },
-          "viewCount": 7052
+          "viewCount": 7082
         },
         {
           "videoId": "O_djcfgCQII",
@@ -440,7 +440,7 @@
               "height": 480
             }
           },
-          "viewCount": 1104
+          "viewCount": 1126
         },
         {
           "videoId": "50dWy76pF3s",
@@ -475,7 +475,7 @@
               "height": 720
             }
           },
-          "viewCount": 4551
+          "viewCount": 4580
         },
         {
           "videoId": "pTR20ZnrgdU",
@@ -510,7 +510,7 @@
               "height": 720
             }
           },
-          "viewCount": 6371
+          "viewCount": 6385
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -764,6 +764,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "0XytoHnEeKE",
+          "title": "5月22日(金)府中市白糸台小学校通学路歩道植栽剪定 #府中市 #インフラ管理 #ボランティア",
+          "description": "5月22日(金)に府中市白糸台小学校通学路の歩道植栽剪定を実施しました\n雨混じりの天気でしたが雲の流れをタイムラプス撮影出来たので、個人的には良い映像だと思ってます😁",
+          "publishedAt": "2026-05-22T05:39:21Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0XytoHnEeKE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0XytoHnEeKE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0XytoHnEeKE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0XytoHnEeKE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0XytoHnEeKE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1350
+        },
+        {
           "videoId": "tiO7veFysbo",
           "title": "5月16日(土)府中市白糸台小学校通学路歩道植栽剪定 #府中市 #インフラ管理",
           "description": "かなり暑くなってきましたが、引き続き白糸台小学校通学路の歩道植栽剪定を継続しています。\n低木を適正な幅員と高さに剪定し、歩行者の通行空間と見通しの確保に努めています。",
@@ -796,7 +831,7 @@
               "height": 720
             }
           },
-          "viewCount": 9665
+          "viewCount": 9719
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1172,7 +1207,7 @@
               "height": 720
             }
           },
-          "viewCount": 348
+          "viewCount": 352
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1333,7 +1368,7 @@
               "height": 720
             }
           },
-          "viewCount": 1475,
+          "viewCount": 1578,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-21T12:00:00Z",
