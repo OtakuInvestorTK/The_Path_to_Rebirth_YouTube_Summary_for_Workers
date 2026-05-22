@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-21T23:56:31.672Z",
+  "requestedAt": "2026-05-22T03:29:09.109Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4943
+          "viewCount": 5113
         },
         {
           "videoId": "oVOQ4-IOEJE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2160
+          "viewCount": 2216
         },
         {
           "videoId": "aNHO9VlmRjk",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2009,
+          "viewCount": 2022,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-20T13:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 8124,
+          "viewCount": 8153,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-18T13:00:00Z",
@@ -203,6 +203,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "lO0GZGhO2yc",
+          "title": "#狛江 #肉のまるやす",
+          "description": "",
+          "publishedAt": "2026-05-22T02:58:08Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lO0GZGhO2yc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lO0GZGhO2yc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lO0GZGhO2yc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lO0GZGhO2yc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lO0GZGhO2yc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 711
+        },
+        {
           "videoId": "WjZfuyYPB2M",
           "title": "#狛江 #komaecafe",
           "description": "",
@@ -235,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 2819
+          "viewCount": 3011
         },
         {
           "videoId": "L2mB4kMidxM",
@@ -270,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 4891
+          "viewCount": 5021
         },
         {
           "videoId": "H6viZPLk6GE",
@@ -305,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 4713
+          "viewCount": 4795
         },
         {
           "videoId": "UCzuQp3nF9Q",
@@ -340,7 +375,7 @@
               "height": 720
             }
           },
-          "viewCount": 6010
+          "viewCount": 6150
         },
         {
           "videoId": "nuNFNLJIlLM",
@@ -375,7 +410,7 @@
               "height": 720
             }
           },
-          "viewCount": 7032
+          "viewCount": 7052
         },
         {
           "videoId": "O_djcfgCQII",
@@ -405,7 +440,7 @@
               "height": 480
             }
           },
-          "viewCount": 1102
+          "viewCount": 1104
         },
         {
           "videoId": "50dWy76pF3s",
@@ -440,7 +475,7 @@
               "height": 720
             }
           },
-          "viewCount": 4534
+          "viewCount": 4551
         },
         {
           "videoId": "pTR20ZnrgdU",
@@ -475,7 +510,7 @@
               "height": 720
             }
           },
-          "viewCount": 6357
+          "viewCount": 6371
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -761,7 +796,7 @@
               "height": 720
             }
           },
-          "viewCount": 9623
+          "viewCount": 9665
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1137,7 +1172,7 @@
               "height": 720
             }
           },
-          "viewCount": 344
+          "viewCount": 348
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1298,7 +1333,7 @@
               "height": 720
             }
           },
-          "viewCount": 1375,
+          "viewCount": 1475,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-21T12:00:00Z",
