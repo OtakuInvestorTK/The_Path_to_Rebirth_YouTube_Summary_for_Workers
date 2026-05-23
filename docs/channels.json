@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-23T09:45:14.251Z",
+  "requestedAt": "2026-05-23T11:05:24.607Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6296
+          "viewCount": 6335
         },
         {
           "videoId": "oVOQ4-IOEJE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2494
+          "viewCount": 2518
         },
         {
           "videoId": "aNHO9VlmRjk",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2108,
+          "viewCount": 2112,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-20T13:00:00Z",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 8273,
+          "viewCount": 8268,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-18T13:00:00Z",
@@ -203,6 +203,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "m5PLw3oxTfU",
+          "title": "前参議院議員　浜田聡さんとお話をしました#浜田聡#奥村こうき#狛江",
+          "description": "【引用元】\n\n浜田聡@前参議院議員\n\n狛江市長選候補予定者、奥村こうきさんとの話\n浜田 聡 @前参議院議員 がライブ配信中！\n\nhttps://www.youtube.com/live/rBx08J72ZOk?si=ceIpEkfmAnKdgg85",
+          "publishedAt": "2026-05-23T09:51:58Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m5PLw3oxTfU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m5PLw3oxTfU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m5PLw3oxTfU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m5PLw3oxTfU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m5PLw3oxTfU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 120
+        },
+        {
           "videoId": "mx3bL72o2ak",
           "title": "ポスティングビラが届きました #狛江 #ポスティングビラ",
           "description": "",
@@ -235,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 2555
+          "viewCount": 3052
         },
         {
           "videoId": "uyusVtL8iJ0",
@@ -270,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 1924
+          "viewCount": 2087
         },
         {
           "videoId": "pga6gWrZOPo",
@@ -305,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 4173
+          "viewCount": 4253
         },
         {
           "videoId": "lO0GZGhO2yc",
@@ -340,7 +375,7 @@
               "height": 720
             }
           },
-          "viewCount": 5074
+          "viewCount": 5105
         },
         {
           "videoId": "WjZfuyYPB2M",
@@ -375,7 +410,7 @@
               "height": 720
             }
           },
-          "viewCount": 3882
+          "viewCount": 3906
         },
         {
           "videoId": "L2mB4kMidxM",
@@ -410,7 +445,7 @@
               "height": 720
             }
           },
-          "viewCount": 5419
+          "viewCount": 5434
         },
         {
           "videoId": "H6viZPLk6GE",
@@ -445,7 +480,7 @@
               "height": 720
             }
           },
-          "viewCount": 5233
+          "viewCount": 5263
         },
         {
           "videoId": "UCzuQp3nF9Q",
@@ -480,7 +515,7 @@
               "height": 720
             }
           },
-          "viewCount": 6821
+          "viewCount": 6837
         },
         {
           "videoId": "nuNFNLJIlLM",
@@ -515,7 +550,7 @@
               "height": 720
             }
           },
-          "viewCount": 7222
+          "viewCount": 7218
         },
         {
           "videoId": "O_djcfgCQII",
@@ -580,7 +615,7 @@
               "height": 720
             }
           },
-          "viewCount": 4629
+          "viewCount": 4630
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -866,7 +901,7 @@
               "height": 720
             }
           },
-          "viewCount": 2276
+          "viewCount": 2312
         },
         {
           "videoId": "tiO7veFysbo",
@@ -901,7 +936,7 @@
               "height": 720
             }
           },
-          "viewCount": 9901
+          "viewCount": 9920
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1478,7 +1513,7 @@
               "height": 720
             }
           },
-          "viewCount": 1382,
+          "viewCount": 1410,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-22T12:00:00Z",
@@ -1519,7 +1554,7 @@
               "height": 720
             }
           },
-          "viewCount": 2023
+          "viewCount": 2055
         },
         {
           "videoId": "0fGJBRZK0II",
