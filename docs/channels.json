@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-27T04:15:35.626Z",
+  "requestedAt": "2026-05-27T08:35:05.465Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "-Ws-4HCXb3A",
+          "title": "【増田よしひこ】杉並のAIペンギンとお話！？",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n杉並みっちー活動中！\nhttps://www.youtube.com/watch?v=t_a6HHoOH9k\n\nみっちー財政カルテ（サポーターさん開発）\nhttps://ray-ray870.github.io/mitchie-fiscal/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-05-27T05:06:19Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-Ws-4HCXb3A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-Ws-4HCXb3A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-Ws-4HCXb3A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-Ws-4HCXb3A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-Ws-4HCXb3A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 373
+        },
         {
           "videoId": "VWX6YTTbzNs",
           "title": "再生の道 定例オンラインミーティング（ライブ配信）",
@@ -57,48 +92,13 @@
               "height": 720
             }
           },
-          "viewCount": 11059,
+          "viewCount": 11241,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T13:00:00Z",
             "actualStartTime": "2026-05-25T12:57:41Z",
             "actualEndTime": "2026-05-25T14:07:20Z"
           }
-        },
-        {
-          "videoId": "RkUGWinH1WE",
-          "title": "【増田よしひこ】#2 杉並みっちーとお話",
-          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n杉並みっちー活動中！\nhttps://www.youtube.com/watch?v=t_a6HHoOH9k\n\nみっちー財政カルテ（サポーターさん開発）\nhttps://ray-ray870.github.io/mitchie-fiscal/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
-          "publishedAt": "2026-05-25T02:00:24Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/RkUGWinH1WE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/RkUGWinH1WE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/RkUGWinH1WE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/RkUGWinH1WE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/RkUGWinH1WE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1985
         },
         {
           "videoId": "c3giX2FuzFo",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 30867,
+          "viewCount": 30923,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-24T14:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 7332
+          "viewCount": 7367
         },
         {
           "videoId": "oVOQ4-IOEJE",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 2917
+          "viewCount": 2924
         },
         {
           "videoId": "aNHO9VlmRjk",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 2248,
+          "viewCount": 2251,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-20T13:00:00Z",
@@ -279,6 +279,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "ECd3F6k8yEE",
+          "title": "ポスター開封の儀 #2連ポスター #狛江",
+          "description": "",
+          "publishedAt": "2026-05-27T04:36:34Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ECd3F6k8yEE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ECd3F6k8yEE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ECd3F6k8yEE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ECd3F6k8yEE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ECd3F6k8yEE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1490
+        },
+        {
           "videoId": "97OesJL9AyA",
           "title": "亀が日に当たってます#狛江#泉龍寺#弁財天池",
           "description": "",
@@ -311,7 +346,7 @@
               "height": 720
             }
           },
-          "viewCount": 2134
+          "viewCount": 2804
         },
         {
           "videoId": "CDJP3wBmwwU",
@@ -346,7 +381,7 @@
               "height": 720
             }
           },
-          "viewCount": 910
+          "viewCount": 1048
         },
         {
           "videoId": "VkG8zj6cwhA",
@@ -381,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 5670
+          "viewCount": 5848
         },
         {
           "videoId": "l8OczlkZ3d0",
@@ -416,7 +451,7 @@
               "height": 720
             }
           },
-          "viewCount": 3716
+          "viewCount": 3750
         },
         {
           "videoId": "ORDEPp9aH2U",
@@ -451,7 +486,7 @@
               "height": 720
             }
           },
-          "viewCount": 2819
+          "viewCount": 2862
         },
         {
           "videoId": "ryIib7L9zno",
@@ -486,7 +521,7 @@
               "height": 720
             }
           },
-          "viewCount": 4464
+          "viewCount": 4498
         },
         {
           "videoId": "lotFM_EwtOc",
@@ -521,7 +556,7 @@
               "height": 720
             }
           },
-          "viewCount": 7623
+          "viewCount": 7675
         },
         {
           "videoId": "1NauiJp7yfo",
@@ -556,7 +591,7 @@
               "height": 720
             }
           },
-          "viewCount": 5791,
+          "viewCount": 5824,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T12:50:01Z",
@@ -597,7 +632,7 @@
               "height": 720
             }
           },
-          "viewCount": 1879
+          "viewCount": 1890
         },
         {
           "videoId": "mx3bL72o2ak",
@@ -632,7 +667,7 @@
               "height": 720
             }
           },
-          "viewCount": 7154
+          "viewCount": 7184
         },
         {
           "videoId": "uyusVtL8iJ0",
@@ -667,7 +702,7 @@
               "height": 720
             }
           },
-          "viewCount": 4096
+          "viewCount": 4122
         },
         {
           "videoId": "pga6gWrZOPo",
@@ -702,7 +737,7 @@
               "height": 720
             }
           },
-          "viewCount": 5221
+          "viewCount": 5242
         },
         {
           "videoId": "lO0GZGhO2yc",
@@ -737,7 +772,7 @@
               "height": 720
             }
           },
-          "viewCount": 6090
+          "viewCount": 6101
         },
         {
           "videoId": "WjZfuyYPB2M",
@@ -772,7 +807,7 @@
               "height": 720
             }
           },
-          "viewCount": 4468
+          "viewCount": 4480
         },
         {
           "videoId": "H6viZPLk6GE",
@@ -807,7 +842,7 @@
               "height": 720
             }
           },
-          "viewCount": 5568
+          "viewCount": 5575
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -893,7 +928,7 @@
               "height": 720
             }
           },
-          "viewCount": 278
+          "viewCount": 1469
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1129,7 +1164,7 @@
               "height": 720
             }
           },
-          "viewCount": 6297
+          "viewCount": 6398
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1240,7 +1275,7 @@
               "height": 720
             }
           },
-          "viewCount": 1127
+          "viewCount": 1164
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1476,7 +1511,7 @@
               "height": 720
             }
           },
-          "viewCount": 2653,
+          "viewCount": 2709,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-23T12:00:00Z",
@@ -1543,7 +1578,7 @@
               "height": 720
             }
           },
-          "viewCount": 406
+          "viewCount": 407
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1704,7 +1739,7 @@
               "height": 720
             }
           },
-          "viewCount": 2740,
+          "viewCount": 2756,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-23T12:00:00Z",
@@ -1745,7 +1780,7 @@
               "height": 720
             }
           },
-          "viewCount": 2245,
+          "viewCount": 2262,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-22T12:00:00Z",
@@ -1786,7 +1821,7 @@
               "height": 720
             }
           },
-          "viewCount": 3117
+          "viewCount": 3130
         },
         {
           "videoId": "0fGJBRZK0II",
@@ -1821,7 +1856,7 @@
               "height": 720
             }
           },
-          "viewCount": 1872,
+          "viewCount": 1874,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-21T12:00:00Z",
