@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-29T09:41:41.613Z",
+  "requestedAt": "2026-05-29T12:44:11.682Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1444
+          "viewCount": 1477
         },
         {
           "videoId": "VWX6YTTbzNs",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 11867,
+          "viewCount": 11906,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 31287,
+          "viewCount": 31300,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-24T14:00:00Z",
@@ -168,6 +168,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "Z3E1C1ds9lA",
+          "title": "5/29（金）狛江駅にて#狛江#狛江駅",
+          "description": "",
+          "publishedAt": "2026-05-29T10:07:11Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z3E1C1ds9lA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z3E1C1ds9lA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z3E1C1ds9lA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Z3E1C1ds9lA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Z3E1C1ds9lA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1302
+        },
+        {
           "videoId": "oiAQlWRd718",
           "title": "柏餅 #狛江 #風月堂 #柏餅",
           "description": "",
@@ -200,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 1981
+          "viewCount": 2353
         },
         {
           "videoId": "qaa-2KYVMLs",
@@ -235,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 4158,
+          "viewCount": 4391,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T03:52:48Z",
@@ -276,7 +311,7 @@
               "height": 720
             }
           },
-          "viewCount": 3951
+          "viewCount": 4100
         },
         {
           "videoId": "DP0qx8nJ9VQ",
@@ -311,7 +346,7 @@
               "height": 720
             }
           },
-          "viewCount": 5251
+          "viewCount": 5606
         },
         {
           "videoId": "gwAUfYrnJCY",
@@ -346,7 +381,7 @@
               "height": 720
             }
           },
-          "viewCount": 2085
+          "viewCount": 2136
         },
         {
           "videoId": "ECd3F6k8yEE",
@@ -381,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 3764
+          "viewCount": 3788
         },
         {
           "videoId": "97OesJL9AyA",
@@ -416,7 +451,7 @@
               "height": 720
             }
           },
-          "viewCount": 4004
+          "viewCount": 4010
         },
         {
           "videoId": "CDJP3wBmwwU",
@@ -451,7 +486,7 @@
               "height": 720
             }
           },
-          "viewCount": 1656
+          "viewCount": 1666
         },
         {
           "videoId": "VkG8zj6cwhA",
@@ -486,7 +521,7 @@
               "height": 720
             }
           },
-          "viewCount": 6951
+          "viewCount": 6954
         },
         {
           "videoId": "l8OczlkZ3d0",
@@ -521,7 +556,7 @@
               "height": 720
             }
           },
-          "viewCount": 3971
+          "viewCount": 3997
         },
         {
           "videoId": "ORDEPp9aH2U",
@@ -556,7 +591,7 @@
               "height": 720
             }
           },
-          "viewCount": 3019
+          "viewCount": 3020
         },
         {
           "videoId": "ryIib7L9zno",
@@ -591,7 +626,7 @@
               "height": 720
             }
           },
-          "viewCount": 4759
+          "viewCount": 4771
         },
         {
           "videoId": "lotFM_EwtOc",
@@ -626,7 +661,7 @@
               "height": 720
             }
           },
-          "viewCount": 7864
+          "viewCount": 7872
         },
         {
           "videoId": "1NauiJp7yfo",
@@ -661,7 +696,7 @@
               "height": 720
             }
           },
-          "viewCount": 5955,
+          "viewCount": 5966,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-14T12:50:01Z",
@@ -702,7 +737,7 @@
               "height": 720
             }
           },
-          "viewCount": 1996
+          "viewCount": 1998
         },
         {
           "videoId": "mx3bL72o2ak",
@@ -737,7 +772,7 @@
               "height": 720
             }
           },
-          "viewCount": 7258
+          "viewCount": 7262
         },
         {
           "videoId": "uyusVtL8iJ0",
@@ -773,41 +808,6 @@
             }
           },
           "viewCount": 4212
-        },
-        {
-          "videoId": "pga6gWrZOPo",
-          "title": "#狛江 #バインミー #亜細亜食房リバーサイゴン #和泉多摩川商店街",
-          "description": "",
-          "publishedAt": "2026-05-22T12:01:18Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/pga6gWrZOPo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/pga6gWrZOPo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/pga6gWrZOPo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/pga6gWrZOPo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/pga6gWrZOPo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5400
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -893,7 +893,7 @@
               "height": 720
             }
           },
-          "viewCount": 600
+          "viewCount": 603
         },
         {
           "videoId": "fmSjt3wPGlI",
@@ -928,7 +928,7 @@
               "height": 720
             }
           },
-          "viewCount": 4135
+          "viewCount": 4147
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1164,7 +1164,7 @@
               "height": 720
             }
           },
-          "viewCount": 869
+          "viewCount": 891
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1275,7 +1275,7 @@
               "height": 720
             }
           },
-          "viewCount": 1463
+          "viewCount": 1464
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1354,6 +1354,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "BxQStPHf3XQ",
+          "title": "東京都の子育て住宅支援まとめ｜都営住宅・公社住宅・セーフティネット住宅とは？",
+          "description": "東京都には、子育て世帯の住まいを支える制度がいくつもあります。\n\n代表的なものが、都営住宅、公社住宅、セーフティネット住宅、そして東京こどもすくすく住宅です。\n\n都営住宅は、収入が一定以下の方を対象に、比較的低い家賃で入居できる住宅です。子育て世帯やひとり親世帯などに向けた優遇制度もあります。\n公社住宅は、JKK東京が提供する賃貸住宅で、礼金・仲介手数料・更新料がかからない点が特徴です。子育て世帯向けの家賃割引や優先申込制度も用意されています。\n\nまた、セーフティネット住宅は、子育て世帯や高齢者、障害のある方など、住まい探しに配慮が必要な方も入居しやすい民間賃貸住宅です。\n東京こどもすくすく住宅は、子どもの安全や子育てのしやすさに配慮した住宅を東京都が認定する制度です。\n\n住まいの支援制度は、知っているかどうかで選択肢が大きく変わります。\n東京で子育てをしている方、これから住まいを探す方は、ぜひ一度チェックしてみてください。\n\n#東京都 #子育て支援 #住宅支援 #都営住宅 #公社住宅 #JKK東京 #セーフティネット住宅 #東京こどもすくすく住宅 #子育て世帯 #ひとり親支援 #天野こころ",
+          "publishedAt": "2026-05-29T10:00:17Z",
+          "channelTitle": "天野こころ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BxQStPHf3XQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BxQStPHf3XQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BxQStPHf3XQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BxQStPHf3XQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BxQStPHf3XQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 232
+        },
+        {
           "videoId": "3u1Oq-zInXs",
           "title": "中央区の橋をどう守る？インフラ老朽化とこれからの課題",
           "description": "2026年4月21日、国土交通省が下水道管の全国調査結果を公表しました。\n\n調査対象は約5,300km。\nそのうち約748kmが補修対象となり、地中の空洞も96箇所確認されています。\n\nインフラの老朽化は、下水道管だけの問題ではありません。\n道路、橋、公共施設など、私たちの暮らしを支えるものが、今まさに更新・修繕の時期を迎えています。\n\n中央区にも、歴史ある橋が数多くあります。\n南高橋、豊海橋、柳橋など、区民有形文化財や土木遺産として評価されている橋もあり、単に「古くなったから壊す」では済まされません。\n\n大切なのは、壊すのではなく、残しながら直すこと。\n安全を守りながら、中央区らしい景観や歴史も次の世代へつないでいくことです。\n\n今回は、インフラ老朽化と中央区の橋のこれからについてお話ししました。\n\n#中央区 #天野こころ #インフラ老朽化 #橋梁修繕 #下水道管 #まちづくり #防災 #予防保全 #南高橋 #豊海橋 #柳橋\n\n天野こころのSNS\n\n中央区の「現場」から最新の暮らし情報をお届けしています！\n\n公式LINE：https://lin.ee/PTrdyVL​\n築地不動産 公式HP：https://amano-cocoro.com/​\nX / ID：@CHUO_Amano \nhttps://x.com/CHUO_Amano​",
@@ -1386,7 +1421,7 @@
               "height": 720
             }
           },
-          "viewCount": 2104
+          "viewCount": 2119
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1547,7 +1582,7 @@
               "height": 720
             }
           },
-          "viewCount": 2744,
+          "viewCount": 2745,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-23T12:00:00Z",
@@ -1614,7 +1649,7 @@
               "height": 720
             }
           },
-          "viewCount": 299
+          "viewCount": 304
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1775,7 +1810,7 @@
               "height": 720
             }
           },
-          "viewCount": 1587
+          "viewCount": 2197
         },
         {
           "videoId": "Co1mSOkGJwQ",
@@ -1810,7 +1845,7 @@
               "height": 720
             }
           },
-          "viewCount": 1778,
+          "viewCount": 1831,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T12:00:00Z",
@@ -1851,7 +1886,7 @@
               "height": 720
             }
           },
-          "viewCount": 2454,
+          "viewCount": 2542,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T11:00:00Z",
@@ -1892,7 +1927,7 @@
               "height": 720
             }
           },
-          "viewCount": 2886
+          "viewCount": 2969
         },
         {
           "videoId": "z8Q6RLHFiSA",
@@ -1927,7 +1962,7 @@
               "height": 720
             }
           },
-          "viewCount": 3494
+          "viewCount": 3558
         },
         {
           "videoId": "ekKBfYdQRo0",
@@ -1962,89 +1997,13 @@
               "height": 720
             }
           },
-          "viewCount": 2847,
+          "viewCount": 2854,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-23T12:00:00Z",
             "actualStartTime": "2026-05-23T12:00:06Z",
             "actualEndTime": "2026-05-23T12:28:00Z"
           }
-        },
-        {
-          "videoId": "4z1EniNyjhY",
-          "title": "MIXI木村弘毅社長と対談：樹冠被覆率40%を目指すメルボルンの住宅都市のあり方について（ちなみに杉並区の樹冠被覆率は10%)",
-          "description": "メルボルンと杉並の二拠点生活を送っているMIXIの木村弘毅社長にお越しいただき、住宅都市のあり方について話しました。\n\n木村さんは善福寺どんぐりピクニッククラブでもご活躍で、真夏でも子供達が公園で遊べるように、タープを遊具の上に張って、どのくらい温度が下がるかの実験を行っています。動画の中でも、タープによる日陰と樹木による木陰ではまったく温度が違う話をしてくれています。\n\nメルボルン市の成功例を参考に、杉並区でも木陰の拡大を目指したい。メルボルンは現在22%の樹冠被覆率を、目標として40%に増やす計画を立てており、樹木植えの投資効果をデータ化して市民に説明する方法や、開発業者や商店街と協力して植え付け費用を分担する戦略についても紹介しています。最後に、特に若い世代への環境意識教育の重要性について議論しました。\nそれから、日本人はもっと海外へ出ていき外を見てくる必要があるという話もありました。本当にそう思います。日本のことしか見えていないと、おかしいことがわからない。\n\n＃杉並区\n＃木村弘毅社長\n＃メルボルン\n＃樹冠被覆率\n\n🌱\n「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。 誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録） \n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！ビラ配り、ポスター貼りなど、短時間から大歓迎です！ \n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える（5/14現在：目標まであと240万円） \nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」から「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット 杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉 オープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX...\n\nあなたの壁を貸してください！ 「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。 👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！ 握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O",
-          "publishedAt": "2026-05-22T12:00:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/4z1EniNyjhY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/4z1EniNyjhY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/4z1EniNyjhY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/4z1EniNyjhY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/4z1EniNyjhY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2332,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-05-22T12:00:00Z",
-            "actualStartTime": "2026-05-22T12:00:06Z",
-            "actualEndTime": "2026-05-22T12:41:57Z"
-          }
-        },
-        {
-          "videoId": "U5kE0EyGqN4",
-          "title": "増田よしひこです！🌳　#杉並区 #増田よしひこ",
-          "description": "",
-          "publishedAt": "2026-05-22T10:08:41Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/U5kE0EyGqN4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/U5kE0EyGqN4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/U5kE0EyGqN4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/U5kE0EyGqN4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/U5kE0EyGqN4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3245
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
