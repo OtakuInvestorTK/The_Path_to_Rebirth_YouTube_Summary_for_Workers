@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-05-30T02:34:22.834Z",
+  "requestedAt": "2026-05-30T06:19:08.482Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1538
+          "viewCount": 1544
         },
         {
           "videoId": "VWX6YTTbzNs",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 11988,
+          "viewCount": 12011,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 31361,
+          "viewCount": 31366,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-24T14:00:00Z",
@@ -165,8 +165,85 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "Cnl9SEGGyL0",
+          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-05-30T03:39:54Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cnl9SEGGyL0/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cnl9SEGGyL0/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cnl9SEGGyL0/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Cnl9SEGGyL0/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Cnl9SEGGyL0/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 84,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-05-30T03:39:54Z",
+            "actualStartTime": "2026-05-30T05:58:46Z",
+            "concurrentViewers": 77
+          }
+        }
+      ],
       "recentVideos": [
+        {
+          "videoId": "zx4FIuvk5OQ",
+          "title": "わかりやすい奥村こうき#狛江 #みんなでつくる狛江のみらい",
+          "description": "",
+          "publishedAt": "2026-05-30T03:41:42Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zx4FIuvk5OQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zx4FIuvk5OQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zx4FIuvk5OQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zx4FIuvk5OQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zx4FIuvk5OQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1161
+        },
         {
           "videoId": "jgO-50otMVY",
           "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
@@ -200,7 +277,7 @@
               "height": 720
             }
           },
-          "viewCount": 1180,
+          "viewCount": 2572,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-29T13:26:36Z",
@@ -241,7 +318,7 @@
               "height": 720
             }
           },
-          "viewCount": 4903,
+          "viewCount": 4994,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T03:52:48Z",
@@ -282,7 +359,7 @@
               "height": 720
             }
           },
-          "viewCount": 3488
+          "viewCount": 3709
         },
         {
           "videoId": "oiAQlWRd718",
@@ -317,7 +394,7 @@
               "height": 720
             }
           },
-          "viewCount": 2956
+          "viewCount": 2992
         },
         {
           "videoId": "wz3Y3FRE9k0",
@@ -352,7 +429,7 @@
               "height": 720
             }
           },
-          "viewCount": 4419
+          "viewCount": 4464
         },
         {
           "videoId": "DP0qx8nJ9VQ",
@@ -387,7 +464,7 @@
               "height": 720
             }
           },
-          "viewCount": 6050
+          "viewCount": 6091
         },
         {
           "videoId": "gwAUfYrnJCY",
@@ -422,7 +499,7 @@
               "height": 720
             }
           },
-          "viewCount": 2197
+          "viewCount": 2211
         },
         {
           "videoId": "ECd3F6k8yEE",
@@ -457,7 +534,7 @@
               "height": 720
             }
           },
-          "viewCount": 3876
+          "viewCount": 3883
         },
         {
           "videoId": "97OesJL9AyA",
@@ -492,7 +569,7 @@
               "height": 720
             }
           },
-          "viewCount": 4055
+          "viewCount": 4063
         },
         {
           "videoId": "CDJP3wBmwwU",
@@ -527,7 +604,7 @@
               "height": 720
             }
           },
-          "viewCount": 1719
+          "viewCount": 1726
         },
         {
           "videoId": "VkG8zj6cwhA",
@@ -562,7 +639,7 @@
               "height": 720
             }
           },
-          "viewCount": 7020
+          "viewCount": 7045
         },
         {
           "videoId": "l8OczlkZ3d0",
@@ -597,7 +674,7 @@
               "height": 720
             }
           },
-          "viewCount": 4024
+          "viewCount": 4027
         },
         {
           "videoId": "ORDEPp9aH2U",
@@ -632,7 +709,7 @@
               "height": 720
             }
           },
-          "viewCount": 3049
+          "viewCount": 3055
         },
         {
           "videoId": "ryIib7L9zno",
@@ -667,7 +744,7 @@
               "height": 720
             }
           },
-          "viewCount": 4809
+          "viewCount": 4817
         },
         {
           "videoId": "lotFM_EwtOc",
@@ -702,7 +779,7 @@
               "height": 720
             }
           },
-          "viewCount": 7907
+          "viewCount": 7921
         },
         {
           "videoId": "1NauiJp7yfo",
@@ -778,42 +855,7 @@
               "height": 720
             }
           },
-          "viewCount": 2023
-        },
-        {
-          "videoId": "mx3bL72o2ak",
-          "title": "ポスティングビラが届きました #狛江 #ポスティングビラ",
-          "description": "",
-          "publishedAt": "2026-05-23T05:13:17Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/mx3bL72o2ak/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/mx3bL72o2ak/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/mx3bL72o2ak/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/mx3bL72o2ak/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/mx3bL72o2ak/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7312
+          "viewCount": 2024
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -899,7 +941,7 @@
               "height": 720
             }
           },
-          "viewCount": 648
+          "viewCount": 652
         },
         {
           "videoId": "fmSjt3wPGlI",
@@ -934,7 +976,7 @@
               "height": 720
             }
           },
-          "viewCount": 4217
+          "viewCount": 4225
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1170,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 945
+          "viewCount": 958
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1281,7 +1323,7 @@
               "height": 720
             }
           },
-          "viewCount": 1472
+          "viewCount": 1473
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1392,7 +1434,7 @@
               "height": 720
             }
           },
-          "viewCount": 606
+          "viewCount": 650
         },
         {
           "videoId": "3u1Oq-zInXs",
@@ -1427,7 +1469,7 @@
               "height": 720
             }
           },
-          "viewCount": 2158
+          "viewCount": 2164
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1588,7 +1630,7 @@
               "height": 720
             }
           },
-          "viewCount": 2746,
+          "viewCount": 2747,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-23T12:00:00Z",
@@ -1655,7 +1697,7 @@
               "height": 720
             }
           },
-          "viewCount": 311
+          "viewCount": 318
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1816,7 +1858,7 @@
               "height": 720
             }
           },
-          "viewCount": 3042
+          "viewCount": 3165
         },
         {
           "videoId": "Co1mSOkGJwQ",
@@ -1851,7 +1893,7 @@
               "height": 720
             }
           },
-          "viewCount": 1938,
+          "viewCount": 1976,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T12:00:00Z",
@@ -1892,7 +1934,7 @@
               "height": 720
             }
           },
-          "viewCount": 2761,
+          "viewCount": 2809,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T11:00:00Z",
@@ -1933,7 +1975,7 @@
               "height": 720
             }
           },
-          "viewCount": 3237
+          "viewCount": 3279
         },
         {
           "videoId": "z8Q6RLHFiSA",
@@ -1968,7 +2010,7 @@
               "height": 720
             }
           },
-          "viewCount": 3740
+          "viewCount": 3784
         },
         {
           "videoId": "ekKBfYdQRo0",
@@ -2003,7 +2045,7 @@
               "height": 720
             }
           },
-          "viewCount": 2869,
+          "viewCount": 2875,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-23T12:00:00Z",
