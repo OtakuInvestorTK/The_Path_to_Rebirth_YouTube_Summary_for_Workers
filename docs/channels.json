@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-01T00:01:31.238Z",
+  "requestedAt": "2026-06-01T05:55:53.517Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "WuJvTURoHTU",
+          "title": "再生の道 定例オンラインミーティング（ライブ配信）",
+          "description": "サポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道_今後の活動方針について\nhttps://www.youtube.com/watch?v=SZZGRwbDYSs\n\n【再生の道 議員第1号】葛飾区議会議員/岩見なつよの議員活動に迫る!!\nhttps://www.youtube.com/watch?v=vd5wwMa1v70\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n#再生の道",
+          "publishedAt": "2026-06-01T03:06:40Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WuJvTURoHTU/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WuJvTURoHTU/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WuJvTURoHTU/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WuJvTURoHTU/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WuJvTURoHTU/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-06-01T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "-Ws-4HCXb3A",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 1696
+          "viewCount": 1705
         },
         {
           "videoId": "VWX6YTTbzNs",
@@ -92,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 12179,
+          "viewCount": 12195,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T13:00:00Z",
@@ -127,6 +167,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "owhpFyZmjSU",
+          "title": "ペンギンアイスケーキ発見💡#狛江#狛江フリーマーケット",
+          "description": "",
+          "publishedAt": "2026-06-01T02:52:41Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/owhpFyZmjSU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/owhpFyZmjSU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/owhpFyZmjSU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/owhpFyZmjSU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/owhpFyZmjSU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1392
+        },
+        {
           "videoId": "-vSU01Q3nqk",
           "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
           "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
@@ -159,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 1949,
+          "viewCount": 2152,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-31T03:41:19Z",
@@ -200,7 +275,7 @@
               "height": 720
             }
           },
-          "viewCount": 1891
+          "viewCount": 2198
         },
         {
           "videoId": "fpCQbITYgUY",
@@ -235,7 +310,7 @@
               "height": 720
             }
           },
-          "viewCount": 4058
+          "viewCount": 4255
         },
         {
           "videoId": "Cnl9SEGGyL0",
@@ -270,7 +345,7 @@
               "height": 720
             }
           },
-          "viewCount": 2483,
+          "viewCount": 2503,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-30T03:39:54Z",
@@ -311,7 +386,7 @@
               "height": 720
             }
           },
-          "viewCount": 3268,
+          "viewCount": 3273,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-29T13:26:36Z",
@@ -352,7 +427,7 @@
               "height": 720
             }
           },
-          "viewCount": 2255
+          "viewCount": 2302
         },
         {
           "videoId": "zx4FIuvk5OQ",
@@ -387,7 +462,7 @@
               "height": 720
             }
           },
-          "viewCount": 3685
+          "viewCount": 3752
         },
         {
           "videoId": "qaa-2KYVMLs",
@@ -422,7 +497,7 @@
               "height": 720
             }
           },
-          "viewCount": 5319,
+          "viewCount": 5328,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T03:52:48Z",
@@ -463,7 +538,7 @@
               "height": 720
             }
           },
-          "viewCount": 4353
+          "viewCount": 4374
         },
         {
           "videoId": "oiAQlWRd718",
@@ -498,7 +573,7 @@
               "height": 720
             }
           },
-          "viewCount": 3190
+          "viewCount": 3205
         },
         {
           "videoId": "wz3Y3FRE9k0",
@@ -533,7 +608,7 @@
               "height": 720
             }
           },
-          "viewCount": 4834
+          "viewCount": 4853
         },
         {
           "videoId": "DP0qx8nJ9VQ",
@@ -568,7 +643,7 @@
               "height": 720
             }
           },
-          "viewCount": 6588
+          "viewCount": 6606
         },
         {
           "videoId": "gwAUfYrnJCY",
@@ -603,7 +678,7 @@
               "height": 720
             }
           },
-          "viewCount": 2313
+          "viewCount": 2321
         },
         {
           "videoId": "ECd3F6k8yEE",
@@ -638,7 +713,7 @@
               "height": 720
             }
           },
-          "viewCount": 3955
+          "viewCount": 3966
         },
         {
           "videoId": "97OesJL9AyA",
@@ -673,7 +748,7 @@
               "height": 720
             }
           },
-          "viewCount": 4148
+          "viewCount": 4155
         },
         {
           "videoId": "CDJP3wBmwwU",
@@ -708,7 +783,7 @@
               "height": 720
             }
           },
-          "viewCount": 1839
+          "viewCount": 1860
         },
         {
           "videoId": "VkG8zj6cwhA",
@@ -743,7 +818,7 @@
               "height": 720
             }
           },
-          "viewCount": 7152
+          "viewCount": 7183
         },
         {
           "videoId": "l8OczlkZ3d0",
@@ -778,7 +853,7 @@
               "height": 720
             }
           },
-          "viewCount": 4065
+          "viewCount": 4078
         },
         {
           "videoId": "ORDEPp9aH2U",
@@ -813,42 +888,7 @@
               "height": 720
             }
           },
-          "viewCount": 3098
-        },
-        {
-          "videoId": "ryIib7L9zno",
-          "title": "2万人と握手チャレンジ#奥村こうき#狛江#２万人と握手チャレンジ",
-          "description": "",
-          "publishedAt": "2026-05-25T10:04:54Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ryIib7L9zno/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ryIib7L9zno/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ryIib7L9zno/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ryIib7L9zno/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ryIib7L9zno/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4862
+          "viewCount": 3110
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -901,6 +941,41 @@
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "qgHGn3aaCkM",
+          "title": "便利な小型炊飯器",
+          "description": "10分ほどで一人前のご飯🍚が炊ける小型炊飯器で、事務所で重宝して使っています。\n#炊飯器 #小型炊飯器",
+          "publishedAt": "2026-06-01T03:41:54Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qgHGn3aaCkM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qgHGn3aaCkM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qgHGn3aaCkM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qgHGn3aaCkM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qgHGn3aaCkM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 176
+        },
         {
           "videoId": "ar_nAbdzTv4",
           "title": "充実した無料トッピング",
@@ -969,7 +1044,7 @@
               "height": 720
             }
           },
-          "viewCount": 4302
+          "viewCount": 4305
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1173,6 +1248,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "TSgwzZ7MSa4",
+          "title": "2026年5月26日 白糸台小学校通学路歩道植栽剪定 #府中市 #ボランティア",
+          "description": "府中市朝日町2丁目都営アパート近くの歩道植栽の枝が伸びすぎていたので剪定しました\n多くの歩行者が車道を通行している状況なのですが、作業後に歩道を歩いてくれるようになったのを見るとほっこりします☺️",
+          "publishedAt": "2026-06-01T02:26:17Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TSgwzZ7MSa4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TSgwzZ7MSa4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TSgwzZ7MSa4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TSgwzZ7MSa4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TSgwzZ7MSa4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 252
+        },
+        {
           "videoId": "OiIVMWgbwqc",
           "title": "認定NPO法人プラネットカナール棚卸 2026.05.15",
           "description": "プラネットカナールでは児童養護施設を巣立つ若者にリユース家電・家具を届ける活動を行っています。\n5月15日は今年度残っている寄贈品をリストと照らし合わせる棚卸し作業を行いました。",
@@ -1205,7 +1315,7 @@
               "height": 720
             }
           },
-          "viewCount": 1026
+          "viewCount": 822
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1316,7 +1426,7 @@
               "height": 720
             }
           },
-          "viewCount": 1518
+          "viewCount": 1536
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1427,7 +1537,7 @@
               "height": 720
             }
           },
-          "viewCount": 832
+          "viewCount": 849
         },
         {
           "videoId": "3u1Oq-zInXs",
@@ -1462,7 +1572,7 @@
               "height": 720
             }
           },
-          "viewCount": 2190
+          "viewCount": 2193
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1648,7 +1758,7 @@
               "height": 720
             }
           },
-          "viewCount": 348
+          "viewCount": 349
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1809,7 +1919,7 @@
               "height": 720
             }
           },
-          "viewCount": 2958
+          "viewCount": 3036
         },
         {
           "videoId": "tahS4B76FsQ",
@@ -1844,7 +1954,7 @@
               "height": 720
             }
           },
-          "viewCount": 3827
+          "viewCount": 3882
         },
         {
           "videoId": "Co1mSOkGJwQ",
@@ -1879,7 +1989,7 @@
               "height": 720
             }
           },
-          "viewCount": 2059,
+          "viewCount": 2069,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T12:00:00Z",
@@ -1920,7 +2030,7 @@
               "height": 720
             }
           },
-          "viewCount": 2967,
+          "viewCount": 2991,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T11:00:00Z",
@@ -1961,7 +2071,7 @@
               "height": 720
             }
           },
-          "viewCount": 3503
+          "viewCount": 3311
         },
         {
           "videoId": "z8Q6RLHFiSA",
@@ -1996,7 +2106,7 @@
               "height": 720
             }
           },
-          "viewCount": 4031
+          "viewCount": 4040
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
