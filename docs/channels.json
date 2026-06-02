@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-02T02:56:56.454Z",
+  "requestedAt": "2026-06-02T07:23:20.292Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5752,
+          "viewCount": 6515,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-01T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 1765
+          "viewCount": 1780
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -126,6 +126,41 @@
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "12RUTUXmSG4",
+          "title": "狛江の水害対策#狛江",
+          "description": "",
+          "publishedAt": "2026-06-02T05:54:45Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/12RUTUXmSG4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/12RUTUXmSG4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/12RUTUXmSG4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/12RUTUXmSG4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/12RUTUXmSG4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 683
+        },
         {
           "videoId": "he8Iu2lRPLw",
           "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 1853,
+          "viewCount": 2045,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-01T09:05:48Z",
@@ -200,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 4096
+          "viewCount": 4304
         },
         {
           "videoId": "-vSU01Q3nqk",
@@ -235,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 2455,
+          "viewCount": 2505,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-31T03:41:19Z",
@@ -276,7 +311,7 @@
               "height": 720
             }
           },
-          "viewCount": 2906
+          "viewCount": 3034
         },
         {
           "videoId": "fpCQbITYgUY",
@@ -311,7 +346,7 @@
               "height": 720
             }
           },
-          "viewCount": 4573
+          "viewCount": 4604
         },
         {
           "videoId": "Cnl9SEGGyL0",
@@ -346,7 +381,7 @@
               "height": 720
             }
           },
-          "viewCount": 2577,
+          "viewCount": 2596,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-30T03:39:54Z",
@@ -387,7 +422,7 @@
               "height": 720
             }
           },
-          "viewCount": 3312,
+          "viewCount": 3316,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-29T13:26:36Z",
@@ -428,7 +463,7 @@
               "height": 720
             }
           },
-          "viewCount": 2451
+          "viewCount": 2465
         },
         {
           "videoId": "zx4FIuvk5OQ",
@@ -463,7 +498,7 @@
               "height": 720
             }
           },
-          "viewCount": 3936
+          "viewCount": 3974
         },
         {
           "videoId": "qaa-2KYVMLs",
@@ -498,7 +533,7 @@
               "height": 720
             }
           },
-          "viewCount": 5369,
+          "viewCount": 5377,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T03:52:48Z",
@@ -539,7 +574,7 @@
               "height": 720
             }
           },
-          "viewCount": 4430
+          "viewCount": 4435
         },
         {
           "videoId": "oiAQlWRd718",
@@ -574,7 +609,7 @@
               "height": 720
             }
           },
-          "viewCount": 3253
+          "viewCount": 3254
         },
         {
           "videoId": "wz3Y3FRE9k0",
@@ -609,7 +644,7 @@
               "height": 720
             }
           },
-          "viewCount": 4888
+          "viewCount": 4896
         },
         {
           "videoId": "DP0qx8nJ9VQ",
@@ -644,7 +679,7 @@
               "height": 720
             }
           },
-          "viewCount": 6640
+          "viewCount": 6661
         },
         {
           "videoId": "gwAUfYrnJCY",
@@ -679,7 +714,7 @@
               "height": 720
             }
           },
-          "viewCount": 2369
+          "viewCount": 2376
         },
         {
           "videoId": "ECd3F6k8yEE",
@@ -714,7 +749,7 @@
               "height": 720
             }
           },
-          "viewCount": 3991
+          "viewCount": 3995
         },
         {
           "videoId": "97OesJL9AyA",
@@ -749,7 +784,7 @@
               "height": 720
             }
           },
-          "viewCount": 4176
+          "viewCount": 4188
         },
         {
           "videoId": "CDJP3wBmwwU",
@@ -784,7 +819,7 @@
               "height": 720
             }
           },
-          "viewCount": 1903
+          "viewCount": 1908
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -870,7 +905,7 @@
               "height": 720
             }
           },
-          "viewCount": 925
+          "viewCount": 996
         },
         {
           "videoId": "ar_nAbdzTv4",
@@ -905,7 +940,7 @@
               "height": 720
             }
           },
-          "viewCount": 681
+          "viewCount": 683
         },
         {
           "videoId": "fmSjt3wPGlI",
@@ -940,7 +975,7 @@
               "height": 720
             }
           },
-          "viewCount": 4311
+          "viewCount": 4312
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1176,7 +1211,7 @@
               "height": 720
             }
           },
-          "viewCount": 725
+          "viewCount": 775
         },
         {
           "videoId": "OiIVMWgbwqc",
@@ -1211,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 841
+          "viewCount": 845
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1288,7 +1323,43 @@
       },
       "channelId": "UCYAn26BfbB_Db-oju8SfbHQ",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "lP-LR3cQowA",
+          "title": "初心にもどります（初街頭演説） 0",
+          "description": "先日、野田市にて初めて選挙に臨まれ、見事に当選されました土屋ともひろ さんの演説に触れ、1年前、初めて選挙に臨んだ時のことを思い出しました。私が政治活動を始めて1年が経過しました。一つの節目として、本日は、昨年の5月11日に大田区の蒲田駅前で行った、人生初めての街頭演説を、当時配布したビラとともに、皆さんと共有させて頂きます。\n\n#大田区 \n#東京都 \n#再生の道 \n#事業評価\n#官民連携（PFI・PPP)\n#日本再生\n#土屋ともひろ\n\n切り抜き可能です。",
+          "publishedAt": "2026-06-02T07:17:21Z",
+          "channelTitle": "山下こういち　再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lP-LR3cQowA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lP-LR3cQowA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lP-LR3cQowA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lP-LR3cQowA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lP-LR3cQowA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 16
+        }
+      ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
     },
     {
@@ -1432,7 +1503,7 @@
               "height": 720
             }
           },
-          "viewCount": 2204
+          "viewCount": 2206
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1618,7 +1689,7 @@
               "height": 720
             }
           },
-          "viewCount": 353
+          "viewCount": 355
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1779,7 +1850,7 @@
               "height": 720
             }
           },
-          "viewCount": 2580
+          "viewCount": 2888
         },
         {
           "videoId": "9zWGO4de2WQ",
@@ -1814,7 +1885,7 @@
               "height": 720
             }
           },
-          "viewCount": 3269
+          "viewCount": 3331
         },
         {
           "videoId": "tahS4B76FsQ",
@@ -1849,7 +1920,7 @@
               "height": 720
             }
           },
-          "viewCount": 4088
+          "viewCount": 4114
         },
         {
           "videoId": "Co1mSOkGJwQ",
@@ -1884,7 +1955,7 @@
               "height": 720
             }
           },
-          "viewCount": 2090,
+          "viewCount": 2096,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T12:00:00Z",
@@ -1925,7 +1996,7 @@
               "height": 720
             }
           },
-          "viewCount": 3089,
+          "viewCount": 3108,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T11:00:00Z",
@@ -1966,7 +2037,7 @@
               "height": 720
             }
           },
-          "viewCount": 3360
+          "viewCount": 3372
         },
         {
           "videoId": "z8Q6RLHFiSA",
@@ -2001,7 +2072,7 @@
               "height": 720
             }
           },
-          "viewCount": 4056
+          "viewCount": 4063
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
