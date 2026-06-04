@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-03T23:00:13.959Z",
+  "requestedAt": "2026-06-04T03:26:44.573Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8503,
+          "viewCount": 8560,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-01T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "6tvo15SHFlI",
+          "title": "地域の居場所をつくりたい#狛江#from_ Antique",
+          "description": "",
+          "publishedAt": "2026-06-04T02:58:23Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6tvo15SHFlI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6tvo15SHFlI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6tvo15SHFlI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6tvo15SHFlI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6tvo15SHFlI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 192
+        },
+        {
           "videoId": "6RIfm8d_Smk",
           "title": "本当に効果は出ているのか？#狛江市 #満足度調査#みらいテラス#効果検証",
           "description": "",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 2242
+          "viewCount": 3824
         },
         {
           "videoId": "Xtg6I0TYbMs",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 979
+          "viewCount": 1548
         },
         {
           "videoId": "JH9TUy58mgM",
@@ -194,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 6200
+          "viewCount": 6435
         },
         {
           "videoId": "oEamIzNe1Ss",
@@ -229,7 +264,7 @@
               "height": 720
             }
           },
-          "viewCount": 3550,
+          "viewCount": 3602,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-02T08:02:58Z",
@@ -270,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 3035
+          "viewCount": 3082
         },
         {
           "videoId": "12RUTUXmSG4",
@@ -305,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 2334
+          "viewCount": 2373
         },
         {
           "videoId": "he8Iu2lRPLw",
@@ -340,7 +375,7 @@
               "height": 720
             }
           },
-          "viewCount": 2679,
+          "viewCount": 2684,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-01T09:05:48Z",
@@ -381,7 +416,7 @@
               "height": 720
             }
           },
-          "viewCount": 4950
+          "viewCount": 4972
         },
         {
           "videoId": "-vSU01Q3nqk",
@@ -416,7 +451,7 @@
               "height": 720
             }
           },
-          "viewCount": 2613,
+          "viewCount": 2615,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-31T03:41:19Z",
@@ -457,7 +492,7 @@
               "height": 720
             }
           },
-          "viewCount": 3442
+          "viewCount": 3479
         },
         {
           "videoId": "fpCQbITYgUY",
@@ -492,7 +527,7 @@
               "height": 720
             }
           },
-          "viewCount": 4760
+          "viewCount": 4766
         },
         {
           "videoId": "Cnl9SEGGyL0",
@@ -527,7 +562,7 @@
               "height": 720
             }
           },
-          "viewCount": 2624,
+          "viewCount": 2626,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-30T03:39:54Z",
@@ -568,7 +603,7 @@
               "height": 720
             }
           },
-          "viewCount": 3348,
+          "viewCount": 3349,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-29T13:26:36Z",
@@ -609,7 +644,7 @@
               "height": 720
             }
           },
-          "viewCount": 2580
+          "viewCount": 2584
         },
         {
           "videoId": "zx4FIuvk5OQ",
@@ -644,7 +679,7 @@
               "height": 720
             }
           },
-          "viewCount": 4078
+          "viewCount": 4086
         },
         {
           "videoId": "qaa-2KYVMLs",
@@ -679,7 +714,7 @@
               "height": 720
             }
           },
-          "viewCount": 5439,
+          "viewCount": 5443,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-25T03:52:48Z",
@@ -720,7 +755,7 @@
               "height": 720
             }
           },
-          "viewCount": 4567
+          "viewCount": 4572
         },
         {
           "videoId": "oiAQlWRd718",
@@ -755,7 +790,7 @@
               "height": 720
             }
           },
-          "viewCount": 3310
+          "viewCount": 3313
         },
         {
           "videoId": "wz3Y3FRE9k0",
@@ -790,42 +825,7 @@
               "height": 720
             }
           },
-          "viewCount": 4993
-        },
-        {
-          "videoId": "DP0qx8nJ9VQ",
-          "title": "ラーメンいただきます！#狛江 #中華料理栄華",
-          "description": "",
-          "publishedAt": "2026-05-28T01:53:45Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/DP0qx8nJ9VQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/DP0qx8nJ9VQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/DP0qx8nJ9VQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/DP0qx8nJ9VQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/DP0qx8nJ9VQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6811
+          "viewCount": 4997
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -911,42 +911,7 @@
               "height": 720
             }
           },
-          "viewCount": 1316
-        },
-        {
-          "videoId": "ar_nAbdzTv4",
-          "title": "充実した無料トッピング",
-          "description": "西葛西駅北口の「そらのいろ」の充実した無料トッピング♥\n#そらのいろ #とんこつラーメン #西葛西",
-          "publishedAt": "2026-05-28T02:51:34Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ar_nAbdzTv4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ar_nAbdzTv4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ar_nAbdzTv4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ar_nAbdzTv4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ar_nAbdzTv4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 695
+          "viewCount": 1318
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1182,7 +1147,7 @@
               "height": 720
             }
           },
-          "viewCount": 1355
+          "viewCount": 1638
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1293,7 +1258,7 @@
               "height": 720
             }
           },
-          "viewCount": 6538
+          "viewCount": 6664
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1404,7 +1369,7 @@
               "height": 720
             }
           },
-          "viewCount": 902
+          "viewCount": 904
         }
       ],
       "name": "天野こころ,あまのこころ"
@@ -1590,7 +1555,7 @@
               "height": 720
             }
           },
-          "viewCount": 255
+          "viewCount": 284
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1716,7 +1681,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "8xvDGVHcjEw",
+          "title": "善福寺川の話など  ヨシヒコ・ライブ＃３２",
+          "description": "今週のヨシヒコ\n・個別に、たくさんの方たちに会ってお話しを伺っています。\n視覚障害者にパソコンを教えている人、お子さん２人が不登校でフリースクールに通わせているお母さん、小学生のお子さんを持つお母さん、臓器移植関係の権威の人、ソーラーパネルに詳しい人などなど、普段聞けないお話ばかりでした。\n・意見交換会で出た防災の話\n\n昨日の大雨から〜善福寺川上流貯水池の話\n\n寄付のお礼\n\nなどなど。",
+          "publishedAt": "2026-06-04T00:11:17Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-06-04T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "juwt-0CbcAs",
@@ -1751,7 +1756,7 @@
               "height": 720
             }
           },
-          "viewCount": 3312
+          "viewCount": 3343
         },
         {
           "videoId": "c_dsubFuAtI",
@@ -1786,7 +1791,7 @@
               "height": 720
             }
           },
-          "viewCount": 3955
+          "viewCount": 3980
         },
         {
           "videoId": "9zWGO4de2WQ",
@@ -1860,7 +1865,7 @@
         },
         {
           "videoId": "Co1mSOkGJwQ",
-          "title": "ヨシヒコ・ライブ＃３１",
+          "title": "「消える木陰、世界と逆行」ヨシヒコ・ライブ＃３１",
           "description": "今日も盛りだくさんになりそうな予感です\n\n・野田市議会議員当選　土屋さんおめでとう\n・今週のよしひこ\n意見交換会で出た話\n個別訪問　こんなところでお話し聞いてきました\n・日経新聞トップ「樹冠被覆率」の話からの波及\n・杉並区区議会で取り上げられている問題\n〜東京都が計画する⼤規模な「善福寺川上流地下調節池事業」を巡り、杉並区（岸本聡⼦区⻑）が発信した「要望書提出」に関する公式発表と実際の議会答弁の⽭盾（不⼀致）について\n・ご寄付のお礼参り\n\n🌱\n「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。 誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録） \n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！ビラ配り、ポスター貼りなど、短時間から大歓迎です！ \n👉 https://docs.google.com/forms/d/e/1FAIpQLSdeBNngT85onGn5BLUiV6QpDIKId1Hf7Mtm9z-7ui7xJjWSOQ/viewform\n\n2. 寄付で活動を支える \nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」から「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット 杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉 オープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX...\n\nあなたの壁を貸してください！ 「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。 👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！ 握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O\n\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
           "publishedAt": "2026-05-28T13:47:57Z",
           "channelTitle": "増田よしひこ- 杉並",
@@ -1891,7 +1896,7 @@
               "height": 720
             }
           },
-          "viewCount": 2167,
+          "viewCount": 2170,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T12:00:00Z",
@@ -1932,7 +1937,7 @@
               "height": 720
             }
           },
-          "viewCount": 3201,
+          "viewCount": 3206,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-28T11:00:00Z",
@@ -1973,7 +1978,7 @@
               "height": 720
             }
           },
-          "viewCount": 3437
+          "viewCount": 3441
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
