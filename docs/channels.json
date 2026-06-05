@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-05T11:20:34.307Z",
+  "requestedAt": "2026-06-05T14:34:11.197Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2158,
+          "viewCount": 2236,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-04T12:30:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 8817,
+          "viewCount": 8830,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-01T13:00:00Z",
@@ -133,6 +133,88 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "u6t5mL4-S6w",
+          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-06-05T13:35:44Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1210,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-06-05T00:43:13Z",
+            "actualStartTime": "2026-06-05T00:43:51Z",
+            "actualEndTime": "2026-06-05T01:22:06Z"
+          }
+        },
+        {
+          "videoId": "lWZFEPH24_M",
+          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-06-05T11:32:00Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1905,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-06-03T13:49:54Z",
+            "actualStartTime": "2026-06-04T22:07:06Z",
+            "actualEndTime": "2026-06-04T22:55:36Z"
+          }
+        },
+        {
           "videoId": "bMkZzsOiYFA",
           "title": "次の世代にも当事者意識を#狛江#次世代",
           "description": "",
@@ -165,7 +247,7 @@
               "height": 720
             }
           },
-          "viewCount": 735
+          "viewCount": 1740
         },
         {
           "videoId": "GX6UOdKdS7U",
@@ -200,7 +282,7 @@
               "height": 720
             }
           },
-          "viewCount": 1626
+          "viewCount": 2352
         },
         {
           "videoId": "d7EbapGluX4",
@@ -235,89 +317,7 @@
               "height": 720
             }
           },
-          "viewCount": 3156
-        },
-        {
-          "videoId": "u6t5mL4-S6w",
-          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2026-06-05T00:43:14Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/u6t5mL4-S6w/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1106,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-06-05T00:43:13Z",
-            "actualStartTime": "2026-06-05T00:43:51Z",
-            "actualEndTime": "2026-06-05T01:22:06Z"
-          }
-        },
-        {
-          "videoId": "lWZFEPH24_M",
-          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2026-06-03T13:49:54Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/lWZFEPH24_M/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1700,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-06-03T13:49:54Z",
-            "actualStartTime": "2026-06-04T22:07:06Z",
-            "actualEndTime": "2026-06-04T22:55:36Z"
-          }
+          "viewCount": 4163
         },
         {
           "videoId": "DXtjj7HqAKA",
@@ -352,7 +352,7 @@
               "height": 720
             }
           },
-          "viewCount": 1427
+          "viewCount": 1709
         },
         {
           "videoId": "yhrPIHSBVzw",
@@ -387,7 +387,7 @@
               "height": 720
             }
           },
-          "viewCount": 4138
+          "viewCount": 4361
         },
         {
           "videoId": "6tvo15SHFlI",
@@ -422,7 +422,7 @@
               "height": 720
             }
           },
-          "viewCount": 2927
+          "viewCount": 2961
         },
         {
           "videoId": "6RIfm8d_Smk",
@@ -457,7 +457,7 @@
               "height": 720
             }
           },
-          "viewCount": 6848
+          "viewCount": 6924
         },
         {
           "videoId": "Xtg6I0TYbMs",
@@ -492,7 +492,7 @@
               "height": 720
             }
           },
-          "viewCount": 2549
+          "viewCount": 2556
         },
         {
           "videoId": "JH9TUy58mgM",
@@ -527,7 +527,7 @@
               "height": 720
             }
           },
-          "viewCount": 6865
+          "viewCount": 6893
         },
         {
           "videoId": "oEamIzNe1Ss",
@@ -562,7 +562,7 @@
               "height": 720
             }
           },
-          "viewCount": 3790,
+          "viewCount": 3808,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-02T08:02:58Z",
@@ -603,7 +603,7 @@
               "height": 720
             }
           },
-          "viewCount": 3323
+          "viewCount": 3328
         },
         {
           "videoId": "12RUTUXmSG4",
@@ -638,7 +638,7 @@
               "height": 720
             }
           },
-          "viewCount": 2538
+          "viewCount": 2547
         },
         {
           "videoId": "he8Iu2lRPLw",
@@ -673,7 +673,7 @@
               "height": 720
             }
           },
-          "viewCount": 2770,
+          "viewCount": 2772,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-01T09:05:48Z",
@@ -714,7 +714,7 @@
               "height": 720
             }
           },
-          "viewCount": 5065
+          "viewCount": 5072
         },
         {
           "videoId": "-vSU01Q3nqk",
@@ -749,7 +749,7 @@
               "height": 720
             }
           },
-          "viewCount": 2661,
+          "viewCount": 2668,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-31T03:41:19Z",
@@ -790,7 +790,7 @@
               "height": 720
             }
           },
-          "viewCount": 3586
+          "viewCount": 3588
         },
         {
           "videoId": "fpCQbITYgUY",
@@ -825,7 +825,7 @@
               "height": 720
             }
           },
-          "viewCount": 4815
+          "viewCount": 4824
         },
         {
           "videoId": "Cnl9SEGGyL0",
@@ -860,7 +860,7 @@
               "height": 720
             }
           },
-          "viewCount": 2670,
+          "viewCount": 2678,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-30T03:39:54Z",
@@ -1188,7 +1188,7 @@
               "height": 720
             }
           },
-          "viewCount": 5171
+          "viewCount": 5180
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1299,7 +1299,7 @@
               "height": 720
             }
           },
-          "viewCount": 484
+          "viewCount": 862
         },
         {
           "videoId": "lP-LR3cQowA",
@@ -1334,7 +1334,7 @@
               "height": 720
             }
           },
-          "viewCount": 7124
+          "viewCount": 7179
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1595,7 +1595,7 @@
               "height": 720
             }
           },
-          "viewCount": 379
+          "viewCount": 380
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1721,12 +1721,13 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "nzXJELjHLJE",
           "title": "杉並の福祉政策＃２ 福祉×テクノロジー｜たきぐち昭彦さんからの提案",
           "description": "前回に続き、福祉をテーマにした対談の第2弾です。\n今回は、再生の道の仲間で、長くIT業界を歩んでこられたたきぐち昭彦さんが、「杉並\n区 福祉×テクノロジー」のプレゼンを用意してくださいました。\n前回の「現状と課題」を受けて、福祉の現場をテクノロジーやAIでどう支えていけるの\nか、具体的なアイデアを語り合っています。\n前回の「杉並の福祉政策＃１\n現状と課題、そして対策」とあわせてご覧いただくと、より分かりやすいと思います。\n\n＃杉並区\n＃福祉\n\n\n🌱\n「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。\n誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録）\n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！\nビラ配り、ポスター貼りなど、短時間から大歓迎です！\n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える\nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」か\nら「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット\n杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉\nオープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nオープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX1akxgEgapxjncT0k4pPT2zw?utm_source=invitation&utm_medium=link_copy&utm_campaign\n\nあなたの壁を貸してください！\n「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。\n👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！\n握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O\n\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
-          "publishedAt": "2026-06-05T04:29:48Z",
+          "publishedAt": "2026-06-05T12:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -1755,14 +1756,14 @@
               "height": 720
             }
           },
-          "viewCount": 2,
+          "viewCount": 524,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-06-05T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-06-05T12:00:00Z",
+            "actualStartTime": "2026-06-05T12:00:06Z",
+            "actualEndTime": "2026-06-05T12:32:33Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "8xvDGVHcjEw",
           "title": "怒ってます！善福寺川の話ー  ヨシヒコ・ライブ＃３２",
@@ -1796,7 +1797,7 @@
               "height": 720
             }
           },
-          "viewCount": 1721,
+          "viewCount": 1750,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-04T12:00:00Z",
@@ -1837,7 +1838,7 @@
               "height": 720
             }
           },
-          "viewCount": 2899
+          "viewCount": 2996
         },
         {
           "videoId": "juwt-0CbcAs",
@@ -1872,7 +1873,7 @@
               "height": 720
             }
           },
-          "viewCount": 3521
+          "viewCount": 3530
         },
         {
           "videoId": "c_dsubFuAtI",
@@ -1907,7 +1908,7 @@
               "height": 720
             }
           },
-          "viewCount": 4202
+          "viewCount": 4210
         },
         {
           "videoId": "9zWGO4de2WQ",
@@ -1942,7 +1943,7 @@
               "height": 720
             }
           },
-          "viewCount": 3590
+          "viewCount": 3591
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
