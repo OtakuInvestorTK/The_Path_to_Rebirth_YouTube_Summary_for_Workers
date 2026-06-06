@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-06T02:36:12.741Z",
+  "requestedAt": "2026-06-06T06:24:09.290Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2355,
+          "viewCount": 2364,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-04T12:30:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 8873,
+          "viewCount": 8882,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-01T13:00:00Z",
@@ -133,6 +133,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "oNg3V7wnkFk",
+          "title": "狛江のまちづくり、みんなで考えませんか？ #狛江",
+          "description": "",
+          "publishedAt": "2026-06-06T03:00:25Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oNg3V7wnkFk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oNg3V7wnkFk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oNg3V7wnkFk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oNg3V7wnkFk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oNg3V7wnkFk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1199
+        },
+        {
           "videoId": "VEebYESRWMw",
           "title": "Before & After#狛江",
           "description": "",
@@ -165,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 453
+          "viewCount": 891
         },
         {
           "videoId": "u6t5mL4-S6w",
@@ -200,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 1457,
+          "viewCount": 1527,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-05T00:43:13Z",
@@ -241,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 2118,
+          "viewCount": 2150,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-03T13:49:54Z",
@@ -282,7 +317,7 @@
               "height": 720
             }
           },
-          "viewCount": 3148
+          "viewCount": 3524
         },
         {
           "videoId": "GX6UOdKdS7U",
@@ -317,7 +352,7 @@
               "height": 720
             }
           },
-          "viewCount": 3091
+          "viewCount": 3258
         },
         {
           "videoId": "d7EbapGluX4",
@@ -352,7 +387,7 @@
               "height": 720
             }
           },
-          "viewCount": 5420
+          "viewCount": 5702
         },
         {
           "videoId": "DXtjj7HqAKA",
@@ -387,7 +422,7 @@
               "height": 720
             }
           },
-          "viewCount": 1974
+          "viewCount": 2041
         },
         {
           "videoId": "yhrPIHSBVzw",
@@ -422,7 +457,7 @@
               "height": 720
             }
           },
-          "viewCount": 4473
+          "viewCount": 4516
         },
         {
           "videoId": "6tvo15SHFlI",
@@ -457,7 +492,7 @@
               "height": 720
             }
           },
-          "viewCount": 3022
+          "viewCount": 3052
         },
         {
           "videoId": "6RIfm8d_Smk",
@@ -492,7 +527,7 @@
               "height": 720
             }
           },
-          "viewCount": 7101
+          "viewCount": 7162
         },
         {
           "videoId": "Xtg6I0TYbMs",
@@ -527,7 +562,7 @@
               "height": 720
             }
           },
-          "viewCount": 2640
+          "viewCount": 2681
         },
         {
           "videoId": "JH9TUy58mgM",
@@ -562,7 +597,7 @@
               "height": 720
             }
           },
-          "viewCount": 6952
+          "viewCount": 6979
         },
         {
           "videoId": "oEamIzNe1Ss",
@@ -597,7 +632,7 @@
               "height": 720
             }
           },
-          "viewCount": 3845,
+          "viewCount": 3851,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-02T08:02:58Z",
@@ -638,7 +673,7 @@
               "height": 720
             }
           },
-          "viewCount": 3345
+          "viewCount": 3353
         },
         {
           "videoId": "12RUTUXmSG4",
@@ -673,7 +708,7 @@
               "height": 720
             }
           },
-          "viewCount": 2589
+          "viewCount": 2612
         },
         {
           "videoId": "he8Iu2lRPLw",
@@ -708,7 +743,7 @@
               "height": 720
             }
           },
-          "viewCount": 2779,
+          "viewCount": 2786,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-01T09:05:48Z",
@@ -749,7 +784,7 @@
               "height": 720
             }
           },
-          "viewCount": 5097
+          "viewCount": 5105
         },
         {
           "videoId": "-vSU01Q3nqk",
@@ -784,7 +819,7 @@
               "height": 720
             }
           },
-          "viewCount": 2677,
+          "viewCount": 2680,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-05-31T03:41:19Z",
@@ -825,42 +860,7 @@
               "height": 720
             }
           },
-          "viewCount": 3602
-        },
-        {
-          "videoId": "fpCQbITYgUY",
-          "title": "きたみ不動産さんにポスターを貼らせていただきました#狛江#喜多見 #きたみ不動産",
-          "description": "",
-          "publishedAt": "2026-05-31T00:00:29Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fpCQbITYgUY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fpCQbITYgUY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fpCQbITYgUY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/fpCQbITYgUY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fpCQbITYgUY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4829
+          "viewCount": 3609
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -914,6 +914,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "1Fb1Jtn5wbY",
+          "title": "DV・ストーカータイプの男性の見極め方",
+          "description": "悪い男に引っかからないためには。\n#DV #ストーカー #モラハラ",
+          "publishedAt": "2026-06-06T04:14:19Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 267
+        },
+        {
           "videoId": "qgHGn3aaCkM",
           "title": "便利な小型炊飯器",
           "description": "10分ほどで一人前のご飯🍚が炊ける小型炊飯器で、事務所で重宝して使っています。\n#炊飯器 #小型炊飯器",
@@ -946,7 +981,7 @@
               "height": 720
             }
           },
-          "viewCount": 1353
+          "viewCount": 1354
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1182,7 +1217,7 @@
               "height": 720
             }
           },
-          "viewCount": 1033
+          "viewCount": 1404
         },
         {
           "videoId": "TSgwzZ7MSa4",
@@ -1217,7 +1252,7 @@
               "height": 720
             }
           },
-          "viewCount": 5062
+          "viewCount": 5064
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1328,7 +1363,7 @@
               "height": 720
             }
           },
-          "viewCount": 1151
+          "viewCount": 1220
         },
         {
           "videoId": "lP-LR3cQowA",
@@ -1363,7 +1398,7 @@
               "height": 720
             }
           },
-          "viewCount": 7226
+          "viewCount": 7261
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1624,7 +1659,7 @@
               "height": 720
             }
           },
-          "viewCount": 393
+          "viewCount": 394
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1785,7 +1820,7 @@
               "height": 720
             }
           },
-          "viewCount": 1244,
+          "viewCount": 1377,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-05T12:00:00Z",
@@ -1826,7 +1861,7 @@
               "height": 720
             }
           },
-          "viewCount": 1877,
+          "viewCount": 1910,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-04T12:00:00Z",
@@ -1867,7 +1902,7 @@
               "height": 720
             }
           },
-          "viewCount": 3205
+          "viewCount": 3316
         },
         {
           "videoId": "juwt-0CbcAs",
@@ -1902,7 +1937,7 @@
               "height": 720
             }
           },
-          "viewCount": 3593
+          "viewCount": 3600
         },
         {
           "videoId": "c_dsubFuAtI",
@@ -1937,7 +1972,7 @@
               "height": 720
             }
           },
-          "viewCount": 4209
+          "viewCount": 4212
         },
         {
           "videoId": "9zWGO4de2WQ",
