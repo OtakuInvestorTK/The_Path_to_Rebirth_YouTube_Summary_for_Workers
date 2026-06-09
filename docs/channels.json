@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-09T11:54:52.866Z",
+  "requestedAt": "2026-06-09T14:35:08.788Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8897,
+          "viewCount": 9212,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 2687,
+          "viewCount": 2693,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-04T12:30:00Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 60
+          "viewCount": 1039
         },
         {
           "videoId": "iAWWN_TNVK0",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 1350,
+          "viewCount": 2702,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-09T08:59:23Z",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 951,
+          "viewCount": 1129,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T13:32:32Z",
@@ -282,7 +282,7 @@
               "height": 720
             }
           },
-          "viewCount": 2196,
+          "viewCount": 2209,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T07:58:19Z",
@@ -323,7 +323,7 @@
               "height": 720
             }
           },
-          "viewCount": 4143
+          "viewCount": 4231
         },
         {
           "videoId": "YY_9Zvhfhp8",
@@ -358,7 +358,7 @@
               "height": 720
             }
           },
-          "viewCount": 2197,
+          "viewCount": 2205,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-07T04:08:38Z",
@@ -440,7 +440,7 @@
               "height": 720
             }
           },
-          "viewCount": 3289,
+          "viewCount": 3299,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-07T00:14:30Z",
@@ -481,7 +481,7 @@
               "height": 720
             }
           },
-          "viewCount": 1407,
+          "viewCount": 1408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-06T23:10:00Z",
@@ -522,7 +522,7 @@
               "height": 720
             }
           },
-          "viewCount": 7784
+          "viewCount": 8039
         },
         {
           "videoId": "I0oBsiT_9Xc",
@@ -557,7 +557,7 @@
               "height": 720
             }
           },
-          "viewCount": 4717
+          "viewCount": 4762
         },
         {
           "videoId": "TnkrcTTTrBQ",
@@ -592,7 +592,7 @@
               "height": 720
             }
           },
-          "viewCount": 3427
+          "viewCount": 3462
         },
         {
           "videoId": "wKLb38bp8ww",
@@ -627,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 4047
+          "viewCount": 4073
         },
         {
           "videoId": "oNg3V7wnkFk",
@@ -662,7 +662,7 @@
               "height": 720
             }
           },
-          "viewCount": 5316
+          "viewCount": 5327
         },
         {
           "videoId": "VEebYESRWMw",
@@ -697,7 +697,7 @@
               "height": 720
             }
           },
-          "viewCount": 2112
+          "viewCount": 2116
         },
         {
           "videoId": "u6t5mL4-S6w",
@@ -849,7 +849,7 @@
               "height": 720
             }
           },
-          "viewCount": 3817
+          "viewCount": 3825
         },
         {
           "videoId": "d7EbapGluX4",
@@ -884,7 +884,7 @@
               "height": 720
             }
           },
-          "viewCount": 6564
+          "viewCount": 6578
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -970,7 +970,7 @@
               "height": 720
             }
           },
-          "viewCount": 1711
+          "viewCount": 1713
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1206,7 +1206,7 @@
               "height": 720
             }
           },
-          "viewCount": 4498
+          "viewCount": 4500
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1317,7 +1317,7 @@
               "height": 720
             }
           },
-          "viewCount": 2049
+          "viewCount": 2063
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1707,6 +1707,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "uid-okZfSTk",
+          "title": "杉並区のお金、ほんとうは\"見えていない\"。前彦根市長・和田ひろゆきさんと「公会計」を語る",
+          "description": "今回は、前彦根市長で「再生の道」代表代行の和田ひろゆきさんをゲストにお迎えし、「公会計」をテーマに語り合いました。\n役所の会計は、その年の現金の出入りだけを見る“家計簿”のようなもの。インフラの維持・修繕・建て替えにこれからかかる「将来負担」が帳簿に乗らないまま、毎年の予算が決まっています。\n企業会計の発想で区の財政を“見える化”し、利害調整役ではなく「経営者」として杉並区を立て直す——。「株式会社・杉並区」、そして“区に営業部をつくる”という発想まで、たっぷり語り合いました。\n子どもや孫の世代にツケを回さない財政運営とは。ぜひ最後までご覧ください。\n\n＃杉並区\n＃増田よしひこ\n＃公会計\n＃財政\n＃和田ひろゆき\n\n\n🌱\n「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。 誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録）\n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！ビラ配り、ポスター貼りなど、短時間から大歓迎です！\n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える\nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」から「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット 杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉 オープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX...\n\nあなたの壁を貸してください！ 「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。 👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！ 握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O\n\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
+          "publishedAt": "2026-06-09T12:00:19Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uid-okZfSTk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uid-okZfSTk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uid-okZfSTk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uid-okZfSTk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uid-okZfSTk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 742
+        },
+        {
           "videoId": "nzXJELjHLJE",
           "title": "杉並の福祉政策＃２ 福祉×テクノロジー｜たきぐち昭彦さんからの提案",
           "description": "前回に続き、福祉をテーマにした対談の第2弾です。\n今回は、再生の道の仲間で、長くIT業界を歩んでこられたたきぐち昭彦さんが、「杉並\n区 福祉×テクノロジー」のプレゼンを用意してくださいました。\n前回の「現状と課題」を受けて、福祉の現場をテクノロジーやAIでどう支えていけるの\nか、具体的なアイデアを語り合っています。\n前回の「杉並の福祉政策＃１\n現状と課題、そして対策」とあわせてご覧いただくと、より分かりやすいと思います。\n\n＃杉並区\n＃福祉\n\n\n🌱\n「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。\n誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録）\n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！\nビラ配り、ポスター貼りなど、短時間から大歓迎です！\n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える\nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」か\nら「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット\n杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉\nオープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nオープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX1akxgEgapxjncT0k4pPT2zw?utm_source=invitation&utm_medium=link_copy&utm_campaign\n\nあなたの壁を貸してください！\n「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。\n👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！\n握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O\n\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
@@ -1739,7 +1774,7 @@
               "height": 720
             }
           },
-          "viewCount": 2275,
+          "viewCount": 2279,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-05T12:00:00Z",
@@ -1780,7 +1815,7 @@
               "height": 720
             }
           },
-          "viewCount": 2157,
+          "viewCount": 2158,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-04T12:00:00Z",
@@ -1821,7 +1856,7 @@
               "height": 720
             }
           },
-          "viewCount": 3905
+          "viewCount": 3913
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
