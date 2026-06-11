@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-11T12:38:44.546Z",
+  "requestedAt": "2026-06-11T16:46:39.545Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,53 +57,12 @@
               "height": 720
             }
           },
-          "viewCount": 11182,
+          "viewCount": 11220,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T13:00:00Z",
             "actualStartTime": "2026-06-08T12:56:21Z",
             "actualEndTime": "2026-06-08T14:19:20Z"
-          }
-        },
-        {
-          "videoId": "FS5_ieoLMj8",
-          "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.12",
-          "description": "寄付時間\n2026年5月\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道",
-          "publishedAt": "2026-06-04T13:44:37Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/FS5_ieoLMj8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/FS5_ieoLMj8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/FS5_ieoLMj8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/FS5_ieoLMj8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/FS5_ieoLMj8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2724,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-06-04T12:30:00Z",
-            "actualStartTime": "2026-06-04T12:26:11Z",
-            "actualEndTime": "2026-06-04T13:28:51Z"
           }
         }
       ],
@@ -165,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 1067,
+          "viewCount": 1159,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T23:38:18Z",
@@ -206,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 1607,
+          "viewCount": 2345,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T02:19:07Z",
@@ -247,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 490,
+          "viewCount": 518,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T00:45:34Z",
@@ -288,7 +247,7 @@
               "height": 720
             }
           },
-          "viewCount": 823,
+          "viewCount": 854,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T09:23:52Z",
@@ -329,7 +288,7 @@
               "height": 720
             }
           },
-          "viewCount": 1129,
+          "viewCount": 1145,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T07:49:03Z",
@@ -370,7 +329,7 @@
               "height": 720
             }
           },
-          "viewCount": 1238,
+          "viewCount": 1250,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T06:03:34Z",
@@ -411,7 +370,7 @@
               "height": 720
             }
           },
-          "viewCount": 746,
+          "viewCount": 759,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T03:45:58Z",
@@ -452,7 +411,7 @@
               "height": 720
             }
           },
-          "viewCount": 779,
+          "viewCount": 795,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T01:59:39Z",
@@ -493,7 +452,7 @@
               "height": 720
             }
           },
-          "viewCount": 2968
+          "viewCount": 3069
         },
         {
           "videoId": "bboC_gMwu_c",
@@ -528,7 +487,7 @@
               "height": 720
             }
           },
-          "viewCount": 381,
+          "viewCount": 389,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T03:31:54Z",
@@ -569,7 +528,7 @@
               "height": 720
             }
           },
-          "viewCount": 5160
+          "viewCount": 5246
         },
         {
           "videoId": "iAWWN_TNVK0",
@@ -645,7 +604,7 @@
               "height": 720
             }
           },
-          "viewCount": 1341,
+          "viewCount": 1345,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T13:32:32Z",
@@ -686,7 +645,7 @@
               "height": 720
             }
           },
-          "viewCount": 4475
+          "viewCount": 4643
         },
         {
           "videoId": "fpJ26aGbrS4",
@@ -721,7 +680,7 @@
               "height": 720
             }
           },
-          "viewCount": 2249,
+          "viewCount": 2250,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T07:58:19Z",
@@ -762,7 +721,7 @@
               "height": 720
             }
           },
-          "viewCount": 4896
+          "viewCount": 4942
         },
         {
           "videoId": "YY_9Zvhfhp8",
@@ -797,7 +756,7 @@
               "height": 720
             }
           },
-          "viewCount": 2237,
+          "viewCount": 2240,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-07T04:08:38Z",
@@ -838,7 +797,7 @@
               "height": 720
             }
           },
-          "viewCount": 2779,
+          "viewCount": 2783,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-07T04:08:38Z",
@@ -879,7 +838,7 @@
               "height": 720
             }
           },
-          "viewCount": 3332,
+          "viewCount": 3339,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-07T00:14:30Z",
@@ -1012,7 +971,7 @@
               "height": 720
             }
           },
-          "viewCount": 1733
+          "viewCount": 1734
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1248,7 +1207,7 @@
               "height": 720
             }
           },
-          "viewCount": 1774
+          "viewCount": 1874
         },
         {
           "videoId": "pu0wOHKWfps",
@@ -1283,7 +1242,7 @@
               "height": 720
             }
           },
-          "viewCount": 4613
+          "viewCount": 4614
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1394,7 +1353,7 @@
               "height": 720
             }
           },
-          "viewCount": 1803
+          "viewCount": 1836
         },
         {
           "videoId": "EEmrT8mfk5Y",
@@ -1429,7 +1388,7 @@
               "height": 720
             }
           },
-          "viewCount": 2242
+          "viewCount": 2263
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1690,7 +1649,7 @@
               "height": 720
             }
           },
-          "viewCount": 359
+          "viewCount": 365
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1816,49 +1775,7 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
-        {
-          "videoId": "rcMZZ62U78c",
-          "title": "ヨシヒコ・ライブ＃３３",
-          "description": "",
-          "publishedAt": "2026-06-11T06:39:34Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/rcMZZ62U78c/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/rcMZZ62U78c/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/rcMZZ62U78c/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/rcMZZ62U78c/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/rcMZZ62U78c/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 301,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2026-06-11T12:00:00Z",
-            "actualStartTime": "2026-06-11T12:05:52Z",
-            "concurrentViewers": 149
-          }
-        }
-      ],
+      "liveVideos": [],
       "recentVideos": [
         {
           "videoId": "cILeo4XhPpM",
@@ -1893,7 +1810,7 @@
               "height": 720
             }
           },
-          "viewCount": 203
+          "viewCount": 468
         },
         {
           "videoId": "3YEVoKHPvRE",
@@ -1928,7 +1845,7 @@
               "height": 720
             }
           },
-          "viewCount": 786
+          "viewCount": 973
         },
         {
           "videoId": "uid-okZfSTk",
@@ -1963,7 +1880,7 @@
               "height": 720
             }
           },
-          "viewCount": 4319
+          "viewCount": 4422
         },
         {
           "videoId": "nzXJELjHLJE",
@@ -1998,53 +1915,12 @@
               "height": 720
             }
           },
-          "viewCount": 2340,
+          "viewCount": 2346,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-05T12:00:00Z",
             "actualStartTime": "2026-06-05T12:00:06Z",
             "actualEndTime": "2026-06-05T12:32:33Z"
-          }
-        },
-        {
-          "videoId": "8xvDGVHcjEw",
-          "title": "怒ってます！善福寺川の話ー  ヨシヒコ・ライブ＃３２",
-          "description": "今週のヨシヒコ\n・個別に、たくさんの方たちに会ってお話しを伺っています。\n視覚障害者にパソコンを教えている人、お子さん２人が不登校でフリースクールに通わせているお母さん、小学生のお子さんを持つお母さん、臓器移植関係の権威の人、ソーラーパネルに詳しい人などなど、普段聞けないお話ばかりでした。\n・意見交換会で出た防災の話\n\n昨日の大雨から〜善福寺川上流貯水池の話\n\n寄付のお礼\n\nなどなど。",
-          "publishedAt": "2026-06-04T13:39:25Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/8xvDGVHcjEw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2192,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-06-04T12:00:00Z",
-            "actualStartTime": "2026-06-04T12:02:41Z",
-            "actualEndTime": "2026-06-04T13:18:12Z"
           }
         }
       ],
