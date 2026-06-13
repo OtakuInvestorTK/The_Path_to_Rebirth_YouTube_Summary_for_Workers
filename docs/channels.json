@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-13T00:14:54.598Z",
+  "requestedAt": "2026-06-13T05:16:16.786Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11464,
+          "viewCount": 11493,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "oa4q67MTZ00",
+          "title": "狛江の緑を観察して回る#狛江",
+          "description": "",
+          "publishedAt": "2026-06-13T04:06:24Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oa4q67MTZ00/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oa4q67MTZ00/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oa4q67MTZ00/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oa4q67MTZ00/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oa4q67MTZ00/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 963
+        },
+        {
           "videoId": "XEqJIkHduQ4",
           "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
           "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 1706,
+          "viewCount": 1852,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T09:09:59Z",
@@ -165,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 2733,
+          "viewCount": 2748,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T02:19:07Z",
@@ -206,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 1352,
+          "viewCount": 1371,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T23:12:11Z",
@@ -247,7 +282,7 @@
               "height": 720
             }
           },
-          "viewCount": 1334,
+          "viewCount": 1339,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T23:38:18Z",
@@ -288,7 +323,7 @@
               "height": 720
             }
           },
-          "viewCount": 567,
+          "viewCount": 573,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T00:45:34Z",
@@ -329,7 +364,7 @@
               "height": 720
             }
           },
-          "viewCount": 987,
+          "viewCount": 1001,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T09:23:52Z",
@@ -370,7 +405,7 @@
               "height": 720
             }
           },
-          "viewCount": 1190,
+          "viewCount": 1192,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T07:49:03Z",
@@ -411,7 +446,7 @@
               "height": 720
             }
           },
-          "viewCount": 1308,
+          "viewCount": 1312,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T06:03:34Z",
@@ -452,7 +487,7 @@
               "height": 720
             }
           },
-          "viewCount": 798,
+          "viewCount": 808,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T03:45:58Z",
@@ -493,7 +528,7 @@
               "height": 720
             }
           },
-          "viewCount": 808,
+          "viewCount": 810,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T01:59:39Z",
@@ -534,7 +569,7 @@
               "height": 720
             }
           },
-          "viewCount": 3446
+          "viewCount": 3494
         },
         {
           "videoId": "bboC_gMwu_c",
@@ -569,7 +604,7 @@
               "height": 720
             }
           },
-          "viewCount": 409,
+          "viewCount": 410,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T03:31:54Z",
@@ -610,7 +645,7 @@
               "height": 720
             }
           },
-          "viewCount": 5571
+          "viewCount": 5606
         },
         {
           "videoId": "iAWWN_TNVK0",
@@ -645,7 +680,7 @@
               "height": 720
             }
           },
-          "viewCount": 3109,
+          "viewCount": 3108,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-09T08:59:23Z",
@@ -686,7 +721,7 @@
               "height": 720
             }
           },
-          "viewCount": 1356,
+          "viewCount": 1358,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T13:32:32Z",
@@ -727,7 +762,7 @@
               "height": 720
             }
           },
-          "viewCount": 5038
+          "viewCount": 5080
         },
         {
           "videoId": "fpJ26aGbrS4",
@@ -762,7 +797,7 @@
               "height": 720
             }
           },
-          "viewCount": 2257,
+          "viewCount": 2260,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-08T07:58:19Z",
@@ -803,7 +838,7 @@
               "height": 720
             }
           },
-          "viewCount": 5067
+          "viewCount": 5077
         },
         {
           "videoId": "YY_9Zvhfhp8",
@@ -838,53 +873,12 @@
               "height": 720
             }
           },
-          "viewCount": 2246,
+          "viewCount": 2248,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-07T04:08:38Z",
             "actualStartTime": "2026-06-07T06:15:02Z",
             "actualEndTime": "2026-06-07T07:39:52Z"
-          }
-        },
-        {
-          "videoId": "0u5NwB568QM",
-          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2026-06-07T18:18:30Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/0u5NwB568QM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/0u5NwB568QM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/0u5NwB568QM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/0u5NwB568QM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/0u5NwB568QM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2790,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-06-07T04:08:38Z",
-            "actualStartTime": "2026-06-07T04:09:11Z",
-            "actualEndTime": "2026-06-07T06:14:18Z"
           }
         }
       ],
@@ -937,43 +931,7 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "1Fb1Jtn5wbY",
-          "title": "DV・ストーカータイプの男性の見極め方",
-          "description": "悪い男に引っかからないためには。\n#DV #ストーカー #モラハラ",
-          "publishedAt": "2026-06-06T04:14:19Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/1Fb1Jtn5wbY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1759
-        }
-      ],
+      "recentVideos": [],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -1175,6 +1133,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "skYQFAzsTY0",
+          "title": "白糸台小学校通学路歩道植栽剪定 2026年6月12日(金) #府中市 #ボランティア",
+          "description": "植栽の枝が伸びて歩道の通行空間を侵食している箇所が散見されます\n枯れ枝が絡まって落ち葉が堆積し、集水マスが詰まり雨水が流れなくなっている場所もあります\n残念ながら行政の手で適正な維持管理が出来ているとは言えない状況です\n#府中市\n#インフラ",
+          "publishedAt": "2026-06-13T04:53:59Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/skYQFAzsTY0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/skYQFAzsTY0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/skYQFAzsTY0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/skYQFAzsTY0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/skYQFAzsTY0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 326
+        },
+        {
           "videoId": "zHD3x3jhlkk",
           "title": "府中市白糸台小学校通学路歩道植栽剪定 #府中市 #インフラ",
           "description": "府中市朝日町第2公園に面する歩道植栽の枝が伸び過ぎていたので剪定しました。\n多磨駅と都営住宅を結ぶ動線でもあるので出来るだけ歩道を通行して貰いたいところ🥲",
@@ -1207,42 +1200,7 @@
               "height": 720
             }
           },
-          "viewCount": 2064
-        },
-        {
-          "videoId": "pu0wOHKWfps",
-          "title": "府中市白糸台小学校通学路歩道植栽剪定2026年6月1日",
-          "description": "白糸台小学校通学路の歩道通行空間が狭まっていたので、引き続き植栽の剪定をおこなっています\n#府中市 #インフラ",
-          "publishedAt": "2026-06-06T00:35:36Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/pu0wOHKWfps/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/pu0wOHKWfps/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/pu0wOHKWfps/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/pu0wOHKWfps/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/pu0wOHKWfps/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4629
+          "viewCount": 2073
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1353,7 +1311,7 @@
               "height": 720
             }
           },
-          "viewCount": 1975
+          "viewCount": 1979
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1414,7 +1372,7 @@
               "height": 720
             }
           },
-          "viewCount": 3724,
+          "viewCount": 3936,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T07:36:12Z",
@@ -1606,7 +1564,7 @@
               "height": 720
             }
           },
-          "viewCount": 1748
+          "viewCount": 2030
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -1632,7 +1590,47 @@
         }
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "m4BkZPcSDAw",
+          "title": "なおりん通信シーズン２　＃６",
+          "description": "ジャカルタから昨年のイベントについて語ります",
+          "publishedAt": "2026-06-13T01:13:31Z",
+          "channelTitle": "浅井なおゆき",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m4BkZPcSDAw/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m4BkZPcSDAw/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m4BkZPcSDAw/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m4BkZPcSDAw/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m4BkZPcSDAw/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-06-14T10:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
@@ -1692,7 +1690,7 @@
               "height": 720
             }
           },
-          "viewCount": 426
+          "viewCount": 431
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1853,7 +1851,7 @@
               "height": 720
             }
           },
-          "viewCount": 1241
+          "viewCount": 1270
         },
         {
           "videoId": "3YEVoKHPvRE",
@@ -1888,7 +1886,7 @@
               "height": 720
             }
           },
-          "viewCount": 1416
+          "viewCount": 1440
         },
         {
           "videoId": "uid-okZfSTk",
@@ -1923,7 +1921,7 @@
               "height": 720
             }
           },
-          "viewCount": 4654
+          "viewCount": 4659
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
