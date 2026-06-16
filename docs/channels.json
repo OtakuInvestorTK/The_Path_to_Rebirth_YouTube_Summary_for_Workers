@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-16T12:06:56.232Z",
+  "requestedAt": "2026-06-16T17:58:35.006Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 2377,
+          "viewCount": 3708,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-06-16T04:00:00Z",
             "actualStartTime": "2026-06-16T04:15:06Z",
-            "concurrentViewers": 12
+            "concurrentViewers": 5
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 6729,
+          "viewCount": 7128,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-15T13:00:00Z",
@@ -140,7 +140,7 @@
               "height": 720
             }
           },
-          "viewCount": 1229
+          "viewCount": 1352
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -201,7 +201,7 @@
               "height": 720
             }
           },
-          "viewCount": 1402
+          "viewCount": 2601
         },
         {
           "videoId": "0Wtzt36kAgM",
@@ -236,7 +236,7 @@
               "height": 720
             }
           },
-          "viewCount": 2538
+          "viewCount": 3138
         },
         {
           "videoId": "2DpPdMgYkZ8",
@@ -271,7 +271,7 @@
               "height": 720
             }
           },
-          "viewCount": 3015
+          "viewCount": 3884
         },
         {
           "videoId": "fT1JtG9XMxI",
@@ -306,7 +306,7 @@
               "height": 720
             }
           },
-          "viewCount": 2264
+          "viewCount": 2374
         },
         {
           "videoId": "TiW8ILIPouE",
@@ -341,7 +341,7 @@
               "height": 720
             }
           },
-          "viewCount": 1878
+          "viewCount": 1937
         },
         {
           "videoId": "7oYQWPRRvJ4",
@@ -376,7 +376,7 @@
               "height": 720
             }
           },
-          "viewCount": 5513
+          "viewCount": 5716
         },
         {
           "videoId": "wSkcUqP5PdY",
@@ -411,7 +411,7 @@
               "height": 720
             }
           },
-          "viewCount": 2922
+          "viewCount": 2953
         },
         {
           "videoId": "k7iqy_L_jmY",
@@ -446,7 +446,7 @@
               "height": 720
             }
           },
-          "viewCount": 2203
+          "viewCount": 2240
         },
         {
           "videoId": "qlw3MEI3qf0",
@@ -481,7 +481,7 @@
               "height": 720
             }
           },
-          "viewCount": 3149
+          "viewCount": 3194
         },
         {
           "videoId": "oa4q67MTZ00",
@@ -516,7 +516,7 @@
               "height": 720
             }
           },
-          "viewCount": 3438
+          "viewCount": 3444
         },
         {
           "videoId": "XEqJIkHduQ4",
@@ -551,7 +551,7 @@
               "height": 720
             }
           },
-          "viewCount": 2356,
+          "viewCount": 2368,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T09:09:59Z",
@@ -592,7 +592,7 @@
               "height": 720
             }
           },
-          "viewCount": 2830,
+          "viewCount": 2836,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T02:19:07Z",
@@ -633,7 +633,7 @@
               "height": 720
             }
           },
-          "viewCount": 1495,
+          "viewCount": 1497,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T23:12:11Z",
@@ -674,7 +674,7 @@
               "height": 720
             }
           },
-          "viewCount": 1384,
+          "viewCount": 1388,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T23:38:18Z",
@@ -756,7 +756,7 @@
               "height": 720
             }
           },
-          "viewCount": 1145,
+          "viewCount": 1148,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T09:23:52Z",
@@ -879,7 +879,7 @@
               "height": 720
             }
           },
-          "viewCount": 849,
+          "viewCount": 857,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T03:45:58Z",
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 862,
+          "viewCount": 864,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T01:59:39Z",
@@ -1212,7 +1212,7 @@
               "height": 720
             }
           },
-          "viewCount": 4634
+          "viewCount": 4678
         },
         {
           "videoId": "zHD3x3jhlkk",
@@ -1247,7 +1247,7 @@
               "height": 720
             }
           },
-          "viewCount": 2171
+          "viewCount": 2173
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1358,7 +1358,7 @@
               "height": 720
             }
           },
-          "viewCount": 2874
+          "viewCount": 2984
         },
         {
           "videoId": "YRRgvTTheco",
@@ -1393,7 +1393,7 @@
               "height": 720
             }
           },
-          "viewCount": 2158
+          "viewCount": 2166
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1454,7 +1454,7 @@
               "height": 720
             }
           },
-          "viewCount": 4589,
+          "viewCount": 4604,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T07:36:12Z",
@@ -1646,7 +1646,7 @@
               "height": 720
             }
           },
-          "viewCount": 5329
+          "viewCount": 5370
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -1707,7 +1707,7 @@
               "height": 720
             }
           },
-          "viewCount": 1414,
+          "viewCount": 1434,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T10:00:00Z",
@@ -1903,6 +1903,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "iNMwPKyAApY",
+          "title": "寄付とメッセージをありがとうございます！",
+          "description": "たくさんの方たちから応援していただいて、本当に感謝です。\n寄付と共に心あたたまるメッセージをいただき、そのひとつひとつを読みながら噛みしめています。一部ですが、ご紹介させてください。\n\n今回の選挙でも幾度か話題になっていますが、選挙にはお金がかかる。だから、資金力のある政党や団体がついていない人にとって、選挙は圧倒的に不利なのです。だからこそ、皆さんのサポートが本当にありがたい。ありがとうございます。\n\nご寄付はこちらから受け付けています。\nhttps://go2senkyo.com/seijika/195808",
+          "publishedAt": "2026-06-16T16:35:58Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iNMwPKyAApY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iNMwPKyAApY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iNMwPKyAApY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iNMwPKyAApY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iNMwPKyAApY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 74
+        },
+        {
           "videoId": "j1CWzmWz0vo",
           "title": "待機児童ゼロ、なのに残る“1歳の壁” 〜杉並区の保育・幼児教育〜",
           "description": "今回は、杉並区の「子育て支援」の中から、「保育・幼児教育」をテーマに、増田よし\nひこがお話しします。\n\nまず、杉並区の子育てをめぐる基礎情報を共有し、そのうえで「保育・幼児教育」の現\n状と課題を整理しました。\n\n就学前の子ども（0〜5歳）は、杉並区に約2.3万人。人口比でみると23区の平均よりやや\n低く、しかも、これから減り続けると予測されています。子育て世代に「選ばれる杉並\n」をどうつくるかは、区の未来そのものに直結します。\n\n保育園の待機児童は、全体としては解消されています。それでも、「希望の園に入れな\nい」「きょうだいで別々の園になる」「1歳から入りにくい（いわゆる“1歳の壁”）」と\nいった課題が、まだ残っています。その背景には、0〜2歳児ほど手厚い保育士の配置が\n必要で、保育士不足のなかで受け皿が広がりにくい、という構造があります。\n\n杉並区の子育て支援は、「保育・幼児教育」「子育て家庭支援」「学童・居場所支援」\n「養護支援」の4分野。今回は、その中の「保育・幼児教育」を取り上げました。\n\n＃杉並区\n＃増田よしひこ\n＃子育て支援\n＃保育\n＃幼児教育\n\n\n🌱\n「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。\n誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録）\n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！\nビラ配り、ポスター貼りなど、短時間から大歓迎です！\n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える\nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」か\nら「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット\n杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉\nオープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX1akxgEgapxjncT0k4pPT2zw?utm_source=invitat\nion&utm_medium=link_copy&utm_campaign\n\nあなたの壁を貸してください！\n「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。\n👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！\n握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O\n\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
@@ -1935,7 +1970,7 @@
               "height": 720
             }
           },
-          "viewCount": 1189
+          "viewCount": 1208
         },
         {
           "videoId": "cILeo4XhPpM",
@@ -1970,7 +2005,7 @@
               "height": 720
             }
           },
-          "viewCount": 1447
+          "viewCount": 1453
         },
         {
           "videoId": "3YEVoKHPvRE",
@@ -2005,7 +2040,7 @@
               "height": 720
             }
           },
-          "viewCount": 1543
+          "viewCount": 1546
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
