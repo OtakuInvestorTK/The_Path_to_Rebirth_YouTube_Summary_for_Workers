@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-17T06:04:47.155Z",
+  "requestedAt": "2026-06-17T11:41:48.200Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 4654,
+          "viewCount": 5015,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-06-16T04:00:00Z",
             "actualStartTime": "2026-06-16T04:15:06Z",
-            "concurrentViewers": 7
+            "concurrentViewers": 11
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 7448,
+          "viewCount": 7618,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-15T13:00:00Z",
@@ -140,7 +140,7 @@
               "height": 720
             }
           },
-          "viewCount": 1464
+          "viewCount": 1534
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -201,7 +201,7 @@
               "height": 720
             }
           },
-          "viewCount": 1112
+          "viewCount": 1711
         },
         {
           "videoId": "aR6ATyGjYKA",
@@ -236,7 +236,7 @@
               "height": 720
             }
           },
-          "viewCount": 3372
+          "viewCount": 3710
         },
         {
           "videoId": "0Wtzt36kAgM",
@@ -271,7 +271,7 @@
               "height": 720
             }
           },
-          "viewCount": 3453
+          "viewCount": 3547
         },
         {
           "videoId": "2DpPdMgYkZ8",
@@ -306,7 +306,7 @@
               "height": 720
             }
           },
-          "viewCount": 4384
+          "viewCount": 4540
         },
         {
           "videoId": "fT1JtG9XMxI",
@@ -341,7 +341,7 @@
               "height": 720
             }
           },
-          "viewCount": 2484
+          "viewCount": 2522
         },
         {
           "videoId": "TiW8ILIPouE",
@@ -376,7 +376,7 @@
               "height": 720
             }
           },
-          "viewCount": 2005
+          "viewCount": 2018
         },
         {
           "videoId": "7oYQWPRRvJ4",
@@ -411,7 +411,7 @@
               "height": 720
             }
           },
-          "viewCount": 5908
+          "viewCount": 6026
         },
         {
           "videoId": "wSkcUqP5PdY",
@@ -446,7 +446,7 @@
               "height": 720
             }
           },
-          "viewCount": 2984
+          "viewCount": 3000
         },
         {
           "videoId": "k7iqy_L_jmY",
@@ -481,7 +481,7 @@
               "height": 720
             }
           },
-          "viewCount": 2292
+          "viewCount": 2305
         },
         {
           "videoId": "qlw3MEI3qf0",
@@ -516,7 +516,7 @@
               "height": 720
             }
           },
-          "viewCount": 3208
+          "viewCount": 3214
         },
         {
           "videoId": "oa4q67MTZ00",
@@ -551,7 +551,7 @@
               "height": 720
             }
           },
-          "viewCount": 3466
+          "viewCount": 3470
         },
         {
           "videoId": "XEqJIkHduQ4",
@@ -586,7 +586,7 @@
               "height": 720
             }
           },
-          "viewCount": 2388,
+          "viewCount": 2396,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T09:09:59Z",
@@ -627,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 2841,
+          "viewCount": 2842,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T02:19:07Z",
@@ -668,7 +668,7 @@
               "height": 720
             }
           },
-          "viewCount": 1501,
+          "viewCount": 1502,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T23:12:11Z",
@@ -709,7 +709,7 @@
               "height": 720
             }
           },
-          "viewCount": 1389,
+          "viewCount": 1392,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T23:38:18Z",
@@ -750,7 +750,7 @@
               "height": 720
             }
           },
-          "viewCount": 612,
+          "viewCount": 613,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T00:45:34Z",
@@ -791,7 +791,7 @@
               "height": 720
             }
           },
-          "viewCount": 1153,
+          "viewCount": 1158,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T09:23:52Z",
@@ -832,7 +832,7 @@
               "height": 720
             }
           },
-          "viewCount": 1223,
+          "viewCount": 1230,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T07:49:03Z",
@@ -873,7 +873,7 @@
               "height": 720
             }
           },
-          "viewCount": 1372,
+          "viewCount": 1377,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T06:03:34Z",
@@ -914,7 +914,7 @@
               "height": 720
             }
           },
-          "viewCount": 859,
+          "viewCount": 863,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T03:45:58Z",
@@ -1206,7 +1206,7 @@
               "height": 720
             }
           },
-          "viewCount": 4706
+          "viewCount": 4713
         },
         {
           "videoId": "zHD3x3jhlkk",
@@ -1241,7 +1241,7 @@
               "height": 720
             }
           },
-          "viewCount": 2173
+          "viewCount": 2175
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1352,7 +1352,7 @@
               "height": 720
             }
           },
-          "viewCount": 3086
+          "viewCount": 3137
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1413,7 +1413,7 @@
               "height": 720
             }
           },
-          "viewCount": 4611,
+          "viewCount": 4618,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T07:36:12Z",
@@ -1605,7 +1605,7 @@
               "height": 720
             }
           },
-          "viewCount": 5390
+          "viewCount": 5400
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -1666,7 +1666,7 @@
               "height": 720
             }
           },
-          "viewCount": 1450,
+          "viewCount": 1453,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T10:00:00Z",
@@ -1701,39 +1701,39 @@
       "liveVideos": [],
       "recentVideos": [
         {
-          "videoId": "yLLT9ZY6l6M",
-          "title": "知らないと気まずい！ドイツでやってはいけない意外なマナー3選",
-          "description": "今回は、ドイツで気をつけたい「タブー」についてお話しします。\n\nタブーと言っても、重い話ではありません。\n日本では普通にやっているけれど、ドイツでは少しマナー違反に見えてしまうことです。\n\n今回紹介するのは3つ。\n\n麺やスープをすすらない。\n誕生日を前倒しで祝わない。\n乾杯の時は相手の目を見る。\n\nどれも、知らずにやってしまうと少し気まずいですが、知っているだけでドイツでの印象はかなり変わります。\n\nマナーは、どちらが正しいかではなく、その場所で何が自然かの話。\nドイツ生活や旅行で役立つ、小さな文化の違いについてゆるく話しています。\n\n#ドイツ生活 #ドイツ文化 #海外マナー #カルチャーショック #ずぼらジオ",
-          "publishedAt": "2026-06-10T09:00:03Z",
+          "videoId": "4PaAIvDqAmI",
+          "title": "自分から少し変わるだけで、世界の見え方は変わる｜与えよ、さらば与えられん",
+          "description": "今回は、「与えよ、さらば与えられん」というテーマでお話しします。\n\n日本のサービスは丁寧で平均値が高い。\nでも時々、マニュアル的で人間味が薄いと感じることもある。\n\nそんな話を聞いた時、あるアメリカ人の言葉が刺さりました。\n\n「自分がロボットのように注文すれば、店員さんもロボットのように返してくる。でも、自分から少し心を開けば、相手も返してくれることがある」\n\n相手が冷たいのではなく、自分も冷たく接していたのかもしれない。\n環境はただ受け取るものではなく、自分も少しずつ作っているものなのかもしれない。\n\n海外を見ることは、日本を見ること。\nそして、自分自身の見方のクセを見ることでもある。\n\n今回は、海外生活を経て最近あらためて考えた、人間関係と「先に与える」ことについてのコラム回です。\n\n#海外生活 #ドイツ生活 #人間関係 #異文化理解 #ずぼらジオ",
+          "publishedAt": "2026-06-17T09:00:04Z",
           "channelTitle": "南貴大のずぼらジオ",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/yLLT9ZY6l6M/default.jpg",
+              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/yLLT9ZY6l6M/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/yLLT9ZY6l6M/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/yLLT9ZY6l6M/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/yLLT9ZY6l6M/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 460
+          "viewCount": 68
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1894,7 +1894,7 @@
               "height": 720
             }
           },
-          "viewCount": 1160
+          "viewCount": 1587
         },
         {
           "videoId": "j1CWzmWz0vo",
@@ -1929,7 +1929,7 @@
               "height": 720
             }
           },
-          "viewCount": 1229
+          "viewCount": 1242
         },
         {
           "videoId": "cILeo4XhPpM",
@@ -1964,7 +1964,7 @@
               "height": 720
             }
           },
-          "viewCount": 1462
+          "viewCount": 1467
         },
         {
           "videoId": "3YEVoKHPvRE",
@@ -1999,7 +1999,7 @@
               "height": 720
             }
           },
-          "viewCount": 1554
+          "viewCount": 1563
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
