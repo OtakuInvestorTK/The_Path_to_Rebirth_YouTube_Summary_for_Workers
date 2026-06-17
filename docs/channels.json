@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-17T20:05:04.034Z",
+  "requestedAt": "2026-06-17T22:42:08.434Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 5484,
+          "viewCount": 5552,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-06-16T04:00:00Z",
             "actualStartTime": "2026-06-16T04:15:06Z",
-            "concurrentViewers": 3
+            "concurrentViewers": 2
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 7842,
+          "viewCount": 7898,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-15T13:00:00Z",
@@ -140,7 +140,7 @@
               "height": 720
             }
           },
-          "viewCount": 1607
+          "viewCount": 1626
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -201,7 +201,7 @@
               "height": 720
             }
           },
-          "viewCount": 2141
+          "viewCount": 2180
         },
         {
           "videoId": "aR6ATyGjYKA",
@@ -236,7 +236,7 @@
               "height": 720
             }
           },
-          "viewCount": 3964
+          "viewCount": 3990
         },
         {
           "videoId": "0Wtzt36kAgM",
@@ -271,7 +271,7 @@
               "height": 720
             }
           },
-          "viewCount": 3636
+          "viewCount": 3644
         },
         {
           "videoId": "2DpPdMgYkZ8",
@@ -306,7 +306,7 @@
               "height": 720
             }
           },
-          "viewCount": 4747
+          "viewCount": 4782
         },
         {
           "videoId": "fT1JtG9XMxI",
@@ -341,7 +341,7 @@
               "height": 720
             }
           },
-          "viewCount": 2577
+          "viewCount": 2591
         },
         {
           "videoId": "TiW8ILIPouE",
@@ -376,7 +376,7 @@
               "height": 720
             }
           },
-          "viewCount": 2041
+          "viewCount": 2044
         },
         {
           "videoId": "7oYQWPRRvJ4",
@@ -411,7 +411,7 @@
               "height": 720
             }
           },
-          "viewCount": 6111
+          "viewCount": 6122
         },
         {
           "videoId": "wSkcUqP5PdY",
@@ -446,7 +446,7 @@
               "height": 720
             }
           },
-          "viewCount": 3036
+          "viewCount": 3040
         },
         {
           "videoId": "k7iqy_L_jmY",
@@ -481,7 +481,7 @@
               "height": 720
             }
           },
-          "viewCount": 2341
+          "viewCount": 2345
         },
         {
           "videoId": "qlw3MEI3qf0",
@@ -516,7 +516,7 @@
               "height": 720
             }
           },
-          "viewCount": 3233
+          "viewCount": 3234
         },
         {
           "videoId": "oa4q67MTZ00",
@@ -551,7 +551,7 @@
               "height": 720
             }
           },
-          "viewCount": 3479
+          "viewCount": 3481
         },
         {
           "videoId": "XEqJIkHduQ4",
@@ -586,7 +586,7 @@
               "height": 720
             }
           },
-          "viewCount": 2410,
+          "viewCount": 2411,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T09:09:59Z",
@@ -627,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 2848,
+          "viewCount": 2850,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T02:19:07Z",
@@ -797,47 +797,6 @@
             "scheduledStartTime": "2026-06-10T09:23:52Z",
             "actualStartTime": "2026-06-10T23:24:18Z",
             "actualEndTime": "2026-06-10T23:38:08Z"
-          }
-        },
-        {
-          "videoId": "oKqKYKY3PQw",
-          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2026-06-10T20:55:33Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/oKqKYKY3PQw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/oKqKYKY3PQw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/oKqKYKY3PQw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/oKqKYKY3PQw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/oKqKYKY3PQw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1236,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-06-10T07:49:03Z",
-            "actualStartTime": "2026-06-10T07:49:42Z",
-            "actualEndTime": "2026-06-10T08:52:52Z"
           }
         }
       ],
@@ -1124,7 +1083,7 @@
               "height": 720
             }
           },
-          "viewCount": 4716
+          "viewCount": 4719
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1235,7 +1194,7 @@
               "height": 720
             }
           },
-          "viewCount": 3195
+          "viewCount": 3200
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1488,7 +1447,7 @@
               "height": 720
             }
           },
-          "viewCount": 5409
+          "viewCount": 5413
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -1549,7 +1508,7 @@
               "height": 720
             }
           },
-          "viewCount": 1466,
+          "viewCount": 1468,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T10:00:00Z",
@@ -1616,7 +1575,7 @@
               "height": 720
             }
           },
-          "viewCount": 218
+          "viewCount": 238
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1777,7 +1736,7 @@
               "height": 720
             }
           },
-          "viewCount": 755
+          "viewCount": 826
         },
         {
           "videoId": "iNMwPKyAApY",
@@ -1812,7 +1771,7 @@
               "height": 720
             }
           },
-          "viewCount": 2041
+          "viewCount": 2081
         },
         {
           "videoId": "j1CWzmWz0vo",
