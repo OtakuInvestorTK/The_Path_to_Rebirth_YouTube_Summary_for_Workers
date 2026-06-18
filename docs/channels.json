@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-18T05:50:48.289Z",
+  "requestedAt": "2026-06-18T10:11:43.522Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 5852,
+          "viewCount": 6100,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-06-16T04:00:00Z",
             "actualStartTime": "2026-06-16T04:15:06Z",
-            "concurrentViewers": 8
+            "concurrentViewers": 6
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 7959,
+          "viewCount": 8006,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-15T13:00:00Z",
@@ -140,7 +140,7 @@
               "height": 720
             }
           },
-          "viewCount": 1649
+          "viewCount": 1665
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -168,6 +168,41 @@
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "ymsyCVuzGaw",
+          "title": "若者の政治参加を促します！#狛江 #政治参加",
+          "description": "",
+          "publishedAt": "2026-06-18T07:31:05Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ymsyCVuzGaw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ymsyCVuzGaw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ymsyCVuzGaw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ymsyCVuzGaw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ymsyCVuzGaw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1232
+        },
         {
           "videoId": "hNps76PeFWU",
           "title": "狛江産パクチー美味しいよ#狛江#チャオサイゴン #パクチー",
@@ -201,7 +236,7 @@
               "height": 720
             }
           },
-          "viewCount": 2293
+          "viewCount": 2360
         },
         {
           "videoId": "aR6ATyGjYKA",
@@ -236,7 +271,7 @@
               "height": 720
             }
           },
-          "viewCount": 4059
+          "viewCount": 4146
         },
         {
           "videoId": "0Wtzt36kAgM",
@@ -271,7 +306,7 @@
               "height": 720
             }
           },
-          "viewCount": 3667
+          "viewCount": 3681
         },
         {
           "videoId": "2DpPdMgYkZ8",
@@ -306,7 +341,7 @@
               "height": 720
             }
           },
-          "viewCount": 4869
+          "viewCount": 4910
         },
         {
           "videoId": "fT1JtG9XMxI",
@@ -341,7 +376,7 @@
               "height": 720
             }
           },
-          "viewCount": 2615
+          "viewCount": 2635
         },
         {
           "videoId": "TiW8ILIPouE",
@@ -376,7 +411,7 @@
               "height": 720
             }
           },
-          "viewCount": 2052
+          "viewCount": 2063
         },
         {
           "videoId": "7oYQWPRRvJ4",
@@ -411,7 +446,7 @@
               "height": 720
             }
           },
-          "viewCount": 6153
+          "viewCount": 6174
         },
         {
           "videoId": "wSkcUqP5PdY",
@@ -446,7 +481,7 @@
               "height": 720
             }
           },
-          "viewCount": 3057
+          "viewCount": 3063
         },
         {
           "videoId": "k7iqy_L_jmY",
@@ -481,7 +516,7 @@
               "height": 720
             }
           },
-          "viewCount": 2362
+          "viewCount": 2376
         },
         {
           "videoId": "qlw3MEI3qf0",
@@ -516,7 +551,7 @@
               "height": 720
             }
           },
-          "viewCount": 3243
+          "viewCount": 3250
         },
         {
           "videoId": "oa4q67MTZ00",
@@ -551,7 +586,7 @@
               "height": 720
             }
           },
-          "viewCount": 3485
+          "viewCount": 3491
         },
         {
           "videoId": "XEqJIkHduQ4",
@@ -586,7 +621,7 @@
               "height": 720
             }
           },
-          "viewCount": 2421,
+          "viewCount": 2433,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T09:09:59Z",
@@ -627,7 +662,7 @@
               "height": 720
             }
           },
-          "viewCount": 2851,
+          "viewCount": 2855,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T02:19:07Z",
@@ -668,7 +703,7 @@
               "height": 720
             }
           },
-          "viewCount": 1505,
+          "viewCount": 1510,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-11T23:12:11Z",
@@ -709,7 +744,7 @@
               "height": 720
             }
           },
-          "viewCount": 1400,
+          "viewCount": 1405,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-10T23:38:18Z",
@@ -1112,7 +1147,7 @@
               "height": 720
             }
           },
-          "viewCount": 3218
+          "viewCount": 3228
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1173,7 +1208,7 @@
               "height": 720
             }
           },
-          "viewCount": 4629,
+          "viewCount": 4633,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-12T07:36:12Z",
@@ -1365,7 +1400,7 @@
               "height": 720
             }
           },
-          "viewCount": 5422
+          "viewCount": 5432
         }
       ],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
@@ -1426,7 +1461,7 @@
               "height": 720
             }
           },
-          "viewCount": 1477,
+          "viewCount": 1481,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T10:00:00Z",
@@ -1493,7 +1528,7 @@
               "height": 720
             }
           },
-          "viewCount": 345
+          "viewCount": 439
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1694,7 +1729,7 @@
               "height": 720
             }
           },
-          "viewCount": 663
+          "viewCount": 1307
         },
         {
           "videoId": "oFJlNR49npg",
@@ -1729,7 +1764,7 @@
               "height": 720
             }
           },
-          "viewCount": 1163
+          "viewCount": 1378
         },
         {
           "videoId": "iNMwPKyAApY",
@@ -1764,7 +1799,7 @@
               "height": 720
             }
           },
-          "viewCount": 2201
+          "viewCount": 2312
         },
         {
           "videoId": "j1CWzmWz0vo",
@@ -1799,7 +1834,7 @@
               "height": 720
             }
           },
-          "viewCount": 1261
+          "viewCount": 1265
         },
         {
           "videoId": "cILeo4XhPpM",
@@ -1834,42 +1869,7 @@
               "height": 720
             }
           },
-          "viewCount": 1486
-        },
-        {
-          "videoId": "3YEVoKHPvRE",
-          "title": "杉並区の高齢者７つの施策〜これから誰が高齢者支えるのか？",
-          "description": "",
-          "publishedAt": "2026-06-11T06:35:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/3YEVoKHPvRE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/3YEVoKHPvRE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/3YEVoKHPvRE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/3YEVoKHPvRE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/3YEVoKHPvRE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1574
+          "viewCount": 1488
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
