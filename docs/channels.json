@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-19T06:10:40.417Z",
+  "requestedAt": "2026-06-19T11:15:38.409Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 6890,
+          "viewCount": 7137,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-06-16T04:00:00Z",
             "actualStartTime": "2026-06-16T04:15:06Z",
-            "concurrentViewers": 5
+            "concurrentViewers": 3
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 8206,
+          "viewCount": 8240,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-15T13:00:00Z",
@@ -140,7 +140,7 @@
               "height": 720
             }
           },
-          "viewCount": 1712
+          "viewCount": 1721
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -201,7 +201,7 @@
               "height": 720
             }
           },
-          "viewCount": 973
+          "viewCount": 2821
         },
         {
           "videoId": "FRFWrt28mUE",
@@ -236,7 +236,7 @@
               "height": 720
             }
           },
-          "viewCount": 492
+          "viewCount": 910
         },
         {
           "videoId": "m7GELRYCdts",
@@ -271,7 +271,7 @@
               "height": 720
             }
           },
-          "viewCount": 1157,
+          "viewCount": 1424,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T00:19:47Z",
@@ -312,7 +312,7 @@
               "height": 720
             }
           },
-          "viewCount": 3359
+          "viewCount": 3628
         },
         {
           "videoId": "hNps76PeFWU",
@@ -347,7 +347,7 @@
               "height": 720
             }
           },
-          "viewCount": 2568
+          "viewCount": 2619
         },
         {
           "videoId": "aR6ATyGjYKA",
@@ -382,7 +382,7 @@
               "height": 720
             }
           },
-          "viewCount": 4367
+          "viewCount": 4416
         },
         {
           "videoId": "0Wtzt36kAgM",
@@ -417,7 +417,7 @@
               "height": 720
             }
           },
-          "viewCount": 3827
+          "viewCount": 3860
         },
         {
           "videoId": "2DpPdMgYkZ8",
@@ -452,7 +452,7 @@
               "height": 720
             }
           },
-          "viewCount": 5029
+          "viewCount": 5070
         },
         {
           "videoId": "fT1JtG9XMxI",
@@ -487,7 +487,7 @@
               "height": 720
             }
           },
-          "viewCount": 2719
+          "viewCount": 2744
         },
         {
           "videoId": "TiW8ILIPouE",
@@ -522,7 +522,7 @@
               "height": 720
             }
           },
-          "viewCount": 2105
+          "viewCount": 2111
         },
         {
           "videoId": "7oYQWPRRvJ4",
@@ -557,7 +557,7 @@
               "height": 720
             }
           },
-          "viewCount": 6237
+          "viewCount": 6242
         },
         {
           "videoId": "wSkcUqP5PdY",
@@ -592,7 +592,7 @@
               "height": 720
             }
           },
-          "viewCount": 3099
+          "viewCount": 3103
         },
         {
           "videoId": "k7iqy_L_jmY",
@@ -662,7 +662,7 @@
               "height": 720
             }
           },
-          "viewCount": 3276
+          "viewCount": 3279
         },
         {
           "videoId": "oa4q67MTZ00",
@@ -697,7 +697,7 @@
               "height": 720
             }
           },
-          "viewCount": 3509
+          "viewCount": 3512
         },
         {
           "videoId": "XEqJIkHduQ4",
@@ -1024,7 +1024,7 @@
               "height": 720
             }
           },
-          "viewCount": 4739
+          "viewCount": 4741
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1135,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 3264
+          "viewCount": 3273
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1162,49 +1162,7 @@
       },
       "channelId": "UCeE5CTgzM8Ly7TC4FZwy3pg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "bpxCNGRxlkA",
-          "title": "久々/近況【えらやすひろ】",
-          "description": "\\\\チャンネル登録/いいね！お願いします🙏//\n\nえらやすひろのXはこちら\nhttps://x.com/pacemakerm",
-          "publishedAt": "2026-06-12T08:50:57Z",
-          "channelTitle": "恵良康寛(足立区、中小企業診断士)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/bpxCNGRxlkA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/bpxCNGRxlkA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/bpxCNGRxlkA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/bpxCNGRxlkA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/bpxCNGRxlkA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4645,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-06-12T07:36:12Z",
-            "actualStartTime": "2026-06-12T07:46:34Z",
-            "actualEndTime": "2026-06-12T08:26:04Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "恵良康寛,恵良やすひろ,えら康寛,えらやすひろ"
     },
     {
@@ -1354,43 +1312,7 @@
       },
       "channelId": "UCKayNPhS9o3Y3Hu6HQRhvbQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "amEBD2DpQbk",
-          "title": "【再生の道】葛飾区議会議員_岩見なつよ　令和８年第２回定例会 一般質問　©️Katsushika City Assembly.All rights reserved.",
-          "description": "テーマは３つ\n・創業支援事業について\n・スタジアム構想について\n・樹冠被覆率について\n\n5月に行った行政視察に自分なりの視察を加えて\nさまざまな学びを得ました。\n\nそこからの気づきや着想を得て、\n葛飾で生かせるように質問しました。\n\n石丸伸二率いる「再生の道」\n1128人の候補者から合格を勝ち取った1人。\n葛飾を任された元雑誌編集長・言語化プロデューサー。\n\n【政は祭りごと】を指針として楽しみながら政治活動していきます！\n\n政治には人とお金が必要です。\nボランティアして、一緒に楽しみましょう♪\n\n選挙ドットコム\nhttps://go2senkyo.com/seijika/196115\n\nボランティア募集はコチラ⬇️\nhttps://forms.gle/8Y8E3d51SzFP8eddA\n\n企業献金は受け付けません！\n受け付けるのは、個人献金のみです。\n\n献金受付はコチラ⬇️\nhttps://forms.gle/7aRCXA7WgyoeQQ8V8\n\n再生の道　岩見なつよ　公式HP\nhttps://sites.google.com/view/iwaminatsuyo/\n\n公式LINE\nhttps://lin.ee/vCXN8Jp\nいわみんへのメッセージや直接連絡はコチラから。\n　\n★お友達特典★\n100人以上の社長から教えてもらった成功の秘訣を７箇条にした\n私だけの秘密の成功法則をお裾分けします！\n\n私のお仕事紹介マンガです🌟\nhttps://drive.google.com/file/d/1XtCyDXUM-4E2HUZhnL5aIxW8OzRn7UQe/view?usp=sharing\n\n↓絶対見るべき！おすすめ動画\n【再生の道】最終面談その後とコレからの話\nhttps://youtu.be/r8_SZywpMRE\n\n【再生の道】これからやること計画発表\nhttps://youtu.be/QRoGmJ-g-7A\n\n【再生の道】学研卒業生対談\nhttps://youtu.be/9oUDcuLQyfI\n\n【初Live】近況報告　政は祭りごと！！宣言\nhttps://youtube.com/live/8z4Goqeto5M\n\n▶︎いわみんの面談風景などはこちら\nhttps://www.youtube.com/live/OzOG1MbNxLY?si=3xlvxZgtAMiR5wZf\n\n合格発表\nhttps://www.youtube.com/live/_2uracJL07I?si=4z6ME_uuo3buby0K\n\n再生の道チャンネル\nhttps://www.youtube.com/@The-Path-to-Rebirth\n　\n　\n▷チャンネル登録はこちら：\nhttps://www.youtube.com/channel/UCKayNPhS9o3Y3Hu6HQRhvbQ\n　↑　↑　↑\nベルマークを押すと毎回通知が届くようになります。\n　\n　\n▼▼コチラもぜひご覧ください▼▼\n　\n・いわみんってどんな人？\n・商品ラインナップ\n・関連動画一覧\n・プロフィール\n・タグ\n　\n☆　いわみんってどんな人　☆\n　\n◆ホームページ↓\nhttps://gengo-komorebi.com/\n\n▷公式LINE：\nhttps://lin.ee/vCXN8Jp\n　\n週に1回、言語化のヒントをお送りします。\n★お友達特典★\n100人以上の社長から教えてもらった成功の秘訣を７箇条にした\n私だけの秘密の成功法則をお裾分けします！\n\n▷Instagram（読書感想）：\nhttps://www.instagram.com/iwamin_gogo/?hl=ja\n\nインスタグラムでは、YouTubeで公開していない、普段いわみんが読んでいる読書遍歴を公開していますので、よかったらフォローしてください。\n　　\n▷Facebook（読書感想と日々のこと）：\nhttps://www.facebook.com/natsuyo.iwami/\n\nFaceBookでは、Instagramでの本の紹介や趣味のサウナや山登り、スナックの日替わりママ情報など、かなり普段の様子をアップしています。\n\n▷note（社長インタビューやコラムなど）：\nhttps://note.com/iwamin_nana\n\n社長や起業家100人インタビュー、SDGs 関連コラム、プライベートなエッセイなど、長めのコンテンツをアップしています。\n　\n　\n☆　商品ラインナップ　☆\n　\n◆ブランディングやマーケティング戦略\n◆文章作り、ストーリー作りのお手伝い\n◆研修・ワークショップ開催\n◆コーチング・カウンセリング\n\n☆　プロフィール　☆\n　\n岩見奈津代\n 　\n編集者で言語化プロデューサーのいわみんです。\n\n大学時代から学生ライターとして活動開始。\n大手出版社に就職し、女性雑誌編集者として20年超のキャリアを積む。\nティーンファッションから妊娠・出産・女性のライフスタイルまで、多くの女性をターゲットとした雑誌を担当。\n\n編集長、創刊編集長としてウェブメディアやイベント、\n物販なども同時にプロデュースした後、経営戦略室のマネージャーに。\nビジネスマーケティング、多数の新事業プロジェクトマネジメントを経て独立。\n言語化コンサルとして、\nビジネスコンサル、マーケティング・ストーリー戦略、\nエグゼクティブへの言語化コーチングなどを中心に、\nすべての人の「想いを言語化し、ストーリーを作る」お手伝いを行っている。\n\n女子大生とオトナ女子をつなぐ対話の場\n【meeet】主宰\n\n●天狼院書店　雑誌をつくるゼミ講師\n●2030SDGsカードゲーム公認ファシリテーター\n●NLP（神経言語プログラミング）マスタープラクショナー\n●ワークショップデザイナー　\n　\n☆　タグ　☆\n#文章添削 #ブランディング #再生の道  #石丸伸二  # コーチング #言語化 #編集者 #心理学 #影響言語",
-          "publishedAt": "2026-06-12T09:00:14Z",
-          "channelTitle": "【再生の道】葛飾区　岩見なつよ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/amEBD2DpQbk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/amEBD2DpQbk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/amEBD2DpQbk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/amEBD2DpQbk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/amEBD2DpQbk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5459
-        }
-      ],
+      "recentVideos": [],
       "name": "岩見奈津代,岩見なつよ,いわみ奈津代,いわみなつよ"
     },
     {
@@ -1449,7 +1371,7 @@
               "height": 720
             }
           },
-          "viewCount": 1494,
+          "viewCount": 1495,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T10:00:00Z",
@@ -1516,7 +1438,7 @@
               "height": 720
             }
           },
-          "viewCount": 554
+          "viewCount": 566
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1677,7 +1599,7 @@
               "height": 720
             }
           },
-          "viewCount": 1945,
+          "viewCount": 2216,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-18T12:00:00Z",
@@ -1718,7 +1640,7 @@
               "height": 720
             }
           },
-          "viewCount": 2887
+          "viewCount": 3375
         },
         {
           "videoId": "mVTtgBiq65A",
@@ -1753,7 +1675,7 @@
               "height": 720
             }
           },
-          "viewCount": 2296
+          "viewCount": 2432
         },
         {
           "videoId": "oFJlNR49npg",
@@ -1788,7 +1710,7 @@
               "height": 720
             }
           },
-          "viewCount": 1656
+          "viewCount": 1732
         },
         {
           "videoId": "iNMwPKyAApY",
@@ -1823,7 +1745,7 @@
               "height": 720
             }
           },
-          "viewCount": 2463
+          "viewCount": 2524
         },
         {
           "videoId": "j1CWzmWz0vo",
@@ -1858,7 +1780,7 @@
               "height": 720
             }
           },
-          "viewCount": 1281
+          "viewCount": 1296
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
