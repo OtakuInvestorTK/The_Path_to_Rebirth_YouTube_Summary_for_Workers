@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-20T19:15:24.718Z",
+  "requestedAt": "2026-06-20T21:09:09.524Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,12 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 8223,
+          "viewCount": 8244,
           "liveStreaming": {
             "status": "live",
             "scheduledStartTime": "2026-06-16T04:00:00Z",
             "actualStartTime": "2026-06-16T04:15:06Z",
-            "concurrentViewers": 2
+            "concurrentViewers": 1
           }
         }
       ],
@@ -99,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 8501,
+          "viewCount": 8513,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-15T13:00:00Z",
@@ -201,7 +201,7 @@
               "height": 720
             }
           },
-          "viewCount": 1998
+          "viewCount": 2028
         },
         {
           "videoId": "m7GELRYCdts",
@@ -236,7 +236,7 @@
               "height": 720
             }
           },
-          "viewCount": 1970,
+          "viewCount": 1993,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T00:19:47Z",
@@ -277,7 +277,7 @@
               "height": 720
             }
           },
-          "viewCount": 6143
+          "viewCount": 6169
         },
         {
           "videoId": "FRFWrt28mUE",
@@ -312,7 +312,7 @@
               "height": 720
             }
           },
-          "viewCount": 1427
+          "viewCount": 1447
         },
         {
           "videoId": "ymsyCVuzGaw",
@@ -347,7 +347,7 @@
               "height": 720
             }
           },
-          "viewCount": 4355
+          "viewCount": 4389
         },
         {
           "videoId": "hNps76PeFWU",
@@ -382,7 +382,7 @@
               "height": 720
             }
           },
-          "viewCount": 2843
+          "viewCount": 2846
         },
         {
           "videoId": "aR6ATyGjYKA",
@@ -417,7 +417,7 @@
               "height": 720
             }
           },
-          "viewCount": 4683
+          "viewCount": 4695
         },
         {
           "videoId": "0Wtzt36kAgM",
@@ -522,7 +522,7 @@
               "height": 720
             }
           },
-          "viewCount": 2807
+          "viewCount": 2814
         },
         {
           "videoId": "TiW8ILIPouE",
@@ -1023,7 +1023,7 @@
               "height": 720
             }
           },
-          "viewCount": 3318
+          "viewCount": 3323
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1259,7 +1259,7 @@
               "height": 720
             }
           },
-          "viewCount": 1512,
+          "viewCount": 1514,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T10:00:00Z",
@@ -1487,7 +1487,7 @@
               "height": 720
             }
           },
-          "viewCount": 1316
+          "viewCount": 1477
         },
         {
           "videoId": "ELLFph30BpU",
@@ -1522,7 +1522,7 @@
               "height": 720
             }
           },
-          "viewCount": 1255
+          "viewCount": 1310
         },
         {
           "videoId": "N_3w1BZ0Gc4",
@@ -1557,7 +1557,7 @@
               "height": 720
             }
           },
-          "viewCount": 2962
+          "viewCount": 2989
         },
         {
           "videoId": "20vrKnUeesk",
@@ -1592,7 +1592,7 @@
               "height": 720
             }
           },
-          "viewCount": 3066
+          "viewCount": 3109
         },
         {
           "videoId": "skMW_yhuFUM",
@@ -1627,7 +1627,7 @@
               "height": 720
             }
           },
-          "viewCount": 2121
+          "viewCount": 2134
         },
         {
           "videoId": "c7jwGQteSjs",
@@ -1662,7 +1662,7 @@
               "height": 720
             }
           },
-          "viewCount": 2688,
+          "viewCount": 2694,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-18T12:00:00Z",
@@ -1703,7 +1703,7 @@
               "height": 720
             }
           },
-          "viewCount": 4938
+          "viewCount": 5018
         },
         {
           "videoId": "mVTtgBiq65A",
@@ -1738,7 +1738,7 @@
               "height": 720
             }
           },
-          "viewCount": 3177
+          "viewCount": 3237
         },
         {
           "videoId": "oFJlNR49npg",
@@ -1773,7 +1773,7 @@
               "height": 720
             }
           },
-          "viewCount": 2039
+          "viewCount": 2049
         },
         {
           "videoId": "iNMwPKyAApY",
@@ -1808,7 +1808,7 @@
               "height": 720
             }
           },
-          "viewCount": 2747
+          "viewCount": 2760
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
