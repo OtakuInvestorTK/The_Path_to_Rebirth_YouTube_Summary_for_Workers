@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-23T06:43:22.535Z",
+  "requestedAt": "2026-06-23T10:31:30.741Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 404
+          "viewCount": 976
         },
         {
           "videoId": "RbMGuXvMAIc",
@@ -117,7 +117,7 @@
               "height": 720
             }
           },
-          "viewCount": 1208
+          "viewCount": 1882
         },
         {
           "videoId": "wJgr42hyspQ",
@@ -152,7 +152,7 @@
               "height": 720
             }
           },
-          "viewCount": 1567
+          "viewCount": 1832
         },
         {
           "videoId": "Uk3J_HNXYEg",
@@ -187,7 +187,7 @@
               "height": 720
             }
           },
-          "viewCount": 2146
+          "viewCount": 2320
         },
         {
           "videoId": "d1p2YpQumNs",
@@ -222,7 +222,7 @@
               "height": 720
             }
           },
-          "viewCount": 2112,
+          "viewCount": 2190,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-22T10:59:32Z",
@@ -263,7 +263,7 @@
               "height": 720
             }
           },
-          "viewCount": 1821
+          "viewCount": 1883
         },
         {
           "videoId": "LP0iTL2TjS8",
@@ -298,7 +298,7 @@
               "height": 720
             }
           },
-          "viewCount": 2040
+          "viewCount": 2079
         },
         {
           "videoId": "JsC8-ClOewY",
@@ -333,7 +333,7 @@
               "height": 720
             }
           },
-          "viewCount": 2177
+          "viewCount": 2209
         },
         {
           "videoId": "SfSiRRbwxOY",
@@ -368,7 +368,7 @@
               "height": 720
             }
           },
-          "viewCount": 2799
+          "viewCount": 2849
         },
         {
           "videoId": "fW24m62D9mQ",
@@ -403,7 +403,7 @@
               "height": 720
             }
           },
-          "viewCount": 3379
+          "viewCount": 3438
         },
         {
           "videoId": "FzRKlWr2KAY",
@@ -438,7 +438,7 @@
               "height": 720
             }
           },
-          "viewCount": 2045
+          "viewCount": 2066
         },
         {
           "videoId": "kLJiJocu5oI",
@@ -473,7 +473,7 @@
               "height": 720
             }
           },
-          "viewCount": 2432
+          "viewCount": 2463
         },
         {
           "videoId": "WecSMdcs9nA",
@@ -508,7 +508,7 @@
               "height": 720
             }
           },
-          "viewCount": 2593,
+          "viewCount": 2606,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-21T07:52:32Z",
@@ -549,7 +549,7 @@
               "height": 720
             }
           },
-          "viewCount": 2735
+          "viewCount": 2767
         },
         {
           "videoId": "b846jcdSfIk",
@@ -584,7 +584,7 @@
               "height": 720
             }
           },
-          "viewCount": 3536
+          "viewCount": 3566
         },
         {
           "videoId": "FBeMzSPLfC4",
@@ -619,7 +619,7 @@
               "height": 720
             }
           },
-          "viewCount": 2385,
+          "viewCount": 2416,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-21T03:32:47Z",
@@ -660,7 +660,7 @@
               "height": 720
             }
           },
-          "viewCount": 528,
+          "viewCount": 537,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-19T02:32:33Z",
@@ -701,7 +701,7 @@
               "height": 720
             }
           },
-          "viewCount": 2204
+          "viewCount": 2216
         },
         {
           "videoId": "CY6acDsEACc",
@@ -736,7 +736,7 @@
               "height": 720
             }
           },
-          "viewCount": 2650
+          "viewCount": 2657
         },
         {
           "videoId": "m7GELRYCdts",
@@ -771,7 +771,7 @@
               "height": 720
             }
           },
-          "viewCount": 2210,
+          "viewCount": 2212,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-14T00:19:47Z",
@@ -1138,7 +1138,7 @@
               "height": 720
             }
           },
-          "viewCount": 2865
+          "viewCount": 3553
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1399,7 +1399,7 @@
               "height": 720
             }
           },
-          "viewCount": 636
+          "viewCount": 640
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1528,6 +1528,76 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "bg6xmRgrcj0",
+          "title": "住民と対話して決めよう🌳 #杉並区 #増田よしひこ #東京",
+          "description": "",
+          "publishedAt": "2026-06-23T09:09:07Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bg6xmRgrcj0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bg6xmRgrcj0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bg6xmRgrcj0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bg6xmRgrcj0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bg6xmRgrcj0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 715
+        },
+        {
+          "videoId": "UbqgeUNSnL4",
+          "title": "子どもに、合った居場所を｜学校居場所事業とドイツのアフタースクール【杉並区長選2026 オープン対話会】",
+          "description": "児童館・学童・放課後居場所、それぞれの機能を活かして一人一人に合った居場所を。海外（ドイツ）のアフタースクール制度も選択肢に——子育て世代に向けた増田よしひこの提案。\n\n▼オープン対話会のフル視聴はこちら\nhttps://www.youtube.com/live/gIqtCP_3pSA\n杉並区長選2026 候補・増田よしひこ（ますだ よしひこ）\n#杉並区長選 #増田よしひこ #杉並区 #子育て",
+          "publishedAt": "2026-06-23T09:00:36Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UbqgeUNSnL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UbqgeUNSnL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UbqgeUNSnL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UbqgeUNSnL4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UbqgeUNSnL4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 622
+        },
+        {
           "videoId": "nwF3rqDwRTg",
           "title": "1万5千人の反対署名、なぜ区長は4年来ないのか｜善福寺川の地下調節池【杉並区長選2026 ReHacQ討論会】",
           "description": "善福寺川上流の地下調節池。1万5千人の反対署名が集まるなか、区長は一度も住民の前に来ていない。毎日この川沿いを走る増田よしひこが、住民の声を代弁する。\n\n▼討論会のフル視聴はこちら（ReHacQ公式）\nhttps://www.youtube.com/watch?v=4EAj5rHFCmw\n杉並区長選2026 候補・増田よしひこ（ますだ よしひこ）\n#杉並区長選 #増田よしひこ #杉並区 #善福寺川 #ReHacQ",
@@ -1560,7 +1630,7 @@
               "height": 720
             }
           },
-          "viewCount": 1505
+          "viewCount": 1873
         },
         {
           "videoId": "e2xsGWtyXp8",
@@ -1595,7 +1665,7 @@
               "height": 720
             }
           },
-          "viewCount": 2873
+          "viewCount": 3057
         },
         {
           "videoId": "S0vgUDpMJew",
@@ -1630,7 +1700,7 @@
               "height": 720
             }
           },
-          "viewCount": 1967
+          "viewCount": 2055
         },
         {
           "videoId": "-utMdFmRPB4",
@@ -1665,7 +1735,7 @@
               "height": 720
             }
           },
-          "viewCount": 3499
+          "viewCount": 3605
         },
         {
           "videoId": "i1wq8ayMpJc",
@@ -1700,7 +1770,7 @@
               "height": 720
             }
           },
-          "viewCount": 2822
+          "viewCount": 2901
         },
         {
           "videoId": "wVqcCAcutCg",
@@ -1735,7 +1805,7 @@
               "height": 720
             }
           },
-          "viewCount": 1596
+          "viewCount": 1607
         },
         {
           "videoId": "n03NkTLuYZA",
@@ -1770,7 +1840,7 @@
               "height": 720
             }
           },
-          "viewCount": 4186
+          "viewCount": 4233
         },
         {
           "videoId": "JwBuUup2IRU",
@@ -1805,7 +1875,7 @@
               "height": 720
             }
           },
-          "viewCount": 3921
+          "viewCount": 3960
         },
         {
           "videoId": "wf96wgLTNKs",
@@ -1840,7 +1910,7 @@
               "height": 720
             }
           },
-          "viewCount": 2895
+          "viewCount": 2914
         },
         {
           "videoId": "ELLFph30BpU",
@@ -1875,7 +1945,7 @@
               "height": 720
             }
           },
-          "viewCount": 2291
+          "viewCount": 2317
         },
         {
           "videoId": "N_3w1BZ0Gc4",
@@ -1910,7 +1980,7 @@
               "height": 720
             }
           },
-          "viewCount": 4098
+          "viewCount": 4101
         },
         {
           "videoId": "20vrKnUeesk",
@@ -1945,7 +2015,7 @@
               "height": 720
             }
           },
-          "viewCount": 4311
+          "viewCount": 4340
         },
         {
           "videoId": "skMW_yhuFUM",
@@ -1980,7 +2050,7 @@
               "height": 720
             }
           },
-          "viewCount": 3283
+          "viewCount": 3347
         },
         {
           "videoId": "c7jwGQteSjs",
@@ -2015,7 +2085,7 @@
               "height": 720
             }
           },
-          "viewCount": 2871,
+          "viewCount": 2885,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-18T12:00:00Z",
@@ -2056,7 +2126,7 @@
               "height": 720
             }
           },
-          "viewCount": 5720
+          "viewCount": 5738
         },
         {
           "videoId": "mVTtgBiq65A",
@@ -2091,7 +2161,7 @@
               "height": 720
             }
           },
-          "viewCount": 3608
+          "viewCount": 3610
         },
         {
           "videoId": "oFJlNR49npg",
@@ -2126,7 +2196,7 @@
               "height": 720
             }
           },
-          "viewCount": 2250
+          "viewCount": 2262
         },
         {
           "videoId": "iNMwPKyAApY",
@@ -2161,7 +2231,7 @@
               "height": 720
             }
           },
-          "viewCount": 2896
+          "viewCount": 2909
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
