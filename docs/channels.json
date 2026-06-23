@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-23T13:39:39.157Z",
+  "requestedAt": "2026-06-23T16:23:32.287Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -82,7 +82,7 @@
               "height": 720
             }
           },
-          "viewCount": 1042,
+          "viewCount": 2452,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-23T12:00:00Z",
@@ -123,7 +123,7 @@
               "height": 720
             }
           },
-          "viewCount": 947,
+          "viewCount": 1306,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-23T11:02:36Z",
@@ -164,7 +164,7 @@
               "height": 720
             }
           },
-          "viewCount": 1324
+          "viewCount": 1562
         },
         {
           "videoId": "RbMGuXvMAIc",
@@ -199,7 +199,7 @@
               "height": 720
             }
           },
-          "viewCount": 2276
+          "viewCount": 2553
         },
         {
           "videoId": "wJgr42hyspQ",
@@ -234,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 1992
+          "viewCount": 2129
         },
         {
           "videoId": "Uk3J_HNXYEg",
@@ -269,7 +269,7 @@
               "height": 720
             }
           },
-          "viewCount": 2456
+          "viewCount": 2576
         },
         {
           "videoId": "d1p2YpQumNs",
@@ -304,7 +304,7 @@
               "height": 720
             }
           },
-          "viewCount": 2228,
+          "viewCount": 2258,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-22T10:59:32Z",
@@ -345,7 +345,7 @@
               "height": 720
             }
           },
-          "viewCount": 1947
+          "viewCount": 1955
         },
         {
           "videoId": "LP0iTL2TjS8",
@@ -380,7 +380,7 @@
               "height": 720
             }
           },
-          "viewCount": 2092
+          "viewCount": 2125
         },
         {
           "videoId": "JsC8-ClOewY",
@@ -415,7 +415,7 @@
               "height": 720
             }
           },
-          "viewCount": 2237
+          "viewCount": 2268
         },
         {
           "videoId": "SfSiRRbwxOY",
@@ -450,7 +450,7 @@
               "height": 720
             }
           },
-          "viewCount": 2881
+          "viewCount": 2897
         },
         {
           "videoId": "fW24m62D9mQ",
@@ -485,7 +485,7 @@
               "height": 720
             }
           },
-          "viewCount": 3467
+          "viewCount": 3503
         },
         {
           "videoId": "FzRKlWr2KAY",
@@ -520,7 +520,7 @@
               "height": 720
             }
           },
-          "viewCount": 2078
+          "viewCount": 2105
         },
         {
           "videoId": "kLJiJocu5oI",
@@ -555,7 +555,7 @@
               "height": 720
             }
           },
-          "viewCount": 2491
+          "viewCount": 2499
         },
         {
           "videoId": "WecSMdcs9nA",
@@ -590,7 +590,7 @@
               "height": 720
             }
           },
-          "viewCount": 2611,
+          "viewCount": 2616,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-21T07:52:32Z",
@@ -631,7 +631,7 @@
               "height": 720
             }
           },
-          "viewCount": 2786
+          "viewCount": 2791
         },
         {
           "videoId": "b846jcdSfIk",
@@ -666,7 +666,7 @@
               "height": 720
             }
           },
-          "viewCount": 3598
+          "viewCount": 3600
         },
         {
           "videoId": "FBeMzSPLfC4",
@@ -742,7 +742,7 @@
               "height": 720
             }
           },
-          "viewCount": 537,
+          "viewCount": 541,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-19T02:32:33Z",
@@ -783,7 +783,7 @@
               "height": 720
             }
           },
-          "viewCount": 2227
+          "viewCount": 2243
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -1144,7 +1144,7 @@
               "height": 720
             }
           },
-          "viewCount": 3910
+          "viewCount": 4080
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1534,6 +1534,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "aLOaTtSTyzg",
+          "title": "いじめの問題、私はこう考えています。 #杉並区 #増田よしひこ",
+          "description": "",
+          "publishedAt": "2026-06-23T14:28:29Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aLOaTtSTyzg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aLOaTtSTyzg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aLOaTtSTyzg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aLOaTtSTyzg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aLOaTtSTyzg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 812
+        },
+        {
           "videoId": "shT7ShcN5K8",
           "title": "緑で稼ぐ杉並 〜樹冠被覆率で、世界基準の住宅都市へ｜増田よしひこ ×   奥村こうき（狛江市長選　立候補）対談",
           "description": "2026年6月の杉並区長選挙に立候補をしている増田よしひこが、「再生の道」代表で同時期に開催される狛江市長選に立候補をしている奥村こうき氏との対談で、政策の柱「緑で稼ぐ杉並」をたっぷり語りました。\n\n富士通でアメリカ法人子会社社長・海外担当役員を務め、カナダ・アメリカに20年以上駐在してきた増田よしひこ。培った経営の経験と国際感覚を、これからの杉並区政へ生かします。\n\n▼この動画のポイント\n・人口減少（杉並は2035年に減少へ）と高齢化で、税収は減り、支出は増える時代が来る。だからこそ「どう稼ぐか」という経営の発想が必要\n・ニューヨーク、メルボルン、コペンハーゲン、シンガポール——成功する都市は、緑や樹木に「投資」して住環境の価値を高め、人と税収を呼び込んでいる\n・「樹冠被覆率（木陰率）」は、世界で都市の価値をはかる指標。東京は7.3%、杉並も約10%（10年前の17.8%から約4割減）。杉並を、樹冠被覆率を掲げる日本初の都市に\n・10年で樹木を約1.5倍（約9,000本増）、樹冠被覆率15%を目標に\n・都市計画道路の街路樹、空き家の活用、AI・センサーで樹木を管理する「アーバンフォレストテック」産業の創出まで\n\n緑を増やし、その緑で稼ぐ。環境と経済を組み合わせる「緑で稼ぐ杉並」を、やがて「緑で稼ぐ日本」へ。ぜひ最後までご覧ください。\n\n＃杉並区\n＃増田よしひこ\n＃緑で稼ぐ杉並\n＃樹冠被覆率\n＃奥村こうき\n＃再生の道\n\n\n🌱「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。\n誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録）\n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える\n👉 https://go2senkyo.com/seijika/195808\n\n3. 本音でトーク！オープンチャット\n👉 https://line.me/ti/g2/75FE1JCxJ9NjxxX1akxgEgapxjncT0k4pPT2zw?utm_source=inviation&utm_medium=link_copy&utm_campaign\n\n4. 増田よしひこに会いに行こう（最新スケジュールは公式LINEで配信中）\n👉 https://lin.ee/Wi5lK5O\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
@@ -1566,7 +1601,7 @@
               "height": 720
             }
           },
-          "viewCount": 657,
+          "viewCount": 1380,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-23T12:00:00Z",
@@ -1607,7 +1642,7 @@
               "height": 720
             }
           },
-          "viewCount": 1291
+          "viewCount": 1716
         },
         {
           "videoId": "UbqgeUNSnL4",
@@ -1642,7 +1677,7 @@
               "height": 720
             }
           },
-          "viewCount": 1042
+          "viewCount": 1378
         },
         {
           "videoId": "nwF3rqDwRTg",
@@ -1677,7 +1712,7 @@
               "height": 720
             }
           },
-          "viewCount": 2106
+          "viewCount": 2309
         },
         {
           "videoId": "e2xsGWtyXp8",
@@ -1712,7 +1747,7 @@
               "height": 720
             }
           },
-          "viewCount": 3169
+          "viewCount": 3260
         },
         {
           "videoId": "S0vgUDpMJew",
@@ -1747,7 +1782,7 @@
               "height": 720
             }
           },
-          "viewCount": 2102
+          "viewCount": 2142
         },
         {
           "videoId": "-utMdFmRPB4",
@@ -1782,7 +1817,7 @@
               "height": 720
             }
           },
-          "viewCount": 3677
+          "viewCount": 3803
         },
         {
           "videoId": "i1wq8ayMpJc",
@@ -1817,7 +1852,7 @@
               "height": 720
             }
           },
-          "viewCount": 2927
+          "viewCount": 2985
         },
         {
           "videoId": "wVqcCAcutCg",
@@ -1852,7 +1887,7 @@
               "height": 720
             }
           },
-          "viewCount": 1615
+          "viewCount": 1629
         },
         {
           "videoId": "n03NkTLuYZA",
@@ -1887,7 +1922,7 @@
               "height": 720
             }
           },
-          "viewCount": 4279
+          "viewCount": 4314
         },
         {
           "videoId": "JwBuUup2IRU",
@@ -1922,7 +1957,7 @@
               "height": 720
             }
           },
-          "viewCount": 3995
+          "viewCount": 4049
         },
         {
           "videoId": "wf96wgLTNKs",
@@ -1957,7 +1992,7 @@
               "height": 720
             }
           },
-          "viewCount": 2945
+          "viewCount": 2948
         },
         {
           "videoId": "ELLFph30BpU",
@@ -1992,7 +2027,7 @@
               "height": 720
             }
           },
-          "viewCount": 2344
+          "viewCount": 2347
         },
         {
           "videoId": "N_3w1BZ0Gc4",
@@ -2062,7 +2097,7 @@
               "height": 720
             }
           },
-          "viewCount": 4357
+          "viewCount": 4365
         },
         {
           "videoId": "skMW_yhuFUM",
@@ -2097,7 +2132,7 @@
               "height": 720
             }
           },
-          "viewCount": 3380
+          "viewCount": 3413
         },
         {
           "videoId": "c7jwGQteSjs",
@@ -2132,7 +2167,7 @@
               "height": 720
             }
           },
-          "viewCount": 2892,
+          "viewCount": 2893,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-18T12:00:00Z",
@@ -2173,7 +2208,7 @@
               "height": 720
             }
           },
-          "viewCount": 5761
+          "viewCount": 5779
         },
         {
           "videoId": "mVTtgBiq65A",
@@ -2209,41 +2244,6 @@
             }
           },
           "viewCount": 3621
-        },
-        {
-          "videoId": "oFJlNR49npg",
-          "title": "樹木は「コスト」じゃない、「投資」だ。〜世界の最新“都市森林テック”から考える杉並の緑〜",
-          "description": "今回は、「グリーンテック」の中でも、都市の樹木を効率的に管理する「アーバンフォレストリーテック（都市森林テック）」をテーマに、増田よしひこがお話しします。\n\n樹木は、森の中だけでなく、人が毎日暮らし、働く「都市の中」にあってこそ価値を最大化します。世界の都市では、樹木を上下水道や道路と同じ「インフラ」、そして「コスト」ではなく「投資」として捉え、データにもとづいて計画・管理する動きが広がっています。\n\n動画では、その担い手となる海外企業を4つの分野に分けて紹介します。①木の情報をデータベース化する「ツリー・インテリジェンス」\n②センサーで倒木の危険や水やりのタイミングを察知する「予知保全」\n③ドローンで樹木を地図化する「ドローンマッピング」\n④剪定や落ち葉清掃を自動化する「ロボティクス」。シンガポール・アメリカ・香港・オーストラリア・スウェーデン・フィンランドなど、世界各地の事例を取り上げました。\n\n一方で、日本には都市の樹木を専門に管理する企業がまだほとんどありません。だからこそ、これから伸びていく分野でもあります。杉並区も、こうしたテクノロジーや知見を活かして、街の緑を計画的・効率的に育てていく——その可能性を考えます。\n\n＃杉並区\n＃増田よしひこ\n＃グリーンテック\n＃アーバンフォレストリーテック\n＃みどりの政策\n\n\n🌱「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。\n誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録）\n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！\nビラ配り、ポスター貼りなど、短時間から大歓迎です！\n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える\nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」から「私たちの街を整える日常」へ\n本音でトーク！オープンチャット\n杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉\nオープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX1akxgEgapxjncT0k4pPT2zw?utm_source=invitation&utm_medium=link_copy&utm_campaign\n\nあなたの壁を貸してください！\n「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。\n👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！\n握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O\n\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
-          "publishedAt": "2026-06-17T12:00:01Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/oFJlNR49npg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/oFJlNR49npg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/oFJlNR49npg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/oFJlNR49npg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/oFJlNR49npg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2268
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
