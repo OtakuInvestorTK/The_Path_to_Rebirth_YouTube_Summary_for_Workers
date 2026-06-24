@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-24T06:40:33.136Z",
+  "requestedAt": "2026-06-24T10:16:23.624Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -90,6 +90,76 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "gN-T5HVzsJU",
+          "title": "奥村こうきの本質に触れてみてください#狛江#狛江市長選挙",
+          "description": "",
+          "publishedAt": "2026-06-24T09:00:02Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gN-T5HVzsJU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gN-T5HVzsJU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gN-T5HVzsJU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gN-T5HVzsJU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gN-T5HVzsJU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 795
+        },
+        {
+          "videoId": "VzBxQ3NTv_8",
+          "title": "選挙戦２日目終了#狛江#狛江市長選挙",
+          "description": "",
+          "publishedAt": "2026-06-24T07:00:34Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VzBxQ3NTv_8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VzBxQ3NTv_8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VzBxQ3NTv_8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VzBxQ3NTv_8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VzBxQ3NTv_8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 361
+        },
+        {
           "videoId": "Sxq55lG_x-I",
           "title": "50年後にも持続可能な狛江市政を#狛江#狛江市長選挙",
           "description": "",
@@ -122,7 +192,7 @@
               "height": 720
             }
           },
-          "viewCount": 741
+          "viewCount": 1224
         },
         {
           "videoId": "OrywFxhjnq8",
@@ -157,7 +227,7 @@
               "height": 720
             }
           },
-          "viewCount": 968
+          "viewCount": 1701
         },
         {
           "videoId": "mAzdaTL656A",
@@ -192,7 +262,7 @@
               "height": 720
             }
           },
-          "viewCount": 1266
+          "viewCount": 1868
         },
         {
           "videoId": "ULsXkNPkWuI",
@@ -227,7 +297,7 @@
               "height": 720
             }
           },
-          "viewCount": 4571,
+          "viewCount": 4854,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-23T12:00:00Z",
@@ -268,7 +338,7 @@
               "height": 720
             }
           },
-          "viewCount": 1661,
+          "viewCount": 1739,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-23T11:02:36Z",
@@ -309,7 +379,7 @@
               "height": 720
             }
           },
-          "viewCount": 1942
+          "viewCount": 2044
         },
         {
           "videoId": "RbMGuXvMAIc",
@@ -344,7 +414,7 @@
               "height": 720
             }
           },
-          "viewCount": 3012
+          "viewCount": 3131
         },
         {
           "videoId": "wJgr42hyspQ",
@@ -379,7 +449,7 @@
               "height": 720
             }
           },
-          "viewCount": 2385
+          "viewCount": 2397
         },
         {
           "videoId": "Uk3J_HNXYEg",
@@ -414,7 +484,7 @@
               "height": 720
             }
           },
-          "viewCount": 2752
+          "viewCount": 2758
         },
         {
           "videoId": "d1p2YpQumNs",
@@ -449,7 +519,7 @@
               "height": 720
             }
           },
-          "viewCount": 2273,
+          "viewCount": 2281,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-22T10:59:32Z",
@@ -490,7 +560,7 @@
               "height": 720
             }
           },
-          "viewCount": 2061
+          "viewCount": 2089
         },
         {
           "videoId": "LP0iTL2TjS8",
@@ -525,7 +595,7 @@
               "height": 720
             }
           },
-          "viewCount": 2176
+          "viewCount": 2184
         },
         {
           "videoId": "JsC8-ClOewY",
@@ -560,7 +630,7 @@
               "height": 720
             }
           },
-          "viewCount": 2294
+          "viewCount": 2299
         },
         {
           "videoId": "SfSiRRbwxOY",
@@ -595,7 +665,7 @@
               "height": 720
             }
           },
-          "viewCount": 2927
+          "viewCount": 2936
         },
         {
           "videoId": "fW24m62D9mQ",
@@ -630,7 +700,7 @@
               "height": 720
             }
           },
-          "viewCount": 3603
+          "viewCount": 3610
         },
         {
           "videoId": "FzRKlWr2KAY",
@@ -665,7 +735,7 @@
               "height": 720
             }
           },
-          "viewCount": 2151
+          "viewCount": 2160
         },
         {
           "videoId": "kLJiJocu5oI",
@@ -700,7 +770,7 @@
               "height": 720
             }
           },
-          "viewCount": 2545
+          "viewCount": 2557
         },
         {
           "videoId": "WecSMdcs9nA",
@@ -735,83 +805,13 @@
               "height": 720
             }
           },
-          "viewCount": 2624,
+          "viewCount": 2628,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-21T07:52:32Z",
             "actualStartTime": "2026-06-21T10:59:37Z",
             "actualEndTime": "2026-06-21T11:15:01Z"
           }
-        },
-        {
-          "videoId": "1da6jgkosNo",
-          "title": "狛江市長選スタート！#狛江市長選挙",
-          "description": "",
-          "publishedAt": "2026-06-21T10:00:39Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/1da6jgkosNo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/1da6jgkosNo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/1da6jgkosNo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/1da6jgkosNo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/1da6jgkosNo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2868
-        },
-        {
-          "videoId": "b846jcdSfIk",
-          "title": "街頭演説標旗記入の儀#狛江市長選挙",
-          "description": "",
-          "publishedAt": "2026-06-21T07:53:43Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/b846jcdSfIk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/b846jcdSfIk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/b846jcdSfIk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/b846jcdSfIk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/b846jcdSfIk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3677
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -1172,7 +1172,7 @@
               "height": 720
             }
           },
-          "viewCount": 4484
+          "viewCount": 4592
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1401,39 +1401,39 @@
       "liveVideos": [],
       "recentVideos": [
         {
-          "videoId": "4PaAIvDqAmI",
-          "title": "自分から少し変わるだけで、世界の見え方は変わる｜与えよ、さらば与えられん",
-          "description": "今回は、「与えよ、さらば与えられん」というテーマでお話しします。\n\n日本のサービスは丁寧で平均値が高い。\nでも時々、マニュアル的で人間味が薄いと感じることもある。\n\nそんな話を聞いた時、あるアメリカ人の言葉が刺さりました。\n\n「自分がロボットのように注文すれば、店員さんもロボットのように返してくる。でも、自分から少し心を開けば、相手も返してくれることがある」\n\n相手が冷たいのではなく、自分も冷たく接していたのかもしれない。\n環境はただ受け取るものではなく、自分も少しずつ作っているものなのかもしれない。\n\n海外を見ることは、日本を見ること。\nそして、自分自身の見方のクセを見ることでもある。\n\n今回は、海外生活を経て最近あらためて考えた、人間関係と「先に与える」ことについてのコラム回です。\n\n#海外生活 #ドイツ生活 #人間関係 #異文化理解 #ずぼらジオ",
-          "publishedAt": "2026-06-17T09:00:04Z",
+          "videoId": "8RoOaZoKtec",
+          "title": "私は留学に失敗しました｜語学が伸びない人の3つの共通点",
+          "description": "今回は、「留学失敗3つの原因」についてお話しします。\n\n私は2011年にアメリカ・ボストンへ1か月の語学留学をしました。\nでも、語学力を伸ばすという意味では、正直かなり失敗しました。\n\nなぜうまくいかなかったのか。\n今振り返ると、原因は大きく3つありました。\n\n一つ目は、日本人とつるみすぎたこと。\n二つ目は、準備不足で行ったこと。\n三つ目は、「現地に行けば自然に話せるようになる」という現地神話を信じていたことです。\n\n留学は、行けば人生が変わる魔法ではありません。\n何もしなければ、変わるのはパスポートのスタンプと口座残高だけです。\n\nでも、失敗したからこそ学べたこともあります。\nこれから留学を考えている方に、私の失敗談が少しでも役立てば嬉しいです。\n\n#留学 #語学留学 #英語学習 #海外生活 #ずぼらジオ",
+          "publishedAt": "2026-06-24T09:00:16Z",
           "channelTitle": "南貴大のずぼらジオ",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/default.jpg",
+              "url": "https://i.ytimg.com/vi/8RoOaZoKtec/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/8RoOaZoKtec/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/8RoOaZoKtec/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/8RoOaZoKtec/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/4PaAIvDqAmI/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/8RoOaZoKtec/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 645
+          "viewCount": 28
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1562,6 +1562,76 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "Yh9B5QbUZL4",
+          "title": "対話と実行の\"第三の道\"｜岸本さんの本が原点【杉並区長選2026 オープン対話会】",
+          "description": "岸本現区長（対話）と田中前区長（実行）の両方を尊敬する。その間でバランスを取る「第三の道」を行く——アメリカから帰国後、岸本区長の本を読んだことが政治の原点。\n\n▼オープン対話会のフル視聴はこちら\nhttps://www.youtube.com/live/gIqtCP_3pSA\n杉並区長選2026 候補・増田よしひこ（ますだ よしひこ）\n#杉並区長選 #増田よしひこ #杉並区",
+          "publishedAt": "2026-06-24T09:00:02Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 605
+        },
+        {
+          "videoId": "ymarBeyaSG0",
+          "title": "20年以上付き合いのある、ロッシェル・カップさんより激励のお言葉をいただきました。　#杉並区 #増田よしひこ #東京",
+          "description": "",
+          "publishedAt": "2026-06-24T08:35:19Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ymarBeyaSG0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ymarBeyaSG0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ymarBeyaSG0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ymarBeyaSG0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ymarBeyaSG0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 528
+        },
+        {
           "videoId": "iUEyDH2d08A",
           "title": "増田よしひこ、この名前を覚えてください🙌 #増田よしひこ #杉並区 #東京",
           "description": "",
@@ -1594,7 +1664,7 @@
               "height": 720
             }
           },
-          "viewCount": 1203
+          "viewCount": 3052
         },
         {
           "videoId": "nB8agYG9Nww",
@@ -1629,7 +1699,7 @@
               "height": 720
             }
           },
-          "viewCount": 258
+          "viewCount": 552
         },
         {
           "videoId": "6yhUQ_LHlHE",
@@ -1664,7 +1734,7 @@
               "height": 720
             }
           },
-          "viewCount": 1468
+          "viewCount": 1945
         },
         {
           "videoId": "aLOaTtSTyzg",
@@ -1699,7 +1769,7 @@
               "height": 720
             }
           },
-          "viewCount": 2045
+          "viewCount": 2328
         },
         {
           "videoId": "shT7ShcN5K8",
@@ -1734,7 +1804,7 @@
               "height": 720
             }
           },
-          "viewCount": 2808,
+          "viewCount": 2997,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-23T12:00:00Z",
@@ -1775,7 +1845,7 @@
               "height": 720
             }
           },
-          "viewCount": 2296
+          "viewCount": 2467
         },
         {
           "videoId": "UbqgeUNSnL4",
@@ -1810,7 +1880,7 @@
               "height": 720
             }
           },
-          "viewCount": 1985
+          "viewCount": 2126
         },
         {
           "videoId": "nwF3rqDwRTg",
@@ -1845,7 +1915,7 @@
               "height": 720
             }
           },
-          "viewCount": 2840
+          "viewCount": 2921
         },
         {
           "videoId": "e2xsGWtyXp8",
@@ -1880,7 +1950,7 @@
               "height": 720
             }
           },
-          "viewCount": 3445
+          "viewCount": 3548
         },
         {
           "videoId": "S0vgUDpMJew",
@@ -1915,7 +1985,7 @@
               "height": 720
             }
           },
-          "viewCount": 2264
+          "viewCount": 2305
         },
         {
           "videoId": "-utMdFmRPB4",
@@ -1950,7 +2020,7 @@
               "height": 720
             }
           },
-          "viewCount": 3907
+          "viewCount": 3949
         },
         {
           "videoId": "i1wq8ayMpJc",
@@ -1985,7 +2055,7 @@
               "height": 720
             }
           },
-          "viewCount": 3082
+          "viewCount": 3154
         },
         {
           "videoId": "wVqcCAcutCg",
@@ -2020,7 +2090,7 @@
               "height": 720
             }
           },
-          "viewCount": 1676
+          "viewCount": 1693
         },
         {
           "videoId": "n03NkTLuYZA",
@@ -2055,7 +2125,7 @@
               "height": 720
             }
           },
-          "viewCount": 4434
+          "viewCount": 4471
         },
         {
           "videoId": "JwBuUup2IRU",
@@ -2090,7 +2160,7 @@
               "height": 720
             }
           },
-          "viewCount": 4292
+          "viewCount": 4366
         },
         {
           "videoId": "wf96wgLTNKs",
@@ -2125,7 +2195,7 @@
               "height": 720
             }
           },
-          "viewCount": 2987
+          "viewCount": 3011
         },
         {
           "videoId": "ELLFph30BpU",
@@ -2160,7 +2230,7 @@
               "height": 720
             }
           },
-          "viewCount": 2388
+          "viewCount": 2404
         },
         {
           "videoId": "N_3w1BZ0Gc4",
@@ -2195,77 +2265,7 @@
               "height": 720
             }
           },
-          "viewCount": 4164
-        },
-        {
-          "videoId": "20vrKnUeesk",
-          "title": "区長は都政にしっかり物申すべき！ #杉並区 #増田よしひこ #東京",
-          "description": "",
-          "publishedAt": "2026-06-19T18:23:03Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/20vrKnUeesk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/20vrKnUeesk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/20vrKnUeesk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/20vrKnUeesk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/20vrKnUeesk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4413
-        },
-        {
-          "videoId": "skMW_yhuFUM",
-          "title": "「届出だけ」で住宅街に民泊が建つ街・杉並〜ニューヨークと比べてわかった“ゆるい規制”〜",
-          "description": "今回は、「杉並区の民泊」をテーマに、増田よしひこがお話しします。\n\nきっかけは、ごく身近な出来事でした。近くの商店街に住む友人から「周りに民泊ができて困っている」と聞き、さらに自分の住む住宅街のすぐ近くにも民泊ができ、ひとごとではなく“自分ごと”として考えるようになった——。そこから、杉並区の民泊はいま何が問題で、どんな課題があり、どう対応していけばいいのかを整理しました。\n\n動画ではまず、騒音・ゴミ・違法駐車といった住民トラブル、家主が不在でトラブルに即対応してもらえない問題、そして「空き家の活用」と「インバウンド客の宿泊不足を補う」という本来の目的から外れ、投資目的でマンション・アパートを買い取って民泊にするケースが増えている現状を取り上げます。2018年に施行された民泊新法の趣旨を振り返りながら、住民の不安と行政の対応とのあいだに生まれているギャップを見ていきます。\n\nそのうえで、杉並区ならではの課題を、他の自治体や海外の都市（ニューヨーク・サンフランシスコなど）と比較します。住宅都市でありながら、住宅地での規制や管理執行が必ずしも強くないこと、そして「街をどうしたいのか」という政策上の方向性が曖昧になっていることを指摘します。\n\n最後に、増田よしひこからの提言を3つの切り口でお話しします。①住宅地は「徹底管理」で守る（無人営業の実質排除・現地駆けつけの義務化・違反事業者の厳格な処分）、②商業地は「共存共栄」で活かす（商店街や自治体と組んだルールづくり、地域消費の促進、協力金による地域への還元）、③空き家は「居住再生」へ（民泊より、若い世代・子育て世代の住まいとして活かし、居住利用が得になる仕組みづくり）。住宅都市・杉並\nの住環境をどう守り、街の資源をどう活かすかを、一緒に考えます。\n\n＃杉並区\n＃増田よしひこ\n＃民泊\n＃住環境\n＃空き家活用\n\n\n🌱「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。\n誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録）\n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！\nビラ配り、ポスター貼りなど、短時間から大歓迎です！\n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える\nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」から「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット\n杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉\nオープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX1akxgEgapxjncT0k4pPT2zw?utm_source=invitation&utm_medium=link_copy&utm_campaign\n\nあなたの壁を貸してください！\n「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。\n👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！\n握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
-          "publishedAt": "2026-06-19T12:00:25Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/skMW_yhuFUM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/skMW_yhuFUM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/skMW_yhuFUM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/skMW_yhuFUM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/skMW_yhuFUM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3549
+          "viewCount": 4193
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
