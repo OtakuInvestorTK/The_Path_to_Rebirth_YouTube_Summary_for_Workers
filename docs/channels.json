@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-27T09:25:22.526Z",
+  "requestedAt": "2026-06-27T11:23:12.616Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4196,
+          "viewCount": 5818,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-27T06:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 10170,
+          "viewCount": 10174,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-24T12:00:00Z",
@@ -130,7 +130,49 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "91OXQpDtqKA",
+          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-06-27T11:10:48Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/91OXQpDtqKA/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/91OXQpDtqKA/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/91OXQpDtqKA/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/91OXQpDtqKA/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/91OXQpDtqKA/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 104,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-06-27T11:10:47Z",
+            "actualStartTime": "2026-06-27T11:12:41Z",
+            "concurrentViewers": 157
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "BBra7vvGAeM",
@@ -165,7 +207,7 @@
               "height": 720
             }
           },
-          "viewCount": 158
+          "viewCount": 367
         },
         {
           "videoId": "YnmCiWPD3Qc",
@@ -200,7 +242,7 @@
               "height": 720
             }
           },
-          "viewCount": 251
+          "viewCount": 463
         },
         {
           "videoId": "l5f21LBh-Yc",
@@ -235,7 +277,7 @@
               "height": 720
             }
           },
-          "viewCount": 713
+          "viewCount": 895
         },
         {
           "videoId": "-qmVGS8EcPU",
@@ -270,7 +312,7 @@
               "height": 720
             }
           },
-          "viewCount": 949
+          "viewCount": 1239
         },
         {
           "videoId": "Tb5lSrbordo",
@@ -305,7 +347,7 @@
               "height": 720
             }
           },
-          "viewCount": 831
+          "viewCount": 1200
         },
         {
           "videoId": "Kl-Doqzga0Y",
@@ -340,7 +382,7 @@
               "height": 720
             }
           },
-          "viewCount": 938
+          "viewCount": 1166
         },
         {
           "videoId": "C6_Y-7lowDE",
@@ -375,7 +417,7 @@
               "height": 720
             }
           },
-          "viewCount": 983
+          "viewCount": 1152
         },
         {
           "videoId": "M3ttxzuW7lY",
@@ -410,7 +452,7 @@
               "height": 720
             }
           },
-          "viewCount": 1354
+          "viewCount": 1571
         },
         {
           "videoId": "4B3QeWzEp9w",
@@ -445,7 +487,7 @@
               "height": 720
             }
           },
-          "viewCount": 1790
+          "viewCount": 1976
         },
         {
           "videoId": "gpRtbQSTMfg",
@@ -480,7 +522,7 @@
               "height": 720
             }
           },
-          "viewCount": 1700
+          "viewCount": 1818
         },
         {
           "videoId": "2sRFeM_zUWA",
@@ -515,7 +557,7 @@
               "height": 720
             }
           },
-          "viewCount": 1452
+          "viewCount": 1494
         },
         {
           "videoId": "EAA08HjMOO0",
@@ -550,7 +592,7 @@
               "height": 720
             }
           },
-          "viewCount": 1473
+          "viewCount": 1531
         },
         {
           "videoId": "tyb7O9C3iuI",
@@ -585,7 +627,7 @@
               "height": 720
             }
           },
-          "viewCount": 1363
+          "viewCount": 1383
         },
         {
           "videoId": "bYsZRs_2bnM",
@@ -620,7 +662,7 @@
               "height": 720
             }
           },
-          "viewCount": 1823
+          "viewCount": 1824
         },
         {
           "videoId": "ylQD4FOwwxE",
@@ -655,7 +697,7 @@
               "height": 720
             }
           },
-          "viewCount": 1523
+          "viewCount": 1540
         },
         {
           "videoId": "l5dvqxF1zys",
@@ -690,7 +732,7 @@
               "height": 720
             }
           },
-          "viewCount": 2625,
+          "viewCount": 2704,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-25T21:10:23Z",
@@ -731,7 +773,7 @@
               "height": 720
             }
           },
-          "viewCount": 3284
+          "viewCount": 3308
         },
         {
           "videoId": "zjHB7WqS0hk",
@@ -766,7 +808,7 @@
               "height": 720
             }
           },
-          "viewCount": 2018
+          "viewCount": 2049
         },
         {
           "videoId": "wEA1-gtghE8",
@@ -801,42 +843,7 @@
               "height": 720
             }
           },
-          "viewCount": 2580
-        },
-        {
-          "videoId": "oJ0bv2IPbxY",
-          "title": "よそ者も受け入れる狛江#狛江#狛江市長選挙",
-          "description": "",
-          "publishedAt": "2026-06-26T01:00:26Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/oJ0bv2IPbxY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/oJ0bv2IPbxY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/oJ0bv2IPbxY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/oJ0bv2IPbxY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/oJ0bv2IPbxY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2290
+          "viewCount": 2591
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -1197,7 +1204,7 @@
               "height": 720
             }
           },
-          "viewCount": 5101
+          "viewCount": 5105
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1458,7 +1465,7 @@
               "height": 720
             }
           },
-          "viewCount": 352
+          "viewCount": 353
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -1586,47 +1593,6 @@
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
       "liveVideos": [
         {
-          "videoId": "nNDC5FmpD9E",
-          "title": "増田よしひこ- 杉並 がライブ配信中！",
-          "description": "",
-          "publishedAt": "2026-06-27T08:21:04Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/default_live.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 131,
-          "liveStreaming": {
-            "status": "live",
-            "scheduledStartTime": "2026-06-27T08:21:04Z",
-            "actualStartTime": "2026-06-27T09:12:02Z",
-            "concurrentViewers": 205
-          }
-        },
-        {
           "videoId": "hAEMcDkKAcI",
           "title": "増田よしひこ- 杉並 がライブ配信中！",
           "description": "",
@@ -1668,6 +1634,123 @@
       ],
       "recentVideos": [
         {
+          "videoId": "mQltozxVuDA",
+          "title": "増田よしひこ- 杉並 がライブ配信中！",
+          "description": "",
+          "publishedAt": "2026-06-27T11:14:19Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mQltozxVuDA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mQltozxVuDA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mQltozxVuDA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mQltozxVuDA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mQltozxVuDA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 488,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-06-27T10:32:35Z",
+            "actualStartTime": "2026-06-27T10:33:12Z",
+            "actualEndTime": "2026-06-27T11:05:09Z"
+          }
+        },
+        {
+          "videoId": "tC1WU45KeAU",
+          "title": "いよいよ最終日🙏　#杉並区 #増田よしひこ #東京",
+          "description": "",
+          "publishedAt": "2026-06-27T10:25:22Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tC1WU45KeAU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tC1WU45KeAU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tC1WU45KeAU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tC1WU45KeAU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tC1WU45KeAU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 647
+        },
+        {
+          "videoId": "nNDC5FmpD9E",
+          "title": "増田よしひこ- 杉並 がライブ配信中！",
+          "description": "",
+          "publishedAt": "2026-06-27T10:19:27Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nNDC5FmpD9E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1561,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-06-27T08:21:04Z",
+            "actualStartTime": "2026-06-27T09:12:02Z",
+            "actualEndTime": "2026-06-27T09:50:42Z"
+          }
+        },
+        {
           "videoId": "sCl9k-cv5fc",
           "title": "純情商店街に道路を通すのか？｜ルートは区民で見直せる【杉並区長選2026 ReHacQ討論会】",
           "description": "杉並の南北を貫く都市計画道路。大きな目で見れば道路は必要だが、車中心の社会はもう時代遅れ——樹木や歩道、自転車道のある「歩行者中心の道」にしたい。しかも現計画は、66年前に引かれたルートのまま純情商店街の真上を通る。お役所が引いた線に従う必要はない。ルートは区民で話し合い、柔軟に変えていい。増田よしひこ。\n\n▼討論会のフル視聴はこちら（ReHacQ公式）\nhttps://www.youtube.com/watch?v=4EAj5rHFCmw\n杉並区長選2026 候補・増田よしひこ（ますだ よしひこ）\n#杉並区長選 #増田よしひこ #杉並区 #まちづくり #ReHacQ",
@@ -1700,7 +1783,7 @@
               "height": 720
             }
           },
-          "viewCount": 990
+          "viewCount": 1518
         },
         {
           "videoId": "ltd7poF3ozA",
@@ -1735,7 +1818,7 @@
               "height": 720
             }
           },
-          "viewCount": 1992
+          "viewCount": 2249
         },
         {
           "videoId": "MXPsetjd878",
@@ -1770,7 +1853,7 @@
               "height": 720
             }
           },
-          "viewCount": 3438
+          "viewCount": 3636
         },
         {
           "videoId": "4hbuQdCOWSM",
@@ -1805,7 +1888,7 @@
               "height": 720
             }
           },
-          "viewCount": 2674
+          "viewCount": 2800
         },
         {
           "videoId": "nzQTgBBnbY8",
@@ -1840,7 +1923,7 @@
               "height": 720
             }
           },
-          "viewCount": 3912,
+          "viewCount": 3951,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-26T11:41:25Z",
@@ -1881,7 +1964,7 @@
               "height": 720
             }
           },
-          "viewCount": 3656
+          "viewCount": 3768
         },
         {
           "videoId": "pioyToGjwQs",
@@ -1916,7 +1999,7 @@
               "height": 720
             }
           },
-          "viewCount": 1633,
+          "viewCount": 1661,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:42:23Z",
@@ -1957,7 +2040,7 @@
               "height": 720
             }
           },
-          "viewCount": 2415
+          "viewCount": 2452
         },
         {
           "videoId": "yl0rZcaHnEk",
@@ -1992,7 +2075,7 @@
               "height": 720
             }
           },
-          "viewCount": 2299
+          "viewCount": 2342
         },
         {
           "videoId": "7jLn3vDoVNc",
@@ -2027,7 +2110,7 @@
               "height": 720
             }
           },
-          "viewCount": 4915
+          "viewCount": 4978
         },
         {
           "videoId": "AIl2JyMIYvU",
@@ -2062,7 +2145,7 @@
               "height": 720
             }
           },
-          "viewCount": 3928
+          "viewCount": 4004
         },
         {
           "videoId": "ibBzz663xmg",
@@ -2097,7 +2180,7 @@
               "height": 720
             }
           },
-          "viewCount": 3431
+          "viewCount": 3425
         },
         {
           "videoId": "N7rSbXKV-6k",
@@ -2132,7 +2215,7 @@
               "height": 720
             }
           },
-          "viewCount": 3069
+          "viewCount": 3089
         },
         {
           "videoId": "-HekvBhTTlY",
@@ -2167,7 +2250,7 @@
               "height": 720
             }
           },
-          "viewCount": 2945
+          "viewCount": 2963
         },
         {
           "videoId": "tEfyYTHd_jQ",
@@ -2202,77 +2285,7 @@
               "height": 720
             }
           },
-          "viewCount": 9107
-        },
-        {
-          "videoId": "P1YD4raXI7k",
-          "title": "【街頭演説】高円寺駅前 2026.6.23｜対話と実行で、杉並を前へ",
-          "description": "6月23日に高円寺駅前で行った、増田よしひこの街頭演説の様子をお届けします。\n\nテーマは「対話」と「実行」。\n増田は、住民参加で政策を立案してきた岸本区政の「対話」の姿勢を評価する一方で、浜田山駅南口、善福寺川上流の調節池、杉並第一小学校、都市計画道路といった積年の課題がこの4年間ほとんど前に進まなかった点に、実行力の課題があると指摘します。\n\n一方、実行力のあった田中区政は、区民や関係者との対話・調整がないまま政策を進めてしまい、その結果、いまも複雑にこじれた問題が残っている——。\n\n対話だけでも、強引な実行だけでもない。十分に対話をしたうえで、期限を区切って決断し、実行して、成果を出す。民間の経営では当たり前のこの姿勢を、杉並区政にも持ち込みたい。増田よしひこが、その思いを語ります。\n\nいよいよ本格化する選挙戦。ぜひ最後までご覧ください。\n\n＃杉並区\n＃増田よしひこ\n＃高円寺\n＃街頭演説\n＃杉並区長選\n＃対話と実行\n＃経営の力\n\n🌱「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。 誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チーム増田」に参加する（ボランティア登録）\n「自分にできることから始めたい」その気持ちを形にしてみるファーストアクション！ビラ配り、ポスター貼りなど、短時間から大歓迎です！\n👉 https://forms.gle/jJcp2Fg3TdEGpR6Y9\n\n2. 寄付で活動を支える\nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」から「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット 杉並の住環境や区政について、直接意見交換ができるコミュニティです。 👉 オープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX1akxgEgapxjncT0k4pPT2zw?utm_source=invitation&utm_medium=link_copy&utm_campaign\n\nあなたの壁を貸してください！ 「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。 👉saisei.yoshimasuda@gmail.com\n\n4. 増田よしひこに会いに行こう\n街頭演説やイベントの最新スケジュールは、毎週日曜日・夕方に公式LINEで配信中！ 握手を交わしに、あるいは忌憚のないご意見を届けに。ぜひ会いに来てください。\n👉https://lin.ee/Wi5lK5O\n\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
-          "publishedAt": "2026-06-24T13:00:36Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/P1YD4raXI7k/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/P1YD4raXI7k/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/P1YD4raXI7k/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/P1YD4raXI7k/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/P1YD4raXI7k/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1890
-        },
-        {
-          "videoId": "Yh9B5QbUZL4",
-          "title": "対話と実行の\"第三の道\"｜岸本さんの本が原点【杉並区長選2026 オープン対話会】",
-          "description": "岸本現区長（対話）と田中前区長（実行）の両方を尊敬する。その間でバランスを取る「第三の道」を行く——アメリカから帰国後、岸本区長の本を読んだことが政治の原点。\n\n▼オープン対話会のフル視聴はこちら\nhttps://www.youtube.com/live/gIqtCP_3pSA\n杉並区長選2026 候補・増田よしひこ（ますだ よしひこ）\n#杉並区長選 #増田よしひこ #杉並区",
-          "publishedAt": "2026-06-24T09:00:02Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Yh9B5QbUZL4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3222
+          "viewCount": 9167
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
