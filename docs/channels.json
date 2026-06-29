@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-06-29T22:05:24.153Z",
+  "requestedAt": "2026-06-29T23:57:25.952Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8007,
+          "viewCount": 8679,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-29T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 12532,
+          "viewCount": 12539,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-27T06:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 11996,
+          "viewCount": 12003,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-24T12:00:00Z",
@@ -206,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 4184,
+          "viewCount": 4242,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-27T14:04:55Z",
@@ -247,7 +247,7 @@
               "height": 720
             }
           },
-          "viewCount": 3265
+          "viewCount": 3276
         },
         {
           "videoId": "YNJOUyPSpK0",
@@ -282,7 +282,7 @@
               "height": 720
             }
           },
-          "viewCount": 2250
+          "viewCount": 2264
         },
         {
           "videoId": "eonra89xMhM",
@@ -352,7 +352,7 @@
               "height": 720
             }
           },
-          "viewCount": 3167,
+          "viewCount": 3171,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-27T11:10:47Z",
@@ -428,7 +428,7 @@
               "height": 720
             }
           },
-          "viewCount": 2053
+          "viewCount": 2058
         },
         {
           "videoId": "l5f21LBh-Yc",
@@ -463,7 +463,7 @@
               "height": 720
             }
           },
-          "viewCount": 2003
+          "viewCount": 2015
         },
         {
           "videoId": "-qmVGS8EcPU",
@@ -498,7 +498,7 @@
               "height": 720
             }
           },
-          "viewCount": 2776
+          "viewCount": 2779
         },
         {
           "videoId": "Tb5lSrbordo",
@@ -533,7 +533,7 @@
               "height": 720
             }
           },
-          "viewCount": 2213
+          "viewCount": 2223
         },
         {
           "videoId": "Kl-Doqzga0Y",
@@ -568,7 +568,7 @@
               "height": 720
             }
           },
-          "viewCount": 1978
+          "viewCount": 1984
         },
         {
           "videoId": "C6_Y-7lowDE",
@@ -708,7 +708,7 @@
               "height": 720
             }
           },
-          "viewCount": 2592
+          "viewCount": 2595
         },
         {
           "videoId": "2sRFeM_zUWA",
@@ -778,7 +778,7 @@
               "height": 720
             }
           },
-          "viewCount": 1924
+          "viewCount": 1927
         },
         {
           "videoId": "tyb7O9C3iuI",
@@ -848,7 +848,7 @@
               "height": 720
             }
           },
-          "viewCount": 2039
+          "viewCount": 2038
         },
         {
           "videoId": "ylQD4FOwwxE",
@@ -1164,7 +1164,7 @@
               "height": 480
             }
           },
-          "viewCount": 622,
+          "viewCount": 642,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-28T20:45:00Z",
@@ -1247,43 +1247,7 @@
       },
       "channelId": "UCYAn26BfbB_Db-oju8SfbHQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "g0Z6KI8fzt8",
-          "title": "再生の道の本質",
-          "description": "６月２２日に予定されていました再生の道の定例オンラインミーティングは、選挙対応のため中止となりました。そのため、どうしてもお伝えしたかった内容をお伝えすることが出来なかったため、急遽動画を撮影しました。\n\n#再生の道 \n#杉並区長選挙\n#狛江市長選挙\n#増田よしひこ\n#奥村こうき\n#ボランティア\n#サポーター",
-          "publishedAt": "2026-06-22T23:07:01Z",
-          "channelTitle": "山下こういち　再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/g0Z6KI8fzt8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/g0Z6KI8fzt8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/g0Z6KI8fzt8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/g0Z6KI8fzt8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/g0Z6KI8fzt8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5186
-        }
-      ],
+      "recentVideos": [],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
     },
     {
@@ -1703,7 +1667,7 @@
               "height": 720
             }
           },
-          "viewCount": 13054,
+          "viewCount": 13075,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-27T11:05:48Z",
@@ -1744,7 +1708,7 @@
               "height": 720
             }
           },
-          "viewCount": 6146,
+          "viewCount": 6159,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-27T13:00:00Z",
@@ -1785,7 +1749,7 @@
               "height": 720
             }
           },
-          "viewCount": 3960
+          "viewCount": 3971
         },
         {
           "videoId": "mQltozxVuDA",
@@ -1861,7 +1825,7 @@
               "height": 720
             }
           },
-          "viewCount": 2754
+          "viewCount": 2760
         },
         {
           "videoId": "nNDC5FmpD9E",
@@ -1896,7 +1860,7 @@
               "height": 720
             }
           },
-          "viewCount": 4846,
+          "viewCount": 4848,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-27T08:21:04Z",
@@ -1937,7 +1901,7 @@
               "height": 720
             }
           },
-          "viewCount": 4467
+          "viewCount": 4473
         },
         {
           "videoId": "ltd7poF3ozA",
@@ -1972,7 +1936,7 @@
               "height": 720
             }
           },
-          "viewCount": 4393
+          "viewCount": 4404
         },
         {
           "videoId": "MXPsetjd878",
@@ -2007,7 +1971,7 @@
               "height": 720
             }
           },
-          "viewCount": 5053
+          "viewCount": 5057
         },
         {
           "videoId": "4hbuQdCOWSM",
@@ -2042,7 +2006,7 @@
               "height": 720
             }
           },
-          "viewCount": 3673
+          "viewCount": 3672
         },
         {
           "videoId": "nzQTgBBnbY8",
@@ -2153,7 +2117,7 @@
               "height": 720
             }
           },
-          "viewCount": 1748,
+          "viewCount": 1751,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2025-06-21T10:42:23Z",
@@ -2229,7 +2193,7 @@
               "height": 720
             }
           },
-          "viewCount": 2818
+          "viewCount": 2819
         },
         {
           "videoId": "7jLn3vDoVNc",
@@ -2299,7 +2263,7 @@
               "height": 720
             }
           },
-          "viewCount": 4597
+          "viewCount": 4603
         },
         {
           "videoId": "ibBzz663xmg",
