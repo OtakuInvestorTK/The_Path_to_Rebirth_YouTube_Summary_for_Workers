@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-11T17:49:50.799Z",
+  "requestedAt": "2026-07-11T18:51:49.284Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 8532,
+          "viewCount": 8540,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-06T13:00:00Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 4585
+          "viewCount": 4598
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -461,7 +461,7 @@
               "height": 720
             }
           },
-          "viewCount": 2290
+          "viewCount": 2294
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1005,7 +1005,7 @@
               "height": 720
             }
           },
-          "viewCount": 2893,
+          "viewCount": 2887,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-10T12:00:00Z",
@@ -1015,31 +1015,6 @@
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
-    },
-    {
-      "input": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "channelTitle": "かとてちゅ〜ぶ☆加藤てつお@大田区",
-      "channelThumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/fh5kl9WfnY9E-KaGMKDnRXcccb8CVbipd5RSN4P9l_lStu971PkAEkgYBGqkClYSXOLq4apu4S8=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/fh5kl9WfnY9E-KaGMKDnRXcccb8CVbipd5RSN4P9l_lStu971PkAEkgYBGqkClYSXOLq4apu4S8=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/fh5kl9WfnY9E-KaGMKDnRXcccb8CVbipd5RSN4P9l_lStu971PkAEkgYBGqkClYSXOLq4apu4S8=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "channelId": "UC_3p_oi5NEs1kWZevVhXI8A",
-      "liveVideos": [],
-      "recentVideos": [],
-      "name": "加藤哲雄,加藤てつお,かとう哲雄,かとうてつお"
     },
     {
       "input": "UCIgD4sYuJmnUb3bR7tNbQyw",
@@ -1065,31 +1040,6 @@
       "liveVideos": [],
       "recentVideos": [],
       "name": "渡辺純平,渡辺じゅんぺい,わたなべ純平,わたなべじゅんぺい"
-    },
-    {
-      "input": "UChJ80ySaiPvaPRi-GZzITXg",
-      "channelTitle": "松尾まさひろ / とある会社員のその後の挑戦",
-      "channelThumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/rWls3F-1kQfxkipz0OEZm0XnzIxHilqnUKpdylpISFygioJYGFLPfOOThbOsTxjgUPIxJGdej7E=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/rWls3F-1kQfxkipz0OEZm0XnzIxHilqnUKpdylpISFygioJYGFLPfOOThbOsTxjgUPIxJGdej7E=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/rWls3F-1kQfxkipz0OEZm0XnzIxHilqnUKpdylpISFygioJYGFLPfOOThbOsTxjgUPIxJGdej7E=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "channelId": "UChJ80ySaiPvaPRi-GZzITXg",
-      "liveVideos": [],
-      "recentVideos": [],
-      "name": "松尾将大,松尾まさひろ,まつお将大,まつおまさひろ"
     },
     {
       "input": "UC2RVXSIeL4BgHKMGBagJvEA",
