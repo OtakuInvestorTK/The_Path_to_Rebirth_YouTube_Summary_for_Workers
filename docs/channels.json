@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-12T14:49:52.541Z",
+  "requestedAt": "2026-07-12T15:53:15.857Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2599,
+          "viewCount": 2606,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-07T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 8578,
+          "viewCount": 8582,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-06T13:00:00Z",
@@ -390,7 +390,7 @@
               "height": 720
             }
           },
-          "viewCount": 1490
+          "viewCount": 1527
         },
         {
           "videoId": "kL5ket-8LR0",
@@ -425,7 +425,7 @@
               "height": 720
             }
           },
-          "viewCount": 2058
+          "viewCount": 2071
         },
         {
           "videoId": "G4AypzUIF7Y",
@@ -460,7 +460,7 @@
               "height": 720
             }
           },
-          "viewCount": 2303
+          "viewCount": 2302
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -737,49 +737,7 @@
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "fifobcXavrQ",
-          "title": "なおりん通信シーズン２　＃７（やり直し）",
-          "description": "",
-          "publishedAt": "2026-07-05T15:00:16Z",
-          "channelTitle": "浅井なおゆき",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fifobcXavrQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fifobcXavrQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fifobcXavrQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/fifobcXavrQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/fifobcXavrQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 959,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-07-05T02:07:41Z",
-            "actualStartTime": "2026-07-05T02:08:01Z",
-            "actualEndTime": "2026-07-05T02:43:28Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
     {
@@ -963,7 +921,7 @@
               "height": 720
             }
           },
-          "viewCount": 3080,
+          "viewCount": 3118,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-10T12:00:00Z",
