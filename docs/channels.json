@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-13T10:18:14.454Z",
+  "requestedAt": "2026-07-13T13:14:35.991Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -56,10 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 626,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-07-13T13:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-07-13T13:00:00Z",
+            "actualStartTime": "2026-07-13T12:58:34Z",
+            "concurrentViewers": 337
           }
         }
       ],
@@ -97,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 2697,
+          "viewCount": 2708,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-07T13:00:00Z",
@@ -138,7 +140,7 @@
               "height": 720
             }
           },
-          "viewCount": 8711,
+          "viewCount": 8747,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-06T13:00:00Z",
@@ -430,7 +432,7 @@
               "height": 720
             }
           },
-          "viewCount": 1854
+          "viewCount": 1863
         },
         {
           "videoId": "kL5ket-8LR0",
@@ -465,42 +467,7 @@
               "height": 720
             }
           },
-          "viewCount": 2085
-        },
-        {
-          "videoId": "G4AypzUIF7Y",
-          "title": "府中市白糸台小学校通学路雑草処理 #府中市 #ボランティア",
-          "description": "白糸台小学校通学路に雑草が伸びすぎて歩行者の通れない箇所があったため処理をしました。\n雑草の根っこで舗装に亀裂も出来ているので、何らかの対策も必要だと思います。",
-          "publishedAt": "2026-07-06T10:47:30Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/G4AypzUIF7Y/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/G4AypzUIF7Y/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/G4AypzUIF7Y/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/G4AypzUIF7Y/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/G4AypzUIF7Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2309
+          "viewCount": 2088
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -961,7 +928,7 @@
               "height": 720
             }
           },
-          "viewCount": 3278,
+          "viewCount": 3299,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-10T12:00:00Z",
