@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-14T04:45:56.921Z",
+  "requestedAt": "2026-07-14T07:06:34.054Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 9554,
+          "viewCount": 9968,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-13T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 2731,
+          "viewCount": 2732,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-07T13:00:00Z",
@@ -390,7 +390,7 @@
               "height": 720
             }
           },
-          "viewCount": 1265
+          "viewCount": 1415
         },
         {
           "videoId": "0Ug_Tac-XqY",
@@ -425,7 +425,7 @@
               "height": 720
             }
           },
-          "viewCount": 2690
+          "viewCount": 3459
         },
         {
           "videoId": "kL5ket-8LR0",
@@ -460,7 +460,7 @@
               "height": 720
             }
           },
-          "viewCount": 2103
+          "viewCount": 2105
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -686,7 +686,8 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "6oIxuhT9hwY",
           "title": "ちょっとだけ",
@@ -720,16 +721,15 @@
               "height": 720
             }
           },
-          "viewCount": 115,
+          "viewCount": 967,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
             "actualStartTime": "2026-07-14T03:42:21Z",
-            "concurrentViewers": 2
+            "actualEndTime": "2026-07-14T04:01:07Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "久禮義継,久禮よしつぐ,くれ義継,くれよしつぐ"
     },
     {
@@ -963,7 +963,7 @@
               "height": 720
             }
           },
-          "viewCount": 3345,
+          "viewCount": 3355,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-10T12:00:00Z",
