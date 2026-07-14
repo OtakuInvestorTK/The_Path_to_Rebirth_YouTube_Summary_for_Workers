@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-14T01:53:53.928Z",
+  "requestedAt": "2026-07-14T04:45:56.921Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8930,
+          "viewCount": 9554,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-13T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 2726,
+          "viewCount": 2731,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-07T13:00:00Z",
@@ -390,7 +390,7 @@
               "height": 720
             }
           },
-          "viewCount": 1071
+          "viewCount": 1265
         },
         {
           "videoId": "0Ug_Tac-XqY",
@@ -425,7 +425,7 @@
               "height": 720
             }
           },
-          "viewCount": 2358
+          "viewCount": 2690
         },
         {
           "videoId": "kL5ket-8LR0",
@@ -460,7 +460,7 @@
               "height": 720
             }
           },
-          "viewCount": 2094
+          "viewCount": 2103
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -686,7 +686,49 @@
         }
       },
       "channelId": "UCXAD31FDlnICnEH0P0_kHCQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "6oIxuhT9hwY",
+          "title": "ちょっとだけ",
+          "description": "【略歴】\nBig4監査法人→投資銀行（日本興業銀行(出向)/ドイツ証券/JPモルガン/みずほ。民営化、M&A、IPO等）→NEC（グローバル・中長期戦略）→独立（政策提言、事業承継、再生支援）\n公認会計士｜米国公認会計士試験合格\nミシガン大学MBA｜同志社大学経済学部卒\n大阪出身｜東京都世田谷区在住\n#再生の道  #くれよしつぐ #久禮義継",
+          "publishedAt": "2026-07-14T03:41:07Z",
+          "channelTitle": "くれよしつぐ チャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6oIxuhT9hwY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6oIxuhT9hwY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6oIxuhT9hwY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6oIxuhT9hwY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6oIxuhT9hwY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 115,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-07-14T03:41:07Z",
+            "actualStartTime": "2026-07-14T03:42:21Z",
+            "concurrentViewers": 2
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "久禮義継,久禮よしつぐ,くれ義継,くれよしつぐ"
     },
