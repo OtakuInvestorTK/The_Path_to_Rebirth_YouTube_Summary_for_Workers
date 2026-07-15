@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-14T23:46:05.608Z",
+  "requestedAt": "2026-07-15T01:50:28.587Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11813,
+          "viewCount": 11919,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-13T13:00:00Z",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 6022
+          "viewCount": 6053
         },
         {
           "videoId": "kL5ket-8LR0",
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 2125
+          "viewCount": 2129
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -680,7 +680,7 @@
               "height": 720
             }
           },
-          "viewCount": 3051,
+          "viewCount": 3093,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
@@ -887,7 +887,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "oZUtfoLs028",
+          "title": "浦野仁市長誕生から見えたこと〜ヨシヒコ・ライブ#39",
+          "description": "・今週の活動報告\n・うらのじんさんの選挙戦をみて思うこと\n・「善福寺川流域の工事被害から暮らしを守る会」立ち上げ総会に行ってきました（こう書くと、反対運動か？と過剰反応される方たちがいますが、反対運動ではありません）\nなどなど。\n\n本日のワインは、夏にぴったりのおすすめワインを紹介する（・・・かもね）。\n\n\n🌱\n「杉並の未来」を、あなたと一緒に創りたい〜2026夏〜\n増田よしひこ一人では、この街を涼しく、過ごしやすく変えることはできません。 誰もが自分らしく暮らせる「これからの杉並」を、一緒に形にしませんか。\n\n1. 「チームますだ」に参加する\nまずは、公式ラインにご参加ください。活動のお知らせなどしていきます。\n👉https://lin.ee/Wi5lK5O\n\n2. 寄付で活動を支える \nご寄付一つ一つが、増田のメッセージをより広く、より深く届ける力になります。\nこの街の未来を動かすための「志」を、ご寄付という形で託していただけませんか。\n👉 https://go2senkyo.com/seijika/195808\n\n3. 杉並区民の皆様へ：もっとカジュアルに政治しよう。政治を「特別な誰かのもの」から「私たちの街を整える日常」へ。\n本音でトーク！オープンチャット 杉並の住環境や区政について、直接意見交換ができるコミュニティです。\n 👉 オープンチャット「杉並区民限定 増田よしひこ と杉並区について話そう」\nhttps://line.me/ti/g2/75FE1JCxJ9NjxxX...\n\n＊あなたの壁を貸してください！ 「ポスター掲示OK」のご連絡、ご紹介を、心よりお待ちしております。 👉saisei.yoshimasuda@gmail.com",
+          "publishedAt": "2026-07-15T01:36:44Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oZUtfoLs028/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oZUtfoLs028/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oZUtfoLs028/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oZUtfoLs028/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oZUtfoLs028/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-07-16T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "78UfLV-W_Y4",
@@ -922,7 +962,7 @@
               "height": 720
             }
           },
-          "viewCount": 3423,
+          "viewCount": 3436,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-10T12:00:00Z",
