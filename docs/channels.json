@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-15T19:00:42.687Z",
+  "requestedAt": "2026-07-15T20:52:29.382Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12888,
+          "viewCount": 12921,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-13T13:00:00Z",
@@ -317,6 +317,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "ItM5JLsxfPE",
+          "title": "2026年7月15日朝日町一丁目雑草処理 #府中市 #ボランティア",
+          "description": "駐車場出入口や路側帯に雑草が伸びていたので処理しました。\n見通しがかなり改善したと思います😁\n#府中市 #インフラ #ボランティア",
+          "publishedAt": "2026-07-15T20:11:36Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 164
+        },
+        {
           "videoId": "2PgXwtwGnHo",
           "title": "2026年7月13日(月)白糸台駅駐輪場雑草処理 #府中市 #ボランティア",
           "description": "白糸台駅駐輪場の雑草が繁茂した影響で、交差点の見通しが非常に悪くなり事故の可能性が高くなっていました\n作業後はある程度安全性が担保されていると思います\n#府中市 #インフラ #ボランティア",
@@ -349,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 2318
+          "viewCount": 2328
         },
         {
           "videoId": "0Ug_Tac-XqY",
@@ -419,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 2156
+          "viewCount": 2163
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -680,7 +715,7 @@
               "height": 720
             }
           },
-          "viewCount": 3485,
+          "viewCount": 3497,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
