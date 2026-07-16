@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-16T02:01:03.226Z",
+  "requestedAt": "2026-07-16T05:32:55.430Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13036,
+          "viewCount": 13092,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-13T13:00:00Z",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 1045
+          "viewCount": 1179
         },
         {
           "videoId": "2PgXwtwGnHo",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 2356
+          "viewCount": 2371
         },
         {
           "videoId": "0Ug_Tac-XqY",
@@ -419,42 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 6188
-        },
-        {
-          "videoId": "kL5ket-8LR0",
-          "title": "2026年7月8日•9日 白糸台小学校通学路植栽剪定 #府中市 #インフラ",
-          "description": "数ヶ月前に剪定した低木の枝が車道側に迫り出して自転車などの通行を阻害してました🪾\n定期的な維持管理を怠ると、どんどん人が通らなくなってしまいます😓 #インフラ #ボランティア",
-          "publishedAt": "2026-07-09T04:03:39Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/kL5ket-8LR0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/kL5ket-8LR0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/kL5ket-8LR0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/kL5ket-8LR0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/kL5ket-8LR0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2244
+          "viewCount": 6201
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -715,7 +680,7 @@
               "height": 720
             }
           },
-          "viewCount": 3518,
+          "viewCount": 3555,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
@@ -997,7 +962,7 @@
               "height": 720
             }
           },
-          "viewCount": 3546,
+          "viewCount": 3561,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-10T12:00:00Z",
