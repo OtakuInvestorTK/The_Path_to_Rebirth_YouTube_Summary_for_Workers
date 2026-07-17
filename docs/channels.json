@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-17T13:13:59.529Z",
+  "requestedAt": "2026-07-17T15:08:26.349Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -349,7 +349,7 @@
               "height": 720
             }
           },
-          "viewCount": 1841
+          "viewCount": 1878
         },
         {
           "videoId": "2PgXwtwGnHo",
@@ -384,7 +384,7 @@
               "height": 720
             }
           },
-          "viewCount": 2552
+          "viewCount": 2554
         },
         {
           "videoId": "0Ug_Tac-XqY",
@@ -419,7 +419,7 @@
               "height": 720
             }
           },
-          "viewCount": 6321
+          "viewCount": 6319
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -680,7 +680,7 @@
               "height": 720
             }
           },
-          "viewCount": 3819,
+          "viewCount": 3832,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
@@ -922,53 +922,12 @@
               "height": 720
             }
           },
-          "viewCount": 6140,
+          "viewCount": 6246,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-16T12:00:00Z",
             "actualStartTime": "2026-07-16T12:01:43Z",
             "actualEndTime": "2026-07-16T13:04:52Z"
-          }
-        },
-        {
-          "videoId": "78UfLV-W_Y4",
-          "title": "岸本区長の記者会見を受けて〜ヨシヒコ・ライブ＃38",
-          "description": "・今日のワイン\n・活動報告\n・杉並区長記者会見を聞いて\n・ミュニシバリズムってなに？\nなどなど。",
-          "publishedAt": "2026-07-10T13:25:03Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/78UfLV-W_Y4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/78UfLV-W_Y4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/78UfLV-W_Y4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/78UfLV-W_Y4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/78UfLV-W_Y4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3607,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-07-10T12:00:00Z",
-            "actualStartTime": "2026-07-10T12:01:24Z",
-            "actualEndTime": "2026-07-10T13:10:02Z"
           }
         }
       ],
