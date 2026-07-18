@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-18T08:46:22.134Z",
+  "requestedAt": "2026-07-18T10:13:05.114Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -114,7 +114,7 @@
               "height": 360
             }
           },
-          "viewCount": 2602,
+          "viewCount": 3275,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-18T04:59:50Z",
@@ -349,6 +349,42 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "ZpitPR6nMDo",
+          "title": "淳さんぽ【東京アクアシンフォニー】",
+          "description": "",
+          "publishedAt": "2026-07-18T09:26:02Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZpitPR6nMDo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZpitPR6nMDo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZpitPR6nMDo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZpitPR6nMDo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 89,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-06-30T04:55:22Z",
+            "actualStartTime": "2026-07-18T08:57:13Z",
+            "actualEndTime": "2026-07-18T09:15:40Z"
+          }
+        },
+        {
           "videoId": "ItM5JLsxfPE",
           "title": "2026年7月15日朝日町一丁目雑草処理 #府中市 #ボランティア",
           "description": "駐車場出入口や路側帯に雑草が伸びていたので処理しました。\n見通しがかなり改善したと思います😁\n#府中市 #インフラ #ボランティア",
@@ -381,7 +417,7 @@
               "height": 720
             }
           },
-          "viewCount": 1937
+          "viewCount": 1963
         },
         {
           "videoId": "2PgXwtwGnHo",
@@ -416,7 +452,7 @@
               "height": 720
             }
           },
-          "viewCount": 2561
+          "viewCount": 2567
         },
         {
           "videoId": "0Ug_Tac-XqY",
@@ -712,7 +748,7 @@
               "height": 720
             }
           },
-          "viewCount": 3859,
+          "viewCount": 3862,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
@@ -954,7 +990,7 @@
               "height": 720
             }
           },
-          "viewCount": 6632,
+          "viewCount": 6634,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-16T12:00:00Z",
