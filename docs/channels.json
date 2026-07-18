@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-18T04:43:42.193Z",
+  "requestedAt": "2026-07-18T06:56:13.222Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 13814,
+          "viewCount": 13888,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-13T13:00:00Z",
@@ -90,7 +90,39 @@
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "NPGaGo4Fo2c",
+          "title": "奥村こうき | 石垣島から配信中！",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-07-18T06:45:16Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NPGaGo4Fo2c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NPGaGo4Fo2c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NPGaGo4Fo2c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 1394,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-07-18T04:59:50Z",
+            "actualStartTime": "2026-07-18T05:01:22Z",
+            "actualEndTime": "2026-07-18T06:30:59Z"
+          }
+        }
+      ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -349,7 +381,7 @@
               "height": 720
             }
           },
-          "viewCount": 1926
+          "viewCount": 1939
         },
         {
           "videoId": "2PgXwtwGnHo",
@@ -419,7 +451,7 @@
               "height": 720
             }
           },
-          "viewCount": 6354
+          "viewCount": 6355
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -680,7 +712,7 @@
               "height": 720
             }
           },
-          "viewCount": 3840,
+          "viewCount": 3850,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
@@ -922,7 +954,7 @@
               "height": 720
             }
           },
-          "viewCount": 6556,
+          "viewCount": 6594,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-16T12:00:00Z",
