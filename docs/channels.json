@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-20T02:25:13.002Z",
+  "requestedAt": "2026-07-20T06:11:40.908Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "noYecHYdbyM",
+          "title": "再生の道 定例オンラインミーティング（ライブ配信）",
+          "description": "北海道講演会参加申し込みフォーム\nhttps://forms.gle/2c8wqTa56g1nvvcJA\n\n東北講演会参加申し込みフォーム\nhttps://forms.gle/poLBeC2hnHcbVvPQ7\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
+          "publishedAt": "2026-07-20T03:38:20Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/noYecHYdbyM/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/noYecHYdbyM/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/noYecHYdbyM/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/noYecHYdbyM/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/noYecHYdbyM/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-07-20T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "ZZ1bP1AxN88",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 14305,
+          "viewCount": 14347,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-13T13:00:00Z",
@@ -114,7 +154,7 @@
               "height": 360
             }
           },
-          "viewCount": 7252,
+          "viewCount": 7374,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-18T04:59:50Z",
@@ -376,7 +416,7 @@
               "height": 480
             }
           },
-          "viewCount": 2665,
+          "viewCount": 2695,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-30T04:55:22Z",
@@ -417,7 +457,7 @@
               "height": 720
             }
           },
-          "viewCount": 2070
+          "viewCount": 2072
         },
         {
           "videoId": "2PgXwtwGnHo",
@@ -452,7 +492,7 @@
               "height": 720
             }
           },
-          "viewCount": 2601
+          "viewCount": 2603
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -713,7 +753,7 @@
               "height": 720
             }
           },
-          "viewCount": 3890,
+          "viewCount": 3892,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
@@ -955,7 +995,7 @@
               "height": 720
             }
           },
-          "viewCount": 6962,
+          "viewCount": 6963,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-16T12:00:00Z",
