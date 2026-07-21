@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-21T11:00:51.073Z",
+  "requestedAt": "2026-07-21T13:23:54.678Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6013,
+          "viewCount": 6182,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -114,7 +114,7 @@
               "height": 360
             }
           },
-          "viewCount": 7970,
+          "viewCount": 8021,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-18T04:59:50Z",
@@ -177,7 +177,7 @@
     },
     {
       "input": "UC9Om2Yds7CWILvyvDYcCORQ",
-      "channelTitle": "【再生の道】金井きょうたの『きょうたンネル!』【公式】",
+      "channelTitle": "金井きょうたの『きょうたンネル!』【公式】",
       "channelThumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/nVwIMrvXNepmJuzFhHsRI3kW6YTgnnpK72y2Cd33Fn_5nl7M2P8HWbMVs5ZwCS4vK_q5QXvV=s88-c-k-c0x00ffffff-no-rj",
@@ -678,7 +678,7 @@
               "height": 720
             }
           },
-          "viewCount": 3904,
+          "viewCount": 3905,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-14T03:41:07Z",
@@ -920,7 +920,7 @@
               "height": 720
             }
           },
-          "viewCount": 7000,
+          "viewCount": 7012,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-16T12:00:00Z",
