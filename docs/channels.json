@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-22T19:02:59.860Z",
+  "requestedAt": "2026-07-22T20:58:09.844Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7074,
+          "viewCount": 7075,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -383,41 +383,6 @@
             "actualStartTime": "2026-07-18T08:57:13Z",
             "actualEndTime": "2026-07-18T09:15:40Z"
           }
-        },
-        {
-          "videoId": "ItM5JLsxfPE",
-          "title": "2026年7月15日朝日町一丁目雑草処理 #府中市 #ボランティア",
-          "description": "駐車場出入口や路側帯に雑草が伸びていたので処理しました。\n見通しがかなり改善したと思います😁\n#府中市 #インフラ #ボランティア",
-          "publishedAt": "2026-07-15T20:11:36Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ItM5JLsxfPE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2126
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -878,7 +843,7 @@
               "height": 720
             }
           },
-          "viewCount": 7058,
+          "viewCount": 7062,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-16T12:00:00Z",
