@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-22T02:02:00.705Z",
+  "requestedAt": "2026-07-22T05:42:11.627Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -26,7 +26,7 @@
       "recentVideos": [
         {
           "videoId": "noYecHYdbyM",
-          "title": "再生の道 定例オンラインミーティング（ライブ配信）",
+          "title": "2026/07/20 再生の道 定例オンラインミーティング（ライブ配信）",
           "description": "東北講演会参加申し込みフォーム\nhttps://forms.gle/poLBeC2hnHcbVvPQ7\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
           "publishedAt": "2026-07-20T13:49:24Z",
           "channelTitle": "再生の道",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6592,
+          "viewCount": 6733,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -114,7 +114,7 @@
               "height": 360
             }
           },
-          "viewCount": 8181,
+          "viewCount": 8265,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-18T04:59:50Z",
@@ -878,7 +878,7 @@
               "height": 720
             }
           },
-          "viewCount": 7019,
+          "viewCount": 7028,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-16T12:00:00Z",
