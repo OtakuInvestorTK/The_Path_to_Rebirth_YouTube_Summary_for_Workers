@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-23T08:19:07.548Z",
+  "requestedAt": "2026-07-23T11:03:32.576Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7235,
+          "viewCount": 7258,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -114,7 +114,7 @@
               "height": 360
             }
           },
-          "viewCount": 8859,
+          "viewCount": 8888,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-18T04:59:50Z",
@@ -376,7 +376,7 @@
               "height": 480
             }
           },
-          "viewCount": 2803,
+          "viewCount": 2805,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-30T04:55:22Z",
@@ -808,7 +808,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "XUrRjm33PLA",
+          "title": "ソーリ！高市早苗総理大臣！ヨシヒコ・ライブ#40",
+          "description": "今週のトピック\n・おすすめワイン\n・今週の活動報告\n・注目の高市総理大臣と『骨太方針』『日本成長戦略』『地域未来戦略』\nなどなど。\n今日もゆるりと、ワイン片手に遊びにいらしてください。\n\n🟣増田よしひこ\n・杉並区生まれ\n・高井戸小学校・高井戸中学校・都立西高等校卒業\n・早稲田大学政治経済学部政治学科卒業\n・富士通グループ、SATOグループなどで米国社長、海担当役員など歴任。北米で20年以上勤務。\n・帰国後は、杉並区の未来をより良くしたいとの思いから、地域活動に取り組んでいる\n・ワインエキスパート\n・2026杉並区長選挙で、15,877票のご支援をいただき、\n　このご期待に応えられるよう、地域の活動を続けている\n・SMiLE(すぎなみの未来を創る会)発起人\n・著書：木陰のある街に、未来は集まる\n\nX ：https://x.com/tokyo_ymasuda\nHP : https://masuda-yoshihiko.com/\n選挙ドットコム：https://go2senkyo.com/seijika/195808",
+          "publishedAt": "2026-07-23T09:09:29Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XUrRjm33PLA/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XUrRjm33PLA/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XUrRjm33PLA/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XUrRjm33PLA/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XUrRjm33PLA/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-07-23T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "oZUtfoLs028",
@@ -843,7 +883,7 @@
               "height": 720
             }
           },
-          "viewCount": 7091,
+          "viewCount": 7122,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-16T12:00:00Z",
