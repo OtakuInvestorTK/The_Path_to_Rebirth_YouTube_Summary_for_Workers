@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-23T21:59:44.224Z",
+  "requestedAt": "2026-07-23T23:02:25.689Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7348,
+          "viewCount": 7346,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -843,7 +843,7 @@
               "height": 720
             }
           },
-          "viewCount": 1825,
+          "viewCount": 1860,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
