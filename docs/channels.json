@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-24T20:14:25.881Z",
+  "requestedAt": "2026-07-24T21:58:44.868Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7488,
+          "viewCount": 7489,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "WMRyMmXuYFs",
+          "title": "藤本雄一さんは何者なのか？#石垣市#藤本雄一",
+          "description": "",
+          "publishedAt": "2026-07-24T21:00:23Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 779
+        },
+        {
           "videoId": "W90YFY0Xyak",
           "title": "未知があるということは喜びである#奥村こうき#狛江",
           "description": "",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 451
+          "viewCount": 666
         },
         {
           "videoId": "NPGaGo4Fo2c",
@@ -878,7 +913,7 @@
               "height": 720
             }
           },
-          "viewCount": 2401,
+          "viewCount": 2411,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
