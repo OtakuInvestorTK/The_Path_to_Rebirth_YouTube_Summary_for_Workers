@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-24T21:58:44.868Z",
+  "requestedAt": "2026-07-24T23:03:40.260Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7489,
+          "viewCount": 7492,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "UzzgtXjEIgM",
+          "title": "58歳の藤本さんが26歳の私に驚いた理由！？#石垣市#藤本雄一#狛江市#奥村こうき",
+          "description": "",
+          "publishedAt": "2026-07-24T23:00:03Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UzzgtXjEIgM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UzzgtXjEIgM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UzzgtXjEIgM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UzzgtXjEIgM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UzzgtXjEIgM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 8
+        },
+        {
           "videoId": "WMRyMmXuYFs",
           "title": "藤本雄一さんは何者なのか？#石垣市#藤本雄一",
           "description": "",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 779
+          "viewCount": 825
         },
         {
           "videoId": "W90YFY0Xyak",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 666
+          "viewCount": 995
         },
         {
           "videoId": "NPGaGo4Fo2c",
@@ -184,7 +219,7 @@
               "height": 360
             }
           },
-          "viewCount": 9573,
+          "viewCount": 9584,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-18T04:59:50Z",
@@ -913,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 2411,
+          "viewCount": 2418,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
