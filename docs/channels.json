@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-24T14:48:33.732Z",
+  "requestedAt": "2026-07-24T16:34:32.447Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7447,
+          "viewCount": 7470,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "W90YFY0Xyak",
+          "title": "未知があるということは喜びである#奥村こうき#狛江",
+          "description": "",
+          "publishedAt": "2026-07-24T15:53:08Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 318
+        },
+        {
           "videoId": "NPGaGo4Fo2c",
           "title": "奥村こうき | 石垣島から配信中！",
           "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
@@ -114,7 +149,7 @@
               "height": 360
             }
           },
-          "viewCount": 9534,
+          "viewCount": 9544,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-18T04:59:50Z",
@@ -376,7 +411,7 @@
               "height": 480
             }
           },
-          "viewCount": 2812,
+          "viewCount": 2814,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-30T04:55:22Z",
@@ -843,7 +878,7 @@
               "height": 720
             }
           },
-          "viewCount": 2368,
+          "viewCount": 2374,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
