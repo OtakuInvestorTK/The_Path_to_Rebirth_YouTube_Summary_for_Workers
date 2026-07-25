@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-25T11:03:55.802Z",
+  "requestedAt": "2026-07-25T13:10:08.747Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7538,
+          "viewCount": 7585,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 2
+          "viewCount": 736
         },
         {
           "videoId": "qgIvKrRoRU0",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 1000
+          "viewCount": 1287
         },
         {
           "videoId": "F-rwi3WQIg0",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 285
+          "viewCount": 361
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 766
+          "viewCount": 872
         },
         {
           "videoId": "UzzgtXjEIgM",
@@ -264,7 +264,7 @@
               "height": 720
             }
           },
-          "viewCount": 1478
+          "viewCount": 1551
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -299,7 +299,7 @@
               "height": 720
             }
           },
-          "viewCount": 1720
+          "viewCount": 1762
         },
         {
           "videoId": "W90YFY0Xyak",
@@ -334,7 +334,7 @@
               "height": 720
             }
           },
-          "viewCount": 2031
+          "viewCount": 2102
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -736,7 +736,43 @@
       },
       "channelId": "UCvlUZ8XJp0jthtKfLG1i_hQ",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "gr9jY0h-3lQ",
+          "title": "隅田川花火大会（あの場所から）",
+          "description": "",
+          "publishedAt": "2026-07-25T11:06:45Z",
+          "channelTitle": "【公式】坪田こうすけ「つぼチャンネル」",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gr9jY0h-3lQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gr9jY0h-3lQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gr9jY0h-3lQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gr9jY0h-3lQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gr9jY0h-3lQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 966
+        }
+      ],
       "name": "坪田幸典,坪田こうすけ,つぼた幸典,つぼたこうすけ"
     },
     {
@@ -1020,7 +1056,7 @@
               "height": 720
             }
           },
-          "viewCount": 2508,
+          "viewCount": 2521,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
