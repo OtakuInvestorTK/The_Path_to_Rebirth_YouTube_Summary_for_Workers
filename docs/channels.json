@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-25T02:04:19.766Z",
+  "requestedAt": "2026-07-25T05:37:23.685Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7492,
+          "viewCount": 7510,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "F-rwi3WQIg0",
+          "title": "アニミズムとは何か？#石垣市#藤本雄一#狛江市#奥村こうき",
+          "description": "",
+          "publishedAt": "2026-07-25T05:00:09Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F-rwi3WQIg0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F-rwi3WQIg0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F-rwi3WQIg0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/F-rwi3WQIg0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/F-rwi3WQIg0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 31
+        },
+        {
           "videoId": "_s1jE0ZsKhQ",
           "title": "犬と人間どちらが上なのか？#石垣市#藤本雄一#狛江市#奥村こうき",
           "description": "",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 1
+          "viewCount": 387
         },
         {
           "videoId": "UzzgtXjEIgM",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 926
+          "viewCount": 1264
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -194,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 1332
+          "viewCount": 1564
         },
         {
           "videoId": "W90YFY0Xyak",
@@ -229,7 +264,7 @@
               "height": 720
             }
           },
-          "viewCount": 1560
+          "viewCount": 1807
         },
         {
           "videoId": "NPGaGo4Fo2c",
@@ -254,7 +289,7 @@
               "height": 360
             }
           },
-          "viewCount": 9611,
+          "viewCount": 9631,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-18T04:59:50Z",
@@ -983,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 2455,
+          "viewCount": 2483,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
