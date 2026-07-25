@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-25T05:37:23.685Z",
+  "requestedAt": "2026-07-25T07:56:13.014Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7510,
+          "viewCount": 7538,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 31
+          "viewCount": 174
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 387
+          "viewCount": 551
         },
         {
           "videoId": "UzzgtXjEIgM",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 1264
+          "viewCount": 1357
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -229,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 1564
+          "viewCount": 1629
         },
         {
           "videoId": "W90YFY0Xyak",
@@ -264,38 +264,7 @@
               "height": 720
             }
           },
-          "viewCount": 1807
-        },
-        {
-          "videoId": "NPGaGo4Fo2c",
-          "title": "奥村こうき | 石垣島から配信中！",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2026-07-18T06:45:16Z",
-          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NPGaGo4Fo2c/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NPGaGo4Fo2c/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NPGaGo4Fo2c/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "viewCount": 9631,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-07-18T04:59:50Z",
-            "actualStartTime": "2026-07-18T05:01:22Z",
-            "actualEndTime": "2026-07-18T06:30:59Z"
-          }
+          "viewCount": 1893
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -551,7 +520,7 @@
               "height": 480
             }
           },
-          "viewCount": 2814,
+          "viewCount": 2815,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-06-30T04:55:22Z",
@@ -1018,7 +987,7 @@
               "height": 720
             }
           },
-          "viewCount": 2483,
+          "viewCount": 2494,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
