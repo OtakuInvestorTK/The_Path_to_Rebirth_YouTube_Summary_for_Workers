@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-25T09:42:19.498Z",
+  "requestedAt": "2026-07-25T11:03:55.802Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7541,
+          "viewCount": 7538,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "2Vw9GRXazA8",
+          "title": "地方自治に必要なのはアイデンティティ#石垣市#藤本雄一#狛江市#奥村こうき",
+          "description": "",
+          "publishedAt": "2026-07-25T11:00:40Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2Vw9GRXazA8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2Vw9GRXazA8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2Vw9GRXazA8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2Vw9GRXazA8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2Vw9GRXazA8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 2
+        },
+        {
           "videoId": "qgIvKrRoRU0",
           "title": "なぜ未来のこどもにツケが回る？#石垣市#藤本雄一#狛江市#奥村こうき",
           "description": "",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 813
+          "viewCount": 1000
         },
         {
           "videoId": "F-rwi3WQIg0",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 247
+          "viewCount": 285
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -194,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 694
+          "viewCount": 766
         },
         {
           "videoId": "UzzgtXjEIgM",
@@ -229,7 +264,7 @@
               "height": 720
             }
           },
-          "viewCount": 1445
+          "viewCount": 1478
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -264,7 +299,7 @@
               "height": 720
             }
           },
-          "viewCount": 1693
+          "viewCount": 1720
         },
         {
           "videoId": "W90YFY0Xyak",
@@ -299,7 +334,7 @@
               "height": 720
             }
           },
-          "viewCount": 1984
+          "viewCount": 2031
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -985,7 +1020,7 @@
               "height": 720
             }
           },
-          "viewCount": 2499,
+          "viewCount": 2508,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
