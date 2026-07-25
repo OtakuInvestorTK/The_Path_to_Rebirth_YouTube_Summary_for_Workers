@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-25T07:56:13.014Z",
+  "requestedAt": "2026-07-25T09:42:19.498Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7538,
+          "viewCount": 7541,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-20T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "qgIvKrRoRU0",
+          "title": "なぜ未来のこどもにツケが回る？#石垣市#藤本雄一#狛江市#奥村こうき",
+          "description": "",
+          "publishedAt": "2026-07-25T08:00:16Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qgIvKrRoRU0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qgIvKrRoRU0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qgIvKrRoRU0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qgIvKrRoRU0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qgIvKrRoRU0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 813
+        },
+        {
           "videoId": "F-rwi3WQIg0",
           "title": "アニミズムとは何か？#石垣市#藤本雄一#狛江市#奥村こうき",
           "description": "",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 174
+          "viewCount": 247
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -159,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 551
+          "viewCount": 694
         },
         {
           "videoId": "UzzgtXjEIgM",
@@ -194,7 +229,7 @@
               "height": 720
             }
           },
-          "viewCount": 1357
+          "viewCount": 1445
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -229,7 +264,7 @@
               "height": 720
             }
           },
-          "viewCount": 1629
+          "viewCount": 1693
         },
         {
           "videoId": "W90YFY0Xyak",
@@ -264,7 +299,7 @@
               "height": 720
             }
           },
-          "viewCount": 1893
+          "viewCount": 1984
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -491,44 +526,7 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "ZpitPR6nMDo",
-          "title": "淳さんぽ【東京アクアシンフォニー】",
-          "description": "",
-          "publishedAt": "2026-07-18T09:26:02Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ZpitPR6nMDo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ZpitPR6nMDo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ZpitPR6nMDo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ZpitPR6nMDo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
-          },
-          "viewCount": 2815,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-06-30T04:55:22Z",
-            "actualStartTime": "2026-07-18T08:57:13Z",
-            "actualEndTime": "2026-07-18T09:15:40Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -987,7 +985,7 @@
               "height": 720
             }
           },
-          "viewCount": 2494,
+          "viewCount": 2499,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
