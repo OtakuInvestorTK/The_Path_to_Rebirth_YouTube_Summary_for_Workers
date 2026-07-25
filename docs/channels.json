@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-25T14:56:45.559Z",
+  "requestedAt": "2026-07-25T16:02:19.432Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 563
+          "viewCount": 907
         },
         {
           "videoId": "2Vw9GRXazA8",
@@ -159,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 958
+          "viewCount": 1120
         },
         {
           "videoId": "qgIvKrRoRU0",
@@ -194,7 +194,7 @@
               "height": 720
             }
           },
-          "viewCount": 1399
+          "viewCount": 1436
         },
         {
           "videoId": "F-rwi3WQIg0",
@@ -299,7 +299,7 @@
               "height": 720
             }
           },
-          "viewCount": 1582
+          "viewCount": 1580
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -334,7 +334,7 @@
               "height": 720
             }
           },
-          "viewCount": 1763
+          "viewCount": 1810
         },
         {
           "videoId": "W90YFY0Xyak",
@@ -369,7 +369,7 @@
               "height": 720
             }
           },
-          "viewCount": 2140
+          "viewCount": 2151
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -805,7 +805,7 @@
               "height": 720
             }
           },
-          "viewCount": 1173
+          "viewCount": 1390
         }
       ],
       "name": "坪田幸典,坪田こうすけ,つぼた幸典,つぼたこうすけ"
@@ -1091,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 2527,
+          "viewCount": 2532,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
