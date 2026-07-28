@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-28T11:10:50.058Z",
+  "requestedAt": "2026-07-28T13:49:04.525Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6286,
+          "viewCount": 6427,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -89,48 +89,49 @@
         }
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "mtyf_WCelaY",
           "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
           "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2026-07-28T05:52:13Z",
+          "publishedAt": "2026-07-28T12:33:46Z",
           "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 1300,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-07-28T11:30:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-07-28T11:30:00Z",
+            "actualStartTime": "2026-07-28T11:30:41Z",
+            "actualEndTime": "2026-07-28T12:21:54Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "F47yz-M6XlM",
           "title": "なぜ石垣島から変えるのか#石垣市#藤本雄一#狛江市#奥村こうき",
@@ -164,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 2295
+          "viewCount": 2330
         },
         {
           "videoId": "2Vw9GRXazA8",
@@ -199,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 2184
+          "viewCount": 2200
         },
         {
           "videoId": "qgIvKrRoRU0",
@@ -234,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 2442
+          "viewCount": 2437
         },
         {
           "videoId": "F-rwi3WQIg0",
@@ -269,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 785
+          "viewCount": 802
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -339,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 2033
+          "viewCount": 2044
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -409,7 +410,7 @@
               "height": 720
             }
           },
-          "viewCount": 2531
+          "viewCount": 2538
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -670,7 +671,7 @@
               "height": 720
             }
           },
-          "viewCount": 1372
+          "viewCount": 1375
         },
         {
           "videoId": "oxVfXkKPiHc",
@@ -705,7 +706,7 @@
               "height": 720
             }
           },
-          "viewCount": 1613
+          "viewCount": 1621
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -916,7 +917,7 @@
               "height": 720
             }
           },
-          "viewCount": 1749
+          "viewCount": 1754
         }
       ],
       "name": "坪田幸典,坪田こうすけ,つぼた幸典,つぼたこうすけ"
@@ -1202,7 +1203,7 @@
               "height": 720
             }
           },
-          "viewCount": 2600,
+          "viewCount": 2601,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
