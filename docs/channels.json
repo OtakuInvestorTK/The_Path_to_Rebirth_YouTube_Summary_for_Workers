@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-29T13:54:04.392Z",
+  "requestedAt": "2026-07-29T15:46:01.209Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7317,
+          "viewCount": 7358,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 4105,
+          "viewCount": 4172,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 2322
+          "viewCount": 2324
         },
         {
           "videoId": "qgIvKrRoRU0",
@@ -235,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 2537
+          "viewCount": 2538
         },
         {
           "videoId": "F-rwi3WQIg0",
@@ -270,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 845
+          "viewCount": 857
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -410,7 +410,7 @@
               "height": 720
             }
           },
-          "viewCount": 2573
+          "viewCount": 2578
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -706,7 +706,7 @@
               "height": 720
             }
           },
-          "viewCount": 1714
+          "viewCount": 1728
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1243,7 +1243,7 @@
               "height": 720
             }
           },
-          "viewCount": 2616,
+          "viewCount": 2617,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-23T12:00:00Z",
