@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-29T21:53:38.261Z",
+  "requestedAt": "2026-07-29T22:54:55.410Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7456,
+          "viewCount": 7479,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -124,7 +124,7 @@
               "height": 720
             }
           },
-          "viewCount": 4241,
+          "viewCount": 4243,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -165,7 +165,7 @@
               "height": 720
             }
           },
-          "viewCount": 2477
+          "viewCount": 2484
         },
         {
           "videoId": "2Vw9GRXazA8",
@@ -200,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 2339
+          "viewCount": 2343
         },
         {
           "videoId": "qgIvKrRoRU0",
@@ -235,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 2550
+          "viewCount": 2556
         },
         {
           "videoId": "F-rwi3WQIg0",
@@ -270,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 863
+          "viewCount": 865
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -305,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 1449
+          "viewCount": 1451
         },
         {
           "videoId": "UzzgtXjEIgM",
@@ -639,6 +639,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "_EWgmEN6Sr0",
+          "title": "2026年7月29日(水)朝日町二丁目雑草処理 #府中市 #ボランティア",
+          "description": "朝日町二丁目の歩道に民地からの雑草が伸びていたので処理しました🧹\n雑草を放置すると蚊などの虫🐝が湧いちゃって人が避け始めるんですよね😅",
+          "publishedAt": "2026-07-29T22:36:33Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 206
+        },
+        {
           "videoId": "g9CCKDWUS4I",
           "title": "7月22日•24日白糸さくらんぼ保育園前雑草処理 #府中市 #ボランティア",
           "description": "白糸台3丁目のさくらんぼ保育園前の雑草が伸びていたので処理しました🧹\n北側で空き地になっているのは旧あさひ保育所で、2020年3月末に廃止後は全く利用される事もない遊休地となっています😓\n朝日体育館廃止にも言える事ですが跡地利用検討が出来ないまま施設廃止だけ行うのは地域コミュニティの衰退を招くので、住民としては市長と市議会にはしっかり仕事して貰いたいです😅",
@@ -706,7 +741,7 @@
               "height": 720
             }
           },
-          "viewCount": 1735
+          "viewCount": 1736
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
