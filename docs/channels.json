@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-31T06:03:14.127Z",
+  "requestedAt": "2026-07-31T09:38:25.720Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7699,
+          "viewCount": 7718,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -92,6 +92,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "P0gD_ds4h2Y",
+          "title": "26歳、狛江市長選に挑戦。敗戦後に語った“使命”#奥村こうき#狛江",
+          "description": "【引用元】\n\nサトビズ・ドキュメンタリー、奥村こうき | 狛江市長を目指して活動中\n\n26歳・無所属新人は当選できるのか？（選挙ドキュメンタリー）\n\nhttps://youtu.be/04GrOBhlbco?si=f6OMp8gLNiqDg7q1",
+          "publishedAt": "2026-07-31T09:08:44Z",
+          "channelTitle": "奥村こうき | 狛江市長を目指して活動中",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 339
+        },
+        {
           "videoId": "mtyf_WCelaY",
           "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
           "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
@@ -124,7 +159,7 @@
               "height": 720
             }
           },
-          "viewCount": 4501,
+          "viewCount": 4515,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -165,7 +200,7 @@
               "height": 720
             }
           },
-          "viewCount": 2523
+          "viewCount": 2526
         },
         {
           "videoId": "2Vw9GRXazA8",
@@ -200,7 +235,7 @@
               "height": 720
             }
           },
-          "viewCount": 2364
+          "viewCount": 2366
         },
         {
           "videoId": "qgIvKrRoRU0",
@@ -235,7 +270,7 @@
               "height": 720
             }
           },
-          "viewCount": 2576
+          "viewCount": 2578
         },
         {
           "videoId": "F-rwi3WQIg0",
@@ -270,7 +305,7 @@
               "height": 720
             }
           },
-          "viewCount": 885
+          "viewCount": 889
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -305,7 +340,7 @@
               "height": 720
             }
           },
-          "viewCount": 1470
+          "viewCount": 1471
         },
         {
           "videoId": "UzzgtXjEIgM",
@@ -340,7 +375,7 @@
               "height": 720
             }
           },
-          "viewCount": 2106
+          "viewCount": 2107
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -375,7 +410,7 @@
               "height": 720
             }
           },
-          "viewCount": 2196
+          "viewCount": 2197
         },
         {
           "videoId": "W90YFY0Xyak",
@@ -410,7 +445,7 @@
               "height": 720
             }
           },
-          "viewCount": 2600
+          "viewCount": 2601
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -671,7 +706,7 @@
               "height": 720
             }
           },
-          "viewCount": 1991
+          "viewCount": 2100
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -706,7 +741,7 @@
               "height": 720
             }
           },
-          "viewCount": 2020
+          "viewCount": 2027
         },
         {
           "videoId": "g9CCKDWUS4I",
@@ -741,7 +776,7 @@
               "height": 720
             }
           },
-          "viewCount": 1503
+          "viewCount": 1505
         },
         {
           "videoId": "oxVfXkKPiHc",
@@ -776,7 +811,7 @@
               "height": 720
             }
           },
-          "viewCount": 1822
+          "viewCount": 1828
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -886,17 +921,17 @@
       "channelTitle": "天野こころ",
       "channelThumbnails": {
         "default": {
-          "url": "https://yt3.ggpht.com/D-jDD8uyl3rGV4oZPf9adqLsW-rNb5GG-VDythRqE5pDuI7P8IkWZTs5EoWsTxPmfK2mAcjivYc=s88-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/vu04tsv23E9pG6k3BDIvDs5fkhxxXXIPz2pFDvXYtV2il6wzgYfKOrYUFIFWWNxvNHELY-34uA=s88-c-k-c0x00ffffff-no-rj",
           "width": 88,
           "height": 88
         },
         "medium": {
-          "url": "https://yt3.ggpht.com/D-jDD8uyl3rGV4oZPf9adqLsW-rNb5GG-VDythRqE5pDuI7P8IkWZTs5EoWsTxPmfK2mAcjivYc=s240-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/vu04tsv23E9pG6k3BDIvDs5fkhxxXXIPz2pFDvXYtV2il6wzgYfKOrYUFIFWWNxvNHELY-34uA=s240-c-k-c0x00ffffff-no-rj",
           "width": 240,
           "height": 240
         },
         "high": {
-          "url": "https://yt3.ggpht.com/D-jDD8uyl3rGV4oZPf9adqLsW-rNb5GG-VDythRqE5pDuI7P8IkWZTs5EoWsTxPmfK2mAcjivYc=s800-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/vu04tsv23E9pG6k3BDIvDs5fkhxxXXIPz2pFDvXYtV2il6wzgYfKOrYUFIFWWNxvNHELY-34uA=s800-c-k-c0x00ffffff-no-rj",
           "width": 800,
           "height": 800
         }
@@ -1273,7 +1308,7 @@
               "height": 720
             }
           },
-          "viewCount": 1747,
+          "viewCount": 1888,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
