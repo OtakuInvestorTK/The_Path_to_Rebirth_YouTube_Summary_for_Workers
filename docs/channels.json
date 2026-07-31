@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-31T13:48:40.686Z",
+  "requestedAt": "2026-07-31T15:58:07.394Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "rlEKPznSwzQ",
+          "title": "お台場 噴水検証会(山下こういち)2026年7月18日(フジテレビ の目の前)",
+          "description": "今年の3月28日に開業したお台場噴水事業。年間見学者数３千万人、莫大な経済波及効果年間(イニシャル38億年、ランニング98億円／年）との触れ込みで、鳴り物入りで整備されました。\n\n開業から２か月の見学者数が公表されましたが、実際の見学者数は驚きの、まさかの桁違いの結果となりました。\n\n事業導入前に、適切な事業評価がなされたのか、疑問です。やはり、東京都の事業評価の方法は抜本的に改善する必要があると考えます。\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
+          "publishedAt": "2026-07-31T13:54:51Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rlEKPznSwzQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rlEKPznSwzQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rlEKPznSwzQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rlEKPznSwzQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rlEKPznSwzQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-01T10:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "NWA01Hfxx9I",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 7743,
+          "viewCount": 7761,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -124,7 +164,7 @@
               "height": 720
             }
           },
-          "viewCount": 741
+          "viewCount": 922
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -159,7 +199,7 @@
               "height": 720
             }
           },
-          "viewCount": 1557
+          "viewCount": 2062
         },
         {
           "videoId": "mtyf_WCelaY",
@@ -194,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 4540,
+          "viewCount": 4547,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -340,7 +380,7 @@
               "height": 720
             }
           },
-          "viewCount": 894
+          "viewCount": 896
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -375,7 +415,7 @@
               "height": 720
             }
           },
-          "viewCount": 1473
+          "viewCount": 1475
         },
         {
           "videoId": "UzzgtXjEIgM",
@@ -410,7 +450,7 @@
               "height": 720
             }
           },
-          "viewCount": 2111
+          "viewCount": 2112
         },
         {
           "videoId": "WMRyMmXuYFs",
@@ -446,41 +486,6 @@
             }
           },
           "viewCount": 2202
-        },
-        {
-          "videoId": "W90YFY0Xyak",
-          "title": "未知があるということは喜びである#奥村こうき#狛江",
-          "description": "",
-          "publishedAt": "2026-07-24T15:53:08Z",
-          "channelTitle": "奥村こうき | 再生の道 前代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/W90YFY0Xyak/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2606
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -741,7 +746,7 @@
               "height": 720
             }
           },
-          "viewCount": 2183
+          "viewCount": 2208
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -776,7 +781,7 @@
               "height": 720
             }
           },
-          "viewCount": 2070
+          "viewCount": 2096
         },
         {
           "videoId": "g9CCKDWUS4I",
@@ -811,7 +816,7 @@
               "height": 720
             }
           },
-          "viewCount": 1507
+          "viewCount": 1515
         },
         {
           "videoId": "oxVfXkKPiHc",
@@ -1343,7 +1348,7 @@
               "height": 720
             }
           },
-          "viewCount": 2010,
+          "viewCount": 2084,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
