@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-31T20:57:30.117Z",
+  "requestedAt": "2026-07-31T22:04:56.928Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -164,7 +164,7 @@
               "height": 720
             }
           },
-          "viewCount": 1201
+          "viewCount": 1232
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -199,7 +199,7 @@
               "height": 720
             }
           },
-          "viewCount": 2603
+          "viewCount": 2681
         },
         {
           "videoId": "mtyf_WCelaY",
@@ -234,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 4565,
+          "viewCount": 4571,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -380,7 +380,7 @@
               "height": 720
             }
           },
-          "viewCount": 903
+          "viewCount": 904
         },
         {
           "videoId": "_s1jE0ZsKhQ",
@@ -451,41 +451,6 @@
             }
           },
           "viewCount": 2114
-        },
-        {
-          "videoId": "WMRyMmXuYFs",
-          "title": "藤本雄一さんは何者なのか？#石垣市#藤本雄一",
-          "description": "",
-          "publishedAt": "2026-07-24T21:00:23Z",
-          "channelTitle": "奥村こうき | 再生の道 前代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/WMRyMmXuYFs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2202
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -746,7 +711,7 @@
               "height": 720
             }
           },
-          "viewCount": 2257
+          "viewCount": 2262
         },
         {
           "videoId": "_EWgmEN6Sr0",
