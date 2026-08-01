@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-07-31T23:55:36.704Z",
+  "requestedAt": "2026-08-01T02:22:39.737Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 7799,
+          "viewCount": 7808,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -164,7 +164,7 @@
               "height": 720
             }
           },
-          "viewCount": 1343
+          "viewCount": 1506
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -199,7 +199,7 @@
               "height": 720
             }
           },
-          "viewCount": 2841
+          "viewCount": 3108
         },
         {
           "videoId": "mtyf_WCelaY",
@@ -234,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 4574,
+          "viewCount": 4580,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -380,42 +380,7 @@
               "height": 720
             }
           },
-          "viewCount": 904
-        },
-        {
-          "videoId": "_s1jE0ZsKhQ",
-          "title": "犬と人間どちらが上なのか？#石垣市#藤本雄一#狛江市#奥村こうき",
-          "description": "",
-          "publishedAt": "2026-07-25T02:00:07Z",
-          "channelTitle": "奥村こうき | 再生の道 前代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_s1jE0ZsKhQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_s1jE0ZsKhQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_s1jE0ZsKhQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/_s1jE0ZsKhQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/_s1jE0ZsKhQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1481
+          "viewCount": 910
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -676,7 +641,7 @@
               "height": 720
             }
           },
-          "viewCount": 2264
+          "viewCount": 2287
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -711,7 +676,7 @@
               "height": 720
             }
           },
-          "viewCount": 2121
+          "viewCount": 2131
         },
         {
           "videoId": "g9CCKDWUS4I",
@@ -781,7 +746,7 @@
               "height": 720
             }
           },
-          "viewCount": 1834
+          "viewCount": 1836
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1278,7 +1243,7 @@
               "height": 720
             }
           },
-          "viewCount": 2186,
+          "viewCount": 2233,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
