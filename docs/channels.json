@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-01T11:57:47.413Z",
+  "requestedAt": "2026-08-01T13:21:35.076Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "iIJ1LgQLP-U",
           "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.14",
           "description": "寄付時間\n2026年7月\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道",
-          "publishedAt": "2026-08-01T11:42:14Z",
+          "publishedAt": "2026-08-01T13:12:10Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 118,
+          "viewCount": 922,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
             "actualStartTime": "2026-08-01T11:54:47Z",
-            "concurrentViewers": 89
+            "actualEndTime": "2026-08-01T12:52:51Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "rlEKPznSwzQ",
           "title": "お台場 噴水検証会(山下こういち)2026年7月18日(フジテレビ の目の前)",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 892,
+          "viewCount": 1342,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -140,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 7861,
+          "viewCount": 7874,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -207,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 1793
+          "viewCount": 1826
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -242,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 3658
+          "viewCount": 3738
         },
         {
           "videoId": "mtyf_WCelaY",
@@ -277,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4562,
+          "viewCount": 4571,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -318,7 +317,7 @@
               "height": 720
             }
           },
-          "viewCount": 2564
+          "viewCount": 2568
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -614,7 +613,7 @@
               "height": 720
             }
           },
-          "viewCount": 2179
+          "viewCount": 2177
         },
         {
           "videoId": "g9CCKDWUS4I",
@@ -649,7 +648,7 @@
               "height": 720
             }
           },
-          "viewCount": 1531
+          "viewCount": 1534
         },
         {
           "videoId": "oxVfXkKPiHc",
@@ -684,7 +683,7 @@
               "height": 720
             }
           },
-          "viewCount": 1850
+          "viewCount": 1855
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1145,7 +1144,7 @@
               "height": 720
             }
           },
-          "viewCount": 2335,
+          "viewCount": 2346,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
