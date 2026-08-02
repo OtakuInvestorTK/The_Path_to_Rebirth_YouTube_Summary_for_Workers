@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-02T20:45:21.124Z",
+  "requestedAt": "2026-08-02T21:48:34.523Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2855,
+          "viewCount": 2880,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4730,
+          "viewCount": 4741,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -578,7 +578,7 @@
               "height": 720
             }
           },
-          "viewCount": 2250
+          "viewCount": 2249
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
