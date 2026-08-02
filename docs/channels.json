@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-02T08:10:59.753Z",
+  "requestedAt": "2026-08-02T10:28:06.686Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2638,
+          "viewCount": 2714,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 2990,
+          "viewCount": 3117,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 7942,
+          "viewCount": 7968,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -206,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 2016
+          "viewCount": 2026
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 4149
+          "viewCount": 4196
         },
         {
           "videoId": "mtyf_WCelaY",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4667,
+          "viewCount": 4668,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -578,77 +578,7 @@
               "height": 720
             }
           },
-          "viewCount": 2232
-        },
-        {
-          "videoId": "g9CCKDWUS4I",
-          "title": "7月22日•24日白糸さくらんぼ保育園前雑草処理 #府中市 #ボランティア",
-          "description": "白糸台3丁目のさくらんぼ保育園前の雑草が伸びていたので処理しました🧹\n北側で空き地になっているのは旧あさひ保育所で、2020年3月末に廃止後は全く利用される事もない遊休地となっています😓\n朝日体育館廃止にも言える事ですが跡地利用検討が出来ないまま施設廃止だけ行うのは地域コミュニティの衰退を招くので、住民としては市長と市議会にはしっかり仕事して貰いたいです😅",
-          "publishedAt": "2026-07-26T08:52:51Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/g9CCKDWUS4I/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/g9CCKDWUS4I/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/g9CCKDWUS4I/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/g9CCKDWUS4I/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/g9CCKDWUS4I/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1540
-        },
-        {
-          "videoId": "oxVfXkKPiHc",
-          "title": "ライブ ハイライト",
-          "description": "",
-          "publishedAt": "2026-07-26T08:52:45Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/oxVfXkKPiHc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/oxVfXkKPiHc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/oxVfXkKPiHc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/oxVfXkKPiHc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/oxVfXkKPiHc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1868
+          "viewCount": 2240
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1109,7 +1039,7 @@
               "height": 720
             }
           },
-          "viewCount": 2460,
+          "viewCount": 2468,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
