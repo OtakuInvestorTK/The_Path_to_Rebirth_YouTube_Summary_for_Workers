@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-03T13:34:42.948Z",
+  "requestedAt": "2026-08-03T16:16:41.385Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,50 +22,49 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "1Bk7VaE_6Q0",
           "title": "2026/08/03 再生ライブ #15 【藤本・よなみね】",
           "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-08-03T03:41:34Z",
+          "publishedAt": "2026-08-03T14:34:44Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 900,
+          "viewCount": 2320,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
             "actualStartTime": "2026-08-03T12:58:35Z",
-            "concurrentViewers": 375
+            "actualEndTime": "2026-08-03T14:20:34Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "iIJ1LgQLP-U",
           "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.14",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 2974,
+          "viewCount": 2988,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -140,53 +139,12 @@
               "height": 720
             }
           },
-          "viewCount": 3815,
+          "viewCount": 3834,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
             "actualStartTime": "2026-08-01T10:00:22Z",
             "actualEndTime": "2026-08-01T10:24:32Z"
-          }
-        },
-        {
-          "videoId": "NWA01Hfxx9I",
-          "title": "2026/07/27 再生ライブ #14（ライブ配信）",
-          "description": "東北講演会参加申し込みフォーム\nhttps://forms.gle/poLBeC2hnHcbVvPQ7\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-07-27T14:18:10Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NWA01Hfxx9I/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NWA01Hfxx9I/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NWA01Hfxx9I/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/NWA01Hfxx9I/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/NWA01Hfxx9I/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 8051,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-07-27T13:00:00Z",
-            "actualStartTime": "2026-07-27T12:57:04Z",
-            "actualEndTime": "2026-07-27T14:01:58Z"
           }
         }
       ],
@@ -248,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 2200
+          "viewCount": 2211
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -283,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 4523
+          "viewCount": 4555
         },
         {
           "videoId": "mtyf_WCelaY",
@@ -318,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4790,
+          "viewCount": 4799,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -585,7 +543,7 @@
               "height": 720
             }
           },
-          "viewCount": 2405
+          "viewCount": 2407
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -921,7 +879,47 @@
         }
       },
       "channelId": "UCbnf2Gl6Pra9DPDeMBV2a3w",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "uE1ZzxtgOTQ",
+          "title": "南貴大のずぼラジオ 2026/08/04 at 20:00",
+          "description": "スモールトーク\n新コーナー1\n新コーナー2\nお便りコーナー\n終わり",
+          "publishedAt": "2026-08-03T12:15:31Z",
+          "channelTitle": "南貴大のずぼらジオ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-04T11:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
     },
@@ -1081,7 +1079,7 @@
               "height": 720
             }
           },
-          "viewCount": 2484,
+          "viewCount": 2489,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
