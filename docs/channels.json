@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-03T06:13:48.347Z",
+  "requestedAt": "2026-08-03T10:35:30.407Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 2933,
+          "viewCount": 2953,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 3609,
+          "viewCount": 3742,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -179,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 8027,
+          "viewCount": 8038,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-27T13:00:00Z",
@@ -246,7 +246,7 @@
               "height": 720
             }
           },
-          "viewCount": 2147
+          "viewCount": 2179
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -281,7 +281,7 @@
               "height": 720
             }
           },
-          "viewCount": 4446
+          "viewCount": 4512
         },
         {
           "videoId": "mtyf_WCelaY",
@@ -316,7 +316,7 @@
               "height": 720
             }
           },
-          "viewCount": 4765,
+          "viewCount": 4786,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -583,7 +583,7 @@
               "height": 720
             }
           },
-          "viewCount": 2389
+          "viewCount": 2398
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -1079,7 +1079,7 @@
               "height": 720
             }
           },
-          "viewCount": 2475,
+          "viewCount": 2481,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
