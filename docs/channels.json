@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-04T12:54:18.705Z",
+  "requestedAt": "2026-08-04T15:19:59.724Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5841,
+          "viewCount": 6092,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 4061,
+          "viewCount": 4085,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -206,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 2282
+          "viewCount": 2299
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 4636
+          "viewCount": 4662
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -502,7 +502,7 @@
               "height": 720
             }
           },
-          "viewCount": 1722
+          "viewCount": 1759
         },
         {
           "videoId": "2uyTV7Rb0E8",
@@ -537,7 +537,7 @@
               "height": 720
             }
           },
-          "viewCount": 2431
+          "viewCount": 2443
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -898,7 +898,7 @@
               "height": 360
             }
           },
-          "viewCount": 167,
+          "viewCount": 412,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
