@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-04T10:30:14.503Z",
+  "requestedAt": "2026-08-04T12:54:18.705Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5642,
+          "viewCount": 5841,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 3012,
+          "viewCount": 3016,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 4035,
+          "viewCount": 4061,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -241,48 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 4630
-        },
-        {
-          "videoId": "mtyf_WCelaY",
-          "title": "奥村こうき | 狛江市長を目指して活動中 がライブ配信中！",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2026-07-28T12:33:46Z",
-          "channelTitle": "奥村こうき | 再生の道 前代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/mtyf_WCelaY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4838,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-07-28T11:30:00Z",
-            "actualStartTime": "2026-07-28T11:30:41Z",
-            "actualEndTime": "2026-07-28T12:21:54Z"
-          }
+          "viewCount": 4636
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -543,7 +502,7 @@
               "height": 720
             }
           },
-          "viewCount": 1721
+          "viewCount": 1722
         },
         {
           "videoId": "2uyTV7Rb0E8",
@@ -578,7 +537,7 @@
               "height": 720
             }
           },
-          "viewCount": 2430
+          "viewCount": 2431
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -613,7 +572,7 @@
               "height": 720
             }
           },
-          "viewCount": 2277
+          "viewCount": 2282
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -914,7 +873,8 @@
         }
       },
       "channelId": "UCbnf2Gl6Pra9DPDeMBV2a3w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "uE1ZzxtgOTQ",
           "title": "南貴大のずぼラジオ 2026/08/04 at 20:00",
@@ -938,14 +898,15 @@
               "height": 360
             }
           },
-          "viewCount": 0,
+          "viewCount": 167,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-08-04T11:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-08-04T11:00:00Z",
+            "actualStartTime": "2026-08-04T10:59:56Z",
+            "actualEndTime": "2026-08-04T11:58:02Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
     },
     {
@@ -1104,7 +1065,7 @@
               "height": 720
             }
           },
-          "viewCount": 2511,
+          "viewCount": 2523,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
