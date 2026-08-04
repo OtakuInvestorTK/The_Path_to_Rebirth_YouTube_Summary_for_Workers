@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-03T22:01:22.741Z",
+  "requestedAt": "2026-08-04T00:02:14.757Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3842,
+          "viewCount": 4222,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 2995,
+          "viewCount": 2997,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -139,7 +139,7 @@
               "height": 720
             }
           },
-          "viewCount": 3932,
+          "viewCount": 3959,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -206,7 +206,7 @@
               "height": 720
             }
           },
-          "viewCount": 2232
+          "viewCount": 2237
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 4586
+          "viewCount": 4593
         },
         {
           "videoId": "mtyf_WCelaY",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4808,
+          "viewCount": 4812,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-28T11:30:00Z",
@@ -510,6 +510,41 @@
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "PkvRfoIvusc",
+          "title": "朝日町3丁目歩道植栽剪定 #府中市 #ボランティア",
+          "description": "府中市朝日町の三井不動産商業施設(仮称)ららぽーと予定地周辺歩道が雑草で大変な事になっていたので処理しました😅\n\n三井不動産所有の民地側は府中市道路管理センターに通報済みで、事業者に対応するよう連絡して貰います😌",
+          "publishedAt": "2026-08-03T22:26:42Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 891
+        },
         {
           "videoId": "2uyTV7Rb0E8",
           "title": "2026年7月30日(木)朝日町二丁目雑草処理 #府中市 #ボランティア",
@@ -883,7 +918,7 @@
         {
           "videoId": "uE1ZzxtgOTQ",
           "title": "南貴大のずぼラジオ 2026/08/04 at 20:00",
-          "description": "スモールトーク\n新コーナー1\n新コーナー2\nお便りコーナー\n終わり",
+          "description": "〈予定〉\nスモールトーク\nそれ、言いたいだけでしょ！\n死後の世界\nお便りコーナー＆終了",
           "publishedAt": "2026-08-03T12:15:31Z",
           "channelTitle": "南貴大のずぼらジオ",
           "thumbnails": {
@@ -901,16 +936,6 @@
               "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/hqdefault_live.jpg",
               "width": 480,
               "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/sddefault_live.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/maxresdefault_live.jpg",
-              "width": 1280,
-              "height": 720
             }
           },
           "viewCount": 0,
@@ -1079,7 +1104,7 @@
               "height": 720
             }
           },
-          "viewCount": 2499,
+          "viewCount": 2504,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
