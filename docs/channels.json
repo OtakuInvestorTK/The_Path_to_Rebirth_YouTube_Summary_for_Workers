@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-04T23:58:32.971Z",
+  "requestedAt": "2026-08-05T02:44:49.756Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "UVeObmqO_BI",
+          "title": "全国講演会 名古屋 8/22(土)",
+          "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
+          "publishedAt": "2026-08-05T00:04:56Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 682
+        },
         {
           "videoId": "1Bk7VaE_6Q0",
           "title": "2026/08/03 再生ライブ #15 【藤本・よなみね】",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6430,
+          "viewCount": 6532,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -98,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3033,
+          "viewCount": 3036,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -139,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4117,
+          "viewCount": 4129,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -206,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 2316
+          "viewCount": 2325
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -241,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4674
+          "viewCount": 4688
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -470,6 +505,41 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "vSD8iDXQKIM",
+          "title": "8月4日(火)朝日町3丁目歩道雑草処理 #府中市 #ボランティア",
+          "description": "引き続き三井不動産商業施設予定地周辺の歩道雑草処理を実施しました🧹\n民地側については事業者側の対応が待たれるところです😌",
+          "publishedAt": "2026-08-05T02:17:11Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vSD8iDXQKIM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vSD8iDXQKIM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vSD8iDXQKIM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vSD8iDXQKIM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vSD8iDXQKIM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 337
+        },
+        {
           "videoId": "PkvRfoIvusc",
           "title": "朝日町3丁目歩道植栽剪定 #府中市 #ボランティア",
           "description": "府中市朝日町の三井不動産商業施設(仮称)ららぽーと予定地周辺歩道が雑草で大変な事になっていたので処理しました😅\n\n三井不動産所有の民地側は府中市道路管理センターに通報済みで、事業者に対応するよう連絡して貰います😌",
@@ -502,7 +572,7 @@
               "height": 720
             }
           },
-          "viewCount": 1813
+          "viewCount": 1826
         },
         {
           "videoId": "2uyTV7Rb0E8",
@@ -537,7 +607,7 @@
               "height": 720
             }
           },
-          "viewCount": 2441
+          "viewCount": 2444
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -572,7 +642,7 @@
               "height": 720
             }
           },
-          "viewCount": 2291
+          "viewCount": 2293
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -879,26 +949,26 @@
           "videoId": "uE1ZzxtgOTQ",
           "title": "南貴大のずぼラジオ 2026/08/04 at 20:00",
           "description": "〈予定〉\nスモールトーク\nそれ、言いたいだけでしょ！\n死後の世界\nお便りコーナー＆終了",
-          "publishedAt": "2026-08-03T12:15:31Z",
+          "publishedAt": "2026-08-05T00:01:33Z",
           "channelTitle": "南貴大のずぼらジオ",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             }
           },
-          "viewCount": 638,
+          "viewCount": 780,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
@@ -1065,7 +1135,7 @@
               "height": 720
             }
           },
-          "viewCount": 2529,
+          "viewCount": 2532,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
