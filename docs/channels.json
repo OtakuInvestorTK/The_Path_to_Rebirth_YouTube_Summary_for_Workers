@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-05T02:44:49.756Z",
+  "requestedAt": "2026-08-05T05:40:02.163Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 682
+          "viewCount": 1400
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6532,
+          "viewCount": 6686,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3036,
+          "viewCount": 3037,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4129,
+          "viewCount": 4139,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 2325
+          "viewCount": 2329
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4688
+          "viewCount": 4700
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -328,7 +328,43 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "CpaWczCzmKc",
+          "title": "同級生に女優がいた",
+          "description": "私が書いた原作小説をドラマ化しました。\n#セクシー女優 #弁護士 #司法試験 #アダルト #恋愛 #純愛\nwith AI",
+          "publishedAt": "2026-08-05T03:23:12Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CpaWczCzmKc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CpaWczCzmKc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CpaWczCzmKc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CpaWczCzmKc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CpaWczCzmKc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 191
+        }
+      ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -537,7 +573,7 @@
               "height": 720
             }
           },
-          "viewCount": 337
+          "viewCount": 965
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -572,7 +608,7 @@
               "height": 720
             }
           },
-          "viewCount": 1826
+          "viewCount": 1940
         },
         {
           "videoId": "2uyTV7Rb0E8",
@@ -607,7 +643,7 @@
               "height": 720
             }
           },
-          "viewCount": 2444
+          "viewCount": 2448
         },
         {
           "videoId": "_EWgmEN6Sr0",
@@ -642,7 +678,7 @@
               "height": 720
             }
           },
-          "viewCount": 2293
+          "viewCount": 2294
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -968,7 +1004,7 @@
               "height": 360
             }
           },
-          "viewCount": 780,
+          "viewCount": 992,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
