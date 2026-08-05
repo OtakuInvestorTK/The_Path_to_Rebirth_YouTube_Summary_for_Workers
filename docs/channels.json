@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-05T19:19:57.669Z",
+  "requestedAt": "2026-08-05T21:00:27.986Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3290
+          "viewCount": 3350
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7024,
+          "viewCount": 7025,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4143,
+          "viewCount": 4142,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 2418
+          "viewCount": 2420
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4791
+          "viewCount": 4796
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -362,7 +362,7 @@
               "height": 720
             }
           },
-          "viewCount": 1412
+          "viewCount": 1438
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -1014,7 +1014,7 @@
               "height": 720
             }
           },
-          "viewCount": 231
+          "viewCount": 285
         },
         {
           "videoId": "uE1ZzxtgOTQ",
@@ -1039,7 +1039,7 @@
               "height": 360
             }
           },
-          "viewCount": 1537,
+          "viewCount": 1552,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
@@ -1246,7 +1246,7 @@
               "height": 720
             }
           },
-          "viewCount": 2537,
+          "viewCount": 2541,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
