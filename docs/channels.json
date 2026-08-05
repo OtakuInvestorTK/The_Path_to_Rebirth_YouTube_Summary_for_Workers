@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-05T05:40:02.163Z",
+  "requestedAt": "2026-08-05T08:25:10.416Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1400
+          "viewCount": 2090
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6686,
+          "viewCount": 6769,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3037,
+          "viewCount": 3040,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4139,
+          "viewCount": 4145,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 2329
+          "viewCount": 2357
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4700
+          "viewCount": 4732
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -362,7 +362,7 @@
               "height": 720
             }
           },
-          "viewCount": 191
+          "viewCount": 508
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -573,7 +573,7 @@
               "height": 720
             }
           },
-          "viewCount": 965
+          "viewCount": 1317
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -608,7 +608,7 @@
               "height": 720
             }
           },
-          "viewCount": 1940
+          "viewCount": 2079
         },
         {
           "videoId": "2uyTV7Rb0E8",
@@ -678,7 +678,7 @@
               "height": 720
             }
           },
-          "viewCount": 2294
+          "viewCount": 2296
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1004,7 +1004,7 @@
               "height": 360
             }
           },
-          "viewCount": 992,
+          "viewCount": 1198,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
