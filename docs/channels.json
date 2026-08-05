@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-05T21:00:27.986Z",
+  "requestedAt": "2026-08-05T22:51:37.594Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7025,
+          "viewCount": 7046,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -174,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 4142,
+          "viewCount": 4154,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -241,7 +241,7 @@
               "height": 720
             }
           },
-          "viewCount": 2420
+          "viewCount": 2424
         },
         {
           "videoId": "P0gD_ds4h2Y",
@@ -276,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 4796
+          "viewCount": 4795
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -362,7 +362,7 @@
               "height": 720
             }
           },
-          "viewCount": 1438
+          "viewCount": 1458
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -573,7 +573,7 @@
               "height": 720
             }
           },
-          "viewCount": 1679
+          "viewCount": 1687
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -608,7 +608,7 @@
               "height": 720
             }
           },
-          "viewCount": 2268
+          "viewCount": 2300
         },
         {
           "videoId": "2uyTV7Rb0E8",
@@ -644,41 +644,6 @@
             }
           },
           "viewCount": 2454
-        },
-        {
-          "videoId": "_EWgmEN6Sr0",
-          "title": "2026年7月29日(水)朝日町二丁目雑草処理 #府中市 #ボランティア",
-          "description": "朝日町二丁目の歩道に民地からの雑草が伸びていたので処理しました🧹\n雑草を放置すると蚊などの虫🐝が湧いちゃって人が避け始めるんですよね😅",
-          "publishedAt": "2026-07-29T22:36:33Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/_EWgmEN6Sr0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2298
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1014,7 +979,7 @@
               "height": 720
             }
           },
-          "viewCount": 285
+          "viewCount": 324
         },
         {
           "videoId": "uE1ZzxtgOTQ",
@@ -1039,7 +1004,7 @@
               "height": 360
             }
           },
-          "viewCount": 1552,
+          "viewCount": 1554,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
@@ -1246,7 +1211,7 @@
               "height": 720
             }
           },
-          "viewCount": 2541,
+          "viewCount": 2536,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-07-30T12:00:00Z",
