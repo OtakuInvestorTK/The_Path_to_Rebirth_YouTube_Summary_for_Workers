@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-07T08:50:12.827Z",
+  "requestedAt": "2026-08-07T09:54:19.675Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4511
+          "viewCount": 4593
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 7348,
+          "viewCount": 7340,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -242,41 +242,6 @@
             }
           },
           "viewCount": 2526
-        },
-        {
-          "videoId": "P0gD_ds4h2Y",
-          "title": "26歳、狛江市長選に挑戦。敗戦後に語った“使命”#奥村こうき#狛江",
-          "description": "【引用元】\n\nサトビズ・ドキュメンタリー、奥村こうき | 狛江市長を目指して活動中\n\n26歳・無所属新人は当選できるのか？（選挙ドキュメンタリー）\n\nhttps://youtu.be/04GrOBhlbco?si=f6OMp8gLNiqDg7q1",
-          "publishedAt": "2026-07-31T09:08:44Z",
-          "channelTitle": "奥村こうき | 再生の道 前代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/P0gD_ds4h2Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4885
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -573,7 +538,7 @@
               "height": 720
             }
           },
-          "viewCount": 1856
+          "viewCount": 1859
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -1136,7 +1101,7 @@
               "height": 720
             }
           },
-          "viewCount": 1687,
+          "viewCount": 1721,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
