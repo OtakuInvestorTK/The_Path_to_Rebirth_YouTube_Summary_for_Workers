@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-07T10:45:22.440Z",
+  "requestedAt": "2026-08-07T11:39:32.621Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "NakdjS4mq_E",
+          "title": "再生の道全国講演会（北海道）奥村こうき",
+          "description": "再生の道　前代表　奥村こうき　\n\n北海道に見る「自立共生」の未来　～地熱・教育・AIがひらく新しい地域社会～　\n\n※本動画の編集は、sunusunuさんにご協力いただきました。ありがとうございました！\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
+          "publishedAt": "2026-08-07T11:00:02Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 420
+        },
         {
           "videoId": "UVeObmqO_BI",
           "title": "全国講演会 名古屋 8/22(土)",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 4604
+          "viewCount": 4634
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -92,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 7363,
+          "viewCount": 7366,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -133,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 3016,
+          "viewCount": 3017,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T12:00:00Z",
@@ -174,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 4202,
+          "viewCount": 4206,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -241,7 +276,7 @@
               "height": 720
             }
           },
-          "viewCount": 2534
+          "viewCount": 2535
         }
       ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
@@ -327,7 +362,7 @@
               "height": 720
             }
           },
-          "viewCount": 2049
+          "viewCount": 2060
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -538,7 +573,7 @@
               "height": 720
             }
           },
-          "viewCount": 1859
+          "viewCount": 1864
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -573,7 +608,7 @@
               "height": 720
             }
           },
-          "viewCount": 2868
+          "viewCount": 2882
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -909,7 +944,7 @@
               "height": 720
             }
           },
-          "viewCount": 800
+          "viewCount": 811
         },
         {
           "videoId": "uE1ZzxtgOTQ",
@@ -934,7 +969,7 @@
               "height": 360
             }
           },
-          "viewCount": 1724,
+          "viewCount": 1725,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
@@ -1101,7 +1136,7 @@
               "height": 720
             }
           },
-          "viewCount": 1736,
+          "viewCount": 1749,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
