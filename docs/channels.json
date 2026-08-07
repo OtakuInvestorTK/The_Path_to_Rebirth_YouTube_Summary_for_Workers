@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-07T11:39:32.621Z",
+  "requestedAt": "2026-08-07T12:47:31.449Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 420
+          "viewCount": 863
         },
         {
           "videoId": "UVeObmqO_BI",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 4634
+          "viewCount": 4672
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 7366,
+          "viewCount": 7373,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 4206,
+          "viewCount": 4207,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -242,43 +242,7 @@
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "Z2MDdHmXTU8",
-          "title": "2026年7月31日",
-          "description": "【引用元】\n\nサトビズ・ドキュメンタリー、奥村こうき | 狛江市長を目指して活動中\n\n26歳・無所属新人は当選できるのか？（選挙ドキュメンタリー）\n\nhttps://youtu.be/04GrOBhlbco?si=f6OMp8gLNiqDg7q1",
-          "publishedAt": "2026-07-31T12:00:13Z",
-          "channelTitle": "奥村こうき | 再生の道 前代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Z2MDdHmXTU8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Z2MDdHmXTU8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Z2MDdHmXTU8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Z2MDdHmXTU8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Z2MDdHmXTU8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2535
-        }
-      ],
+      "recentVideos": [],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -362,7 +326,7 @@
               "height": 720
             }
           },
-          "viewCount": 2060
+          "viewCount": 2076
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -573,7 +537,7 @@
               "height": 720
             }
           },
-          "viewCount": 1864
+          "viewCount": 1866
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -608,7 +572,7 @@
               "height": 720
             }
           },
-          "viewCount": 2882
+          "viewCount": 2889
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -969,7 +933,7 @@
               "height": 360
             }
           },
-          "viewCount": 1725,
+          "viewCount": 1731,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
@@ -1136,7 +1100,7 @@
               "height": 720
             }
           },
-          "viewCount": 1749,
+          "viewCount": 1778,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
