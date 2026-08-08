@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-08T04:49:27.458Z",
+  "requestedAt": "2026-08-08T05:36:48.360Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4048
+          "viewCount": 4125
         },
         {
           "videoId": "UVeObmqO_BI",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 4947
+          "viewCount": 4945
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 7445,
+          "viewCount": 7446,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -209,7 +209,7 @@
               "height": 720
             }
           },
-          "viewCount": 4238,
+          "viewCount": 4240,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-01T10:00:00Z",
@@ -326,7 +326,7 @@
               "height": 720
             }
           },
-          "viewCount": 2121
+          "viewCount": 2118
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -537,7 +537,7 @@
               "height": 720
             }
           },
-          "viewCount": 1900
+          "viewCount": 1906
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -572,7 +572,7 @@
               "height": 720
             }
           },
-          "viewCount": 2955
+          "viewCount": 2956
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1100,7 +1100,7 @@
               "height": 720
             }
           },
-          "viewCount": 1957,
+          "viewCount": 1967,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
