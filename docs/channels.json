@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-08T12:33:40.093Z",
+  "requestedAt": "2026-08-08T13:39:45.132Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4647
+          "viewCount": 4722
         },
         {
           "videoId": "UVeObmqO_BI",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 5104
+          "viewCount": 5123
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -127,53 +127,12 @@
               "height": 720
             }
           },
-          "viewCount": 7487,
+          "viewCount": 7486,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
             "actualStartTime": "2026-08-03T12:58:35Z",
             "actualEndTime": "2026-08-03T14:20:34Z"
-          }
-        },
-        {
-          "videoId": "iIJ1LgQLP-U",
-          "title": "ライブ配信(音声のみラジオ) 国政部 献金コメント全部読みます。vol.14",
-          "description": "寄付時間\n2026年7月\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n献金（国政部、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\nvol.01\nhttps://www.youtube.com/watch?v=isIiLGcjsb4\n\nvol.02\nhttps://www.youtube.com/watch?v=kV-fC7DkEH0\n\nvol.03\nhttps://www.youtube.com/watch?v=k4txijIqvg4\n\n#再生の道",
-          "publishedAt": "2026-08-01T13:12:10Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/iIJ1LgQLP-U/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3029,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-01T12:00:00Z",
-            "actualStartTime": "2026-08-01T11:54:47Z",
-            "actualEndTime": "2026-08-01T12:52:51Z"
           }
         }
       ],
@@ -285,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 2126
+          "viewCount": 2135
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -496,7 +455,7 @@
               "height": 720
             }
           },
-          "viewCount": 1922
+          "viewCount": 1929
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -531,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 2955
+          "viewCount": 2960
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -1059,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 2018,
+          "viewCount": 2023,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
