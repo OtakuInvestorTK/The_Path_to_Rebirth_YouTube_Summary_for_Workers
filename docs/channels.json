@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-09T03:27:10.936Z",
+  "requestedAt": "2026-08-09T04:57:34.160Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5099
+          "viewCount": 5130
         },
         {
           "videoId": "UVeObmqO_BI",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 5262
+          "viewCount": 5320
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 7559,
+          "viewCount": 7558,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 2150
+          "viewCount": 2149
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -851,7 +851,7 @@
               "height": 360
             }
           },
-          "viewCount": 1777,
+          "viewCount": 1780,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
@@ -1018,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 2065,
+          "viewCount": 2070,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
