@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-10T14:16:08.787Z",
+  "requestedAt": "2026-08-10T15:53:29.517Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -28,36 +28,36 @@
           "videoId": "G2CAT6fwc1k",
           "title": "2026/08/10 再生ライブ #16 【村越】",
           "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-08-10T01:53:41Z",
+          "publishedAt": "2026-08-10T15:17:55Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 2524,
+          "viewCount": 4274,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5752
+          "viewCount": 5766
         },
         {
           "videoId": "UVeObmqO_BI",
@@ -133,48 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 5548
-        },
-        {
-          "videoId": "1Bk7VaE_6Q0",
-          "title": "2026/08/03 再生ライブ #15 【藤本・よなみね】",
-          "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-08-03T14:34:44Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/1Bk7VaE_6Q0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7692,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-03T13:00:00Z",
-            "actualStartTime": "2026-08-03T12:58:35Z",
-            "actualEndTime": "2026-08-03T14:20:34Z"
-          }
+          "viewCount": 5561
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -285,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 2161
+          "viewCount": 2164
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -496,7 +455,7 @@
               "height": 720
             }
           },
-          "viewCount": 1962
+          "viewCount": 1963
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -892,7 +851,7 @@
               "height": 360
             }
           },
-          "viewCount": 1823,
+          "viewCount": 1825,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
@@ -1059,7 +1018,7 @@
               "height": 720
             }
           },
-          "viewCount": 2111,
+          "viewCount": 2112,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
