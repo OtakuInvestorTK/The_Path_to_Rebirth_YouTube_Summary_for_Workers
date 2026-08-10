@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-10T21:34:28.086Z",
+  "requestedAt": "2026-08-10T22:29:41.539Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 6988,
+          "viewCount": 7263,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5830
+          "viewCount": 5829
         },
         {
           "videoId": "UVeObmqO_BI",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 5591
+          "viewCount": 5592
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -244,7 +244,7 @@
               "height": 720
             }
           },
-          "viewCount": 2166
+          "viewCount": 2165
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -456,41 +456,6 @@
             }
           },
           "viewCount": 1964
-        },
-        {
-          "videoId": "PkvRfoIvusc",
-          "title": "朝日町3丁目歩道植栽剪定 #府中市 #ボランティア",
-          "description": "府中市朝日町の三井不動産商業施設(仮称)ららぽーと予定地周辺歩道が雑草で大変な事になっていたので処理しました😅\n\n三井不動産所有の民地側は府中市道路管理センターに通報済みで、事業者に対応するよう連絡して貰います😌",
-          "publishedAt": "2026-08-03T22:26:42Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/PkvRfoIvusc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 2993
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -851,7 +816,7 @@
               "height": 360
             }
           },
-          "viewCount": 1826,
+          "viewCount": 1827,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-04T11:00:00Z",
