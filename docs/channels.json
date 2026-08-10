@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-10T12:53:15.816Z",
+  "requestedAt": "2026-08-10T14:16:08.787Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "G2CAT6fwc1k",
           "title": "2026/08/10 再生ライブ #16 【村越】",
@@ -56,14 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 2524,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-08-10T13:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-08-10T13:00:00Z",
+            "actualStartTime": "2026-08-10T12:56:34Z",
+            "actualEndTime": "2026-08-10T14:14:39Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "NakdjS4mq_E",
           "title": "再生の道全国講演会（北海道）奥村こうき",
@@ -97,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5698
+          "viewCount": 5752
         },
         {
           "videoId": "UVeObmqO_BI",
@@ -132,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 5543
+          "viewCount": 5548
         },
         {
           "videoId": "1Bk7VaE_6Q0",
@@ -167,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 7681,
+          "viewCount": 7692,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-03T13:00:00Z",
@@ -284,7 +285,7 @@
               "height": 720
             }
           },
-          "viewCount": 2158
+          "viewCount": 2161
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -495,7 +496,7 @@
               "height": 720
             }
           },
-          "viewCount": 1960
+          "viewCount": 1962
         },
         {
           "videoId": "PkvRfoIvusc",
@@ -530,7 +531,7 @@
               "height": 720
             }
           },
-          "viewCount": 2985
+          "viewCount": 2988
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -866,7 +867,7 @@
               "height": 720
             }
           },
-          "viewCount": 871
+          "viewCount": 873
         },
         {
           "videoId": "uE1ZzxtgOTQ",
@@ -1058,7 +1059,7 @@
               "height": 720
             }
           },
-          "viewCount": 2107,
+          "viewCount": 2111,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
