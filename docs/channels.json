@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-11T23:32:45.546Z",
+  "requestedAt": "2026-08-12T01:20:03.792Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,48 +57,13 @@
               "height": 720
             }
           },
-          "viewCount": 11033,
+          "viewCount": 11136,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
             "actualStartTime": "2026-08-10T12:56:34Z",
             "actualEndTime": "2026-08-10T14:14:39Z"
           }
-        },
-        {
-          "videoId": "UVeObmqO_BI",
-          "title": "全国講演会 名古屋 8/22(土)",
-          "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-08-05T00:04:56Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/UVeObmqO_BI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 5749
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -209,7 +174,7 @@
               "height": 720
             }
           },
-          "viewCount": 2185
+          "viewCount": 2184
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -757,37 +722,6 @@
             }
           },
           "viewCount": 886
-        },
-        {
-          "videoId": "uE1ZzxtgOTQ",
-          "title": "南貴大のずぼラジオ 2026/08/04 at 20:00",
-          "description": "〈予定〉\nスモールトーク\nそれ、言いたいだけでしょ！\n死後の世界\nお便りコーナー＆終了",
-          "publishedAt": "2026-08-05T00:01:33Z",
-          "channelTitle": "南貴大のずぼらジオ",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/uE1ZzxtgOTQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "viewCount": 1833,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-04T11:00:00Z",
-            "actualStartTime": "2026-08-04T10:59:56Z",
-            "actualEndTime": "2026-08-04T11:58:02Z"
-          }
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
