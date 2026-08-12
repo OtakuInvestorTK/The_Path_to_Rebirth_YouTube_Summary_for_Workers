@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-12T11:41:17.567Z",
+  "requestedAt": "2026-08-12T12:53:50.346Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11677,
+          "viewCount": 11721,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6094
+          "viewCount": 6096
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -774,12 +774,13 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "mFg4UTowyD0",
           "title": "ノルウェイの市役所におけるDX",
           "description": "ノルウェー在住のアーキビスト木村緒理恵氏と「再生の道」の小林学氏が、ノルウェーの行政DXにおけるアーカイブの役割について議論しました。\n\n主な論点は、情報公開と透明性が民主主義を支える仕組み、厳格な個人情報保護を前提とした公文書運用、AIによるマスキングやプロンプトの公文書化といった新たな課題。\n\n日本の議事録文化の弱さや意思決定プロセスの不透明さとの比較を通じて、DXによる記録負担の軽減と、創出されたリソースを福祉サービスへ再配分する戦略の重要性が示されました。",
-          "publishedAt": "2026-08-12T02:43:58Z",
+          "publishedAt": "2026-08-12T12:01:21Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -808,14 +809,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 185,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-08-13T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-08-12T12:00:00Z",
+            "actualStartTime": "2026-08-12T12:01:21Z",
+            "actualEndTime": "2026-08-12T12:39:43Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "GePt_v0p6yc",
           "title": "環七地下調整池に行ってみて思ったこと〜ヨシヒコ・ライブ#42",
@@ -849,7 +850,7 @@
               "height": 720
             }
           },
-          "viewCount": 2145,
+          "viewCount": 2146,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
