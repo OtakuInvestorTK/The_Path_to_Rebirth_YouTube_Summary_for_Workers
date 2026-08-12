@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-12T03:59:42.923Z",
+  "requestedAt": "2026-08-12T05:40:57.314Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 11237,
+          "viewCount": 11328,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -649,7 +649,7 @@
               "height": 720
             }
           },
-          "viewCount": 886
+          "viewCount": 887
         }
       ],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
@@ -775,7 +775,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "mFg4UTowyD0",
+          "title": "ノルウェイの市役所におけるDX",
+          "description": "ノルウェー在住のアーキビスト木村緒理恵氏と「再生の道」の小林学氏が、ノルウェーの行政DXにおけるアーカイブの役割について議論しました。\n\n主な論点は、情報公開と透明性が民主主義を支える仕組み、厳格な個人情報保護を前提とした公文書運用、AIによるマスキングやプロンプトの公文書化といった新たな課題。\n\n日本の議事録文化の弱さや意思決定プロセスの不透明さとの比較を通じて、DXによる記録負担の軽減と、創出されたリソースを福祉サービスへ再配分する戦略の重要性が示されました。",
+          "publishedAt": "2026-08-12T02:43:58Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-13T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "GePt_v0p6yc",
