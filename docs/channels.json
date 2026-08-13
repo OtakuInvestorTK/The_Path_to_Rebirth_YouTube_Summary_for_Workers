@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-13T04:04:15.072Z",
+  "requestedAt": "2026-08-13T06:11:07.168Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12238,
+          "viewCount": 12322,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6242
+          "viewCount": 6241
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -849,7 +849,7 @@
               "height": 720
             }
           },
-          "viewCount": 1206,
+          "viewCount": 1289,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-12T12:00:00Z",
@@ -890,7 +890,7 @@
               "height": 720
             }
           },
-          "viewCount": 2155,
+          "viewCount": 2156,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
