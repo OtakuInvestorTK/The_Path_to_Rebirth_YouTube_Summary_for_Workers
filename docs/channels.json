@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-13T06:11:07.168Z",
+  "requestedAt": "2026-08-13T08:13:45.075Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 12322,
+          "viewCount": 12408,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6241
+          "viewCount": 6256
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -350,7 +350,43 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "wgiqnJT4Sfo",
+          "title": "2026年8月10日(月)清水が丘3丁目雑草処理#府中市 #ボランティア",
+          "description": "多摩霊園駅北口駐輪場近くの歩道で雑草が伸びすぎて通りづらくなっていたので処理しました🧹\n\nタイル舗装に苔が生えたところに雑草が伸びて通行が阻害されてました😅\n他にも雑草が生え放題の場所がたくさんあるので、日が落ちる時間を狙って作業していきます😁",
+          "publishedAt": "2026-08-13T06:24:47Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wgiqnJT4Sfo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wgiqnJT4Sfo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wgiqnJT4Sfo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wgiqnJT4Sfo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wgiqnJT4Sfo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1035
+        }
+      ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -849,7 +885,7 @@
               "height": 720
             }
           },
-          "viewCount": 1289,
+          "viewCount": 1363,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-12T12:00:00Z",
@@ -890,7 +926,7 @@
               "height": 720
             }
           },
-          "viewCount": 2156,
+          "viewCount": 2158,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-06T12:00:00Z",
