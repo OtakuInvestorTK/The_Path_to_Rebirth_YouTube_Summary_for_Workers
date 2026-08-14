@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-14T10:51:52.688Z",
+  "requestedAt": "2026-08-14T11:38:47.106Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "AGcNLxSYmWE",
+          "title": "再生の道 全国講演会(札幌) TELL",
+          "description": "全国講演会(北海道)の動画を公開いたします。\n \nイラストレーター・デザイナー　TELL　生活の延長上に政治がある～ネットの熱狂と、足元の日常～\n\n※本動画の編集は、坂屋豊さんにご協力いただきました。ありがとうございました！\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
+          "publishedAt": "2026-08-14T11:00:05Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AGcNLxSYmWE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AGcNLxSYmWE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AGcNLxSYmWE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AGcNLxSYmWE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AGcNLxSYmWE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 300
+        },
         {
           "videoId": "TXG8dwP398o",
           "title": "全国講演会 尼崎 9/5(土)",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2226
+          "viewCount": 2287
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -92,48 +127,13 @@
               "height": 720
             }
           },
-          "viewCount": 13156,
+          "viewCount": 13164,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
             "actualStartTime": "2026-08-10T12:56:34Z",
             "actualEndTime": "2026-08-10T14:14:39Z"
           }
-        },
-        {
-          "videoId": "NakdjS4mq_E",
-          "title": "再生の道全国講演会（北海道）奥村こうき",
-          "description": "再生の道　前代表　奥村こうき　\n\n北海道に見る「自律協生」の未来　～地熱・教育・AIがひらく新しい地域社会～　\n\n※本動画の編集は、sunusunuさんにご協力いただきました。ありがとうございました！\n※本動画中「自律協生」の誤字がございます。訂正してお詫び申し上げます。\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-08-07T11:00:02Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/NakdjS4mq_E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6393
         }
       ],
       "name": "再生の道,さいせいのみち"
