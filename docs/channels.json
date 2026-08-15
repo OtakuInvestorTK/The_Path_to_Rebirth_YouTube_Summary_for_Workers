@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-15T21:14:16.951Z",
+  "requestedAt": "2026-08-15T22:13:18.478Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4821
+          "viewCount": 4843
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3367
+          "viewCount": 3375
         },
         {
           "videoId": "TXG8dwP398o",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 3758
+          "viewCount": 3769
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 13397,
+          "viewCount": 13399,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -425,31 +425,31 @@
           "videoId": "tlYYJ7UYSN8",
           "title": "【淳さんぽライブ】大國魂神社へ【終戦の日】",
           "description": "2026年8月15日(土)終戦の日\n府中市の大國魂神社まで自転車でゴミ拾いしながらの雑談配信です",
-          "publishedAt": "2026-07-20T13:09:42Z",
+          "publishedAt": "2026-08-15T22:04:01Z",
           "channelTitle": "村越淳太(府中)",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/sddefault.jpg",
               "width": 640,
               "height": 480
             }
           },
-          "viewCount": 562,
+          "viewCount": 566,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -490,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 2864
+          "viewCount": 2879
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -951,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 3095,
+          "viewCount": 3110,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -992,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 1283,
+          "viewCount": 1281,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
