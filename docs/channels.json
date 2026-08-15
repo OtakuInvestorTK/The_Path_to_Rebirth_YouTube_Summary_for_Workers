@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-15T09:18:58.765Z",
+  "requestedAt": "2026-08-15T10:15:15.617Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4065
+          "viewCount": 4152
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2962
+          "viewCount": 3011
         },
         {
           "videoId": "TXG8dwP398o",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 3464
+          "viewCount": 3480
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -419,7 +419,8 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "tlYYJ7UYSN8",
           "title": "【淳さんぽライブ】大國魂神社へ【終戦の日】",
@@ -448,16 +449,14 @@
               "height": 480
             }
           },
-          "viewCount": 39,
+          "viewCount": 112,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
             "actualStartTime": "2026-08-15T08:58:17Z",
-            "concurrentViewers": 28
+            "actualEndTime": "2026-08-15T09:58:48Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "wgiqnJT4Sfo",
           "title": "2026年8月10日(月)清水が丘3丁目雑草処理#府中市 #ボランティア",
@@ -952,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 1923,
+          "viewCount": 2160,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -993,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 1149,
+          "viewCount": 1205,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
