@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-15T03:32:27.319Z",
+  "requestedAt": "2026-08-15T04:22:11.691Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3491
+          "viewCount": 3604
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2578
+          "viewCount": 2658
         },
         {
           "videoId": "TXG8dwP398o",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 3287
+          "viewCount": 3320
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -454,7 +454,7 @@
               "height": 720
             }
           },
-          "viewCount": 2418
+          "viewCount": 2448
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -880,7 +880,8 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "Hb5GIe69vAo",
           "title": "ヨシヒコ・ライブSP with 福岡なつみさん",
@@ -914,16 +915,14 @@
               "height": 720
             }
           },
-          "viewCount": 383,
+          "viewCount": 656,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
             "actualStartTime": "2026-08-15T03:00:09Z",
-            "concurrentViewers": 222
+            "actualEndTime": "2026-08-15T04:02:17Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "D5-yWNfgss8",
           "title": "ヨシヒコ・ライブ＃４３",
@@ -957,7 +956,7 @@
               "height": 720
             }
           },
-          "viewCount": 1049,
+          "viewCount": 1099,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
@@ -998,7 +997,7 @@
               "height": 720
             }
           },
-          "viewCount": 1868,
+          "viewCount": 1869,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-12T12:00:00Z",
