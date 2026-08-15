@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-15T08:19:23.297Z",
+  "requestedAt": "2026-08-15T09:18:58.765Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3953
+          "viewCount": 4065
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2908
+          "viewCount": 2962
         },
         {
           "videoId": "TXG8dwP398o",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 3436
+          "viewCount": 3464
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 13322,
+          "viewCount": 13323,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -419,7 +419,44 @@
         }
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "tlYYJ7UYSN8",
+          "title": "【淳さんぽライブ】大國魂神社へ【終戦の日】",
+          "description": "2026年8月15日(土)終戦の日\n府中市の大國魂神社まで自転車でゴミ拾いしながらの雑談配信です",
+          "publishedAt": "2026-07-20T13:09:42Z",
+          "channelTitle": "村越淳太(府中)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "viewCount": 39,
+          "liveStreaming": {
+            "status": "live",
+            "scheduledStartTime": "2026-08-15T09:00:00Z",
+            "actualStartTime": "2026-08-15T08:58:17Z",
+            "concurrentViewers": 28
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "wgiqnJT4Sfo",
@@ -915,7 +952,7 @@
               "height": 720
             }
           },
-          "viewCount": 1665,
+          "viewCount": 1923,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -956,7 +993,7 @@
               "height": 720
             }
           },
-          "viewCount": 1146,
+          "viewCount": 1149,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
