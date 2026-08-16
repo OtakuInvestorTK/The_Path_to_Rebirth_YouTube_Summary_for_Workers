@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-16T11:13:53.696Z",
+  "requestedAt": "2026-08-16T12:25:10.623Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5206
+          "viewCount": 5244
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 3968
+          "viewCount": 4000
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 13440,
+          "viewCount": 13457,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -449,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 802,
+          "viewCount": 826,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -490,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 2963
+          "viewCount": 2965
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -951,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 3503,
+          "viewCount": 3548,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
