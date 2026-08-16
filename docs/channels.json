@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-16T13:25:14.002Z",
+  "requestedAt": "2026-08-16T14:15:18.972Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5282
+          "viewCount": 5299
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3572
+          "viewCount": 3571
         },
         {
           "videoId": "TXG8dwP398o",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 4033
+          "viewCount": 4050
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 13458,
+          "viewCount": 13462,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -449,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 829,
+          "viewCount": 839,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -951,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 3589,
+          "viewCount": 3612,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -992,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 1317,
+          "viewCount": 1330,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
@@ -1033,7 +1033,7 @@
               "height": 720
             }
           },
-          "viewCount": 1894,
+          "viewCount": 1896,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-12T12:00:00Z",
