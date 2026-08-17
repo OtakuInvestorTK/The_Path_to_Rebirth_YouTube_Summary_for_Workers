@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-17T14:20:15.526Z",
+  "requestedAt": "2026-08-17T15:18:44.686Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "4Hopm__zM-U",
           "title": "2026/08/17 再生ライブ #17 【新メンバー・増田・中川】",
@@ -56,16 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 2984,
+          "viewCount": 3728,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
             "actualStartTime": "2026-08-17T12:57:13Z",
-            "concurrentViewers": 607
+            "actualEndTime": "2026-08-17T14:38:31Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "sUkUzjkMk4U",
           "title": "新党員発表！(8/17月曜22時)",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 5753
+          "viewCount": 5806
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -134,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3683
+          "viewCount": 3701
         },
         {
           "videoId": "TXG8dwP398o",
@@ -169,48 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 4338
-        },
-        {
-          "videoId": "G2CAT6fwc1k",
-          "title": "2026/08/10 再生ライブ #16 【村越】",
-          "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-08-10T15:17:55Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/G2CAT6fwc1k/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 13549,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-10T13:00:00Z",
-            "actualStartTime": "2026-08-10T12:56:34Z",
-            "actualEndTime": "2026-08-10T14:14:39Z"
-          }
+          "viewCount": 4363
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -491,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 962,
+          "viewCount": 973,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -993,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 4032,
+          "viewCount": 4045,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -1034,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 1374,
+          "viewCount": 1379,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
@@ -1075,7 +1033,7 @@
               "height": 720
             }
           },
-          "viewCount": 1899,
+          "viewCount": 1901,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-12T12:00:00Z",
