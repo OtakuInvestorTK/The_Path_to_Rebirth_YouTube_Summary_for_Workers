@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-16T23:13:09.136Z",
+  "requestedAt": "2026-08-17T00:53:04.540Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 5475
+          "viewCount": 5511
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3611
+          "viewCount": 3619
         },
         {
           "videoId": "TXG8dwP398o",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 4163
+          "viewCount": 4183
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 13494,
+          "viewCount": 13496,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -449,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 898,
+          "viewCount": 904,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -490,7 +490,7 @@
               "height": 720
             }
           },
-          "viewCount": 2996
+          "viewCount": 2995
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -951,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 3768,
+          "viewCount": 3808,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -992,7 +992,7 @@
               "height": 720
             }
           },
-          "viewCount": 1347,
+          "viewCount": 1348,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
@@ -1033,7 +1033,7 @@
               "height": 720
             }
           },
-          "viewCount": 1899,
+          "viewCount": 1900,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-12T12:00:00Z",
