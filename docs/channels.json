@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-17T12:30:08.883Z",
+  "requestedAt": "2026-08-17T13:33:47.879Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -26,7 +26,7 @@
         {
           "videoId": "4Hopm__zM-U",
           "title": "2026/08/17 再生ライブ #17 【新メンバー・増田・中川】",
-          "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
+          "description": "SAISEI.CITY\nhttps://saisei.city/\n\n全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
           "publishedAt": "2026-08-17T05:18:32Z",
           "channelTitle": "再生の道",
           "thumbnails": {
@@ -56,10 +56,12 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 1988,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-08-17T13:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-08-17T13:00:00Z",
+            "actualStartTime": "2026-08-17T12:57:13Z",
+            "concurrentViewers": 929
           }
         }
       ],
@@ -97,7 +99,7 @@
               "height": 720
             }
           },
-          "viewCount": 5732
+          "viewCount": 5753
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -132,7 +134,7 @@
               "height": 720
             }
           },
-          "viewCount": 3661
+          "viewCount": 3677
         },
         {
           "videoId": "TXG8dwP398o",
@@ -167,7 +169,7 @@
               "height": 720
             }
           },
-          "viewCount": 4304
+          "viewCount": 4315
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -202,7 +204,7 @@
               "height": 720
             }
           },
-          "viewCount": 13523,
+          "viewCount": 13549,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-10T13:00:00Z",
@@ -530,7 +532,7 @@
               "height": 720
             }
           },
-          "viewCount": 3008
+          "viewCount": 3010
         }
       ],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
@@ -991,7 +993,7 @@
               "height": 720
             }
           },
-          "viewCount": 4017,
+          "viewCount": 4029,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
