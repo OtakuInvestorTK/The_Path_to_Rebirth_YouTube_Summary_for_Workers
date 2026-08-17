@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-17T04:33:51.672Z",
+  "requestedAt": "2026-08-17T05:28:49.644Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "4Hopm__zM-U",
+          "title": "2026/08/10 再生ライブ #17 【新メンバー・増田・中川】",
+          "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
+          "publishedAt": "2026-08-17T05:18:32Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4Hopm__zM-U/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4Hopm__zM-U/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4Hopm__zM-U/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4Hopm__zM-U/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4Hopm__zM-U/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-17T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "sUkUzjkMk4U",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 5571
+          "viewCount": 5590
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -127,7 +167,7 @@
               "height": 720
             }
           },
-          "viewCount": 4216
+          "viewCount": 4225
         },
         {
           "videoId": "G2CAT6fwc1k",
@@ -449,7 +489,7 @@
               "height": 480
             }
           },
-          "viewCount": 927,
+          "viewCount": 928,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -951,7 +991,7 @@
               "height": 720
             }
           },
-          "viewCount": 3858,
+          "viewCount": 3884,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -992,7 +1032,7 @@
               "height": 720
             }
           },
-          "viewCount": 1355,
+          "viewCount": 1364,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
@@ -1033,7 +1073,7 @@
               "height": 720
             }
           },
-          "viewCount": 1902,
+          "viewCount": 1901,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-12T12:00:00Z",
