@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-19T11:18:38.945Z",
+  "requestedAt": "2026-08-19T12:32:33.581Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14026,
+          "viewCount": 14140,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6148
+          "viewCount": 6153
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 4081
+          "viewCount": 4079
         },
         {
           "videoId": "TXG8dwP398o",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 4599
+          "viewCount": 4602
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -951,7 +951,7 @@
               "height": 720
             }
           },
-          "viewCount": 4312,
+          "viewCount": 4319,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -992,53 +992,12 @@
               "height": 720
             }
           },
-          "viewCount": 1403,
+          "viewCount": 1407,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
             "actualStartTime": "2026-08-14T12:02:36Z",
             "actualEndTime": "2026-08-14T13:03:28Z"
-          }
-        },
-        {
-          "videoId": "mFg4UTowyD0",
-          "title": "ノルウェイの市役所におけるDX",
-          "description": "ノルウェー在住のアーキビスト木村緒理恵氏と「再生の道」の小林学氏が、ノルウェーの行政DXにおけるアーカイブの役割について議論しました。\n\n主な論点は、情報公開と透明性が民主主義を支える仕組み、厳格な個人情報保護を前提とした公文書運用、AIによるマスキングやプロンプトの公文書化といった新たな課題。\n\n日本の議事録文化の弱さや意思決定プロセスの不透明さとの比較を通じて、DXによる記録負担の軽減と、創出されたリソースを福祉サービスへ再配分する戦略の重要性が示されました。",
-          "publishedAt": "2026-08-12T12:01:21Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/mFg4UTowyD0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1920,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-12T12:00:00Z",
-            "actualStartTime": "2026-08-12T12:01:21Z",
-            "actualEndTime": "2026-08-12T12:39:43Z"
           }
         }
       ],
