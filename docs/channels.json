@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-19T13:38:04.620Z",
+  "requestedAt": "2026-08-19T14:25:18.715Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14234,
+          "viewCount": 14334,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 6159
+          "viewCount": 6158
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 4087
+          "viewCount": 4080
         },
         {
           "videoId": "TXG8dwP398o",
@@ -449,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 987,
+          "viewCount": 988,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -916,7 +916,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "PtqE7vS3OrY",
+          "title": "ヨシヒコ・ライブ＃４４",
+          "description": "🟣今週のトピック\n・おすすめワイン：未定\n・杉並区長の動向\n・福岡なつみさんとヨシヒコ・ライブSP \n・意見交換会ー暮らしのイドバタ会議\n・善福寺川緑地の今と治水について\n・今週の活動報告：朝のご挨拶 at 高井戸、浜田山、富士見ヶ丘、西永福\n  ・新企画：『教えて、ぼくの知らない杉並』コーナー🎉\n\n＊杉並生まれ杉並育ちの増田ですが、まだまだ知らないところがたくさんあります。\nみなさんが増田に知ってほしい杉並を教えてください。コメント欄にお願いします。\n出かけていって、インタビューしたり、しらべて\n『教えて、ぼくの知らない杉並』コーナーでとりあげさせていただきます。\n\n🟣暮らしのイドバタ会議（タウンミーティング）\n第１日曜日15-16:30 \n第３水曜日 18:30-20:00\nhttps://forms.gle/dyZNHkuED6uW3TUz7\n \n🟣SMiLE 新プロジェクト　木もれびラボ\n第１回目は8/23(日）15-17:00 @ふらっとすぎはち　\nhttps://suginamismile.wixsite.com/smi...\n\n🟣増田よしひこ\n・杉並区生まれ\n・高井戸小学校・高井戸中学校・都立西高等校卒業\n・早稲田大学政治経済学部政治学科卒業\n・富士通グループ、SATOグループなどで米国社長、海担当役員など歴任。北米で20年以上勤務。\n・帰国後は、杉並区の未来をより良くしたいとの思いから、地域活動に取り組んでいる\n・ワインエキスパート\n・2026杉並区長選挙で、15,877票のご支援をいただき、\n　このご期待に応えられるよう、地域の活動を続けている\n・SMiLE(すぎなみの未来を創る会)発起人\n・著書：木陰のある街に、未来は集まる\n\nX ：https://x.com/tokyo_ymasuda\nHP : https://masuda-yoshihiko.com/\n\n🟣ご寄付のお願い\nこれからも地域の政治に密着して、よりよいコミュニティを目指して活動していきます。\nみなさんからのご支援が、発信の大きな手助けになります。\n選挙ドットコム：https://go2senkyo.com/seijika/195808\n\n🟣増田よしひこ後援会\n増田よしひこの活動を広め、共に杉並区を面白くしていく同士を募集しています。\nお気軽にご参加ください：https://forms.gle/bsqWx975TXQd11Lr9",
+          "publishedAt": "2026-08-19T14:01:38Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PtqE7vS3OrY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PtqE7vS3OrY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PtqE7vS3OrY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PtqE7vS3OrY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PtqE7vS3OrY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-20T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "Hb5GIe69vAo",
@@ -951,7 +991,7 @@
               "height": 720
             }
           },
-          "viewCount": 4334,
+          "viewCount": 4342,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -992,7 +1032,7 @@
               "height": 720
             }
           },
-          "viewCount": 1406,
+          "viewCount": 1407,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
