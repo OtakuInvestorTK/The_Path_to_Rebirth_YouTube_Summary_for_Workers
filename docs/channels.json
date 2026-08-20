@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-20T13:39:41.400Z",
+  "requestedAt": "2026-08-20T14:28:25.271Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 14934,
+          "viewCount": 14950,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 4137
+          "viewCount": 4141
         },
         {
           "videoId": "TXG8dwP398o",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 4704
+          "viewCount": 4709
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -449,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 1001,
+          "viewCount": 1002,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -756,7 +756,8 @@
         }
       },
       "channelId": "UCbnf2Gl6Pra9DPDeMBV2a3w",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "gPTwAw-V-t4",
           "title": "南貴大のずぼラジオ 2026/08/20 at 22:00",
@@ -780,16 +781,15 @@
               "height": 360
             }
           },
-          "viewCount": 36,
+          "viewCount": 61,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
             "actualStartTime": "2026-08-20T13:00:11Z",
-            "concurrentViewers": 33
+            "actualEndTime": "2026-08-20T13:53:11Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "南貴大,南たかひろ,みなみ貴大,みなみたかひろ"
     },
     {
@@ -948,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 630,
+          "viewCount": 762,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
@@ -989,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 4468,
+          "viewCount": 4475,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -1030,7 +1030,7 @@
               "height": 720
             }
           },
-          "viewCount": 1453,
+          "viewCount": 1450,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
