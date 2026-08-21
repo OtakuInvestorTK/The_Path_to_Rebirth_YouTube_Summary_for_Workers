@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-21T07:36:37.034Z",
+  "requestedAt": "2026-08-21T08:31:17.234Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 537
+          "viewCount": 624
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 15269,
+          "viewCount": 15281,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 6329
+          "viewCount": 6363
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 4173
+          "viewCount": 4177
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -449,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 1007,
+          "viewCount": 1008,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -781,7 +781,7 @@
               "height": 360
             }
           },
-          "viewCount": 505,
+          "viewCount": 524,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -948,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 1563,
+          "viewCount": 1589,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
@@ -989,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 4517,
+          "viewCount": 4519,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
