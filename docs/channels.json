@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-21T12:32:59.436Z",
+  "requestedAt": "2026-08-21T13:39:11.457Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 975
+          "viewCount": 1045
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -92,48 +92,13 @@
               "height": 720
             }
           },
-          "viewCount": 15415,
+          "viewCount": 15485,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
             "actualStartTime": "2026-08-17T12:57:13Z",
             "actualEndTime": "2026-08-17T14:38:31Z"
           }
-        },
-        {
-          "videoId": "sUkUzjkMk4U",
-          "title": "新党員発表！(8/17月曜22時)",
-          "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-08-14T13:00:37Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/sUkUzjkMk4U/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/sUkUzjkMk4U/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/sUkUzjkMk4U/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/sUkUzjkMk4U/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/sUkUzjkMk4U/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 6448
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -414,7 +379,7 @@
               "height": 480
             }
           },
-          "viewCount": 1010,
+          "viewCount": 1008,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -746,7 +711,7 @@
               "height": 360
             }
           },
-          "viewCount": 598,
+          "viewCount": 595,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -878,7 +843,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "ysg1FSX7a54",
+          "title": "魅力あるまちづくりとは〜大村敏さん（高円寺北１丁目町会会長）",
+          "description": "技研コンサル株式会社技術管理役であり、高円寺北一丁目町会会長である大村敏さんをお迎えし、魅力あるまちづくりについて詳しくお話いただきました。\n\n日本の都市開発は安全性・利便性といった機能性を過度に重視し、心を豊かにする「魅力」を失っていると指摘。\n\n特に、経済効率優先や地価高騰により個人商店が減り、チェーン店ばかりの「金太郎飴化」が進み、街の個性が失われている現状に懸念が示された。\n\nマズローの欲求5段階説を引用し、「魅力ある街」とは住民が「自己実現の欲求」を満たせる場であると定義。\n\nその実現には、行政任せにせず、町内会などを通じた住民同士の合意形成や、一人ひとりが街並みへの意識を高めることが不可欠であると結論付けた。",
+          "publishedAt": "2026-08-21T12:03:38Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-22T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "PtqE7vS3OrY",
@@ -913,7 +918,7 @@
               "height": 720
             }
           },
-          "viewCount": 1665,
+          "viewCount": 1677,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
@@ -995,7 +1000,7 @@
               "height": 720
             }
           },
-          "viewCount": 1480,
+          "viewCount": 1481,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
