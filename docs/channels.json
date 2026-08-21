@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-21T02:20:44.777Z",
+  "requestedAt": "2026-08-21T03:43:51.708Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -25,9 +25,44 @@
       "liveVideos": [],
       "recentVideos": [
         {
+          "videoId": "FJxW_BBU0OU",
+          "title": "新・党員 杉野さんが行ってきた議会改革とは！？",
+          "description": "全国講演会(尼崎、9/5土曜)申し込みフォーム\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
+          "publishedAt": "2026-08-21T03:00:28Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FJxW_BBU0OU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FJxW_BBU0OU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FJxW_BBU0OU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FJxW_BBU0OU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FJxW_BBU0OU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 120
+        },
+        {
           "videoId": "4Hopm__zM-U",
           "title": "2026/08/17 再生ライブ #17 【新メンバー・増田・中川】",
-          "description": "SAISEI.CITY\nhttps://saisei.city/\n\n全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr?s=21\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
+          "description": "全国講演会(尼崎、9/5土曜)申し込みフォーム\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
           "publishedAt": "2026-08-17T15:28:07Z",
           "channelTitle": "再生の道",
           "thumbnails": {
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 15107,
+          "viewCount": 15147,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -98,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 6313
+          "viewCount": 6324
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -133,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 4164
+          "viewCount": 4170
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -414,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 1007,
+          "viewCount": 1006,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -746,7 +781,7 @@
               "height": 360
             }
           },
-          "viewCount": 420,
+          "viewCount": 441,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -913,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 1462,
+          "viewCount": 1487,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
@@ -954,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 4505,
+          "viewCount": 4512,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -995,7 +1030,7 @@
               "height": 720
             }
           },
-          "viewCount": 1472,
+          "viewCount": 1475,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
