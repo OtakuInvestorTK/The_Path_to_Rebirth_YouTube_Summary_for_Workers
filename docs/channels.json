@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-21T08:31:17.234Z",
+  "requestedAt": "2026-08-21T09:29:06.268Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 624
+          "viewCount": 688
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 15281,
+          "viewCount": 15343,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 6363
+          "viewCount": 6392
         },
         {
           "videoId": "AGcNLxSYmWE",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 4177
+          "viewCount": 4180
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -781,7 +781,7 @@
               "height": 360
             }
           },
-          "viewCount": 524,
+          "viewCount": 537,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -948,7 +948,7 @@
               "height": 720
             }
           },
-          "viewCount": 1589,
+          "viewCount": 1601,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
@@ -989,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 4519,
+          "viewCount": 4525,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
@@ -1030,7 +1030,7 @@
               "height": 720
             }
           },
-          "viewCount": 1478,
+          "viewCount": 1477,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
