@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-21T00:55:43.432Z",
+  "requestedAt": "2026-08-21T02:20:44.777Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 15083,
+          "viewCount": 15107,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -133,42 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 4160
-        },
-        {
-          "videoId": "TXG8dwP398o",
-          "title": "全国講演会 尼崎 9/5(土)",
-          "description": "全国講演会（東海）申し込みフォーム(8月22日)\nhttps://forms.gle/cKuhLhXuNbYVo3dm7\n\n全国講演会（近畿）申し込みフォーム (9月5日）\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n献金（地方、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金（国政、選挙ドットコム）\nhttps://go2senkyo.com/politicalparty/detail/21\n\n\n#再生の道",
-          "publishedAt": "2026-08-14T01:24:33Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/TXG8dwP398o/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/TXG8dwP398o/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/TXG8dwP398o/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/TXG8dwP398o/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/TXG8dwP398o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4747
+          "viewCount": 4164
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -449,7 +414,7 @@
               "height": 480
             }
           },
-          "viewCount": 1006,
+          "viewCount": 1007,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -762,26 +727,26 @@
           "videoId": "gPTwAw-V-t4",
           "title": "南貴大のずぼラジオ 2026/08/20 at 22:00",
           "description": "予定\nスモールトーク\nこの世で信じてはいけない言葉\n言葉の入国審査\nお便りコーナー＆終了",
-          "publishedAt": "2026-08-03T14:43:47Z",
+          "publishedAt": "2026-08-21T01:58:00Z",
           "channelTitle": "南貴大のずぼらジオ",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/gPTwAw-V-t4/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/gPTwAw-V-t4/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/gPTwAw-V-t4/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/gPTwAw-V-t4/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/gPTwAw-V-t4/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/gPTwAw-V-t4/hqdefault.jpg",
               "width": 480,
               "height": 360
             }
           },
-          "viewCount": 374,
+          "viewCount": 420,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -948,7 +913,7 @@
               "height": 720
             }
           },
-          "viewCount": 1413,
+          "viewCount": 1462,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
@@ -1030,7 +995,7 @@
               "height": 720
             }
           },
-          "viewCount": 1470,
+          "viewCount": 1472,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-14T12:00:00Z",
