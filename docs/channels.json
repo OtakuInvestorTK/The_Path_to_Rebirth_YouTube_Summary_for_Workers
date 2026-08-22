@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-22T11:14:22.582Z",
+  "requestedAt": "2026-08-22T12:24:42.619Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1737
+          "viewCount": 1882
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2549
+          "viewCount": 2606
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 1915
+          "viewCount": 1941
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 15749,
+          "viewCount": 15760,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -781,7 +781,7 @@
               "height": 360
             }
           },
-          "viewCount": 713,
+          "viewCount": 734,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -918,7 +918,7 @@
           "videoId": "ysg1FSX7a54",
           "title": "魅力あるまちづくりとは〜大村敏さん（高円寺北１丁目町会会長）",
           "description": "技研コンサル株式会社技術管理役であり、高円寺北一丁目町会会長である大村敏さんをお迎えし、魅力あるまちづくりについて詳しくお話いただきました。\n\n日本の都市開発は安全性・利便性といった機能性を過度に重視し、心を豊かにする「魅力」を失っていると指摘。\n\n特に、経済効率優先や地価高騰により個人商店が減り、チェーン店ばかりの「金太郎飴化」が進み、街の個性が失われている現状に懸念が示された。\n\nマズローの欲求5段階説を引用し、「魅力ある街」とは住民が「自己実現の欲求」を満たせる場であると定義。\n\nその実現には、行政任せにせず、町内会などを通じた住民同士の合意形成や、一人ひとりが街並みへの意識を高めることが不可欠であると結論付けた。",
-          "publishedAt": "2026-08-21T12:03:38Z",
+          "publishedAt": "2026-08-22T12:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -947,10 +947,11 @@
               "height": 720
             }
           },
-          "viewCount": 1,
+          "viewCount": 82,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-08-22T12:00:00Z"
+            "status": "live",
+            "scheduledStartTime": "2026-08-22T12:00:00Z",
+            "actualStartTime": "2026-08-22T12:00:06Z"
           }
         }
       ],
@@ -988,7 +989,7 @@
               "height": 720
             }
           },
-          "viewCount": 1784,
+          "viewCount": 1792,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
