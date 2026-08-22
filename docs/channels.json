@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-22T04:25:41.576Z",
+  "requestedAt": "2026-08-22T05:20:05.539Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 291
+          "viewCount": 446
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 1917
+          "viewCount": 2057
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 1744
+          "viewCount": 1776
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 15612,
+          "viewCount": 15635,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -781,7 +781,7 @@
               "height": 360
             }
           },
-          "viewCount": 698,
+          "viewCount": 702,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -988,53 +988,12 @@
               "height": 720
             }
           },
-          "viewCount": 1760,
+          "viewCount": 1767,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
             "actualStartTime": "2026-08-20T12:00:27Z",
             "actualEndTime": "2026-08-20T13:04:03Z"
-          }
-        },
-        {
-          "videoId": "Hb5GIe69vAo",
-          "title": "ヨシヒコ・ライブSP with 福岡なつみさん",
-          "description": "記念すべきヨシヒコ・ライブSP 20回目は、再生の道（江戸川区）の姐御、福岡なつみさんをお迎えします。\nがんノートのこと、再生の道のこと、今後の活動、今の活動など\nいろいろお伺いしたいと思っています。\n\nみなさんから福岡さんにお聞きしたいことがあれば、コメント欄にお願いします。\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→坪田こうすけ→小林学→宮田たかお→横山はるき→中村幸信→山下こういち→加藤てつお→南 貴大→岩見なつよ→木島やすお→福岡なつみ\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
-          "publishedAt": "2026-08-15T04:47:03Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Hb5GIe69vAo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Hb5GIe69vAo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Hb5GIe69vAo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Hb5GIe69vAo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Hb5GIe69vAo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 4552,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-15T03:00:00Z",
-            "actualStartTime": "2026-08-15T03:00:09Z",
-            "actualEndTime": "2026-08-15T04:02:17Z"
           }
         }
       ],
