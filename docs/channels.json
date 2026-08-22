@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-22T21:14:39.311Z",
+  "requestedAt": "2026-08-22T22:14:23.173Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2321
+          "viewCount": 2322
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3006
+          "viewCount": 3027
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2052
+          "viewCount": 2063
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 15961,
+          "viewCount": 15964,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -420,44 +420,7 @@
       },
       "channelId": "UCvzgoFHp9PJI5BIB80SrRmQ",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "tlYYJ7UYSN8",
-          "title": "【淳さんぽライブ】大國魂神社へ【終戦の日】",
-          "description": "2026年8月15日(土)終戦の日\n府中市の大國魂神社まで自転車でゴミ拾いしながらの雑談配信です",
-          "publishedAt": "2026-08-15T22:04:01Z",
-          "channelTitle": "村越淳太(府中)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/tlYYJ7UYSN8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
-          },
-          "viewCount": 1018,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-15T09:00:00Z",
-            "actualStartTime": "2026-08-15T08:58:17Z",
-            "actualEndTime": "2026-08-15T09:58:48Z"
-          }
-        }
-      ],
+      "recentVideos": [],
       "name": "村越淳太,村越じゅんた,むらこし淳太,むらこしじゅんた"
     },
     {
@@ -948,7 +911,7 @@
               "height": 720
             }
           },
-          "viewCount": 655,
+          "viewCount": 691,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-22T12:00:00Z",
