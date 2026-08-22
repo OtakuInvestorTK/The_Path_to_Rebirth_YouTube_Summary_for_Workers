@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-22T13:25:40.155Z",
+  "requestedAt": "2026-08-22T14:14:19.387Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2026
+          "viewCount": 2086
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2702
+          "viewCount": 2751
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 1965
+          "viewCount": 1983
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 15760,
+          "viewCount": 15818,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -449,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 1014,
+          "viewCount": 1015,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -781,7 +781,7 @@
               "height": 360
             }
           },
-          "viewCount": 735,
+          "viewCount": 736,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -913,7 +913,8 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "ysg1FSX7a54",
           "title": "魅力あるまちづくりとは〜大村敏さん（高円寺北１丁目町会会長）",
@@ -947,15 +948,14 @@
               "height": 720
             }
           },
-          "viewCount": 217,
+          "viewCount": 263,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-08-22T12:00:00Z",
-            "actualStartTime": "2026-08-22T12:00:06Z"
+            "actualStartTime": "2026-08-22T12:00:06Z",
+            "actualEndTime": "2026-08-22T13:26:36Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "PtqE7vS3OrY",
           "title": "ヨシヒコ・ライブ#44",
