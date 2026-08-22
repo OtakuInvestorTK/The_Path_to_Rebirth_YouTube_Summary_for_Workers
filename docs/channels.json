@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-22T02:11:34.611Z",
+  "requestedAt": "2026-08-22T03:35:35.808Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "8tZRNIQu_dI",
+          "title": "全国講演会(北海道) 再生の道　山下こういち　指定管理者制度ってなんだろう？ ～大倉山スキージャンプ競技場の事例～",
+          "description": "全国講演会(北海道)の動画を公開いたします。\n \n再生の道 共同代表 山下こういち 指定管理者制度ってなんだろう？ ～大倉山スキージャンプ競技場の事例～\n\n※本動画の編集は、坂屋豊さんにご協力いただきました。ありがとうございました！\n\n全国講演会(尼崎、9/5土曜)申し込みフォーム\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
+          "publishedAt": "2026-08-22T03:04:29Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8tZRNIQu_dI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8tZRNIQu_dI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8tZRNIQu_dI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8tZRNIQu_dI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8tZRNIQu_dI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 116
+        },
         {
           "videoId": "43tXvgS_OkY",
           "title": "杉野さんは、なぜ再生の道へ？",
@@ -57,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 1467
+          "viewCount": 1789
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -92,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 1628
+          "viewCount": 1714
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -127,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 15561,
+          "viewCount": 15588,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -414,7 +449,7 @@
               "height": 480
             }
           },
-          "viewCount": 1011,
+          "viewCount": 1012,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T09:00:00Z",
@@ -746,7 +781,7 @@
               "height": 360
             }
           },
-          "viewCount": 683,
+          "viewCount": 696,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -994,7 +1029,7 @@
               "height": 720
             }
           },
-          "viewCount": 4546,
+          "viewCount": 4552,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-15T03:00:00Z",
