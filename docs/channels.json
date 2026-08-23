@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-23T02:21:45.820Z",
+  "requestedAt": "2026-08-23T03:43:28.442Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2407
+          "viewCount": 2432
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3143
+          "viewCount": 3169
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2083
+          "viewCount": 2102
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 15975,
+          "viewCount": 15992,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -245,7 +245,33 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "dxujp_fTORM",
+          "title": "東大前の「ラーメン用心棒」。行列のできる店です。",
+          "description": "とにかくこのボリューム。#用心棒 #ラーメン用心棒",
+          "publishedAt": "2026-08-23T03:42:20Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dxujp_fTORM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dxujp_fTORM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dxujp_fTORM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "viewCount": 0
+        }
+      ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -744,7 +770,7 @@
               "height": 360
             }
           },
-          "viewCount": 743,
+          "viewCount": 747,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -911,7 +937,7 @@
               "height": 720
             }
           },
-          "viewCount": 836,
+          "viewCount": 879,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-22T12:00:00Z",
@@ -952,7 +978,7 @@
               "height": 720
             }
           },
-          "viewCount": 1808,
+          "viewCount": 1809,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
