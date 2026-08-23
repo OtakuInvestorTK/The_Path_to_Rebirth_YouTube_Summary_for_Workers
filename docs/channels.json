@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-23T03:43:28.442Z",
+  "requestedAt": "2026-08-23T04:29:30.837Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2432
+          "viewCount": 2447
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3169
+          "viewCount": 3185
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2102
+          "viewCount": 2103
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -162,7 +162,7 @@
               "height": 720
             }
           },
-          "viewCount": 15992,
+          "viewCount": 15993,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -267,9 +267,19 @@
               "url": "https://i.ytimg.com/vi/dxujp_fTORM/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dxujp_fTORM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dxujp_fTORM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
-          "viewCount": 0
+          "viewCount": 26
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -770,7 +780,7 @@
               "height": 360
             }
           },
-          "viewCount": 747,
+          "viewCount": 748,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
@@ -937,7 +947,7 @@
               "height": 720
             }
           },
-          "viewCount": 879,
+          "viewCount": 917,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-22T12:00:00Z",
