@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-24T05:32:08.023Z",
+  "requestedAt": "2026-08-24T06:42:00.788Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,47 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "cMdH6M_SIlk",
+          "title": "2026/08/24 再生ライブ #18 【山下スペシャル】",
+          "description": "全国講演会(尼崎、9/5土曜)申し込みフォーム\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
+          "publishedAt": "2026-08-24T05:57:29Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cMdH6M_SIlk/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cMdH6M_SIlk/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cMdH6M_SIlk/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cMdH6M_SIlk/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cMdH6M_SIlk/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-24T13:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "8tZRNIQu_dI",
@@ -57,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 2737
+          "viewCount": 2739
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -92,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 3582
+          "viewCount": 3603
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -162,7 +202,7 @@
               "height": 720
             }
           },
-          "viewCount": 16186,
+          "viewCount": 16187,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-17T13:00:00Z",
@@ -279,7 +319,7 @@
               "height": 720
             }
           },
-          "viewCount": 313
+          "viewCount": 319
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -947,7 +987,7 @@
               "height": 720
             }
           },
-          "viewCount": 1181,
+          "viewCount": 1186,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-22T12:00:00Z",
