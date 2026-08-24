@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-24T13:56:11.048Z",
+  "requestedAt": "2026-08-24T14:34:29.811Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,7 +22,8 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "cMdH6M_SIlk",
           "title": "2026/08/24 再生ライブ #18 【山下スペシャル】",
@@ -56,16 +57,14 @@
               "height": 720
             }
           },
-          "viewCount": 1512,
+          "viewCount": 1851,
           "liveStreaming": {
-            "status": "live",
+            "status": "completed",
             "scheduledStartTime": "2026-08-24T13:00:00Z",
             "actualStartTime": "2026-08-24T12:55:55Z",
-            "concurrentViewers": 462
+            "actualEndTime": "2026-08-24T14:26:28Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "8tZRNIQu_dI",
           "title": "全国講演会(北海道) 再生の道　山下こういち　指定管理者制度ってなんだろう？ ～大倉山スキージャンプ競技場の事例～",
@@ -99,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 2781
+          "viewCount": 2788
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -134,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 3712
+          "viewCount": 3723
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -169,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 2357
+          "viewCount": 2358
         },
         {
           "videoId": "4Hopm__zM-U",
@@ -989,7 +988,7 @@
               "height": 720
             }
           },
-          "viewCount": 1216,
+          "viewCount": 1213,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-22T12:00:00Z",
@@ -1030,7 +1029,7 @@
               "height": 720
             }
           },
-          "viewCount": 1819,
+          "viewCount": 1820,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T12:00:00Z",
