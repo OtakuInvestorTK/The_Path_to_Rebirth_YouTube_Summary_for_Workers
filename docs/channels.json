@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-25T23:18:53.681Z",
+  "requestedAt": "2026-08-26T00:54:47.411Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1792
+          "viewCount": 1839
         },
         {
           "videoId": "cMdH6M_SIlk",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 8101,
+          "viewCount": 8169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-24T13:00:00Z",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 2476
+          "viewCount": 2484
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -314,7 +314,7 @@
               "height": 720
             }
           },
-          "viewCount": 378
+          "viewCount": 380
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -815,7 +815,7 @@
               "height": 360
             }
           },
-          "viewCount": 779,
+          "viewCount": 780,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-20T13:00:00Z",
