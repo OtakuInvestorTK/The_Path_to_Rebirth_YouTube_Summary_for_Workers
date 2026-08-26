@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-26T04:32:39.068Z",
+  "requestedAt": "2026-08-26T05:27:15.866Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1885
+          "viewCount": 1901
         },
         {
           "videoId": "cMdH6M_SIlk",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 8315,
+          "viewCount": 8371,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-24T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 2882
+          "viewCount": 2898
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 4068
+          "viewCount": 4079
         },
         {
           "videoId": "FJxW_BBU0OU",
@@ -203,7 +203,7 @@
               "height": 720
             }
           },
-          "viewCount": 2488
+          "viewCount": 2491
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -982,7 +982,7 @@
               "height": 720
             }
           },
-          "viewCount": 1286,
+          "viewCount": 1281,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-22T12:00:00Z",
