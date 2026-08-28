@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-28T08:29:52.759Z",
+  "requestedAt": "2026-08-28T20:35:09.078Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3570
+          "viewCount": 3698
         },
         {
           "videoId": "MhDqH1U178M",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2710
+          "viewCount": 2808
         },
         {
           "videoId": "cMdH6M_SIlk",
@@ -132,7 +132,7 @@
               "height": 1080
             }
           },
-          "viewCount": 9599,
+          "viewCount": 9771,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-24T13:00:00Z",
@@ -173,7 +173,7 @@
               "height": 720
             }
           },
-          "viewCount": 3056
+          "viewCount": 3123
         },
         {
           "videoId": "43tXvgS_OkY",
@@ -208,7 +208,7 @@
               "height": 720
             }
           },
-          "viewCount": 4262
+          "viewCount": 4283
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -319,7 +319,7 @@
               "height": 720
             }
           },
-          "viewCount": 533
+          "viewCount": 580
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -960,7 +960,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "U7Cz8s8SYR0",
+          "title": "ヨシヒコ・ライブSP with 弘田としやすさん",
+          "description": "ヨシヒコ・ライブSP 21回目は、再生の道（新宿区）のハンサム弘田としやすさんをお迎えします。\n\nみなさんから弘田さんにお聞きしたいことがあれば、コメント欄にお願いします。\n\n次は誰につながるかもお楽しみに！\n吉田あや→水野純也→金井きょうた→奥村こうき→村越淳太→尾花山和哉→青柳みつや→河添ひろし→はぎわら崇→坪田こうすけ→小林学→宮田たかお→横山はるき→中村幸信→山下こういち→加藤てつお→南 貴大→岩見なつよ→木島やすお→福岡なつみ→弘田としやす\n\n☆ご寄付のお願い☆\n大きな既存の流れに立ち向かう増田の挑戦には、資金が必要です。\nお金のかからない政治を目指していますが、チラシや広告、街宣車などがなければ\n多くの有権者に増田の声を届けられない。\n投票率をあげ、市民のみなさんに政治に興味を持っていただけるよう\nがんばっていきますので、どうぞ応援をよろしくお願いします。\n一緒に、政治の世界を変えていきましょう！\nhttps://go2senkyo.com/seijika/195808\n\n\n増田の活動は、こちらもご覧ください。\nhttps://masuda-yoshihiko.com/\nhttps://x.com/tokyo_ymasuda",
+          "publishedAt": "2026-08-28T10:41:11Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U7Cz8s8SYR0/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U7Cz8s8SYR0/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U7Cz8s8SYR0/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U7Cz8s8SYR0/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U7Cz8s8SYR0/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-29T03:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "rN6BmVSegbs",
@@ -995,7 +1035,7 @@
               "height": 720
             }
           },
-          "viewCount": 1018
+          "viewCount": 1639
         },
         {
           "videoId": "vbIz-wF5Xr4",
@@ -1030,7 +1070,7 @@
               "height": 720
             }
           },
-          "viewCount": 3156,
+          "viewCount": 3510,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-27T12:00:00Z",
@@ -1071,7 +1111,7 @@
               "height": 720
             }
           },
-          "viewCount": 1367,
+          "viewCount": 1396,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-22T12:00:00Z",
