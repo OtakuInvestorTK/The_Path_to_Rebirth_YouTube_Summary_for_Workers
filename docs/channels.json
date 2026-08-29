@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-29T09:53:54.321Z",
+  "requestedAt": "2026-08-29T14:52:57.659Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 3790
+          "viewCount": 3827
         },
         {
           "videoId": "MhDqH1U178M",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 2855
+          "viewCount": 2878
         },
         {
           "videoId": "cMdH6M_SIlk",
@@ -132,7 +132,7 @@
               "height": 1080
             }
           },
-          "viewCount": 9890,
+          "viewCount": 9932,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-24T13:00:00Z",
@@ -165,7 +165,90 @@
       },
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "Icrd2FrN7Sk",
+          "title": "石垣から沖縄・日本の政治を語ります",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-08-29T13:11:43Z",
+          "channelTitle": "奥村こうき | 再生の道 前代表",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 2155,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-08-29T12:00:00Z",
+            "actualStartTime": "2026-08-29T12:00:22Z",
+            "actualEndTime": "2026-08-29T13:02:22Z"
+          }
+        },
+        {
+          "videoId": "vNZZakme2Bk",
+          "title": "奥村こうき | 再生の道 前代表 がライブ配信中！",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-08-29T10:48:29Z",
+          "channelTitle": "奥村こうき | 再生の道 前代表",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vNZZakme2Bk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vNZZakme2Bk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vNZZakme2Bk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vNZZakme2Bk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vNZZakme2Bk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 2680,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-08-29T09:25:53Z",
+            "actualStartTime": "2026-08-29T10:16:47Z",
+            "actualEndTime": "2026-08-29T10:38:12Z"
+          }
+        }
+      ],
       "name": "奥村光貴,奥村こうき,おくむら光貴,おくむらこうき"
     },
     {
@@ -249,7 +332,7 @@
               "height": 720
             }
           },
-          "viewCount": 602
+          "viewCount": 624
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -925,7 +1008,7 @@
               "height": 720
             }
           },
-          "viewCount": 3528,
+          "viewCount": 4676,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T03:00:00Z",
@@ -966,7 +1049,7 @@
               "height": 720
             }
           },
-          "viewCount": 1944
+          "viewCount": 1975
         },
         {
           "videoId": "vbIz-wF5Xr4",
@@ -1001,53 +1084,12 @@
               "height": 720
             }
           },
-          "viewCount": 3616,
+          "viewCount": 3638,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-27T12:00:00Z",
             "actualStartTime": "2026-08-27T12:01:31Z",
             "actualEndTime": "2026-08-27T13:08:24Z"
-          }
-        },
-        {
-          "videoId": "ysg1FSX7a54",
-          "title": "魅力あるまちづくりとは〜大村敏さん（高円寺北１丁目町会会長）",
-          "description": "技研コンサル株式会社技術管理役であり、高円寺北一丁目町会会長である大村敏さんをお迎えし、魅力あるまちづくりについて詳しくお話いただきました。\n\n日本の都市開発は安全性・利便性といった機能性を過度に重視し、心を豊かにする「魅力」を失っていると指摘。\n\n特に、経済効率優先や地価高騰により個人商店が減り、チェーン店ばかりの「金太郎飴化」が進み、街の個性が失われている現状に懸念が示された。\n\nマズローの欲求5段階説を引用し、「魅力ある街」とは住民が「自己実現の欲求」を満たせる場であると定義。\n\nその実現には、行政任せにせず、町内会などを通じた住民同士の合意形成や、一人ひとりが街並みへの意識を高めることが不可欠であると結論付けた。",
-          "publishedAt": "2026-08-22T12:00:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ysg1FSX7a54/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 1435,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-22T12:00:00Z",
-            "actualStartTime": "2026-08-22T12:00:06Z",
-            "actualEndTime": "2026-08-22T13:26:36Z"
           }
         }
       ],
