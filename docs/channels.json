@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-30T03:00:32.630Z",
+  "requestedAt": "2026-08-30T09:38:48.268Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 671
+          "viewCount": 1728
         },
         {
           "videoId": "FGyH7TPBdls",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 3947
+          "viewCount": 4048
         },
         {
           "videoId": "MhDqH1U178M",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2936
+          "viewCount": 2969
         },
         {
           "videoId": "cMdH6M_SIlk",
@@ -167,7 +167,7 @@
               "height": 1080
             }
           },
-          "viewCount": 9995,
+          "viewCount": 10093,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-24T13:00:00Z",
@@ -234,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 5443,
+          "viewCount": 6241,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T12:00:00Z",
@@ -275,7 +275,7 @@
               "height": 720
             }
           },
-          "viewCount": 3708,
+          "viewCount": 4053,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T09:25:53Z",
@@ -333,43 +333,7 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [
-        {
-          "videoId": "dxujp_fTORM",
-          "title": "東大前の「ラーメン用心棒」。行列のできる店です。",
-          "description": "とにかくこのボリューム。#用心棒 #ラーメン用心棒",
-          "publishedAt": "2026-08-23T03:42:20Z",
-          "channelTitle": "木島康雄　弁護士",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/dxujp_fTORM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/dxujp_fTORM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/dxujp_fTORM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/dxujp_fTORM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/dxujp_fTORM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 640
-        }
-      ],
+      "recentVideos": [],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -1008,7 +972,47 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "MD5rvc8dLiE",
+          "title": "対話して見直して、どうなるの？杉並第一小学校移転。",
+          "description": "杉並区「阿佐ケ谷駅北東地区土地区画整理事業」のひとつとして、杉並第一小学校が、河北病院の跡地に移転することが田中前区長時代に決定された。\n対話と情報公開を謳って当選された岸本区長は、この事業計画に反対運動を繰り広げた杉並第一小学校の保護者たちの期待に応えられたのか？この4年間なにをしてくれたのか？なにが問題なのか？を解説します。\n\n＃杉並区\n＃杉並第一小学校",
+          "publishedAt": "2026-08-30T07:46:47Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-08-30T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
         {
           "videoId": "U7Cz8s8SYR0",
@@ -1043,7 +1047,7 @@
               "height": 720
             }
           },
-          "viewCount": 5306,
+          "viewCount": 5626,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T03:00:00Z",
@@ -1084,7 +1088,7 @@
               "height": 720
             }
           },
-          "viewCount": 2032
+          "viewCount": 2080
         },
         {
           "videoId": "vbIz-wF5Xr4",
@@ -1119,7 +1123,7 @@
               "height": 720
             }
           },
-          "viewCount": 3661,
+          "viewCount": 3675,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-27T12:00:00Z",
