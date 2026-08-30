@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-30T09:38:48.268Z",
+  "requestedAt": "2026-08-30T14:36:47.090Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 1728
+          "viewCount": 2356
         },
         {
           "videoId": "FGyH7TPBdls",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 4048
+          "viewCount": 4092
         },
         {
           "videoId": "MhDqH1U178M",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 2969
+          "viewCount": 2979
         },
         {
           "videoId": "cMdH6M_SIlk",
@@ -167,7 +167,7 @@
               "height": 1080
             }
           },
-          "viewCount": 10093,
+          "viewCount": 10148,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-24T13:00:00Z",
@@ -234,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 6241,
+          "viewCount": 6640,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T12:00:00Z",
@@ -275,7 +275,7 @@
               "height": 720
             }
           },
-          "viewCount": 4053,
+          "viewCount": 4292,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T09:25:53Z",
@@ -782,48 +782,50 @@
         }
       },
       "channelId": "UCkiyDVauJEJKFIuCkfisRyQ",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
-          "videoId": "HgDhG5TE5Bo",
+          "videoId": "TNdadBQnmvM",
           "title": "なおりん通信シーズン２　＃８",
-          "description": "ジャカルタから、都政について語りながらインドネシア情報を発信しています",
-          "publishedAt": "2026-08-27T13:58:24Z",
+          "description": "ジャカルタからインドネシア情報を発信しています。今日は、独立記念日について語ります。",
+          "publishedAt": "2026-08-30T11:05:36Z",
           "channelTitle": "浅井なおゆき",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/HgDhG5TE5Bo/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/default_live.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/HgDhG5TE5Bo/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/mqdefault_live.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/HgDhG5TE5Bo/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/hqdefault_live.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/HgDhG5TE5Bo/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/sddefault_live.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/HgDhG5TE5Bo/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/maxresdefault_live.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 437,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-08-30T11:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-08-30T11:05:36Z",
+            "actualStartTime": "2026-08-30T11:05:54Z",
+            "actualEndTime": "2026-08-30T11:42:05Z"
           }
         }
       ],
-      "recentVideos": [],
       "name": "浅井直之,浅井なおゆき,あさい直之,あさいなおゆき"
     },
     {
@@ -972,12 +974,13 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "MD5rvc8dLiE",
           "title": "対話して見直して、どうなるの？杉並第一小学校移転。",
           "description": "杉並区「阿佐ケ谷駅北東地区土地区画整理事業」のひとつとして、杉並第一小学校が、河北病院の跡地に移転することが田中前区長時代に決定された。\n対話と情報公開を謳って当選された岸本区長は、この事業計画に反対運動を繰り広げた杉並第一小学校の保護者たちの期待に応えられたのか？この4年間なにをしてくれたのか？なにが問題なのか？を解説します。\n\n＃杉並区\n＃杉並第一小学校",
-          "publishedAt": "2026-08-30T07:46:47Z",
+          "publishedAt": "2026-08-30T12:00:06Z",
           "channelTitle": "増田よしひこ- 杉並",
           "thumbnails": {
             "default": {
@@ -1006,14 +1009,14 @@
               "height": 720
             }
           },
-          "viewCount": 0,
+          "viewCount": 408,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-08-30T12:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-08-30T12:00:00Z",
+            "actualStartTime": "2026-08-30T12:00:06Z",
+            "actualEndTime": "2026-08-30T12:52:04Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "U7Cz8s8SYR0",
           "title": "ヨシヒコ・ライブSP with 弘田としやすさん",
@@ -1047,7 +1050,7 @@
               "height": 720
             }
           },
-          "viewCount": 5626,
+          "viewCount": 5819,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T03:00:00Z",
@@ -1088,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 2080
+          "viewCount": 2150
         },
         {
           "videoId": "vbIz-wF5Xr4",
@@ -1123,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 3675,
+          "viewCount": 3693,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-27T12:00:00Z",
