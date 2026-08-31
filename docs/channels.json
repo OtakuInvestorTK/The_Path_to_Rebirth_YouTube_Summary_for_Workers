@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-30T21:47:38.184Z",
+  "requestedAt": "2026-08-31T00:07:43.187Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2836
+          "viewCount": 2889
         },
         {
           "videoId": "FGyH7TPBdls",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 4142
+          "viewCount": 4143
         },
         {
           "videoId": "MhDqH1U178M",
@@ -127,7 +127,7 @@
               "height": 720
             }
           },
-          "viewCount": 3021
+          "viewCount": 3026
         },
         {
           "videoId": "cMdH6M_SIlk",
@@ -167,7 +167,7 @@
               "height": 1080
             }
           },
-          "viewCount": 10207,
+          "viewCount": 10213,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-24T13:00:00Z",
@@ -234,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 6813,
+          "viewCount": 6852,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T12:00:00Z",
@@ -275,7 +275,7 @@
               "height": 720
             }
           },
-          "viewCount": 4358,
+          "viewCount": 4371,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T09:25:53Z",
@@ -788,36 +788,36 @@
           "videoId": "TNdadBQnmvM",
           "title": "なおりん通信シーズン２　＃８",
           "description": "ジャカルタからインドネシア情報を発信しています。今日は、独立記念日について語ります。",
-          "publishedAt": "2026-08-30T11:05:36Z",
+          "publishedAt": "2026-08-30T23:46:41Z",
           "channelTitle": "浅井なおゆき",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/TNdadBQnmvM/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
           },
-          "viewCount": 737,
+          "viewCount": 792,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T11:05:36Z",
@@ -1009,7 +1009,7 @@
               "height": 720
             }
           },
-          "viewCount": 1601,
+          "viewCount": 1806,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T12:00:00Z",
@@ -1050,7 +1050,7 @@
               "height": 720
             }
           },
-          "viewCount": 5982,
+          "viewCount": 6015,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T03:00:00Z",
@@ -1091,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 2187
+          "viewCount": 2211
         },
         {
           "videoId": "vbIz-wF5Xr4",
@@ -1126,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 3710,
+          "viewCount": 3712,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-27T12:00:00Z",
