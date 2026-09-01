@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-08-31T20:34:00.576Z",
+  "requestedAt": "2026-09-01T00:17:46.615Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,6 +24,41 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "veI4AOgVYkA",
+          "title": "次々回の全国講演会は広島 9/27(日)",
+          "description": "公式チャンネルは再生の道の公式発信媒体です。チャット欄、コメント欄は議論の場ではありません。荒らしや誹謗中傷等については、通常の閲覧環境を維持するため非表示とします。\n\n全国講演会(尼崎、9/5土曜)申し込みフォーム\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
+          "publishedAt": "2026-08-31T22:00:34Z",
+          "channelTitle": "再生の道",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/veI4AOgVYkA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/veI4AOgVYkA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/veI4AOgVYkA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/veI4AOgVYkA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/veI4AOgVYkA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 556
+        },
         {
           "videoId": "OmBM7nQ3ZKY",
           "title": "2026/08/31 再生ライブ #19 【新推薦メンバー発表】",
@@ -62,7 +97,7 @@
               "height": 1080
             }
           },
-          "viewCount": 10701,
+          "viewCount": 12490,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-31T13:00:00Z",
@@ -103,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 3181
+          "viewCount": 3192
         },
         {
           "videoId": "FGyH7TPBdls",
@@ -138,42 +173,7 @@
               "height": 720
             }
           },
-          "viewCount": 4210
-        },
-        {
-          "videoId": "MhDqH1U178M",
-          "title": "次回の全国講演会は尼崎 9/5(土)",
-          "description": "全国講演会(尼崎、9/5土曜)申し込みフォーム\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
-          "publishedAt": "2026-08-24T22:00:15Z",
-          "channelTitle": "再生の道",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/MhDqH1U178M/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/MhDqH1U178M/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/MhDqH1U178M/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/MhDqH1U178M/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/MhDqH1U178M/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3094
+          "viewCount": 4213
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -234,7 +234,7 @@
               "height": 720
             }
           },
-          "viewCount": 7188,
+          "viewCount": 7201,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T12:00:00Z",
@@ -275,7 +275,7 @@
               "height": 720
             }
           },
-          "viewCount": 4585,
+          "viewCount": 4611,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T09:25:53Z",
@@ -817,7 +817,7 @@
               "height": 720
             }
           },
-          "viewCount": 1654,
+          "viewCount": 1657,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T11:05:36Z",
@@ -1009,7 +1009,7 @@
               "height": 720
             }
           },
-          "viewCount": 3063,
+          "viewCount": 3087,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T12:00:00Z",
@@ -1091,7 +1091,7 @@
               "height": 720
             }
           },
-          "viewCount": 2369
+          "viewCount": 2376
         },
         {
           "videoId": "vbIz-wF5Xr4",
@@ -1126,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 3754,
+          "viewCount": 3756,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-27T12:00:00Z",
