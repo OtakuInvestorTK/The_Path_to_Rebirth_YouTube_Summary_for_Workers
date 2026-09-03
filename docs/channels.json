@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-03T02:30:16.535Z",
+  "requestedAt": "2026-09-03T07:37:04.190Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 2668
+          "viewCount": 2737
         },
         {
           "videoId": "OmBM7nQ3ZKY",
@@ -97,7 +97,7 @@
               "height": 1080
             }
           },
-          "viewCount": 20482,
+          "viewCount": 21053,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-31T13:00:00Z",
@@ -138,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 3720
+          "viewCount": 3741
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -199,7 +199,7 @@
               "height": 720
             }
           },
-          "viewCount": 7600,
+          "viewCount": 7634,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T12:00:00Z",
@@ -240,7 +240,7 @@
               "height": 720
             }
           },
-          "viewCount": 4989,
+          "viewCount": 5006,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T09:25:53Z",
@@ -782,7 +782,7 @@
               "height": 720
             }
           },
-          "viewCount": 1797,
+          "viewCount": 1804,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T11:05:36Z",
@@ -939,8 +939,88 @@
         }
       },
       "channelId": "UCf82lQ2FSQFZNW2yhvcFt5Q",
-      "liveVideos": [],
+      "liveVideos": [
+        {
+          "videoId": "CR4amLTy3pM",
+          "title": "ヨシヒコ・ライブ＃４６",
+          "description": "🟣今週のトピック\n・おすすめワイン🍷未定\n・高円寺阿波踊り\n・今週の区長の動向\n・9月1日の定例記者会見についてのレビュー\n　◎8月の台風大雨について\n　◎令和8年度一般会計補正予算\n（避難所の環境整備、物価高騰に対する緊急経済対策、外部専門人材の登用。。。）\n　◎なみすけ誕生２０周年\n　◎不登校対策の新たな方針について\n・活動報告\n朝のご挨拶\n善福寺川緑地の様子\nヨシヒコ・ライブSP with 弘田さん\n杉並第一小学校移転問題について\nポスターフェス\n善福寺川問題に取り組む区民との対話 x2\n地中熱利用促進協会\n・お知らせ\n暮らしのイドバタ会議\n木もれびラボ講演会（東大白石先生による木陰と都市の暮らしについて）\n\n\n🟣暮らしのイドバタ会議（タウンミーティング）\n9/5 土曜日　18:30-20:00\n9/16水曜日 18:30-20:00\nhttps://forms.gle/dyZNHkuED6uW3TUz7\n \n🟣SMiLE 新プロジェクト　木もれびラボ\n第２回目は9/6(日）15-17:00 @ふらっとすぎはち　\nhttps://suginamismile.wixsite.com/smi...\n\n🟣増田よしひこ\n・杉並区生まれ\n・高井戸小学校・高井戸中学校・都立西高等校卒業\n・早稲田大学政治経済学部政治学科卒業\n・富士通グループ、SATOグループなどで米国社長、海担当役員など歴任。北米で20年以上勤務。\n・帰国後は、杉並区の未来をより良くしたいとの思いから、地域活動に取り組んでいる\n・ワインエキスパート\n・2026杉並区長選挙で、15,877票のご支援をいただき、\n　このご期待に応えられるよう、地域の活動を続けている\n・SMiLE(すぎなみの未来を創る会)発起人\n・著書：木陰のある街に、未来は集まる\n\nX ：https://x.com/tokyo_ymasuda\nHP : https://masuda-yoshihiko.com/\n\n🟣ご寄付のお願い\nこれからも地域の政治に密着して、よりよいコミュニティを目指して活動していきます。\nみなさんからのご支援が、発信の大きな手助けになります。\n選挙ドットコム：https://go2senkyo.com/seijika/195808\n\n🟣増田よしひこ後援会\n増田よしひこの活動を広め、共に杉並区を面白くしていく同士を募集しています。\nお気軽にご参加ください：https://forms.gle/bsqWx975TXQd11Lr9",
+          "publishedAt": "2026-09-03T03:51:45Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CR4amLTy3pM/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CR4amLTy3pM/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CR4amLTy3pM/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CR4amLTy3pM/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CR4amLTy3pM/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "qhd": {
+              "url": "https://i.ytimg.com/vi/CR4amLTy3pM/qhddefault_live.jpg",
+              "width": 2560,
+              "height": 1440
+            }
+          },
+          "viewCount": 0,
+          "liveStreaming": {
+            "status": "upcoming",
+            "scheduledStartTime": "2026-09-03T12:00:00Z"
+          }
+        }
+      ],
       "recentVideos": [
+        {
+          "videoId": "PhB7ht_sdQY",
+          "title": "善福寺川上流地下調節池レポート20260829",
+          "description": "善福寺川上流地下調節池の工事が始まりました。\n\nわたしのジョギングコースでもあり、近所の住民の憩いの場であり、野鳥や小動物、魚や虫たちの生息地である、この善福寺川緑地は、治水工事のために、17年間工事現場になります。\n\n「わたしが生きている間に、もう二度とこの公園でのんびり過ごすことはできないでしょうね」というある高齢者の方の言葉は、そのままわたしの言葉だとおもいました。\n\n17年間、いやきっともっとそれ以上続くこの工事。わたしたちの公園を毎週撮り続けてレポートします。\n\n住民ひとりひとりが自分ごととして感じられるようになった時、私たちが手にいれるもの、失うものをはっきりと認識できるのではないかと思っています。\n\n感想やご意見など、ぜひお寄せください。",
+          "publishedAt": "2026-09-03T05:10:35Z",
+          "channelTitle": "増田よしひこ- 杉並",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PhB7ht_sdQY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PhB7ht_sdQY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PhB7ht_sdQY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PhB7ht_sdQY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PhB7ht_sdQY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 63
+        },
         {
           "videoId": "MD5rvc8dLiE",
           "title": "対話して見直して、どうなるの？杉並第一小学校移転。",
@@ -974,7 +1054,7 @@
               "height": 720
             }
           },
-          "viewCount": 3469,
+          "viewCount": 3492,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T12:00:00Z",
@@ -1015,7 +1095,7 @@
               "height": 720
             }
           },
-          "viewCount": 6662,
+          "viewCount": 6684,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T03:00:00Z",
@@ -1091,7 +1171,7 @@
               "height": 720
             }
           },
-          "viewCount": 3878,
+          "viewCount": 3882,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-27T12:00:00Z",
