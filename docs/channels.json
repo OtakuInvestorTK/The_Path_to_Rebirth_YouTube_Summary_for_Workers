@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-04T10:20:36.912Z",
+  "requestedAt": "2026-09-04T14:41:04.275Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 4861,
+          "viewCount": 5205,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T13:00:00Z",
@@ -98,7 +98,7 @@
               "height": 720
             }
           },
-          "viewCount": 1085
+          "viewCount": 1293
         },
         {
           "videoId": "veI4AOgVYkA",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 2985
+          "viewCount": 3020
         },
         {
           "videoId": "OmBM7nQ3ZKY",
@@ -173,7 +173,7 @@
               "height": 1080
             }
           },
-          "viewCount": 22608,
+          "viewCount": 22762,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-31T13:00:00Z",
@@ -214,7 +214,7 @@
               "height": 720
             }
           },
-          "viewCount": 3874
+          "viewCount": 3878
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -275,7 +275,7 @@
               "height": 720
             }
           },
-          "viewCount": 7689,
+          "viewCount": 7698,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T12:00:00Z",
@@ -316,7 +316,7 @@
               "height": 720
             }
           },
-          "viewCount": 5098,
+          "viewCount": 5104,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T09:25:53Z",
@@ -374,7 +374,43 @@
       },
       "channelId": "UCLCxWTaGaGfR_K6_d5tfBKg",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "VnhfDgjCrnA",
+          "title": "すすきのでジンギスカン",
+          "description": "　札幌入り。明日、明後日の「水曜どうでしょう祭UNITE2026」模擬裁判　大泉洋対HTB　に備えて鋭気を養っています。#大泉洋　#水曜どうでしょう祭　#水曜どうでしょう",
+          "publishedAt": "2026-09-04T10:52:05Z",
+          "channelTitle": "木島康雄　弁護士",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VnhfDgjCrnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VnhfDgjCrnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VnhfDgjCrnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VnhfDgjCrnA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VnhfDgjCrnA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 116
+        }
+      ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
     },
     {
@@ -858,7 +894,7 @@
               "height": 720
             }
           },
-          "viewCount": 1832,
+          "viewCount": 1838,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T11:05:36Z",
@@ -1055,7 +1091,7 @@
               "height": 1440
             }
           },
-          "viewCount": 2064,
+          "viewCount": 2226,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T12:00:00Z",
@@ -1096,7 +1132,7 @@
               "height": 720
             }
           },
-          "viewCount": 465
+          "viewCount": 474
         },
         {
           "videoId": "MD5rvc8dLiE",
@@ -1131,7 +1167,7 @@
               "height": 720
             }
           },
-          "viewCount": 3564,
+          "viewCount": 3573,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T12:00:00Z",
@@ -1172,7 +1208,7 @@
               "height": 720
             }
           },
-          "viewCount": 6788,
+          "viewCount": 6797,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T03:00:00Z",
