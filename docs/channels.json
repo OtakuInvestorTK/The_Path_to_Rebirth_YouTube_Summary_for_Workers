@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-05T13:10:31.410Z",
+  "requestedAt": "2026-09-05T16:27:29.696Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 263
+          "viewCount": 2743
         },
         {
           "videoId": "AikdqTNwof0",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6068,
+          "viewCount": 6140,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 1812
+          "viewCount": 1885
         },
         {
           "videoId": "veI4AOgVYkA",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 3168
+          "viewCount": 3190
         },
         {
           "videoId": "OmBM7nQ3ZKY",
@@ -208,7 +208,7 @@
               "height": 1080
             }
           },
-          "viewCount": 23252,
+          "viewCount": 23372,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-31T13:00:00Z",
@@ -249,7 +249,7 @@
               "height": 720
             }
           },
-          "viewCount": 3932
+          "viewCount": 3944
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -310,53 +310,12 @@
               "height": 720
             }
           },
-          "viewCount": 3746,
+          "viewCount": 4560,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T10:58:30Z",
             "actualStartTime": "2026-09-05T06:53:02Z",
             "actualEndTime": "2026-09-05T07:29:15Z"
-          }
-        },
-        {
-          "videoId": "Icrd2FrN7Sk",
-          "title": "石垣から沖縄・日本の政治を語ります",
-          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
-          "publishedAt": "2026-08-29T13:11:43Z",
-          "channelTitle": "奥村こうき | 再生の道 前代表",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Icrd2FrN7Sk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 7784,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-29T12:00:00Z",
-            "actualStartTime": "2026-08-29T12:00:22Z",
-            "actualEndTime": "2026-08-29T13:02:22Z"
           }
         }
       ],
@@ -443,7 +402,7 @@
               "height": 720
             }
           },
-          "viewCount": 801
+          "viewCount": 897
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -929,7 +888,7 @@
               "height": 720
             }
           },
-          "viewCount": 1863,
+          "viewCount": 1870,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T11:05:36Z",
@@ -1167,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 560
+          "viewCount": 572
         },
         {
           "videoId": "MD5rvc8dLiE",
@@ -1202,7 +1161,7 @@
               "height": 720
             }
           },
-          "viewCount": 3660,
+          "viewCount": 3690,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T12:00:00Z",
