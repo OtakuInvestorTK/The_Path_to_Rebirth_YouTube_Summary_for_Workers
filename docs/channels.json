@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-06T10:04:20.643Z",
+  "requestedAt": "2026-09-06T13:52:36.343Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 7779
+          "viewCount": 8371
         },
         {
           "videoId": "AikdqTNwof0",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6315,
+          "viewCount": 6366,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 2017
+          "viewCount": 2062
         },
         {
           "videoId": "veI4AOgVYkA",
@@ -168,7 +168,7 @@
               "height": 720
             }
           },
-          "viewCount": 3285
+          "viewCount": 3292
         },
         {
           "videoId": "OmBM7nQ3ZKY",
@@ -208,7 +208,7 @@
               "height": 1080
             }
           },
-          "viewCount": 23699,
+          "viewCount": 23774,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-31T13:00:00Z",
@@ -275,7 +275,7 @@
               "height": 720
             }
           },
-          "viewCount": 5534,
+          "viewCount": 5625,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T10:58:30Z",
@@ -367,7 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 1069
+          "viewCount": 1154
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -653,7 +653,7 @@
               "height": 720
             }
           },
-          "viewCount": 3680
+          "viewCount": 4651
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -889,7 +889,7 @@
               "height": 720
             }
           },
-          "viewCount": 1895,
+          "viewCount": 1897,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-30T11:05:36Z",
@@ -1086,7 +1086,7 @@
               "height": 1440
             }
           },
-          "viewCount": 2823,
+          "viewCount": 2837,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T12:00:00Z",
@@ -1127,48 +1127,7 @@
               "height": 720
             }
           },
-          "viewCount": 624
-        },
-        {
-          "videoId": "MD5rvc8dLiE",
-          "title": "対話して見直して、どうなるの？杉並第一小学校移転。",
-          "description": "杉並区「阿佐ケ谷駅北東地区土地区画整理事業」のひとつとして、杉並第一小学校が、河北病院の跡地に移転することが田中前区長時代に決定された。\n対話と情報公開を謳って当選された岸本区長は、この事業計画に反対運動を繰り広げた杉並第一小学校の保護者たちの期待に応えられたのか？この4年間なにをしてくれたのか？なにが問題なのか？を解説します。\n\n＃杉並区\n＃杉並第一小学校",
-          "publishedAt": "2026-08-30T12:00:06Z",
-          "channelTitle": "増田よしひこ- 杉並",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/MD5rvc8dLiE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "viewCount": 3768,
-          "liveStreaming": {
-            "status": "completed",
-            "scheduledStartTime": "2026-08-30T12:00:00Z",
-            "actualStartTime": "2026-08-30T12:00:06Z",
-            "actualEndTime": "2026-08-30T12:52:04Z"
-          }
+          "viewCount": 638
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
