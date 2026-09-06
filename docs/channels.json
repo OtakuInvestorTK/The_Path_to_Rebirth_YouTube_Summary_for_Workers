@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-06T16:38:24.885Z",
+  "requestedAt": "2026-09-06T18:47:19.323Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -57,7 +57,7 @@
               "height": 720
             }
           },
-          "viewCount": 8668
+          "viewCount": 8671
         },
         {
           "videoId": "AikdqTNwof0",
@@ -92,7 +92,7 @@
               "height": 720
             }
           },
-          "viewCount": 6371,
+          "viewCount": 6391,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T13:00:00Z",
@@ -133,7 +133,7 @@
               "height": 720
             }
           },
-          "viewCount": 2071
+          "viewCount": 2098
         },
         {
           "videoId": "veI4AOgVYkA",
@@ -208,7 +208,7 @@
               "height": 1080
             }
           },
-          "viewCount": 23818,
+          "viewCount": 23872,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-31T13:00:00Z",
@@ -275,7 +275,7 @@
               "height": 720
             }
           },
-          "viewCount": 5684,
+          "viewCount": 5693,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T10:58:30Z",
@@ -367,7 +367,7 @@
               "height": 720
             }
           },
-          "viewCount": 1167
+          "viewCount": 1182
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -653,7 +653,7 @@
               "height": 720
             }
           },
-          "viewCount": 4933
+          "viewCount": 4992
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1127,7 +1127,7 @@
               "height": 720
             }
           },
-          "viewCount": 641
+          "viewCount": 647
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
