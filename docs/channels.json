@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-07T17:01:48.099Z",
+  "requestedAt": "2026-09-07T20:59:17.134Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -97,7 +97,7 @@
               "height": 720
             }
           },
-          "viewCount": 9855
+          "viewCount": 9946
         },
         {
           "videoId": "AikdqTNwof0",
@@ -132,7 +132,7 @@
               "height": 720
             }
           },
-          "viewCount": 6538,
+          "viewCount": 6552,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T13:00:00Z",
@@ -173,7 +173,7 @@
               "height": 720
             }
           },
-          "viewCount": 2217
+          "viewCount": 2242
         },
         {
           "videoId": "veI4AOgVYkA",
@@ -208,7 +208,7 @@
               "height": 720
             }
           },
-          "viewCount": 3415
+          "viewCount": 3425
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -269,7 +269,7 @@
               "height": 720
             }
           },
-          "viewCount": 5964,
+          "viewCount": 6048,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T10:58:30Z",
@@ -361,7 +361,7 @@
               "height": 720
             }
           },
-          "viewCount": 1249
+          "viewCount": 1265
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -647,7 +647,7 @@
               "height": 720
             }
           },
-          "viewCount": 5804
+          "viewCount": 5871
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1038,7 +1038,7 @@
               "height": 1440
             }
           },
-          "viewCount": 2913,
+          "viewCount": 2948,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T12:00:00Z",
@@ -1079,7 +1079,7 @@
               "height": 720
             }
           },
-          "viewCount": 797
+          "viewCount": 803
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
