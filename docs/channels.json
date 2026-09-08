@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-08T07:40:55.340Z",
+  "requestedAt": "2026-09-08T12:30:07.434Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -102,7 +102,7 @@
               "height": 720
             }
           },
-          "viewCount": 10207
+          "viewCount": 10320
         },
         {
           "videoId": "AikdqTNwof0",
@@ -137,7 +137,7 @@
               "height": 720
             }
           },
-          "viewCount": 6594,
+          "viewCount": 6640,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T13:00:00Z",
@@ -178,7 +178,7 @@
               "height": 720
             }
           },
-          "viewCount": 2257
+          "viewCount": 2279
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -206,6 +206,47 @@
       "channelId": "UCC-cfPti7P_et5IhfQE3q_w",
       "liveVideos": [],
       "recentVideos": [
+        {
+          "videoId": "pAgvfeV3mBA",
+          "title": "奥村こうき | 再生の道 前代表 がライブ配信中！",
+          "description": "=====\n活動は皆さんの寄付で成り立っています。\nいつも本当にありがとうございます。\n献金を何卒よろしくお願いいたします。\n\n🔽選挙ドットコムページ\nhttps://go2senkyo.com/seijika/195810",
+          "publishedAt": "2026-09-08T10:47:09Z",
+          "channelTitle": "奥村こうき | 再生の道 前代表",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pAgvfeV3mBA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pAgvfeV3mBA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pAgvfeV3mBA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pAgvfeV3mBA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pAgvfeV3mBA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 1427,
+          "liveStreaming": {
+            "status": "completed",
+            "scheduledStartTime": "2026-09-08T10:12:30Z",
+            "actualStartTime": "2026-09-08T10:13:32Z",
+            "actualEndTime": "2026-09-08T10:34:21Z"
+          }
+        },
         {
           "videoId": "2TW4rINhSao",
           "title": "奥村こうき | 再生の道 前代表 がライブ配信中！",
@@ -239,7 +280,7 @@
               "height": 720
             }
           },
-          "viewCount": 6169,
+          "viewCount": 6263,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T10:58:30Z",
@@ -331,7 +372,7 @@
               "height": 720
             }
           },
-          "viewCount": 1290
+          "viewCount": 1300
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -467,7 +508,7 @@
               "height": 720
             }
           },
-          "viewCount": 339
+          "viewCount": 2273
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -653,7 +694,7 @@
               "height": 720
             }
           },
-          "viewCount": 5953
+          "viewCount": 5958
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1044,7 +1085,7 @@
               "height": 1440
             }
           },
-          "viewCount": 2968,
+          "viewCount": 2992,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T12:00:00Z",
@@ -1085,7 +1126,7 @@
               "height": 720
             }
           },
-          "viewCount": 807
+          "viewCount": 815
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
