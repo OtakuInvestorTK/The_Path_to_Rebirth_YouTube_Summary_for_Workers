@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-08T02:32:57.877Z",
+  "requestedAt": "2026-09-08T07:40:55.340Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -24,42 +24,47 @@
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
       "liveVideos": [
         {
-          "videoId": "UJEhev-DGbc",
-          "title": "本日の再生ライブは明日火曜22時に延期です。",
-          "description": "公式チャンネルは再生の道の公式発信媒体です。チャット欄、コメント欄は議論の場ではありません。荒らしや誹謗中傷等については、通常の閲覧環境を維持するため非表示とします。\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
-          "publishedAt": "2026-09-07T09:48:41Z",
+          "videoId": "KKnXd7XHqgM",
+          "title": "2026/09/08 再生ライブ #20 【沖縄】",
+          "description": "公式チャンネルは再生の道の公式発信媒体です。\nチャット欄、コメント欄は議論の場ではありません。\n荒らしや誹謗中傷等については、通常の閲覧環境を維持するため非表示とします。\n\n全国講演会(尼崎、9/5土曜)申し込みフォーム\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
+          "publishedAt": "2026-09-08T02:47:13Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/UJEhev-DGbc/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/default_live.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/UJEhev-DGbc/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/mqdefault_live.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/UJEhev-DGbc/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/hqdefault_live.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/UJEhev-DGbc/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/sddefault_live.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/UJEhev-DGbc/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/maxresdefault_live.jpg",
               "width": 1280,
               "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/fhddefault_live.jpg",
+              "width": 1920,
+              "height": 1080
             }
           },
           "viewCount": 0,
           "liveStreaming": {
             "status": "upcoming",
-            "scheduledStartTime": "2026-09-07T09:50:00Z"
+            "scheduledStartTime": "2026-09-08T13:00:00Z"
           }
         }
       ],
@@ -97,7 +102,7 @@
               "height": 720
             }
           },
-          "viewCount": 10031
+          "viewCount": 10207
         },
         {
           "videoId": "AikdqTNwof0",
@@ -132,7 +137,7 @@
               "height": 720
             }
           },
-          "viewCount": 6571,
+          "viewCount": 6594,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T13:00:00Z",
@@ -173,7 +178,7 @@
               "height": 720
             }
           },
-          "viewCount": 2254
+          "viewCount": 2257
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -234,7 +239,7 @@
               "height": 720
             }
           },
-          "viewCount": 6104,
+          "viewCount": 6169,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T10:58:30Z",
@@ -326,7 +331,7 @@
               "height": 720
             }
           },
-          "viewCount": 1280
+          "viewCount": 1290
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -428,7 +433,43 @@
       },
       "channelId": "UC0YXC_cxN_THY7fm5O1rb9w",
       "liveVideos": [],
-      "recentVideos": [],
+      "recentVideos": [
+        {
+          "videoId": "eEdV7AkZYAI",
+          "title": "沖縄県中城村議会議員選挙&沖縄県知事選挙応援！",
+          "description": "",
+          "publishedAt": "2026-09-08T06:07:19Z",
+          "channelTitle": "やる気・元気・はるきチャンネル",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eEdV7AkZYAI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eEdV7AkZYAI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eEdV7AkZYAI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eEdV7AkZYAI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eEdV7AkZYAI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "viewCount": 339
+        }
+      ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
     },
     {
@@ -612,7 +653,7 @@
               "height": 720
             }
           },
-          "viewCount": 5904
+          "viewCount": 5953
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1003,7 +1044,7 @@
               "height": 1440
             }
           },
-          "viewCount": 2960,
+          "viewCount": 2968,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T12:00:00Z",
@@ -1044,7 +1085,7 @@
               "height": 720
             }
           },
-          "viewCount": 805
+          "viewCount": 807
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
