@@ -1,5 +1,5 @@
 {
-  "requestedAt": "2026-09-08T12:30:07.434Z",
+  "requestedAt": "2026-09-08T16:58:50.889Z",
   "channels": [
     {
       "input": "UC9ykbjiUeYAgiuC9uiCmGJg",
@@ -22,53 +22,54 @@
         }
       },
       "channelId": "UC9ykbjiUeYAgiuC9uiCmGJg",
-      "liveVideos": [
+      "liveVideos": [],
+      "recentVideos": [
         {
           "videoId": "KKnXd7XHqgM",
           "title": "2026/09/08 再生ライブ #20 【沖縄】",
           "description": "公式チャンネルは再生の道の公式発信媒体です。\nチャット欄、コメント欄は議論の場ではありません。\n荒らしや誹謗中傷等については、通常の閲覧環境を維持するため非表示とします。\n\n全国講演会(尼崎、9/5土曜)申し込みフォーム\nhttps://forms.gle/ScU2i1YfRYWUWP7q9\n\n全国講演会(広島、9/27日曜)申し込みフォーム\nhttps://forms.gle/mcKLk3LVkFshvMBh6\n\nサポーター募集中！\nhttps://saiseinomichi-official.jp/supporter/\n\n再生の道 公式X\nhttps://x.com/saisei_pr\n\n再生の道 公式ホームページ\nhttps://saiseinomichi-official.jp/\n\nSAISEI.CITY\nhttps://saisei.city/\n\n献金(地方、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/19\n\n献金(国政、選挙ドットコム)\nhttps://go2senkyo.com/politicalparty/detail/21",
-          "publishedAt": "2026-09-08T02:47:13Z",
+          "publishedAt": "2026-09-08T14:17:32Z",
           "channelTitle": "再生の道",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/default_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/mqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/hqdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/sddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/maxresdefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             },
             "fhd": {
-              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/fhddefault_live.jpg",
+              "url": "https://i.ytimg.com/vi/KKnXd7XHqgM/fhddefault.jpg",
               "width": 1920,
               "height": 1080
             }
           },
-          "viewCount": 0,
+          "viewCount": 6538,
           "liveStreaming": {
-            "status": "upcoming",
-            "scheduledStartTime": "2026-09-08T13:00:00Z"
+            "status": "completed",
+            "scheduledStartTime": "2026-09-08T13:00:00Z",
+            "actualStartTime": "2026-09-08T12:57:11Z",
+            "actualEndTime": "2026-09-08T13:59:58Z"
           }
-        }
-      ],
-      "recentVideos": [
+        },
         {
           "videoId": "P4TBEH3WGwM",
           "title": "全国講演会（東北）再生の道 奥村こうき　お金から「おすそ分け」へ（信用経済から価値交換経済へ）",
@@ -102,7 +103,7 @@
               "height": 720
             }
           },
-          "viewCount": 10320
+          "viewCount": 10512
         },
         {
           "videoId": "AikdqTNwof0",
@@ -137,7 +138,7 @@
               "height": 720
             }
           },
-          "viewCount": 6640,
+          "viewCount": 6669,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T13:00:00Z",
@@ -178,7 +179,7 @@
               "height": 720
             }
           },
-          "viewCount": 2279
+          "viewCount": 2287
         }
       ],
       "name": "再生の道,さいせいのみち"
@@ -239,7 +240,7 @@
               "height": 720
             }
           },
-          "viewCount": 1427,
+          "viewCount": 5450,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-08T10:12:30Z",
@@ -280,7 +281,7 @@
               "height": 720
             }
           },
-          "viewCount": 6263,
+          "viewCount": 6298,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-08-29T10:58:30Z",
@@ -372,7 +373,7 @@
               "height": 720
             }
           },
-          "viewCount": 1300
+          "viewCount": 1301
         }
       ],
       "name": "木島康雄,木島やすお,きじま康雄,きじまやすお"
@@ -508,7 +509,7 @@
               "height": 720
             }
           },
-          "viewCount": 2273
+          "viewCount": 4489
         }
       ],
       "name": "宜保晴毅,宜保はるき,ぎぼ晴毅,ぎぼはるき"
@@ -694,7 +695,7 @@
               "height": 720
             }
           },
-          "viewCount": 5958
+          "viewCount": 5993
         }
       ],
       "name": "山下興一,山下こういち,やました興一,やましたこういち"
@@ -1085,7 +1086,7 @@
               "height": 1440
             }
           },
-          "viewCount": 2992,
+          "viewCount": 3000,
           "liveStreaming": {
             "status": "completed",
             "scheduledStartTime": "2026-09-03T12:00:00Z",
@@ -1126,7 +1127,7 @@
               "height": 720
             }
           },
-          "viewCount": 815
+          "viewCount": 820
         }
       ],
       "name": "増田義彦,増田よしひこ,ますだ義彦,ますだよしひこ"
